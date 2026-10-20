@@ -1,19 +1,22 @@
 <!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Jill and the Beanstalk</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;800&family=Nunito:wght@400;600&display=swap">
 <style>
-/* Layout: one column of big link cards, newest-first status line on top. */
-:root{--bg:#f6f8f4;--card:#fff;--ink:#1d2a22;--muted:#5d6b62;--line:#dbe3dc;--leaf:#2f7a4a}
-@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#121814;--card:#1a221d;--ink:#e4ece6;--muted:#9aa89f;--line:#2c3830;--leaf:#7fd19b;color-scheme:dark}}
-:root[data-theme="dark"]{--bg:#121814;--card:#1a221d;--ink:#e4ece6;--muted:#9aa89f;--line:#2c3830;--leaf:#7fd19b;color-scheme:dark}
-body{background:var(--bg);color:var(--ink);font:16px/1.5 -apple-system,system-ui,sans-serif;margin:0}
-.wrap{max-width:720px;margin:0 auto;padding-inline:16px;padding-block:32px 48px}
-h1{font-size:28px;margin:0 0 6px}
+:root{--bg:#fff8ec;--ink:#2b2340;--muted:#6b6280;color-scheme:light}
+body{background:var(--bg);color:var(--ink);font:16px/1.5 Nunito,-apple-system,system-ui,sans-serif;margin:0}
+.wrap{max-width:720px;margin:0 auto;padding-inline:16px;padding-block:36px 48px}
+h1{font:800 34px/1.1 "Baloo 2",Nunito,sans-serif;margin:0 0 6px;color:#2f9e5b}
 p{color:var(--muted);margin:0 0 24px}
-.list{display:grid;gap:12px}
-a.card{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px 18px;color:var(--ink);text-decoration:none}
-a.card:hover,a.card:focus-visible{border-color:var(--leaf);outline:none}
-a.card b{display:block;font-size:18px;color:var(--leaf);margin-bottom:2px}
-a.card span{color:var(--muted);font-size:14px}
+.list{display:grid;gap:14px}
+a.card{display:block;border-radius:18px;padding:18px 20px;color:var(--ink);text-decoration:none;border:3px solid transparent;transition:transform .12s}
+a.card:hover,a.card:focus-visible{transform:translateY(-2px);border-color:var(--ink);outline:none}
+a.card b{display:block;font:700 21px/1.2 "Baloo 2",Nunito,sans-serif;margin-bottom:4px}
+a.card span{font-size:15px}
+a.card:nth-child(1){background:#ffd84d}
+a.card:nth-child(2){background:#8fd3ff}
+a.card:nth-child(3){background:#ffb3c7}
+a.card:nth-child(4){background:#a8e6a3}
+@media (prefers-reduced-motion: reduce){a.card{transition:none}}
 </style>
 <div class="wrap">
   <h1>Jill and the Beanstalk</h1>
