@@ -1,0 +1,15 @@
+mutation Y {
+p0: productUpdate(product: {id: "gid://shopify/Product/9334729900340", productType: "Rings"}) { userErrors { message } }
+p1: productUpdate(product: {id: "gid://shopify/Product/9336300994868", productType: "Sun Hat"}) { userErrors { message } }
+p2: productUpdate(product: {id: "gid://shopify/Product/9336304206132", productType: "Sun Hat"}) { userErrors { message } }
+p3: productUpdate(product: {id: "gid://shopify/Product/9343467225396", productType: "Baby Shoes"}) { userErrors { message } }
+p4: productUpdate(product: {id: "gid://shopify/Product/9343469715764", productType: "Baby Shoes"}) { userErrors { message } }
+p5: productUpdate(product: {id: "gid://shopify/Product/9355521458484", productType: "Eye Shadow"}) { userErrors { message } }
+p6: productUpdate(product: {id: "gid://shopify/Product/9363946504500", productType: "Baby Shoes"}) { userErrors { message } }
+p7: productUpdate(product: {id: "gid://shopify/Product/9368605622580", productType: "Silicone Bib"}) { userErrors { message } }
+p8: productUpdate(product: {id: "gid://shopify/Product/9368607719732", productType: "Silicone Bib"}) { userErrors { message } }
+p9: productUpdate(product: {id: "gid://shopify/Product/9373060333876", productType: "Winter Jacket"}) { userErrors { message } }
+p10: productUpdate(product: {id: "gid://shopify/Product/9373060399412", productType: "One-Piece Snowsuit"}) { userErrors { message } }
+p11: productUpdate(product: {id: "gid://shopify/Product/9373060694324", productType: "Polo Shirt"}) { userErrors { message } }
+p12: productUpdate(product: {id: "gid://shopify/Product/9373060825396", productType: "Dress Pants"}) { userErrors { message } }
+}

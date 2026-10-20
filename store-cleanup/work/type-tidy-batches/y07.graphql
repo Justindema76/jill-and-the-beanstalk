@@ -1,0 +1,52 @@
+mutation Y {
+p0: productUpdate(product: {id: "gid://shopify/Product/8716717130036", productType: "Harmonica"}) { userErrors { message } }
+p1: productUpdate(product: {id: "gid://shopify/Product/8716718506292", productType: "Whistle"}) { userErrors { message } }
+p2: productUpdate(product: {id: "gid://shopify/Product/8716719620404", productType: "Craft Kit"}) { userErrors { message } }
+p3: productUpdate(product: {id: "gid://shopify/Product/8716722307380", productType: "Advent Calendar"}) { userErrors { message } }
+p4: productUpdate(product: {id: "gid://shopify/Product/8720132473140", productType: "Putty"}) { userErrors { message } }
+p5: productUpdate(product: {id: "gid://shopify/Product/8720148824372", productType: "Putty"}) { userErrors { message } }
+p6: productUpdate(product: {id: "gid://shopify/Product/8720165306676", productType: "Putty"}) { userErrors { message } }
+p7: productUpdate(product: {id: "gid://shopify/Product/8720174776628", productType: "Putty"}) { userErrors { message } }
+p8: productUpdate(product: {id: "gid://shopify/Product/8720187949364", productType: "Putty"}) { userErrors { message } }
+p9: productUpdate(product: {id: "gid://shopify/Product/8720195682612", productType: "Putty"}) { userErrors { message } }
+p10: productUpdate(product: {id: "gid://shopify/Product/8720203546932", productType: "Putty"}) { userErrors { message } }
+p11: productUpdate(product: {id: "gid://shopify/Product/8720347955508", productType: "Kinetic Sand"}) { userErrors { message } }
+p12: productUpdate(product: {id: "gid://shopify/Product/8720377676084", productType: "Kinetic Sand"}) { userErrors { message } }
+p13: productUpdate(product: {id: "gid://shopify/Product/8720398614836", productType: "Kinetic Sand"}) { userErrors { message } }
+p14: productUpdate(product: {id: "gid://shopify/Product/8734005723444", productType: "Shrinkies"}) { userErrors { message } }
+p15: productUpdate(product: {id: "gid://shopify/Product/8778214605108", productType: "Play-Doh"}) { userErrors { message } }
+p16: productUpdate(product: {id: "gid://shopify/Product/8778230071604", productType: "Kinetic Sand"}) { userErrors { message } }
+p17: productUpdate(product: {id: "gid://shopify/Product/8811753832756", productType: "Science Kit"}) { userErrors { message } }
+p18: productUpdate(product: {id: "gid://shopify/Product/8811833491764", productType: "Craft Kit"}) { userErrors { message } }
+p19: productUpdate(product: {id: "gid://shopify/Product/8811850596660", productType: "Jewellery Kit"}) { userErrors { message } }
+p20: productUpdate(product: {id: "gid://shopify/Product/8811939823924", productType: "Puzzle"}) { userErrors { message } }
+p21: productUpdate(product: {id: "gid://shopify/Product/8811945918772", productType: "Scissors"}) { userErrors { message } }
+p22: productUpdate(product: {id: "gid://shopify/Product/8813624885556", productType: "Photo Book"}) { userErrors { message } }
+p23: productUpdate(product: {id: "gid://shopify/Product/8850750570804", productType: "Pen"}) { userErrors { message } }
+p24: productUpdate(product: {id: "gid://shopify/Product/8854317826356", productType: "Slime"}) { userErrors { message } }
+p25: productUpdate(product: {id: "gid://shopify/Product/8858753368372", productType: "Game"}) { userErrors { message } }
+p26: productUpdate(product: {id: "gid://shopify/Product/8858759528756", productType: "Game"}) { userErrors { message } }
+p27: productUpdate(product: {id: "gid://shopify/Product/8873331556660", productType: "Game"}) { userErrors { message } }
+p28: productUpdate(product: {id: "gid://shopify/Product/8913364058420", productType: "Bath Toy"}) { userErrors { message } }
+p29: productUpdate(product: {id: "gid://shopify/Product/8913430937908", productType: "Bath Bomb"}) { userErrors { message } }
+p30: productUpdate(product: {id: "gid://shopify/Product/8919326163252", productType: "Rattle"}) { userErrors { message } }
+p31: productUpdate(product: {id: "gid://shopify/Product/8922646184244", productType: "Face Paint"}) { userErrors { message } }
+p32: productUpdate(product: {id: "gid://shopify/Product/8922648707380", productType: "Watercolour Pencils"}) { userErrors { message } }
+p33: productUpdate(product: {id: "gid://shopify/Product/8922767130932", productType: "Chopsticks"}) { userErrors { message } }
+p34: productUpdate(product: {id: "gid://shopify/Product/8922776174900", productType: "Silicone Bib"}) { userErrors { message } }
+p35: productUpdate(product: {id: "gid://shopify/Product/8922859962676", productType: "Eraser"}) { userErrors { message } }
+p36: productUpdate(product: {id: "gid://shopify/Product/8933739626804", productType: "Card Games"}) { userErrors { message } }
+p37: productUpdate(product: {id: "gid://shopify/Product/8948619378996", productType: "Massage Oil"}) { userErrors { message } }
+p38: productUpdate(product: {id: "gid://shopify/Product/8989518561588", productType: "Wooden Puzzle"}) { userErrors { message } }
+p39: productUpdate(product: {id: "gid://shopify/Product/8989519446324", productType: "Flashlights"}) { userErrors { message } }
+p40: productUpdate(product: {id: "gid://shopify/Product/8989523738932", productType: "Magnifying Glass"}) { userErrors { message } }
+p41: productUpdate(product: {id: "gid://shopify/Product/8989525508404", productType: "Compass"}) { userErrors { message } }
+p42: productUpdate(product: {id: "gid://shopify/Product/8989530816820", productType: "Craft Kit"}) { userErrors { message } }
+p43: productUpdate(product: {id: "gid://shopify/Product/8996026777908", productType: "Stuffed Animal"}) { userErrors { message } }
+p44: productUpdate(product: {id: "gid://shopify/Product/9007717450036", productType: "Slime Lab"}) { userErrors { message } }
+p45: productUpdate(product: {id: "gid://shopify/Product/9007843475764", productType: "Barbie"}) { userErrors { message } }
+p46: productUpdate(product: {id: "gid://shopify/Product/9007940632884", productType: "Slime"}) { userErrors { message } }
+p47: productUpdate(product: {id: "gid://shopify/Product/9016323572020", productType: "Room Decor"}) { userErrors { message } }
+p48: productUpdate(product: {id: "gid://shopify/Product/9016338088244", productType: "Room Decor"}) { userErrors { message } }
+p49: productUpdate(product: {id: "gid://shopify/Product/9016741691700", productType: "Rattle"}) { userErrors { message } }
+}

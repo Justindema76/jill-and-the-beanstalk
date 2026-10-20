@@ -1,0 +1,52 @@
+mutation Y {
+p0: productUpdate(product: {id: "gid://shopify/Product/9248426262836", productType: "Costume Wings"}) { userErrors { message } }
+p1: productUpdate(product: {id: "gid://shopify/Product/9248426590516", productType: "Costume Wings"}) { userErrors { message } }
+p2: productUpdate(product: {id: "gid://shopify/Product/9248440025396", productType: "Earrings"}) { userErrors { message } }
+p3: productUpdate(product: {id: "gid://shopify/Product/9248440058164", productType: "Earrings"}) { userErrors { message } }
+p4: productUpdate(product: {id: "gid://shopify/Product/9248440090932", productType: "Earrings"}) { userErrors { message } }
+p5: productUpdate(product: {id: "gid://shopify/Product/9248445104436", productType: "Tattoo"}) { userErrors { message } }
+p6: productUpdate(product: {id: "gid://shopify/Product/9248445137204", productType: "Tattoo"}) { userErrors { message } }
+p7: productUpdate(product: {id: "gid://shopify/Product/9248445202740", productType: "Tattoo"}) { userErrors { message } }
+p8: productUpdate(product: {id: "gid://shopify/Product/9248445268276", productType: "Tattoo"}) { userErrors { message } }
+p9: productUpdate(product: {id: "gid://shopify/Product/9248445333812", productType: "Tattoo"}) { userErrors { message } }
+p10: productUpdate(product: {id: "gid://shopify/Product/9248445432116", productType: "Tattoo"}) { userErrors { message } }
+p11: productUpdate(product: {id: "gid://shopify/Product/9248445530420", productType: "Tattoo"}) { userErrors { message } }
+p12: productUpdate(product: {id: "gid://shopify/Product/9248448086324", productType: "Swim Goggles"}) { userErrors { message } }
+p13: productUpdate(product: {id: "gid://shopify/Product/9248448184628", productType: "Swim Goggles"}) { userErrors { message } }
+p14: productUpdate(product: {id: "gid://shopify/Product/9248448315700", productType: "Swim Goggles"}) { userErrors { message } }
+p15: productUpdate(product: {id: "gid://shopify/Product/9248506118452", productType: "Picnic Blanket"}) { userErrors { message } }
+p16: productUpdate(product: {id: "gid://shopify/Product/9248898416948", productType: "Balloon"}) { userErrors { message } }
+p17: productUpdate(product: {id: "gid://shopify/Product/9249018118452", productType: "Sponge"}) { userErrors { message } }
+p18: productUpdate(product: {id: "gid://shopify/Product/9249151811892", productType: "Costume Wings"}) { userErrors { message } }
+p19: productUpdate(product: {id: "gid://shopify/Product/9249159250228", productType: "Rings"}) { userErrors { message } }
+p20: productUpdate(product: {id: "gid://shopify/Product/9249162330420", productType: "Necklace"}) { userErrors { message } }
+p21: productUpdate(product: {id: "gid://shopify/Product/9249167049012", productType: "Necklace"}) { userErrors { message } }
+p22: productUpdate(product: {id: "gid://shopify/Product/9249176224052", productType: "Necklace"}) { userErrors { message } }
+p23: productUpdate(product: {id: "gid://shopify/Product/9249185235252", productType: "Earrings"}) { userErrors { message } }
+p24: productUpdate(product: {id: "gid://shopify/Product/9249195950388", productType: "Baby Shoes"}) { userErrors { message } }
+p25: productUpdate(product: {id: "gid://shopify/Product/9249196278068", productType: "Baby Shoes"}) { userErrors { message } }
+p26: productUpdate(product: {id: "gid://shopify/Product/9249196343604", productType: "Baby Shoes"}) { userErrors { message } }
+p27: productUpdate(product: {id: "gid://shopify/Product/9249198342452", productType: "Hats"}) { userErrors { message } }
+p28: productUpdate(product: {id: "gid://shopify/Product/9249205944628", productType: "Insulated Bottle"}) { userErrors { message } }
+p29: productUpdate(product: {id: "gid://shopify/Product/9249546240308", productType: "Bracelet"}) { userErrors { message } }
+p30: productUpdate(product: {id: "gid://shopify/Product/9249575076148", productType: "Tiara"}) { userErrors { message } }
+p31: productUpdate(product: {id: "gid://shopify/Product/9249711849780", productType: "Rubber Teether"}) { userErrors { message } }
+p32: productUpdate(product: {id: "gid://shopify/Product/9249711882548", productType: "Rubber Teether"}) { userErrors { message } }
+p33: productUpdate(product: {id: "gid://shopify/Product/9249711948084", productType: "Rubber Teether"}) { userErrors { message } }
+p34: productUpdate(product: {id: "gid://shopify/Product/9249711980852", productType: "Rubber Teether"}) { userErrors { message } }
+p35: productUpdate(product: {id: "gid://shopify/Product/9249712013620", productType: "Rubber Teether"}) { userErrors { message } }
+p36: productUpdate(product: {id: "gid://shopify/Product/9249712242996", productType: "Teether"}) { userErrors { message } }
+p37: productUpdate(product: {id: "gid://shopify/Product/9250355347764", productType: "Swim Goggles"}) { userErrors { message } }
+p38: productUpdate(product: {id: "gid://shopify/Product/9250355380532", productType: "Swim Mask"}) { userErrors { message } }
+p39: productUpdate(product: {id: "gid://shopify/Product/9250370617652", productType: "Pez"}) { userErrors { message } }
+p40: productUpdate(product: {id: "gid://shopify/Product/9250370650420", productType: "Pez"}) { userErrors { message } }
+p41: productUpdate(product: {id: "gid://shopify/Product/9250370683188", productType: "Pez"}) { userErrors { message } }
+p42: productUpdate(product: {id: "gid://shopify/Product/9250370715956", productType: "Pez"}) { userErrors { message } }
+p43: productUpdate(product: {id: "gid://shopify/Product/9250378907956", productType: "Bath Toy"}) { userErrors { message } }
+p44: productUpdate(product: {id: "gid://shopify/Product/9250386116916", productType: "Swim Goggles"}) { userErrors { message } }
+p45: productUpdate(product: {id: "gid://shopify/Product/9250386149684", productType: "Swim Goggles"}) { userErrors { message } }
+p46: productUpdate(product: {id: "gid://shopify/Product/9250386182452", productType: "Swim Goggles"}) { userErrors { message } }
+p47: productUpdate(product: {id: "gid://shopify/Product/9250386215220", productType: "Swim Goggles"}) { userErrors { message } }
+p48: productUpdate(product: {id: "gid://shopify/Product/9250386280756", productType: "Swim Goggles"}) { userErrors { message } }
+p49: productUpdate(product: {id: "gid://shopify/Product/9250476425524", productType: "Swaddle"}) { userErrors { message } }
+}

@@ -1,0 +1,30 @@
+mutation Y {
+p0: productUpdate(product: {id: "gid://shopify/Product/6798538211384", productType: "Play-Doh"}) { userErrors { message } }
+p1: productUpdate(product: {id: "gid://shopify/Product/6798538440760", productType: "Play-Doh"}) { userErrors { message } }
+p2: productUpdate(product: {id: "gid://shopify/Product/6798902100024", productType: "Play-Doh"}) { userErrors { message } }
+p3: productUpdate(product: {id: "gid://shopify/Product/6798902394936", productType: "Glow In The Dark Stars"}) { userErrors { message } }
+p4: productUpdate(product: {id: "gid://shopify/Product/6999842619448", productType: "Coding And Robotics"}) { userErrors { message } }
+p5: productUpdate(product: {id: "gid://shopify/Product/6999843471416", productType: "Coding And Robotics"}) { userErrors { message } }
+p6: productUpdate(product: {id: "gid://shopify/Product/7001061556280", productType: "Mom To Be"}) { userErrors { message } }
+p7: productUpdate(product: {id: "gid://shopify/Product/7001102090296", productType: "Play-Doh"}) { userErrors { message } }
+p8: productUpdate(product: {id: "gid://shopify/Product/7005121675320", productType: "Magnetic Letters And Numbers"}) { userErrors { message } }
+p9: productUpdate(product: {id: "gid://shopify/Product/7168125829176", productType: "Mom To Be"}) { userErrors { message } }
+p10: productUpdate(product: {id: "gid://shopify/Product/7215413067832", productType: "Mom To Be"}) { userErrors { message } }
+p11: productUpdate(product: {id: "gid://shopify/Product/7217529126968", productType: "Etch A Sketch"}) { userErrors { message } }
+p12: productUpdate(product: {id: "gid://shopify/Product/8189616292148", productType: "Mom To Be"}) { userErrors { message } }
+p13: productUpdate(product: {id: "gid://shopify/Product/8189627269428", productType: "Mom To Be"}) { userErrors { message } }
+p14: productUpdate(product: {id: "gid://shopify/Product/8369213800756", productType: "Pull Toy"}) { userErrors { message } }
+p15: productUpdate(product: {id: "gid://shopify/Product/8989516005684", productType: "Pull Toy"}) { userErrors { message } }
+p16: productUpdate(product: {id: "gid://shopify/Product/9116341666100", productType: "Pull Toy"}) { userErrors { message } }
+p17: productUpdate(product: {id: "gid://shopify/Product/9138275189044", productType: "Play-Doh"}) { userErrors { message } }
+p18: productUpdate(product: {id: "gid://shopify/Product/9168949707060", productType: "Play-Doh"}) { userErrors { message } }
+p19: productUpdate(product: {id: "gid://shopify/Product/9168956424500", productType: "Play-Doh"}) { userErrors { message } }
+p20: productUpdate(product: {id: "gid://shopify/Product/9168956752180", productType: "Play-Doh"}) { userErrors { message } }
+p21: productUpdate(product: {id: "gid://shopify/Product/9173204664628", productType: "Bath And Body"}) { userErrors { message } }
+p22: productUpdate(product: {id: "gid://shopify/Product/9208673075508", productType: "Play-Doh"}) { userErrors { message } }
+p23: productUpdate(product: {id: "gid://shopify/Product/9228733284660", productType: "Bowls And Plates"}) { userErrors { message } }
+p24: productUpdate(product: {id: "gid://shopify/Product/9256492663092", productType: "Play-Doh"}) { userErrors { message } }
+p25: productUpdate(product: {id: "gid://shopify/Product/9256493220148", productType: "Play-Doh"}) { userErrors { message } }
+p26: productUpdate(product: {id: "gid://shopify/Product/9373060366644", productType: "T-Shirt"}) { userErrors { message } }
+p27: productUpdate(product: {id: "gid://shopify/Product/9373060661556", productType: "T-Shirt"}) { userErrors { message } }
+}

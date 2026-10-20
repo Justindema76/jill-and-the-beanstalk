@@ -1,0 +1,52 @@
+mutation Y {
+p0: productUpdate(product: {id: "gid://shopify/Product/9246891835700", productType: "Press-On Nails"}) { userErrors { message } }
+p1: productUpdate(product: {id: "gid://shopify/Product/9247141626164", productType: "Sun Hat"}) { userErrors { message } }
+p2: productUpdate(product: {id: "gid://shopify/Product/9247149031732", productType: "Sun Hat"}) { userErrors { message } }
+p3: productUpdate(product: {id: "gid://shopify/Product/9247149097268", productType: "Sun Hat"}) { userErrors { message } }
+p4: productUpdate(product: {id: "gid://shopify/Product/9247149195572", productType: "Sun Hat"}) { userErrors { message } }
+p5: productUpdate(product: {id: "gid://shopify/Product/9247149359412", productType: "Sun Hat"}) { userErrors { message } }
+p6: productUpdate(product: {id: "gid://shopify/Product/9247149392180", productType: "Sun Hat"}) { userErrors { message } }
+p7: productUpdate(product: {id: "gid://shopify/Product/9247149490484", productType: "Sun Hat"}) { userErrors { message } }
+p8: productUpdate(product: {id: "gid://shopify/Product/9247149523252", productType: "Sun Hat"}) { userErrors { message } }
+p9: productUpdate(product: {id: "gid://shopify/Product/9247154176308", productType: "Sun Hat"}) { userErrors { message } }
+p10: productUpdate(product: {id: "gid://shopify/Product/9247154241844", productType: "Sun Hat"}) { userErrors { message } }
+p11: productUpdate(product: {id: "gid://shopify/Product/9247154307380", productType: "Sun Hat"}) { userErrors { message } }
+p12: productUpdate(product: {id: "gid://shopify/Product/9247154372916", productType: "Sun Hat"}) { userErrors { message } }
+p13: productUpdate(product: {id: "gid://shopify/Product/9247154438452", productType: "Sun Hat"}) { userErrors { message } }
+p14: productUpdate(product: {id: "gid://shopify/Product/9247155585332", productType: "Sun Hat"}) { userErrors { message } }
+p15: productUpdate(product: {id: "gid://shopify/Product/9247173607732", productType: "Sun Hat"}) { userErrors { message } }
+p16: productUpdate(product: {id: "gid://shopify/Product/9247173673268", productType: "Sun Hat"}) { userErrors { message } }
+p17: productUpdate(product: {id: "gid://shopify/Product/9247173804340", productType: "Sun Hat"}) { userErrors { message } }
+p18: productUpdate(product: {id: "gid://shopify/Product/9247173935412", productType: "Sun Hat"}) { userErrors { message } }
+p19: productUpdate(product: {id: "gid://shopify/Product/9247174132020", productType: "Sun Hat"}) { userErrors { message } }
+p20: productUpdate(product: {id: "gid://shopify/Product/9247174164788", productType: "Sun Hat"}) { userErrors { message } }
+p21: productUpdate(product: {id: "gid://shopify/Product/9247174230324", productType: "Sun Hat"}) { userErrors { message } }
+p22: productUpdate(product: {id: "gid://shopify/Product/9247174558004", productType: "Sun Hat"}) { userErrors { message } }
+p23: productUpdate(product: {id: "gid://shopify/Product/9247174656308", productType: "Sun Hat"}) { userErrors { message } }
+p24: productUpdate(product: {id: "gid://shopify/Product/9247174852916", productType: "Sun Hat"}) { userErrors { message } }
+p25: productUpdate(product: {id: "gid://shopify/Product/9247174885684", productType: "Sun Hat"}) { userErrors { message } }
+p26: productUpdate(product: {id: "gid://shopify/Product/9247175016756", productType: "Sun Hat"}) { userErrors { message } }
+p27: productUpdate(product: {id: "gid://shopify/Product/9247175082292", productType: "Sun Hat"}) { userErrors { message } }
+p28: productUpdate(product: {id: "gid://shopify/Product/9247178096948", productType: "Sun Hat"}) { userErrors { message } }
+p29: productUpdate(product: {id: "gid://shopify/Product/9247189762356", productType: "Sun Hat"}) { userErrors { message } }
+p30: productUpdate(product: {id: "gid://shopify/Product/9247189795124", productType: "Sun Hat"}) { userErrors { message } }
+p31: productUpdate(product: {id: "gid://shopify/Product/9247191597364", productType: "Sun Hat"}) { userErrors { message } }
+p32: productUpdate(product: {id: "gid://shopify/Product/9247859278132", productType: "Sleep Sack"}) { userErrors { message } }
+p33: productUpdate(product: {id: "gid://shopify/Product/9247862423860", productType: "Sleep Sack"}) { userErrors { message } }
+p34: productUpdate(product: {id: "gid://shopify/Product/9247862489396", productType: "Sleep Sack"}) { userErrors { message } }
+p35: productUpdate(product: {id: "gid://shopify/Product/9247862522164", productType: "Sleep Sack"}) { userErrors { message } }
+p36: productUpdate(product: {id: "gid://shopify/Product/9247862587700", productType: "Sleep Sack"}) { userErrors { message } }
+p37: productUpdate(product: {id: "gid://shopify/Product/9247862653236", productType: "Sleep Sack"}) { userErrors { message } }
+p38: productUpdate(product: {id: "gid://shopify/Product/9247862718772", productType: "Sleep Sack"}) { userErrors { message } }
+p39: productUpdate(product: {id: "gid://shopify/Product/9247862817076", productType: "Sleep Sack"}) { userErrors { message } }
+p40: productUpdate(product: {id: "gid://shopify/Product/9248346243380", productType: "Rings"}) { userErrors { message } }
+p41: productUpdate(product: {id: "gid://shopify/Product/9248354926900", productType: "Tiara"}) { userErrors { message } }
+p42: productUpdate(product: {id: "gid://shopify/Product/9248354959668", productType: "Tiara"}) { userErrors { message } }
+p43: productUpdate(product: {id: "gid://shopify/Product/9248355057972", productType: "Tiara"}) { userErrors { message } }
+p44: productUpdate(product: {id: "gid://shopify/Product/9248358072628", productType: "Tiara"}) { userErrors { message } }
+p45: productUpdate(product: {id: "gid://shopify/Product/9248358170932", productType: "Tiara"}) { userErrors { message } }
+p46: productUpdate(product: {id: "gid://shopify/Product/9248358269236", productType: "Tiara"}) { userErrors { message } }
+p47: productUpdate(product: {id: "gid://shopify/Product/9248358334772", productType: "Tiara"}) { userErrors { message } }
+p48: productUpdate(product: {id: "gid://shopify/Product/9248377602356", productType: "Pen"}) { userErrors { message } }
+p49: productUpdate(product: {id: "gid://shopify/Product/9248377700660", productType: "Pen"}) { userErrors { message } }
+}

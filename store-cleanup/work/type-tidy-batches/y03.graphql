@@ -1,0 +1,52 @@
+mutation Y {
+p0: productUpdate(product: {id: "gid://shopify/Product/7216190914616", productType: "Stuffed Animal"}) { userErrors { message } }
+p1: productUpdate(product: {id: "gid://shopify/Product/7216191209528", productType: "Stuffed Animal"}) { userErrors { message } }
+p2: productUpdate(product: {id: "gid://shopify/Product/7216240820280", productType: "Stuffed Animal"}) { userErrors { message } }
+p3: productUpdate(product: {id: "gid://shopify/Product/7216261857336", productType: "Insulated Bottle"}) { userErrors { message } }
+p4: productUpdate(product: {id: "gid://shopify/Product/7216285450296", productType: "Activiy"}) { userErrors { message } }
+p5: productUpdate(product: {id: "gid://shopify/Product/7216285483064", productType: "Sketch Book"}) { userErrors { message } }
+p6: productUpdate(product: {id: "gid://shopify/Product/7216285679672", productType: "Arts & Crafts"}) { userErrors { message } }
+p7: productUpdate(product: {id: "gid://shopify/Product/7216321232952", productType: "Wooden Toy"}) { userErrors { message } }
+p8: productUpdate(product: {id: "gid://shopify/Product/7216321364024", productType: "Wooden Toy"}) { userErrors { message } }
+p9: productUpdate(product: {id: "gid://shopify/Product/7216321626168", productType: "Wooden Toy"}) { userErrors { message } }
+p10: productUpdate(product: {id: "gid://shopify/Product/7216321822776", productType: "Wooden Toy"}) { userErrors { message } }
+p11: productUpdate(product: {id: "gid://shopify/Product/7216322314296", productType: "Wooden Toy"}) { userErrors { message } }
+p12: productUpdate(product: {id: "gid://shopify/Product/7216549724216", productType: "Postpartum"}) { userErrors { message } }
+p13: productUpdate(product: {id: "gid://shopify/Product/7216733159480", productType: "Stuffed Animal"}) { userErrors { message } }
+p14: productUpdate(product: {id: "gid://shopify/Product/7216733225016", productType: "Stuffed Animal"}) { userErrors { message } }
+p15: productUpdate(product: {id: "gid://shopify/Product/7216834609208", productType: "Science Toy"}) { userErrors { message } }
+p16: productUpdate(product: {id: "gid://shopify/Product/7216834641976", productType: "Musical Toy"}) { userErrors { message } }
+p17: productUpdate(product: {id: "gid://shopify/Product/7216834740280", productType: "Magnetic Sketcher"}) { userErrors { message } }
+p18: productUpdate(product: {id: "gid://shopify/Product/7216908861496", productType: "Musical Toy"}) { userErrors { message } }
+p19: productUpdate(product: {id: "gid://shopify/Product/7216909975608", productType: "Toy"}) { userErrors { message } }
+p20: productUpdate(product: {id: "gid://shopify/Product/7216910336056", productType: "Science Toy"}) { userErrors { message } }
+p21: productUpdate(product: {id: "gid://shopify/Product/7217389240376", productType: "Baby Bath"}) { userErrors { message } }
+p22: productUpdate(product: {id: "gid://shopify/Product/7217546002488", productType: "Rain Suit"}) { userErrors { message } }
+p23: productUpdate(product: {id: "gid://shopify/Product/7217786978360", productType: "Art Supply"}) { userErrors { message } }
+p24: productUpdate(product: {id: "gid://shopify/Product/7217822367800", productType: "Sunscreen"}) { userErrors { message } }
+p25: productUpdate(product: {id: "gid://shopify/Product/7601699520568", productType: "Bath Toy"}) { userErrors { message } }
+p26: productUpdate(product: {id: "gid://shopify/Product/7601699553336", productType: "Bath Scrub"}) { userErrors { message } }
+p27: productUpdate(product: {id: "gid://shopify/Product/7601809227832", productType: "Bath Toy"}) { userErrors { message } }
+p28: productUpdate(product: {id: "gid://shopify/Product/7601809326136", productType: "Sippy Cup"}) { userErrors { message } }
+p29: productUpdate(product: {id: "gid://shopify/Product/7601809621048", productType: "Bath Toy"}) { userErrors { message } }
+p30: productUpdate(product: {id: "gid://shopify/Product/7601849761848", productType: "Stuffed Animal"}) { userErrors { message } }
+p31: productUpdate(product: {id: "gid://shopify/Product/7601850187832", productType: "Stuffed Animal"}) { userErrors { message } }
+p32: productUpdate(product: {id: "gid://shopify/Product/7601850318904", productType: "Stuffed Animal"}) { userErrors { message } }
+p33: productUpdate(product: {id: "gid://shopify/Product/7601850875960", productType: "Stuffed Animal"}) { userErrors { message } }
+p34: productUpdate(product: {id: "gid://shopify/Product/7602025136184", productType: "Arts & Crafts"}) { userErrors { message } }
+p35: productUpdate(product: {id: "gid://shopify/Product/7602028445752", productType: "Toddler Toys"}) { userErrors { message } }
+p36: productUpdate(product: {id: "gid://shopify/Product/7602702221368", productType: "Puzzle"}) { userErrors { message } }
+p37: productUpdate(product: {id: "gid://shopify/Product/7603374391352", productType: "Stuffed Animal"}) { userErrors { message } }
+p38: productUpdate(product: {id: "gid://shopify/Product/7603684868152", productType: "Board Game"}) { userErrors { message } }
+p39: productUpdate(product: {id: "gid://shopify/Product/7603685228600", productType: "Water Bottle"}) { userErrors { message } }
+p40: productUpdate(product: {id: "gid://shopify/Product/7603728678968", productType: "Baby Toy"}) { userErrors { message } }
+p41: productUpdate(product: {id: "gid://shopify/Product/7603996917816", productType: "Baby Cream"}) { userErrors { message } }
+p42: productUpdate(product: {id: "gid://shopify/Product/7604531527736", productType: "Straw Brush"}) { userErrors { message } }
+p43: productUpdate(product: {id: "gid://shopify/Product/7604532052024", productType: "Nail Polish"}) { userErrors { message } }
+p44: productUpdate(product: {id: "gid://shopify/Product/7604635041848", productType: "Bracelet"}) { userErrors { message } }
+p45: productUpdate(product: {id: "gid://shopify/Product/7604635074616", productType: "Bracelet"}) { userErrors { message } }
+p46: productUpdate(product: {id: "gid://shopify/Product/7604683800632", productType: "Paint"}) { userErrors { message } }
+p47: productUpdate(product: {id: "gid://shopify/Product/7604685897784", productType: "Musical Toy"}) { userErrors { message } }
+p48: productUpdate(product: {id: "gid://shopify/Product/7604698447928", productType: "Dish Soap"}) { userErrors { message } }
+p49: productUpdate(product: {id: "gid://shopify/Product/7604698742840", productType: "Sippy Cup"}) { userErrors { message } }
+}

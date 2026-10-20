@@ -1,0 +1,52 @@
+mutation Y {
+p0: productUpdate(product: {id: "gid://shopify/Product/9250476491060", productType: "Swaddle"}) { userErrors { message } }
+p1: productUpdate(product: {id: "gid://shopify/Product/9250476523828", productType: "Swaddle"}) { userErrors { message } }
+p2: productUpdate(product: {id: "gid://shopify/Product/9250926756148", productType: "Wooden Puzzle"}) { userErrors { message } }
+p3: productUpdate(product: {id: "gid://shopify/Product/9250927345972", productType: "Bubble Kit"}) { userErrors { message } }
+p4: productUpdate(product: {id: "gid://shopify/Product/9250984984884", productType: "Thermal Lunch Container"}) { userErrors { message } }
+p5: productUpdate(product: {id: "gid://shopify/Product/9250986754356", productType: "Thermal Lunch Container"}) { userErrors { message } }
+p6: productUpdate(product: {id: "gid://shopify/Product/9250987278644", productType: "Yumbox Tray"}) { userErrors { message } }
+p7: productUpdate(product: {id: "gid://shopify/Product/9251617669428", productType: "Craft Kit"}) { userErrors { message } }
+p8: productUpdate(product: {id: "gid://shopify/Product/9251847078196", productType: "Baby Shoes"}) { userErrors { message } }
+p9: productUpdate(product: {id: "gid://shopify/Product/9251859366196", productType: "Sippy Cup"}) { userErrors { message } }
+p10: productUpdate(product: {id: "gid://shopify/Product/9255034683700", productType: "Puzzle"}) { userErrors { message } }
+p11: productUpdate(product: {id: "gid://shopify/Product/9259526684980", productType: "Travel Potty"}) { userErrors { message } }
+p12: productUpdate(product: {id: "gid://shopify/Product/9259532583220", productType: "Baby Toothbrush"}) { userErrors { message } }
+p13: productUpdate(product: {id: "gid://shopify/Product/9265280614708", productType: "Bath Toy"}) { userErrors { message } }
+p14: productUpdate(product: {id: "gid://shopify/Product/9265284612404", productType: "Magnetic Toys"}) { userErrors { message } }
+p15: productUpdate(product: {id: "gid://shopify/Product/9265286873396", productType: "Face Paint"}) { userErrors { message } }
+p16: productUpdate(product: {id: "gid://shopify/Product/9265288839476", productType: "Wooden Pull Toy"}) { userErrors { message } }
+p17: productUpdate(product: {id: "gid://shopify/Product/9265291067700", productType: "Magnetic Toys"}) { userErrors { message } }
+p18: productUpdate(product: {id: "gid://shopify/Product/9265291559220", productType: "Magnetic Toys"}) { userErrors { message } }
+p19: productUpdate(product: {id: "gid://shopify/Product/9265291854132", productType: "Magnetic Toys"}) { userErrors { message } }
+p20: productUpdate(product: {id: "gid://shopify/Product/9265291985204", productType: "Magnetic Toys"}) { userErrors { message } }
+p21: productUpdate(product: {id: "gid://shopify/Product/9265652728116", productType: "Plush Toy"}) { userErrors { message } }
+p22: productUpdate(product: {id: "gid://shopify/Product/9265654300980", productType: "Teether Toy"}) { userErrors { message } }
+p23: productUpdate(product: {id: "gid://shopify/Product/9269080621364", productType: "Wool Socks"}) { userErrors { message } }
+p24: productUpdate(product: {id: "gid://shopify/Product/9269080654132", productType: "Wool Socks"}) { userErrors { message } }
+p25: productUpdate(product: {id: "gid://shopify/Product/9269080686900", productType: "Wool Socks"}) { userErrors { message } }
+p26: productUpdate(product: {id: "gid://shopify/Product/9269080719668", productType: "Wool Socks"}) { userErrors { message } }
+p27: productUpdate(product: {id: "gid://shopify/Product/9282129789236", productType: "Baby Shoes"}) { userErrors { message } }
+p28: productUpdate(product: {id: "gid://shopify/Product/9282810347828", productType: "Baby Shoes"}) { userErrors { message } }
+p29: productUpdate(product: {id: "gid://shopify/Product/9288321171764", productType: "Whistle"}) { userErrors { message } }
+p30: productUpdate(product: {id: "gid://shopify/Product/9289692479796", productType: "Wool Socks"}) { userErrors { message } }
+p31: productUpdate(product: {id: "gid://shopify/Product/9289692610868", productType: "Wool Socks"}) { userErrors { message } }
+p32: productUpdate(product: {id: "gid://shopify/Product/9292572492084", productType: "Christmas Ornaments"}) { userErrors { message } }
+p33: productUpdate(product: {id: "gid://shopify/Product/9292572524852", productType: "Christmas Ornaments"}) { userErrors { message } }
+p34: productUpdate(product: {id: "gid://shopify/Product/9292572655924", productType: "Christmas Ornaments"}) { userErrors { message } }
+p35: productUpdate(product: {id: "gid://shopify/Product/9292572721460", productType: "Christmas Ornaments"}) { userErrors { message } }
+p36: productUpdate(product: {id: "gid://shopify/Product/9292572754228", productType: "Christmas Ornaments"}) { userErrors { message } }
+p37: productUpdate(product: {id: "gid://shopify/Product/9292572819764", productType: "Christmas Ornaments"}) { userErrors { message } }
+p38: productUpdate(product: {id: "gid://shopify/Product/9292572852532", productType: "Christmas Ornaments"}) { userErrors { message } }
+p39: productUpdate(product: {id: "gid://shopify/Product/9292573933876", productType: "Christmas Ornaments"}) { userErrors { message } }
+p40: productUpdate(product: {id: "gid://shopify/Product/9292573966644", productType: "Christmas Ornaments"}) { userErrors { message } }
+p41: productUpdate(product: {id: "gid://shopify/Product/9292746752308", productType: "Christmas Ornaments"}) { userErrors { message } }
+p42: productUpdate(product: {id: "gid://shopify/Product/9292746785076", productType: "Christmas Ornaments"}) { userErrors { message } }
+p43: productUpdate(product: {id: "gid://shopify/Product/9292746817844", productType: "Christmas Ornaments"}) { userErrors { message } }
+p44: productUpdate(product: {id: "gid://shopify/Product/9292746850612", productType: "Christmas Ornaments"}) { userErrors { message } }
+p45: productUpdate(product: {id: "gid://shopify/Product/9292746883380", productType: "Christmas Ornaments"}) { userErrors { message } }
+p46: productUpdate(product: {id: "gid://shopify/Product/9292746916148", productType: "Christmas Ornaments"}) { userErrors { message } }
+p47: productUpdate(product: {id: "gid://shopify/Product/9296562487604", productType: "Jewellery Kit"}) { userErrors { message } }
+p48: productUpdate(product: {id: "gid://shopify/Product/9305215009076", productType: "Sun Hat"}) { userErrors { message } }
+p49: productUpdate(product: {id: "gid://shopify/Product/9305215041844", productType: "Sun Hat"}) { userErrors { message } }
+}

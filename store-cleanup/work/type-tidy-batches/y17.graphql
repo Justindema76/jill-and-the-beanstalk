@@ -1,0 +1,52 @@
+mutation Y {
+p0: productUpdate(product: {id: "gid://shopify/Product/9305225691444", productType: "Sun Hat"}) { userErrors { message } }
+p1: productUpdate(product: {id: "gid://shopify/Product/9305225724212", productType: "Sun Hat"}) { userErrors { message } }
+p2: productUpdate(product: {id: "gid://shopify/Product/9305225756980", productType: "Sun Hat"}) { userErrors { message } }
+p3: productUpdate(product: {id: "gid://shopify/Product/9305225789748", productType: "Sun Hat"}) { userErrors { message } }
+p4: productUpdate(product: {id: "gid://shopify/Product/9305225822516", productType: "Sun Hat"}) { userErrors { message } }
+p5: productUpdate(product: {id: "gid://shopify/Product/9305225888052", productType: "Sun Hat"}) { userErrors { message } }
+p6: productUpdate(product: {id: "gid://shopify/Product/9305225953588", productType: "Sun Hat"}) { userErrors { message } }
+p7: productUpdate(product: {id: "gid://shopify/Product/9305226084660", productType: "Sun Hat"}) { userErrors { message } }
+p8: productUpdate(product: {id: "gid://shopify/Product/9305226150196", productType: "Sun Hat"}) { userErrors { message } }
+p9: productUpdate(product: {id: "gid://shopify/Product/9305237422388", productType: "Pacifier"}) { userErrors { message } }
+p10: productUpdate(product: {id: "gid://shopify/Product/9305344082228", productType: "Pencil Case"}) { userErrors { message } }
+p11: productUpdate(product: {id: "gid://shopify/Product/9305344114996", productType: "Pencil Case"}) { userErrors { message } }
+p12: productUpdate(product: {id: "gid://shopify/Product/9305344147764", productType: "Pencil Case"}) { userErrors { message } }
+p13: productUpdate(product: {id: "gid://shopify/Product/9305344180532", productType: "Pencil Case"}) { userErrors { message } }
+p14: productUpdate(product: {id: "gid://shopify/Product/9308989063476", productType: "Stuffed Animal"}) { userErrors { message } }
+p15: productUpdate(product: {id: "gid://shopify/Product/9310144921908", productType: "Water Bottle"}) { userErrors { message } }
+p16: productUpdate(product: {id: "gid://shopify/Product/9310144987444", productType: "Water Bottle"}) { userErrors { message } }
+p17: productUpdate(product: {id: "gid://shopify/Product/9310145052980", productType: "Water Bottle"}) { userErrors { message } }
+p18: productUpdate(product: {id: "gid://shopify/Product/9311222563124", productType: "Eye Shadow"}) { userErrors { message } }
+p19: productUpdate(product: {id: "gid://shopify/Product/9311330042164", productType: "Water Bottle"}) { userErrors { message } }
+p20: productUpdate(product: {id: "gid://shopify/Product/9311347605812", productType: "Water Bottle"}) { userErrors { message } }
+p21: productUpdate(product: {id: "gid://shopify/Product/9311348064564", productType: "Water Bottle"}) { userErrors { message } }
+p22: productUpdate(product: {id: "gid://shopify/Product/9311348097332", productType: "Water Bottle"}) { userErrors { message } }
+p23: productUpdate(product: {id: "gid://shopify/Product/9314904342836", productType: "Silverware"}) { userErrors { message } }
+p24: productUpdate(product: {id: "gid://shopify/Product/9314904408372", productType: "Silverware"}) { userErrors { message } }
+p25: productUpdate(product: {id: "gid://shopify/Product/9314904441140", productType: "Silverware"}) { userErrors { message } }
+p26: productUpdate(product: {id: "gid://shopify/Product/9314904473908", productType: "Silverware"}) { userErrors { message } }
+p27: productUpdate(product: {id: "gid://shopify/Product/9314904539444", productType: "Silverware"}) { userErrors { message } }
+p28: productUpdate(product: {id: "gid://shopify/Product/9314904604980", productType: "Silverware"}) { userErrors { message } }
+p29: productUpdate(product: {id: "gid://shopify/Product/9314904637748", productType: "Silverware"}) { userErrors { message } }
+p30: productUpdate(product: {id: "gid://shopify/Product/9315708797236", productType: "Silicone Bib"}) { userErrors { message } }
+p31: productUpdate(product: {id: "gid://shopify/Product/9315708895540", productType: "Silicone Bib"}) { userErrors { message } }
+p32: productUpdate(product: {id: "gid://shopify/Product/9317835669812", productType: "Insulated Bottle"}) { userErrors { message } }
+p33: productUpdate(product: {id: "gid://shopify/Product/9323140251956", productType: "Activity Cards"}) { userErrors { message } }
+p34: productUpdate(product: {id: "gid://shopify/Product/9323345117492", productType: "Game"}) { userErrors { message } }
+p35: productUpdate(product: {id: "gid://shopify/Product/9323607818548", productType: "Harmonica"}) { userErrors { message } }
+p36: productUpdate(product: {id: "gid://shopify/Product/9324052611380", productType: "Bath Toy"}) { userErrors { message } }
+p37: productUpdate(product: {id: "gid://shopify/Product/9326453096756", productType: "Sun Hat"}) { userErrors { message } }
+p38: productUpdate(product: {id: "gid://shopify/Product/9327530869044", productType: "Sun Hat"}) { userErrors { message } }
+p39: productUpdate(product: {id: "gid://shopify/Product/9327531032884", productType: "Sun Hat"}) { userErrors { message } }
+p40: productUpdate(product: {id: "gid://shopify/Product/9327531098420", productType: "Sun Hat"}) { userErrors { message } }
+p41: productUpdate(product: {id: "gid://shopify/Product/9327533359412", productType: "Sun Hat"}) { userErrors { message } }
+p42: productUpdate(product: {id: "gid://shopify/Product/9327533982004", productType: "Sun Hat"}) { userErrors { message } }
+p43: productUpdate(product: {id: "gid://shopify/Product/9327534145844", productType: "Sun Hat"}) { userErrors { message } }
+p44: productUpdate(product: {id: "gid://shopify/Product/9327536275764", productType: "Sun Hat"}) { userErrors { message } }
+p45: productUpdate(product: {id: "gid://shopify/Product/9327536636212", productType: "Sun Hat"}) { userErrors { message } }
+p46: productUpdate(product: {id: "gid://shopify/Product/9331845136692", productType: "Baby Nail Scissors"}) { userErrors { message } }
+p47: productUpdate(product: {id: "gid://shopify/Product/9331945668916", productType: "Game"}) { userErrors { message } }
+p48: productUpdate(product: {id: "gid://shopify/Product/9332795048244", productType: "Baby Shoes"}) { userErrors { message } }
+p49: productUpdate(product: {id: "gid://shopify/Product/9332795081012", productType: "Baby Shoes"}) { userErrors { message } }
+}

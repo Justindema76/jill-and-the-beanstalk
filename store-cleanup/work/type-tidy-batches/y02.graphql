@@ -1,0 +1,52 @@
+mutation Y {
+p0: productUpdate(product: {id: "gid://shopify/Product/7000506236984", productType: "Puzzle"}) { userErrors { message } }
+p1: productUpdate(product: {id: "gid://shopify/Product/7000506269752", productType: "Puzzle"}) { userErrors { message } }
+p2: productUpdate(product: {id: "gid://shopify/Product/7000506662968", productType: "Puzzle"}) { userErrors { message } }
+p3: productUpdate(product: {id: "gid://shopify/Product/7000720605240", productType: "Puzzle"}) { userErrors { message } }
+p4: productUpdate(product: {id: "gid://shopify/Product/7000721588280", productType: "Puzzle"}) { userErrors { message } }
+p5: productUpdate(product: {id: "gid://shopify/Product/7000746295352", productType: "Puzzle"}) { userErrors { message } }
+p6: productUpdate(product: {id: "gid://shopify/Product/7000747081784", productType: "Puzzle"}) { userErrors { message } }
+p7: productUpdate(product: {id: "gid://shopify/Product/7000747278392", productType: "Board Game"}) { userErrors { message } }
+p8: productUpdate(product: {id: "gid://shopify/Product/7000773853240", productType: "Water Bottle"}) { userErrors { message } }
+p9: productUpdate(product: {id: "gid://shopify/Product/7001061556280", productType: "Mom to Be"}) { userErrors { message } }
+p10: productUpdate(product: {id: "gid://shopify/Product/7001101991992", productType: "Wooden Puzzle"}) { userErrors { message } }
+p11: productUpdate(product: {id: "gid://shopify/Product/7001102090296", productType: "Play Doh"}) { userErrors { message } }
+p12: productUpdate(product: {id: "gid://shopify/Product/7001102254136", productType: "Toy"}) { userErrors { message } }
+p13: productUpdate(product: {id: "gid://shopify/Product/7005119774776", productType: "Toy Food"}) { userErrors { message } }
+p14: productUpdate(product: {id: "gid://shopify/Product/7005120200760", productType: "Arts & Crafts"}) { userErrors { message } }
+p15: productUpdate(product: {id: "gid://shopify/Product/7005121675320", productType: "Magnetic Letters and Numbers"}) { userErrors { message } }
+p16: productUpdate(product: {id: "gid://shopify/Product/7005121708088", productType: "Toy Food"}) { userErrors { message } }
+p17: productUpdate(product: {id: "gid://shopify/Product/7005121740856", productType: "Toy Food"}) { userErrors { message } }
+p18: productUpdate(product: {id: "gid://shopify/Product/7005124231224", productType: "Arts & Crafts"}) { userErrors { message } }
+p19: productUpdate(product: {id: "gid://shopify/Product/7005337157688", productType: "Slime"}) { userErrors { message } }
+p20: productUpdate(product: {id: "gid://shopify/Product/7072119259192", productType: "Stuffed Animal"}) { userErrors { message } }
+p21: productUpdate(product: {id: "gid://shopify/Product/7168125829176", productType: "Mom to Be"}) { userErrors { message } }
+p22: productUpdate(product: {id: "gid://shopify/Product/7171733127224", productType: "Arts & Crafts"}) { userErrors { message } }
+p23: productUpdate(product: {id: "gid://shopify/Product/7171733323832", productType: "Toy Food"}) { userErrors { message } }
+p24: productUpdate(product: {id: "gid://shopify/Product/7171734175800", productType: "Pop-Up"}) { userErrors { message } }
+p25: productUpdate(product: {id: "gid://shopify/Product/7214760984632", productType: "Bracelet"}) { userErrors { message } }
+p26: productUpdate(product: {id: "gid://shopify/Product/7214761050168", productType: "Bracelet"}) { userErrors { message } }
+p27: productUpdate(product: {id: "gid://shopify/Product/7214761115704", productType: "Hairclips"}) { userErrors { message } }
+p28: productUpdate(product: {id: "gid://shopify/Product/7215112945720", productType: "Stuffed Animal"}) { userErrors { message } }
+p29: productUpdate(product: {id: "gid://shopify/Product/7215113076792", productType: "Stuffed Animal"}) { userErrors { message } }
+p30: productUpdate(product: {id: "gid://shopify/Product/7215113928760", productType: "Stuffed Animal"}) { userErrors { message } }
+p31: productUpdate(product: {id: "gid://shopify/Product/7215135916088", productType: "Magic Cards"}) { userErrors { message } }
+p32: productUpdate(product: {id: "gid://shopify/Product/7215271477304", productType: "Puzzle"}) { userErrors { message } }
+p33: productUpdate(product: {id: "gid://shopify/Product/7215272591416", productType: "Puzzle"}) { userErrors { message } }
+p34: productUpdate(product: {id: "gid://shopify/Product/7215297003576", productType: "Puzzle"}) { userErrors { message } }
+p35: productUpdate(product: {id: "gid://shopify/Product/7215413067832", productType: "Mom to Be"}) { userErrors { message } }
+p36: productUpdate(product: {id: "gid://shopify/Product/7215418835000", productType: "Face Paint"}) { userErrors { message } }
+p37: productUpdate(product: {id: "gid://shopify/Product/7215527002168", productType: "Water Bottle"}) { userErrors { message } }
+p38: productUpdate(product: {id: "gid://shopify/Product/7215527264312", productType: "Water Bottle"}) { userErrors { message } }
+p39: productUpdate(product: {id: "gid://shopify/Product/7215527362616", productType: "Water Bottle"}) { userErrors { message } }
+p40: productUpdate(product: {id: "gid://shopify/Product/7215527624760", productType: "Water Bottle"}) { userErrors { message } }
+p41: productUpdate(product: {id: "gid://shopify/Product/7215629598776", productType: "Teether"}) { userErrors { message } }
+p42: productUpdate(product: {id: "gid://shopify/Product/7215629762616", productType: "Rattle"}) { userErrors { message } }
+p43: productUpdate(product: {id: "gid://shopify/Product/7215630155832", productType: "Teether"}) { userErrors { message } }
+p44: productUpdate(product: {id: "gid://shopify/Product/7215813132344", productType: "Magnets"}) { userErrors { message } }
+p45: productUpdate(product: {id: "gid://shopify/Product/7216144580664", productType: "Art Supply"}) { userErrors { message } }
+p46: productUpdate(product: {id: "gid://shopify/Product/7216145072184", productType: "Rattle"}) { userErrors { message } }
+p47: productUpdate(product: {id: "gid://shopify/Product/7216154804280", productType: "Baby Toy"}) { userErrors { message } }
+p48: productUpdate(product: {id: "gid://shopify/Product/7216189997112", productType: "Stuffed Animal"}) { userErrors { message } }
+p49: productUpdate(product: {id: "gid://shopify/Product/7216190652472", productType: "Stuffed Animal"}) { userErrors { message } }
+}
