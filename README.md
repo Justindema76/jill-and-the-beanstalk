@@ -4,11 +4,13 @@ Files for running the Jill and the Beanstalk Shopify store (jillandthebeanstalk.
 
 The staff website is the `docs/` folder, published with GitHub Pages.
 
-## docs/store-cleanup/
-- **products.html**: products that aren't in any collection, grouped by category, with a link to each product in Shopify.
-- **worksheet.html**: which categories and tags put products into each collection.
-- **types.html**: every product Type and its duplicate spellings.
-- **keep.html**: tags and Types the cleanup never removes.
+## docs/ (staff site)
+Pages with a menu bar: Home, Collections, Tags, Types, Products to Fix, Keep List.
+Built by `store-cleanup/scripts/build_site.py`; don't edit the HTML by hand.
+`docs/store-cleanup/` only holds redirects from the old links.
+
+To refresh: save a fresh product export to `store-cleanup/work/products-collections-export.jsonl`
+and the collection rules to `store-cleanup/work/collection-rules-now.json`, run `python3 store-cleanup/scripts/build_site.py`, then commit and push.
 
 ## store-cleanup/
 - **reports/**: the same lists as files (including a CSV of products not in a collection) and `KEEP-LIST.txt`.

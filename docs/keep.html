@@ -1,0 +1,82 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Keep List · Jill and the Beanstalk</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Nunito:wght@400;600;700;800&display=swap">
+<style>
+:root{--bg:#fff8ec;--card:#fff;--ink:#2b2340;--muted:#6b6280;--line:#f0e6d2;--green:#2f9e5b;
+--sun:#ffd84d;--sky:#8fd3ff;--pink:#ffb3c7;--mint:#a8e6a3;--lilac:#d7c4ff;color-scheme:light}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font:15px/1.5 Nunito,-apple-system,system-ui,sans-serif;margin:0}
+a{color:#1f7a46}
+.top{background:var(--sun);border-bottom:4px solid #f5c400;position:sticky;top:0;z-index:5}
+.top .in{max-width:1180px;margin:0 auto;padding:10px 16px;display:flex;align-items:center;gap:8px 18px;flex-wrap:wrap}
+.brand{font:800 22px/1 "Baloo 2",Nunito,sans-serif;color:var(--ink);text-decoration:none;white-space:nowrap}
+.brand span{color:var(--green)}
+nav{display:flex;flex-wrap:wrap;gap:6px}
+nav a{color:var(--ink);text-decoration:none;font-weight:700;padding:6px 12px;border-radius:999px;font-size:15px}
+nav a:hover,nav a:focus-visible{background:#fff6;outline:none}
+nav a.on{background:#fff;box-shadow:0 2px 0 #e3b500}
+main{max-width:1180px;margin:0 auto;padding:26px 16px 48px}
+h1{font:800 34px/1.1 "Baloo 2",Nunito,sans-serif;margin:0 0 6px;color:var(--green)}
+h2{font:700 24px/1.2 "Baloo 2",Nunito,sans-serif;margin:30px 0 10px}
+.lead{color:var(--muted);margin:0 0 16px;max-width:760px}
+.stats{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 18px}
+.stat{border-radius:16px;padding:10px 16px;min-width:130px}
+.stat b{display:block;font:800 26px/1.1 "Baloo 2",Nunito,sans-serif}
+.stat span{font-size:13px;font-weight:600}
+.c1{background:var(--sun)}.c2{background:var(--sky)}.c3{background:var(--pink)}.c4{background:var(--mint)}.c5{background:var(--lilac)}
+.tools{display:flex;flex-wrap:wrap;gap:8px;align-items:center;background:var(--card);border:2px solid var(--line);border-radius:16px;padding:10px;margin:0 0 12px}
+.tools input{flex:1 1 220px;min-width:0;font:inherit;padding:8px 12px;border:2px solid var(--line);border-radius:999px;background:#fffdf8}
+.tools input:focus{outline:none;border-color:var(--sky)}
+.chip{font:700 14px Nunito,sans-serif;border:2px solid var(--line);background:#fff;color:var(--ink);border-radius:999px;padding:6px 12px;cursor:pointer}
+.chip.on{background:var(--sky);border-color:var(--sky)}
+.tools select{font:inherit;padding:7px 10px;border:2px solid var(--line);border-radius:999px;background:#fff}
+.count{color:var(--muted);font-size:14px;margin-left:auto;white-space:nowrap}
+.tbl{background:var(--card);border:2px solid var(--line);border-radius:16px;overflow:auto;max-height:75vh}
+table{border-collapse:collapse;width:100%}
+th,td{text-align:left;padding:8px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+th{position:sticky;top:0;background:#fff3c4;font-size:13px;z-index:1;white-space:nowrap}
+tr:hover td{background:#fffbef}
+td.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+.small{color:var(--muted);font-size:13px}
+.pill{display:inline-block;border-radius:999px;padding:1px 9px;margin:2px 4px 2px 0;font-size:13px;font-weight:600;background:#f3f0ff}
+.p-tag{background:#fff0b3}.p-cat{background:#d8f0ff}.p-type{background:#ffe0e8}.p-vendor{background:#dcf5d9}.p-other{background:#eee8ff}
+.zero{color:#c0392b;font-weight:700}
+.big{display:inline-block;min-width:30px;text-align:center;border-radius:999px;padding:1px 8px;font-weight:800;background:var(--mint)}
+.big.none{background:#ffe0e8}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:14px}
+a.card{display:block;border-radius:18px;padding:18px 20px;color:var(--ink);text-decoration:none;border:3px solid transparent;transition:transform .12s}
+a.card:hover,a.card:focus-visible{transform:translateY(-2px);border-color:var(--ink);outline:none}
+a.card b{display:block;font:700 22px/1.2 "Baloo 2",Nunito,sans-serif;margin-bottom:4px}
+a.card em{display:block;font-style:normal;font:800 30px/1 "Baloo 2",Nunito,sans-serif;margin-top:10px}
+.box{background:var(--card);border:2px solid var(--line);border-radius:16px;padding:14px 16px;margin:0 0 14px}
+.note{background:#fff0b3;border-radius:14px;padding:12px 16px;margin:0 0 16px}
+footer{max-width:1180px;margin:0 auto;padding:0 16px 32px;color:var(--muted);font-size:13px}
+[hidden]{display:none!important}
+@media (max-width:600px){h1{font-size:28px}.count{margin-left:0}}
+@media (prefers-reduced-motion:reduce){a.card{transition:none}}
+</style>
+<header class="top"><div class="in"><a class="brand" href="index.html">Jill <span>&amp;</span> the Beanstalk</a><nav aria-label="Pages"><a href="index.html">Home</a><a href="collections.html">Collections</a><a href="tags.html">Tags</a><a href="types.html">Types</a><a href="products.html">Products to Fix</a><a href="keep.html" class=on aria-current=page>Keep List</a></nav></div></header>
+<main><h1>Keep List</h1>
+<p class="lead">Things the cleanup never removes. If a collection uses it, it stays.</p>
+<div class="note"><b>Needoh products always stay Uncategorized.</b> Never give them a category.</div>
+<h2>Tags collections use (174)</h2><div class="box"><span class="pill p-tag">Action Figures</span><span class="pill p-tag">activity book</span><span class="pill p-tag">Arts &amp; Crafts</span><span class="pill p-tag">b.box</span><span class="pill p-tag">Baby Bath Toy</span><span class="pill p-tag">Baby Beachwear</span><span class="pill p-tag">baby blanket</span><span class="pill p-tag">baby bottle</span><span class="pill p-tag">baby bottle nipples</span><span class="pill p-tag">baby cream</span><span class="pill p-tag">Baby Doll</span><span class="pill p-tag">baby health</span><span class="pill p-tag">Baby Health Essentials</span><span class="pill p-tag">Baby Pacifier Clip</span><span class="pill p-tag">baby rash cream</span><span class="pill p-tag">baby safety</span><span class="pill p-tag">baby sheets</span><span class="pill p-tag">baby sleep sack</span><span class="pill p-tag">Baby Sun Hat</span><span class="pill p-tag">Baby Swimwear</span><span class="pill p-tag">baby wipes</span><span class="pill p-tag">ball</span><span class="pill p-tag">barbie</span><span class="pill p-tag">Barbie</span><span class="pill p-tag">BeybladeX</span><span class="pill p-tag">bibs</span><span class="pill p-tag">bibs with arms</span><span class="pill p-tag">blanket</span><span class="pill p-tag">blocks</span><span class="pill p-tag">Board Game</span><span class="pill p-tag">boy stocking stuffer</span><span class="pill p-tag">Bracelet Making Kit</span><span class="pill p-tag">bubbles</span><span class="pill p-tag">bug spray</span><span class="pill p-tag">building blocks</span><span class="pill p-tag">building toy</span><span class="pill p-tag">burp cloth</span><span class="pill p-tag">Canadian Company</span><span class="pill p-tag">candy</span><span class="pill p-tag">card game</span><span class="pill p-tag">children&#x27;s sunglasses</span><span class="pill p-tag">Christmas</span><span class="pill p-tag">Christmas book</span><span class="pill p-tag">Christmas Card</span><span class="pill p-tag">Christmas game</span><span class="pill p-tag">Christmas Gift</span><span class="pill p-tag">Christmas Plush Toy</span><span class="pill p-tag">Christmas puzzle</span><span class="pill p-tag">Classic Game</span><span class="pill p-tag">Classic Toy</span><span class="pill p-tag">cleaner</span><span class="pill p-tag">Coloring Books &amp; Pads</span><span class="pill p-tag">Consignment</span><span class="pill p-tag">Costume Accessory</span><span class="pill p-tag">Costume Earrings</span><span class="pill p-tag">creative toys</span><span class="pill p-tag">detangler</span><span class="pill p-tag">diaper bag</span><span class="pill p-tag">Diecast Vehicle</span><span class="pill p-tag">doll</span><span class="pill p-tag">Doll Accessories</span><span class="pill p-tag">doll clothing</span><span class="pill p-tag">Doll Playset</span><span class="pill p-tag">Dollhouse Accessories</span><span class="pill p-tag">Dolls for Toddlers</span><span class="pill p-tag">Easter</span><span class="pill p-tag">easter eggs</span><span class="pill p-tag">easter stuffed animals</span><span class="pill p-tag">Easter Toy</span><span class="pill p-tag">education book</span><span class="pill p-tag">Educational Toy</span><span class="pill p-tag">feeding</span><span class="pill p-tag">feeding accessories</span><span class="pill p-tag">fidget toy</span><span class="pill p-tag">finger paint</span><span class="pill p-tag">Fun Tattoos</span><span class="pill p-tag">girl stocking stuffer</span><span class="pill p-tag">greeting card</span><span class="pill p-tag">gum</span><span class="pill p-tag">Hair Accessory</span><span class="pill p-tag">hair bands</span><span class="pill p-tag">hair brush</span><span class="pill p-tag">hair products</span><span class="pill p-tag">Hairclips</span><span class="pill p-tag">Halloween</span><span class="pill p-tag">Halloween Accessories</span><span class="pill p-tag">hard rattle</span><span class="pill p-tag">Headbands</span><span class="pill p-tag">Herschel backpack</span><span class="pill p-tag">holidays</span><span class="pill p-tag">Interactive Book</span><span class="pill p-tag">Jewelry Boxes</span><span class="pill p-tag">justconsignin</span><span class="pill p-tag">Kids Makeup</span><span class="pill p-tag">kids skincare</span><span class="pill p-tag">kids sunglasses</span><span class="pill p-tag">Kinetic Sand</span><span class="pill p-tag">kite</span><span class="pill p-tag">Learning Resources</span><span class="pill p-tag">LEGO</span><span class="pill p-tag">Lunch Accessories</span><span class="pill p-tag">Lunch bag</span><span class="pill p-tag">Lunch Gear</span><span class="pill p-tag">Magnetic Toy</span><span class="pill p-tag">Metal Cars</span><span class="pill p-tag">mittens</span><span class="pill p-tag">MiYoni</span><span class="pill p-tag">miyoni by aurora</span><span class="pill p-tag">mom</span><span class="pill p-tag">mom help</span><span class="pill p-tag">Musical Instruments</span><span class="pill p-tag">musical toy</span><span class="pill p-tag">Necklace and Earrings Set</span><span class="pill p-tag">nofun10</span><span class="pill p-tag">Non-Toxic Bug Spray</span><span class="pill p-tag">oral care</span><span class="pill p-tag">Outdoor Fun</span><span class="pill p-tag">Pacifier</span><span class="pill p-tag">Pacifier Clips &amp; Holders</span><span class="pill p-tag">paint</span><span class="pill p-tag">pen</span><span class="pill p-tag">pencils</span><span class="pill p-tag">pens</span><span class="pill p-tag">PEZ</span><span class="pill p-tag">play doh</span><span class="pill p-tag">Plush Rattle</span><span class="pill p-tag">plush teether</span><span class="pill p-tag">Plush Toy</span><span class="pill p-tag">Pop-Up Book</span><span class="pill p-tag">Pretend Play</span><span class="pill p-tag">purses</span><span class="pill p-tag">putty</span><span class="pill p-tag">puzzles</span><span class="pill p-tag">rainwear</span><span class="pill p-tag">Retro Game</span><span class="pill p-tag">Retro Toy</span><span class="pill p-tag">Room Decor</span><span class="pill p-tag">Safety</span><span class="pill p-tag">school lunch accessories</span><span class="pill p-tag">science</span><span class="pill p-tag">sensory toy</span><span class="pill p-tag">sippy cup</span><span class="pill p-tag">sleep sack</span><span class="pill p-tag">Socks</span><span class="pill p-tag">Sports Balls</span><span class="pill p-tag">STEM Toy</span><span class="pill p-tag">Sticker Book</span><span class="pill p-tag">Sticker Earrings</span><span class="pill p-tag">stickers</span><span class="pill p-tag">stocking stuffer</span><span class="pill p-tag">Stocking stuffers</span><span class="pill p-tag">Stonz Cruiser</span><span class="pill p-tag">stress ball</span><span class="pill p-tag">stuffed animal</span><span class="pill p-tag">sun hat</span><span class="pill p-tag">sunscreen</span><span class="pill p-tag">Sunscreen for Babies</span><span class="pill p-tag">swaddle</span><span class="pill p-tag">Swim Diaper</span><span class="pill p-tag">swim goggles</span><span class="pill p-tag">Swimwear</span><span class="pill p-tag">Teether</span><span class="pill p-tag">teether clip</span><span class="pill p-tag">Teething Clip</span><span class="pill p-tag">Teething Toy</span><span class="pill p-tag">thermometer</span><span class="pill p-tag">Toy Vehicles</span><span class="pill p-tag">umbrella</span><span class="pill p-tag">Valentine</span><span class="pill p-tag">water bottle</span><span class="pill p-tag">water fun</span><span class="pill p-tag">water fun for kids</span><span class="pill p-tag">waterproof</span><span class="pill p-tag">winter wear</span></div>
+<h2>Tags kept on purpose (8)</h2><p class="lead">No collection uses these, but the store still needs them.</p><div class="box"><span class="pill p-tag">_TX</span><span class="pill p-tag">Jan and Jul</span><span class="pill p-tag">Made in Canada</span><span class="pill p-tag">Designed in Canada</span><span class="pill p-tag">Canadian Brand</span><span class="pill p-tag">20% Off</span><span class="pill p-tag">notforsale</span><span class="pill p-tag">No Barcode</span></div>
+<h2>Types collections use (10)</h2><div class="box"><span class="pill p-type">Bath Book</span><span class="pill p-type">Board Book</span><span class="pill p-type">Book</span><span class="pill p-type">Growth Chart</span><span class="pill p-type">Lava Lamp</span><span class="pill p-type">Light Projector</span><span class="pill p-type">Night Light</span><span class="pill p-type">Toy Chest</span><span class="pill p-type">Wooden Decor</span><span class="pill p-type">Work Book</span></div></main>
+<footer>Lists updated October 19, 2026. Staff reference only, changes are made in Shopify.</footer>
+<script>
+document.querySelectorAll('[data-list]').forEach(function(box){
+  var rows=[].slice.call(box.querySelectorAll('tbody tr')),q=box.querySelector('input'),
+      chips=[].slice.call(box.querySelectorAll('.chip')),sel=box.querySelector('select'),
+      out=box.querySelector('.count'),tb=box.querySelector('tbody'),f=(chips.filter(function(c){return c.classList.contains('on')})[0]||{}).dataset;
+  f=f?f.f:'';
+  function run(){var s=(q.value||'').toLowerCase().trim(),n=0;
+    rows.forEach(function(r){var ok=(!f||(' '+r.dataset.f+' ').indexOf(' '+f+' ')>-1)&&(!s||r.dataset.s.indexOf(s)>-1);r.hidden=!ok;if(ok)n++});
+    out.textContent=n.toLocaleString()+' shown'}
+  chips.forEach(function(c){c.onclick=function(){chips.forEach(function(x){x.classList.remove('on')});c.classList.add('on');f=c.dataset.f;run()}});
+  q.oninput=run;
+  if(sel)sel.onchange=function(){var k=sel.value,num=k!=='a';rows.sort(function(a,b){
+      return num?(b.dataset[k]-a.dataset[k])||a.dataset.a.localeCompare(b.dataset.a):a.dataset.a.localeCompare(b.dataset.a)});
+    rows.forEach(function(r){tb.appendChild(r)})};
+  run();
+});
+</script></html>
