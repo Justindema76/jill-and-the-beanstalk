@@ -1,0 +1,27 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Jill and the Beanstalk</title>
+<style>
+/* Layout: one column of big link cards, newest-first status line on top. */
+:root{--bg:#f6f8f4;--card:#fff;--ink:#1d2a22;--muted:#5d6b62;--line:#dbe3dc;--leaf:#2f7a4a}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#121814;--card:#1a221d;--ink:#e4ece6;--muted:#9aa89f;--line:#2c3830;--leaf:#7fd19b;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#121814;--card:#1a221d;--ink:#e4ece6;--muted:#9aa89f;--line:#2c3830;--leaf:#7fd19b;color-scheme:dark}
+body{background:var(--bg);color:var(--ink);font:16px/1.5 -apple-system,system-ui,sans-serif;margin:0}
+.wrap{max-width:720px;margin:0 auto;padding-inline:16px;padding-block:32px 48px}
+h1{font-size:28px;margin:0 0 6px}
+p{color:var(--muted);margin:0 0 24px}
+.list{display:grid;gap:12px}
+a.card{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px 18px;color:var(--ink);text-decoration:none}
+a.card:hover,a.card:focus-visible{border-color:var(--leaf);outline:none}
+a.card b{display:block;font-size:18px;color:var(--leaf);margin-bottom:2px}
+a.card span{color:var(--muted);font-size:14px}
+</style>
+<div class="wrap">
+  <h1>Jill and the Beanstalk</h1>
+  <p>Store cleanup lists, all in one place. Lists were last updated October 19, 2026.</p>
+  <div class="list">
+    <a class="card" href="store-cleanup/products.html"><b>Products not in a collection</b><span>Every product shoppers can't find by browsing, grouped by category, with a link to each one in Shopify.</span></a>
+    <a class="card" href="store-cleanup/worksheet.html"><b>Collection worksheet</b><span>Which categories and tags put products into each collection. Search by collection, category or tag.</span></a>
+    <a class="card" href="store-cleanup/types.html"><b>Product Types</b><span>Every Type on the store and its duplicate spellings (from before the Type clear started).</span></a>
+    <a class="card" href="store-cleanup/keep.html"><b>Keep list</b><span>Tags and Types the cleanup never removes, plus the Needoh rule.</span></a>
+  </div>
+</div>
