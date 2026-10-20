@@ -1,0 +1,92 @@
+mutation R {
+r0: tagsRemove(id: "gid://shopify/Product/9269756559668", tags: ["playing cards"]) { userErrors { message } }
+r1: tagsRemove(id: "gid://shopify/Product/9269756723508", tags: ["Nail Polishes"]) { userErrors { message } }
+r2: tagsRemove(id: "gid://shopify/Product/9269991735604", tags: ["Non Slip Bowl", "Non Slip Plate", "placemat", "Reusable Utensils", "Travel Utensils", "utensils"]) { userErrors { message } }
+r3: tagsRemove(id: "gid://shopify/Product/9270094102836", tags: ["Adjustable Hats", "Adjustable Hats for Kids", "Adjustable Kids Cap", "Adjustable Kids Caps", "Boys Cap", "Boys Caps", "Children’s Hats", "Cool Kids Cap", "Girls Cap", "Girls Caps", "hats", "Headster", "Headster Adjustable Cap", "Headster Hats", "Kids Baseball Caps", "Kids Cap", "Kids Caps", "Kids Fashion", "Kids Hat Collection", "Kids Headwear", "Outdoor Kids Hats", "Snapback Cap", "Summer Cap", "Summer Kids Caps", "Toddler Cap", "Trendy Kids Cap", "Unisex Cap", "Urban Kids Style", "Youth Cap"]) { userErrors { message } }
+r4: tagsRemove(id: "gid://shopify/Product/9270094627124", tags: ["Adjustable Hats", "Adjustable Hats for Kids", "Adjustable Kids Cap", "Adjustable Kids Caps", "Boys Cap", "Boys Caps", "Children’s Hats", "Cool Kids Cap", "Girls Cap", "Girls Caps", "hats", "Headster", "Headster Adjustable Cap", "Headster Hats", "Kids Baseball Caps", "Kids Cap", "Kids Caps", "Kids Fashion", "Kids Hat Collection", "Kids Headwear", "Outdoor Kids Hats", "Snapback Cap", "Summer Cap", "Summer Kids Caps", "Toddler Cap", "Trendy Kids Cap", "Unisex Cap", "Urban Kids Style", "Youth Cap"]) { userErrors { message } }
+r5: tagsRemove(id: "gid://shopify/Product/9270096429364", tags: ["Adjustable Hats", "Adjustable Hats for Kids", "Adjustable Kids Cap", "Adjustable Kids Caps", "Boys Cap", "Boys Caps", "Children’s Hats", "Cool Kids Cap", "Girls Cap", "Girls Caps", "hats", "Headster", "Headster Adjustable Cap", "Headster Hats", "Kids Baseball Caps", "Kids Cap", "Kids Caps", "Kids Fashion", "Kids Hat Collection", "Kids Headwear", "Outdoor Kids Hats", "Snapback Cap", "Summer Cap", "Summer Kids Caps", "Toddler Cap", "Trendy Kids Cap", "Unisex Cap", "Urban Kids Style", "Youth Cap"]) { userErrors { message } }
+r6: tagsRemove(id: "gid://shopify/Product/9270097445172", tags: ["Adjustable Hats", "Adjustable Hats for Kids", "Adjustable Kids Cap", "Adjustable Kids Caps", "Boys Cap", "Boys Caps", "Children’s Hats", "Cool Kids Cap", "Girls Cap", "Girls Caps", "hats", "Headster", "Headster Adjustable Cap", "Headster Hats", "Kids Baseball Caps", "Kids Cap", "Kids Caps", "Kids Fashion", "Kids Hat Collection", "Kids Headwear", "Outdoor Kids Hats", "Snapback Cap", "Summer Cap", "Summer Kids Caps", "Toddler Cap", "Trendy Kids Cap", "Unisex Cap", "Urban Kids Style", "Youth Cap"]) { userErrors { message } }
+r7: tagsRemove(id: "gid://shopify/Product/9270097674548", tags: ["Adjustable Hats", "Adjustable Hats for Kids", "Adjustable Kids Cap", "Adjustable Kids Caps", "Boys Cap", "Boys Caps", "Children’s Hats", "Cool Kids Cap", "Girls Cap", "Girls Caps", "hats", "Headster", "Headster Adjustable Cap", "Headster Hats", "Kids Baseball Caps", "Kids Cap", "Kids Caps", "Kids Fashion", "Kids Hat Collection", "Kids Headwear", "Outdoor Kids Hats", "Snapback Cap", "Summer Cap", "Summer Kids Caps", "Toddler Cap", "Trendy Kids Cap", "Unisex Cap", "Urban Kids Style", "Youth Cap"]) { userErrors { message } }
+r8: tagsRemove(id: "gid://shopify/Product/9270097903924", tags: ["Adjustable Hats", "Adjustable Hats for Kids", "Adjustable Kids Cap", "Adjustable Kids Caps", "Boys Cap", "Boys Caps", "Children’s Hats", "Cool Kids Cap", "Girls Cap", "Girls Caps", "hats", "Headster", "Headster Adjustable Cap", "Headster Hats", "Kids Baseball Caps", "Kids Cap", "Kids Caps", "Kids Fashion", "Kids Hat Collection", "Kids Headwear", "Outdoor Kids Hats", "Snapback Cap", "Summer Cap", "Summer Kids Caps", "Toddler Cap", "Trendy Kids Cap", "Unisex Cap", "Urban Kids Style", "Youth Cap"]) { userErrors { message } }
+r9: tagsRemove(id: "gid://shopify/Product/9270099411252", tags: ["Adjustable Hats", "Adjustable Hats for Kids", "Adjustable Kids Cap", "Adjustable Kids Caps", "Boys Cap", "Boys Caps", "Children’s Hats", "Cool Kids Cap", "Girls Cap", "Girls Caps", "hats", "Headster", "Headster Adjustable Cap", "Headster Hats", "Kids Baseball Caps", "Kids Cap", "Kids Caps", "Kids Fashion", "Kids Hat Collection", "Kids Headwear", "Outdoor Kids Hats", "Snapback Cap", "Summer Cap", "Summer Kids Caps", "Toddler Cap", "Trendy Kids Cap", "Unisex Cap", "Urban Kids Style", "Youth Cap"]) { userErrors { message } }
+r10: tagsRemove(id: "gid://shopify/Product/9270106456372", tags: ["Magic Wand"]) { userErrors { message } }
+r11: tagsRemove(id: "gid://shopify/Product/9270107144500", tags: ["Hair Clips"]) { userErrors { message } }
+r12: tagsRemove(id: "gid://shopify/Product/9270150463796", tags: ["Hair bow"]) { userErrors { message } }
+r13: tagsRemove(id: "gid://shopify/Product/9270150562100", tags: ["Costume Jewelry"]) { userErrors { message } }
+r14: tagsRemove(id: "gid://shopify/Product/9270588768564", tags: ["doll clothes", "dolls", "Dress Up Doll"]) { userErrors { message } }
+r15: tagsRemove(id: "gid://shopify/Product/9270589915444", tags: ["doll clothes", "dolls", "Dress Up Doll"]) { userErrors { message } }
+r16: tagsRemove(id: "gid://shopify/Product/9270590275892", tags: ["doll clothes", "dolls", "Dress Up Doll"]) { userErrors { message } }
+r17: tagsRemove(id: "gid://shopify/Product/9271414128948", tags: ["Girls Headband", "Hair pins", "Hairclip"]) { userErrors { message } }
+r18: tagsRemove(id: "gid://shopify/Product/9271420715316", tags: ["baby dolls", "dolls"]) { userErrors { message } }
+r19: tagsRemove(id: "gid://shopify/Product/9271421108532", tags: ["baby dolls", "dolls"]) { userErrors { message } }
+r20: tagsRemove(id: "gid://shopify/Product/9271421993268", tags: ["baby dolls", "dolls"]) { userErrors { message } }
+r21: tagsRemove(id: "gid://shopify/Product/9271422812468", tags: ["baby dolls", "dolls"]) { userErrors { message } }
+r22: tagsRemove(id: "gid://shopify/Product/9271423598900", tags: ["baby dolls", "dolls"]) { userErrors { message } }
+r23: tagsRemove(id: "gid://shopify/Product/9271424450868", tags: ["baby dolls", "dolls"]) { userErrors { message } }
+r24: tagsRemove(id: "gid://shopify/Product/9271425761588", tags: ["baby dolls", "dolls"]) { userErrors { message } }
+r25: tagsRemove(id: "gid://shopify/Product/9271589667124", tags: ["baby dolls", "dolls"]) { userErrors { message } }
+r26: tagsRemove(id: "gid://shopify/Product/9271591928116", tags: ["baby dolls", "dolls"]) { userErrors { message } }
+r27: tagsRemove(id: "gid://shopify/Product/9271592681780", tags: ["baby dolls", "dolls"]) { userErrors { message } }
+r28: tagsRemove(id: "gid://shopify/Product/9271593599284", tags: ["baby dolls", "dolls"]) { userErrors { message } }
+r29: tagsRemove(id: "gid://shopify/Product/9271595041076", tags: ["baby dolls", "dolls"]) { userErrors { message } }
+r30: tagsRemove(id: "gid://shopify/Product/9271749968180", tags: ["wands"]) { userErrors { message } }
+r31: tagsRemove(id: "gid://shopify/Product/9271751475508", tags: ["wands"]) { userErrors { message } }
+r32: tagsRemove(id: "gid://shopify/Product/9271753310516", tags: ["Kids Purse"]) { userErrors { message } }
+r33: tagsRemove(id: "gid://shopify/Product/9272800870708", tags: ["dolls"]) { userErrors { message } }
+r34: tagsRemove(id: "gid://shopify/Product/9273133039924", tags: ["Kids Nail Art", "Nail Accessories", "Nail Art for Kids", "nail stickers"]) { userErrors { message } }
+r35: tagsRemove(id: "gid://shopify/Product/9273133498676", tags: ["Bracelet", "Costume Jewelry", "dress up bracelet", "Play Jewelry", "Toy Jewelry"]) { userErrors { message } }
+r36: tagsRemove(id: "gid://shopify/Product/9273133662516", tags: ["earrings", "Kids Earrings", "Play Earrings"]) { userErrors { message } }
+r37: tagsRemove(id: "gid://shopify/Product/9273134088500", tags: ["Children's Jewelry", "Costume Jewelry", "earrings", "Jewelry Set", "Kids Earrings", "Play Earrings", "Play Jewelry"]) { userErrors { message } }
+r38: tagsRemove(id: "gid://shopify/Product/9273134219572", tags: ["Children's Jewelry", "Costume Jewelry", "jewelery", "jewellery", "Jewelry Set", "Play Jewelry", "Toy Jewelry"]) { userErrors { message } }
+r39: tagsRemove(id: "gid://shopify/Product/9273134416180", tags: ["earrings", "jewelery", "jewellery", "Stick-On Earrings"]) { userErrors { message } }
+r40: tagsRemove(id: "gid://shopify/Product/9273134514484", tags: ["Children's Jewelry", "Fashion Jewelry", "jewelery", "jewellery", "necklace", "Play Jewelry"]) { userErrors { message } }
+r41: tagsRemove(id: "gid://shopify/Product/9273568035124", tags: ["Kids Science", "outdoor play", "Outdoor Toy", "Science Toys"]) { userErrors { message } }
+r42: tagsRemove(id: "gid://shopify/Product/9273568297268", tags: ["walkie-talkies"]) { userErrors { message } }
+r43: tagsRemove(id: "gid://shopify/Product/9273710903604", tags: ["Baby Footwear", "cowhide", "sheepskin", "shoe", "Slippers", "wool", "wool shoes"]) { userErrors { message } }
+r44: tagsRemove(id: "gid://shopify/Product/9274125386036", tags: ["Books"]) { userErrors { message } }
+r45: tagsRemove(id: "gid://shopify/Product/9274127352116", tags: ["Kids Mealtime", "meal time", "Mealtime Essentials", "placemats"]) { userErrors { message } }
+r46: tagsRemove(id: "gid://shopify/Product/9274127417652", tags: ["Kids Mealtime", "meal time", "Mealtime Essentials", "placemats"]) { userErrors { message } }
+r47: tagsRemove(id: "gid://shopify/Product/9274129383732", tags: ["Jewellery Box", "Jewelry Set"]) { userErrors { message } }
+r48: tagsRemove(id: "gid://shopify/Product/9274129678644", tags: ["Books"]) { userErrors { message } }
+r49: tagsRemove(id: "gid://shopify/Product/9274130563380", tags: ["Kids Purse", "Mini Purse", "purse", "wallet"]) { userErrors { message } }
+r50: tagsRemove(id: "gid://shopify/Product/9274130989364", tags: ["baby book", "Books", "cloth book", "Soft Book"]) { userErrors { message } }
+r51: tagsRemove(id: "gid://shopify/Product/9274261995828", tags: ["colour changing", "floss and rock", "Kids Rain Gear"]) { userErrors { message } }
+r52: tagsRemove(id: "gid://shopify/Product/9274262126900", tags: ["colour changing", "floss and rock", "Kids Rain Gear"]) { userErrors { message } }
+r53: tagsRemove(id: "gid://shopify/Product/9274262356276", tags: ["colour changing", "floss and rock", "Kids Rain Gear"]) { userErrors { message } }
+r54: tagsRemove(id: "gid://shopify/Product/9274262651188", tags: ["colour changing", "floss and rock", "Kids Rain Gear"]) { userErrors { message } }
+r55: tagsRemove(id: "gid://shopify/Product/9274266747188", tags: ["colour changing", "floss and rock", "Kids Rain Gear"]) { userErrors { message } }
+r56: tagsRemove(id: "gid://shopify/Product/9274450346292", tags: ["baby balm", "Baby Essentials", "body lotion"]) { userErrors { message } }
+r57: tagsRemove(id: "gid://shopify/Product/9275444887860", tags: ["Toy Airplane"]) { userErrors { message } }
+r58: tagsRemove(id: "gid://shopify/Product/9275445150004", tags: ["Push and Pull Toy"]) { userErrors { message } }
+r59: tagsRemove(id: "gid://shopify/Product/9275445674292", tags: ["building toys"]) { userErrors { message } }
+r60: tagsRemove(id: "gid://shopify/Product/9275450982708", tags: ["building toys"]) { userErrors { message } }
+r61: tagsRemove(id: "gid://shopify/Product/9275451146548", tags: ["educational toys"]) { userErrors { message } }
+r62: tagsRemove(id: "gid://shopify/Product/9275882537268", tags: ["Science Kit"]) { userErrors { message } }
+r63: tagsRemove(id: "gid://shopify/Product/9275913273652", tags: ["Kids Science", "Kids Science Kit", "Science Kit", "Science Toys"]) { userErrors { message } }
+r64: tagsRemove(id: "gid://shopify/Product/9275920580916", tags: ["crafts", "Crafts and Activites"]) { userErrors { message } }
+r65: tagsRemove(id: "gid://shopify/Product/9275925561652", tags: ["Kids Science", "Kids Science Kit", "Science Kit", "Science Toys"]) { userErrors { message } }
+r66: tagsRemove(id: "gid://shopify/Product/9276012396852", tags: ["Kids Tattoos", "Removable Tattoos"]) { userErrors { message } }
+r67: tagsRemove(id: "gid://shopify/Product/9276035399988", tags: ["Growth Chart", "Home Decor Decals", "wooden decor"]) { userErrors { message } }
+r68: tagsRemove(id: "gid://shopify/Product/9276090941748", tags: ["baby bib", "wipable bibs"]) { userErrors { message } }
+r69: tagsRemove(id: "gid://shopify/Product/9276091203892", tags: ["Baby Soothers", "soother"]) { userErrors { message } }
+r70: tagsRemove(id: "gid://shopify/Product/9276092645684", tags: ["cotton bibs"]) { userErrors { message } }
+r71: tagsRemove(id: "gid://shopify/Product/9276100444468", tags: ["pacifier clip"]) { userErrors { message } }
+r72: tagsRemove(id: "gid://shopify/Product/9276298461492", tags: ["Baby Winter Hat"]) { userErrors { message } }
+r73: tagsRemove(id: "gid://shopify/Product/9276301803828", tags: ["kids lunch bag"]) { userErrors { message } }
+r74: tagsRemove(id: "gid://shopify/Product/9276302164276", tags: ["kids lunch bag"]) { userErrors { message } }
+r75: tagsRemove(id: "gid://shopify/Product/9276306948404", tags: ["kids lunch bag"]) { userErrors { message } }
+r76: tagsRemove(id: "gid://shopify/Product/9276307865908", tags: ["Travel Bag"]) { userErrors { message } }
+r77: tagsRemove(id: "gid://shopify/Product/9276309242164", tags: ["Baby Winter Hat"]) { userErrors { message } }
+r78: tagsRemove(id: "gid://shopify/Product/9276313403700", tags: ["Baby Winter Hat", "Children’s Hats", "hats"]) { userErrors { message } }
+r79: tagsRemove(id: "gid://shopify/Product/9276315566388", tags: ["bags", "Travel Bag"]) { userErrors { message } }
+r80: tagsRemove(id: "gid://shopify/Product/9276349120820", tags: ["Belt Bag", "Everyday Bag", "Kids Purse", "Mini Bag", "On-the-Go Bag", "purse", "Travel Bag"]) { userErrors { message } }
+r81: tagsRemove(id: "gid://shopify/Product/9276349219124", tags: ["Belt Bag", "Everyday Bag", "Fancy Purse", "Fashion Purse", "Kids Purse", "Lightweight Bag", "Mini Bag", "Mini Purse", "On-the-Go Bag", "purse", "Stylish Bag", "Travel Bag"]) { userErrors { message } }
+r82: tagsRemove(id: "gid://shopify/Product/9276349350196", tags: ["back to school gear", "Cute Pencil Case", "Kids Pencil Case", "Pencil Case", "School Essentials", "school supplies"]) { userErrors { message } }
+r83: tagsRemove(id: "gid://shopify/Product/9276349415732", tags: ["Belt Bag", "Everyday Bag", "Fanny Pack", "Kids Fanny Pack", "Lightweight Bag", "Mini Bag", "On-the-Go Bag", "Travel Bag", "Waist Bag"]) { userErrors { message } }
+r84: tagsRemove(id: "gid://shopify/Product/9276349514036", tags: ["Belt Bag", "Everyday Bag", "Lightweight Bag", "Mini Bag", "On-the-Go Bag", "Travel Bag"]) { userErrors { message } }
+r85: tagsRemove(id: "gid://shopify/Product/9277844455732", tags: ["baby hair care", "family friendly hair care", "Gentle Hair Detangler", "hair", "hair care", "Hair Detangler", "hair styling", "toddler hair care"]) { userErrors { message } }
+r86: tagsRemove(id: "gid://shopify/Product/9277952852276", tags: ["Book", "Holiday Book"]) { userErrors { message } }
+r87: tagsRemove(id: "gid://shopify/Product/9277986734388", tags: ["craft kit", "Crafts and Activites", "Kids Craft"]) { userErrors { message } }
+r88: tagsRemove(id: "gid://shopify/Product/9277990273332", tags: ["Books", "kids books", "picture books"]) { userErrors { message } }
+r89: tagsRemove(id: "gid://shopify/Product/9277990895924", tags: ["board book", "Books", "kids books"]) { userErrors { message } }
+}

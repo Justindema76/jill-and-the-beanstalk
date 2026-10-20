@@ -1,0 +1,92 @@
+mutation R {
+r0: tagsRemove(id: "gid://shopify/Product/9235481166132", tags: ["Action Figure"]) { userErrors { message } }
+r1: tagsRemove(id: "gid://shopify/Product/9235772277044", tags: ["school supplies"]) { userErrors { message } }
+r2: tagsRemove(id: "gid://shopify/Product/9235775226164", tags: ["crossword puzzles", "word search"]) { userErrors { message } }
+r3: tagsRemove(id: "gid://shopify/Product/9235775553844", tags: ["activity cards", "art for kids", "car activities", "coloring supplies", "creative gifts", "fun pens", "gift for 5 year old", "gift for 7 year old", "kids activities", "kids art supplies", "kids craft supplies", "kids stationery", "loot bag ideas", "ooly", "ooly canada", "ooly stickers", "school supplies", "Toronto baby products", "Toronto baby store", "Toronto toy store", "travel activities"]) { userErrors { message } }
+r4: tagsRemove(id: "gid://shopify/Product/9235776241972", tags: ["activity cards", "art for kids", "car activities", "coloring supplies", "creative gifts", "fun pens", "gift for 5 year old", "gift for 7 year old", "kids activities", "kids art supplies", "kids craft supplies", "kids stationery", "loot bag ideas", "ooly", "ooly canada", "ooly stickers", "school supplies", "Toronto baby products", "Toronto baby store", "Toronto toy store", "travel activities"]) { userErrors { message } }
+r5: tagsRemove(id: "gid://shopify/Product/9235776766260", tags: ["activity cards", "art for kids", "car activities", "coloring supplies", "creative gifts", "fun pens", "gift for 5 year old", "gift for 7 year old", "kids activities", "kids art supplies", "kids craft supplies", "kids stationery", "loot bag ideas", "ooly", "ooly canada", "ooly stickers", "school supplies", "Toronto baby products", "Toronto baby store", "Toronto toy store", "travel activities"]) { userErrors { message } }
+r6: tagsRemove(id: "gid://shopify/Product/9235794002228", tags: ["nail pen"]) { userErrors { message } }
+r7: tagsRemove(id: "gid://shopify/Product/9235795083572", tags: ["dress up", "kid-safe make-up", "Lip Balm", "lip shimmer", "lipstick", "Piggy Paint"]) { userErrors { message } }
+r8: tagsRemove(id: "gid://shopify/Product/9236169031988", tags: ["Aurora", "palm pal", "stuffie"]) { userErrors { message } }
+r9: tagsRemove(id: "gid://shopify/Product/9236169556276", tags: ["Aurora", "palm pal", "stuffie"]) { userErrors { message } }
+r10: tagsRemove(id: "gid://shopify/Product/9236169621812", tags: ["Aurora", "palm pal", "stuffie"]) { userErrors { message } }
+r11: tagsRemove(id: "gid://shopify/Product/9236176666932", tags: ["Aurora", "palm pal", "stuffie"]) { userErrors { message } }
+r12: tagsRemove(id: "gid://shopify/Product/9236185219380", tags: ["Soft Rattle"]) { userErrors { message } }
+r13: tagsRemove(id: "gid://shopify/Product/9236186169652", tags: ["Soft Rattle"]) { userErrors { message } }
+r14: tagsRemove(id: "gid://shopify/Product/9236186857780", tags: ["Soft Rattle"]) { userErrors { message } }
+r15: tagsRemove(id: "gid://shopify/Product/9236189020468", tags: ["Soft Rattle"]) { userErrors { message } }
+r16: tagsRemove(id: "gid://shopify/Product/9236189282612", tags: ["Soft Rattle"]) { userErrors { message } }
+r17: tagsRemove(id: "gid://shopify/Product/9236204060980", tags: ["Aurora", "mini flopsie", "small stuffed animal"]) { userErrors { message } }
+r18: tagsRemove(id: "gid://shopify/Product/9236214907188", tags: ["stuffed animals"]) { userErrors { message } }
+r19: tagsRemove(id: "gid://shopify/Product/9236216250676", tags: ["Aurora", "flopsie", "Soft Toy", "stuffie"]) { userErrors { message } }
+r20: tagsRemove(id: "gid://shopify/Product/9236227752244", tags: ["Aurora", "fancy pal", "purse", "small stuffed animal", "stuffie"]) { userErrors { message } }
+r21: tagsRemove(id: "gid://shopify/Product/9236230897972", tags: ["Puppet", "Soft Puppet"]) { userErrors { message } }
+r22: tagsRemove(id: "gid://shopify/Product/9236231127348", tags: ["finger puppet", "folkmanis", "Puppet", "Soft Puppet", "Storytelling Puppet", "stuffie"]) { userErrors { message } }
+r23: tagsRemove(id: "gid://shopify/Product/9236231618868", tags: ["Puppet", "Soft Puppet"]) { userErrors { message } }
+r24: tagsRemove(id: "gid://shopify/Product/9236232012084", tags: ["Puppet", "Soft Puppet"]) { userErrors { message } }
+r25: tagsRemove(id: "gid://shopify/Product/9236232503604", tags: ["Puppet", "Soft Puppet"]) { userErrors { message } }
+r26: tagsRemove(id: "gid://shopify/Product/9236232700212", tags: ["Puppet", "Soft Puppet"]) { userErrors { message } }
+r27: tagsRemove(id: "gid://shopify/Product/9236232864052", tags: ["Puppet", "Soft Puppet"]) { userErrors { message } }
+r28: tagsRemove(id: "gid://shopify/Product/9236232995124", tags: ["Puppet", "Soft Puppet"]) { userErrors { message } }
+r29: tagsRemove(id: "gid://shopify/Product/9236233093428", tags: ["Puppet", "Soft Puppet"]) { userErrors { message } }
+r30: tagsRemove(id: "gid://shopify/Product/9236234338612", tags: ["Puppet", "Soft Puppet"]) { userErrors { message } }
+r31: tagsRemove(id: "gid://shopify/Product/9236234567988", tags: ["Puppet", "Soft Puppet"]) { userErrors { message } }
+r32: tagsRemove(id: "gid://shopify/Product/9236234895668", tags: ["Puppet", "Soft Puppet"]) { userErrors { message } }
+r33: tagsRemove(id: "gid://shopify/Product/9236235092276", tags: ["finger puppet", "folkmanis", "Puppet", "Soft Puppet", "Storytelling Puppet", "stuffie"]) { userErrors { message } }
+r34: tagsRemove(id: "gid://shopify/Product/9236235387188", tags: ["Puppet", "Soft Puppet"]) { userErrors { message } }
+r35: tagsRemove(id: "gid://shopify/Product/9236235747636", tags: ["Puppet", "Soft Puppet"]) { userErrors { message } }
+r36: tagsRemove(id: "gid://shopify/Product/9236235780404", tags: ["Puppet", "Soft Puppet"]) { userErrors { message } }
+r37: tagsRemove(id: "gid://shopify/Product/9236236042548", tags: ["Puppet", "Soft Puppet"]) { userErrors { message } }
+r38: tagsRemove(id: "gid://shopify/Product/9236236108084", tags: ["Puppet", "Soft Puppet"]) { userErrors { message } }
+r39: tagsRemove(id: "gid://shopify/Product/9236236173620", tags: ["finger puppet", "folkmanis", "Puppet", "Soft Puppet", "Storytelling Puppet", "stuffie"]) { userErrors { message } }
+r40: tagsRemove(id: "gid://shopify/Product/9236236402996", tags: ["finger puppet", "folkmanis", "Puppet", "Soft Puppet", "Storytelling Puppet", "stuffie"]) { userErrors { message } }
+r41: tagsRemove(id: "gid://shopify/Product/9236238696756", tags: ["Puppet", "Soft Puppet"]) { userErrors { message } }
+r42: tagsRemove(id: "gid://shopify/Product/9236238795060", tags: ["finger puppet", "folkmanis", "Puppet", "Soft Puppet", "Storytelling Puppet", "stuffie"]) { userErrors { message } }
+r43: tagsRemove(id: "gid://shopify/Product/9236238958900", tags: ["Puppet", "Soft Puppet"]) { userErrors { message } }
+r44: tagsRemove(id: "gid://shopify/Product/9236239221044", tags: ["Puppet", "Soft Puppet"]) { userErrors { message } }
+r45: tagsRemove(id: "gid://shopify/Product/9236239515956", tags: ["finger puppet", "folkmanis", "Puppet", "Soft Puppet", "Storytelling Puppet", "stuffie"]) { userErrors { message } }
+r46: tagsRemove(id: "gid://shopify/Product/9236240073012", tags: ["Puppet", "Soft Puppet"]) { userErrors { message } }
+r47: tagsRemove(id: "gid://shopify/Product/9236240597300", tags: ["Puppet", "Soft Puppet"]) { userErrors { message } }
+r48: tagsRemove(id: "gid://shopify/Product/9236242202932", tags: ["Puppet", "Soft Puppet"]) { userErrors { message } }
+r49: tagsRemove(id: "gid://shopify/Product/9236245905716", tags: ["finger puppet", "folkmanis", "Puppet", "Soft Puppet", "Storytelling Puppet", "stuffie"]) { userErrors { message } }
+r50: tagsRemove(id: "gid://shopify/Product/9236251541812", tags: ["Puppet", "Soft Puppet"]) { userErrors { message } }
+r51: tagsRemove(id: "gid://shopify/Product/9236252852532", tags: ["finger puppet", "Puppet", "Soft Puppet", "Storytelling Puppet"]) { userErrors { message } }
+r52: tagsRemove(id: "gid://shopify/Product/9236255375668", tags: ["Puppet", "Soft Puppet"]) { userErrors { message } }
+r53: tagsRemove(id: "gid://shopify/Product/9236255998260", tags: ["finger puppet", "folkmanis", "Puppet", "Soft Puppet", "Storytelling Puppet", "stuffie"]) { userErrors { message } }
+r54: tagsRemove(id: "gid://shopify/Product/9236258095412", tags: ["folkmanis", "Hand Puppet", "hand puppets", "Puppet", "Soft Puppet", "Storytelling Puppet"]) { userErrors { message } }
+r55: tagsRemove(id: "gid://shopify/Product/9236258128180", tags: ["folkmanis", "Hand Puppet", "hand puppets", "Puppet", "Soft Puppet", "Storytelling Puppet"]) { userErrors { message } }
+r56: tagsRemove(id: "gid://shopify/Product/9236259864884", tags: ["folkmanis", "Hand Puppet", "hand puppets", "Puppet", "Soft Puppet", "Storytelling Puppet"]) { userErrors { message } }
+r57: tagsRemove(id: "gid://shopify/Product/9236260749620", tags: ["folkmanis", "Hand Puppet", "hand puppets", "Puppet", "Soft Puppet", "Storytelling Puppet"]) { userErrors { message } }
+r58: tagsRemove(id: "gid://shopify/Product/9236261011764", tags: ["folkmanis", "Hand Puppet", "hand puppets", "Puppet", "Soft Puppet", "Storytelling Puppet"]) { userErrors { message } }
+r59: tagsRemove(id: "gid://shopify/Product/9236261142836", tags: ["folkmanis", "Hand Puppet", "hand puppets", "Puppet", "Soft Puppet", "Storytelling Puppet"]) { userErrors { message } }
+r60: tagsRemove(id: "gid://shopify/Product/9236263829812", tags: ["folkmanis", "Hand Puppet", "hand puppets", "Puppet", "Soft Puppet", "Storytelling Puppet"]) { userErrors { message } }
+r61: tagsRemove(id: "gid://shopify/Product/9236265009460", tags: ["folkmanis", "Hand Puppet", "hand puppets", "Puppet", "Soft Puppet", "Storytelling Puppet"]) { userErrors { message } }
+r62: tagsRemove(id: "gid://shopify/Product/9236266221876", tags: ["folkmanis", "Hand Puppet", "hand puppets", "Puppet", "Soft Puppet", "Storytelling Puppet"]) { userErrors { message } }
+r63: tagsRemove(id: "gid://shopify/Product/9236266484020", tags: ["folkmanis", "Hand Puppet", "hand puppets", "Puppet", "Soft Puppet", "Storytelling Puppet"]) { userErrors { message } }
+r64: tagsRemove(id: "gid://shopify/Product/9236266713396", tags: ["folkmanis", "Hand Puppet", "hand puppets", "Puppet", "Soft Puppet", "Storytelling Puppet"]) { userErrors { message } }
+r65: tagsRemove(id: "gid://shopify/Product/9236266942772", tags: ["folkmanis", "Hand Puppet", "hand puppets", "Puppet", "Soft Puppet", "Storytelling Puppet"]) { userErrors { message } }
+r66: tagsRemove(id: "gid://shopify/Product/9236267073844", tags: ["folkmanis", "Hand Puppet", "hand puppets", "Puppet", "Soft Puppet", "Storytelling Puppet"]) { userErrors { message } }
+r67: tagsRemove(id: "gid://shopify/Product/9236267991348", tags: ["folkmanis", "Hand Puppet", "hand puppets", "Puppet", "Soft Puppet", "Storytelling Puppet"]) { userErrors { message } }
+r68: tagsRemove(id: "gid://shopify/Product/9236272251188", tags: ["dinosaur", "dinosaurs", "Hand Puppet", "hand puppets", "Puppet", "Soft Puppet", "Storytelling Puppet"]) { userErrors { message } }
+r69: tagsRemove(id: "gid://shopify/Product/9236273430836", tags: ["folkmanis", "Hand Puppet", "hand puppets", "Puppet", "Soft Puppet", "Storytelling Puppet"]) { userErrors { message } }
+r70: tagsRemove(id: "gid://shopify/Product/9236346110260", tags: ["Aurora", "plush toys", "stuffie"]) { userErrors { message } }
+r71: tagsRemove(id: "gid://shopify/Product/9236346175796", tags: ["Aurora", "plush toys", "stuffie"]) { userErrors { message } }
+r72: tagsRemove(id: "gid://shopify/Product/9236346503476", tags: ["Aurora"]) { userErrors { message } }
+r73: tagsRemove(id: "gid://shopify/Product/9236346667316", tags: ["Aurora"]) { userErrors { message } }
+r74: tagsRemove(id: "gid://shopify/Product/9236346962228", tags: ["Aurora"]) { userErrors { message } }
+r75: tagsRemove(id: "gid://shopify/Product/9236346994996", tags: ["Aurora"]) { userErrors { message } }
+r76: tagsRemove(id: "gid://shopify/Product/9236347060532", tags: ["Aurora"]) { userErrors { message } }
+r77: tagsRemove(id: "gid://shopify/Product/9236347158836", tags: ["Aurora"]) { userErrors { message } }
+r78: tagsRemove(id: "gid://shopify/Product/9236347388212", tags: ["Aurora"]) { userErrors { message } }
+r79: tagsRemove(id: "gid://shopify/Product/9236347420980", tags: ["Aurora", "plush toys", "stuffie"]) { userErrors { message } }
+r80: tagsRemove(id: "gid://shopify/Product/9236347584820", tags: ["Aurora"]) { userErrors { message } }
+r81: tagsRemove(id: "gid://shopify/Product/9236347617588", tags: ["Aurora"]) { userErrors { message } }
+r82: tagsRemove(id: "gid://shopify/Product/9236347715892", tags: ["Aurora"]) { userErrors { message } }
+r83: tagsRemove(id: "gid://shopify/Product/9236347846964", tags: ["dolls", "magnetic", "magnets", "stella"]) { userErrors { message } }
+r84: tagsRemove(id: "gid://shopify/Product/9236348043572", tags: ["magnetic", "magnets"]) { userErrors { message } }
+r85: tagsRemove(id: "gid://shopify/Product/9236348076340", tags: ["magnetic", "magnets", "stella"]) { userErrors { message } }
+r86: tagsRemove(id: "gid://shopify/Product/9236348371252", tags: ["baby dolls", "dolls", "magnetic", "magnets", "stella"]) { userErrors { message } }
+r87: tagsRemove(id: "gid://shopify/Product/9236348535092", tags: ["baby", "dolls", "stella", "Toy"]) { userErrors { message } }
+r88: tagsRemove(id: "gid://shopify/Product/9236348862772", tags: ["Aurora", "cat", "plush toys", "spudster"]) { userErrors { message } }
+r89: tagsRemove(id: "gid://shopify/Product/9236349452596", tags: ["Soft Rattle"]) { userErrors { message } }
+}

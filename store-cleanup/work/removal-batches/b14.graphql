@@ -1,0 +1,92 @@
+mutation R {
+r0: tagsRemove(id: "gid://shopify/Product/7606134538296", tags: ["Educational"]) { userErrors { message } }
+r1: tagsRemove(id: "gid://shopify/Product/7606134865976", tags: ["Kids Science", "Kids Science Kit", "Science Kit", "Science Toys"]) { userErrors { message } }
+r2: tagsRemove(id: "gid://shopify/Product/7606134898744", tags: ["Kids Science", "Kids Science Kit", "Science Project", "Science Toys"]) { userErrors { message } }
+r3: tagsRemove(id: "gid://shopify/Product/7606134931512", tags: ["educational toys", "magic"]) { userErrors { message } }
+r4: tagsRemove(id: "gid://shopify/Product/7606255517752", tags: ["bath toy"]) { userErrors { message } }
+r5: tagsRemove(id: "gid://shopify/Product/7606257909816", tags: ["vitamin d"]) { userErrors { message } }
+r6: tagsRemove(id: "gid://shopify/Product/7606277799992", tags: ["nail art", "nail polish", "nail varnish", "nails"]) { userErrors { message } }
+r7: tagsRemove(id: "gid://shopify/Product/7606560030776", tags: ["magnetic", "magnets"]) { userErrors { message } }
+r8: tagsRemove(id: "gid://shopify/Product/7606565732408", tags: ["eating", "Reusable Utensils", "Safe Baby Utensils", "utensils"]) { userErrors { message } }
+r9: tagsRemove(id: "gid://shopify/Product/7606565830712", tags: ["Feeding Essentials", "feeding time"]) { userErrors { message } }
+r10: tagsRemove(id: "gid://shopify/Product/7606603448376", tags: ["bedtime stories", "board books", "Books", "early readers", "kids books", "literacy", "picture books", "storytime"]) { userErrors { message } }
+r11: tagsRemove(id: "gid://shopify/Product/7606629662776", tags: ["back to school"]) { userErrors { message } }
+r12: tagsRemove(id: "gid://shopify/Product/7606629761080", tags: ["Building Set", "building toys"]) { userErrors { message } }
+r13: tagsRemove(id: "gid://shopify/Product/7606654795832", tags: ["baby toys", "fun"]) { userErrors { message } }
+r14: tagsRemove(id: "gid://shopify/Product/7606654926904", tags: ["sleep"]) { userErrors { message } }
+r15: tagsRemove(id: "gid://shopify/Product/7606655549496", tags: ["baby care", "Baby Care Kit", "Baby Care Products", "Baby Nail Care", "baby nails", "Nail care", "nail file", "nails"]) { userErrors { message } }
+r16: tagsRemove(id: "gid://shopify/Product/7606735798328", tags: ["board Games", "card game for kids", "children's game", "family game", "fun kids game", "game for ages 3+", "kids board game", "kids educational game", "learning game", "new toys", "orchard toys", "orchard toys tummy ache", "tummy ache"]) { userErrors { message } }
+r17: tagsRemove(id: "gid://shopify/Product/7606736388152", tags: ["board Games"]) { userErrors { message } }
+r18: tagsRemove(id: "gid://shopify/Product/7607105454136", tags: ["toddlers"]) { userErrors { message } }
+r19: tagsRemove(id: "gid://shopify/Product/7607105486904", tags: ["Toddler"]) { userErrors { message } }
+r20: tagsRemove(id: "gid://shopify/Product/7607105749048", tags: ["magnetic", "magnets"]) { userErrors { message } }
+r21: tagsRemove(id: "gid://shopify/Product/7607105880120", tags: ["toddlers"]) { userErrors { message } }
+r22: tagsRemove(id: "gid://shopify/Product/7607106011192", tags: ["Educational"]) { userErrors { message } }
+r23: tagsRemove(id: "gid://shopify/Product/7607106076728", tags: ["baby toys", "sensory"]) { userErrors { message } }
+r24: tagsRemove(id: "gid://shopify/Product/7607106109496", tags: ["balls", "fun"]) { userErrors { message } }
+r25: tagsRemove(id: "gid://shopify/Product/7607106207800", tags: ["activity", "easy fun kids items", "fine motor skills", "wooden toy"]) { userErrors { message } }
+r26: tagsRemove(id: "gid://shopify/Product/7607106273336", tags: ["Baby Teether", "Infant Teether"]) { userErrors { message } }
+r27: tagsRemove(id: "gid://shopify/Product/7607130325048", tags: ["music"]) { userErrors { message } }
+r28: tagsRemove(id: "gid://shopify/Product/7607130456120", tags: ["easy fun kids items"]) { userErrors { message } }
+r29: tagsRemove(id: "gid://shopify/Product/7607131045944", tags: ["easy fun kids items"]) { userErrors { message } }
+r30: tagsRemove(id: "gid://shopify/Product/7607131537464", tags: ["fun"]) { userErrors { message } }
+r31: tagsRemove(id: "gid://shopify/Product/7607131570232", tags: ["easy fun kids items"]) { userErrors { message } }
+r32: tagsRemove(id: "gid://shopify/Product/7607132454968", tags: ["easy fun kids items"]) { userErrors { message } }
+r33: tagsRemove(id: "gid://shopify/Product/7607132553272", tags: ["Dinobot Adventures", "Everest Toys", "fun", "Preschool Transformers", "Transformers Toys"]) { userErrors { message } }
+r34: tagsRemove(id: "gid://shopify/Product/7607132684344", tags: ["activity", "Toy"]) { userErrors { message } }
+r35: tagsRemove(id: "gid://shopify/Product/7607133896760", tags: ["fun", "nail polish", "nail varnish", "nails"]) { userErrors { message } }
+r36: tagsRemove(id: "gid://shopify/Product/7607223255096", tags: ["easy fun kids items"]) { userErrors { message } }
+r37: tagsRemove(id: "gid://shopify/Product/7607223353400", tags: ["fine motor skills", "fun", "interactive play", "Jill and the Beanstalk", "Toronto toy store"]) { userErrors { message } }
+r38: tagsRemove(id: "gid://shopify/Product/7607225745464", tags: ["fun"]) { userErrors { message } }
+r39: tagsRemove(id: "gid://shopify/Product/7607225942072", tags: ["board Games", "gift for kids"]) { userErrors { message } }
+r40: tagsRemove(id: "gid://shopify/Product/7607226007608", tags: ["Dealing Dinos", "Dino Cards", "Dinosaur Game", "Educational Game", "Fun for Kids", "Kids Game", "Matching Game", "Quick Play Game", "Strategy Game"]) { userErrors { message } }
+r41: tagsRemove(id: "gid://shopify/Product/7607421173816", tags: ["Mr. Potato Head"]) { userErrors { message } }
+r42: tagsRemove(id: "gid://shopify/Product/7607433822264", tags: ["puzzle"]) { userErrors { message } }
+r43: tagsRemove(id: "gid://shopify/Product/7607771660344", tags: ["Toddler"]) { userErrors { message } }
+r44: tagsRemove(id: "gid://shopify/Product/7607782211640", tags: ["easy fun kids items"]) { userErrors { message } }
+r45: tagsRemove(id: "gid://shopify/Product/7607782375480", tags: ["easy fun kids items"]) { userErrors { message } }
+r46: tagsRemove(id: "gid://shopify/Product/7607782441016", tags: ["Award-Winning Book", "Books", "Children's Story", "Cultural Book", "Family Story", "Fry Bread", "Hardcover Book", "Heritage", "Indigenous Story", "Kids Literature", "Native American Book", "Own Voices", "Picture Book"]) { userErrors { message } }
+r47: tagsRemove(id: "gid://shopify/Product/7607782506552", tags: ["board book", "board books", "Book", "Books", "Educational", "kids books", "picture books"]) { userErrors { message } }
+r48: tagsRemove(id: "gid://shopify/Product/7607782539320", tags: ["Books", "dinosaur"]) { userErrors { message } }
+r49: tagsRemove(id: "gid://shopify/Product/7607782572088", tags: ["board book"]) { userErrors { message } }
+r50: tagsRemove(id: "gid://shopify/Product/7607782670392", tags: ["Toddler"]) { userErrors { message } }
+r51: tagsRemove(id: "gid://shopify/Product/7607786930232", tags: ["Book"]) { userErrors { message } }
+r52: tagsRemove(id: "gid://shopify/Product/7607786963000", tags: ["Andrea Beaty", "Architect Book", "Book", "Children's Story", "Creativity", "Educational Book", "Engineering Book", "Iggy Peck", "Imagination Book", "Kids Book", "Picture Book", "Read Aloud", "STEM Book"]) { userErrors { message } }
+r53: tagsRemove(id: "gid://shopify/Product/7607786995768", tags: ["bedtime stories", "board books", "Book", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r54: tagsRemove(id: "gid://shopify/Product/7607817502776", tags: ["board games", "Hasbro", "Jill and the Beanstalk", "Toronto toy store"]) { userErrors { message } }
+r55: tagsRemove(id: "gid://shopify/Product/7607819403320", tags: ["board book"]) { userErrors { message } }
+r56: tagsRemove(id: "gid://shopify/Product/7607819436088", tags: ["bedtime stories", "board books", "Book", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r57: tagsRemove(id: "gid://shopify/Product/7607819829304", tags: ["bedtime stories", "board books", "Books", "early readers", "kids books", "literacy", "picture books", "storytime"]) { userErrors { message } }
+r58: tagsRemove(id: "gid://shopify/Product/7607819862072", tags: ["board book"]) { userErrors { message } }
+r59: tagsRemove(id: "gid://shopify/Product/7607819927608", tags: ["board book", "board books", "Book", "Books", "kids books", "picture books"]) { userErrors { message } }
+r60: tagsRemove(id: "gid://shopify/Product/7607820025912", tags: ["bedtime stories", "board books", "Book", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r61: tagsRemove(id: "gid://shopify/Product/7607820091448", tags: ["bedtime stories", "board books", "Book", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r62: tagsRemove(id: "gid://shopify/Product/7607844405304", tags: ["Health"]) { userErrors { message } }
+r63: tagsRemove(id: "gid://shopify/Product/7607844601912", tags: ["teething"]) { userErrors { message } }
+r64: tagsRemove(id: "gid://shopify/Product/7607846666296", tags: ["baby brush", "Baby Grooming Essentials", "Baby Grooming Tool", "Brush", "Newborn Grooming"]) { userErrors { message } }
+r65: tagsRemove(id: "gid://shopify/Product/7607846731832", tags: ["nail clippers"]) { userErrors { message } }
+r66: tagsRemove(id: "gid://shopify/Product/7607906402360", tags: ["board book"]) { userErrors { message } }
+r67: tagsRemove(id: "gid://shopify/Product/7607906435128", tags: ["Books"]) { userErrors { message } }
+r68: tagsRemove(id: "gid://shopify/Product/7607906533432", tags: ["bedtime stories", "board books", "Books", "early readers", "kids books", "literacy", "picture books", "storytime"]) { userErrors { message } }
+r69: tagsRemove(id: "gid://shopify/Product/7607906893880", tags: ["bedtime stories", "board books", "Books", "early readers", "kids books", "literacy", "picture books", "storytime"]) { userErrors { message } }
+r70: tagsRemove(id: "gid://shopify/Product/7607910170680", tags: ["board book"]) { userErrors { message } }
+r71: tagsRemove(id: "gid://shopify/Product/7607912726584", tags: ["board book"]) { userErrors { message } }
+r72: tagsRemove(id: "gid://shopify/Product/7607915610168", tags: ["bedtime stories", "board books", "Books", "early readers", "kids books", "literacy", "picture books", "storytime"]) { userErrors { message } }
+r73: tagsRemove(id: "gid://shopify/Product/7607917838392", tags: ["Book"]) { userErrors { message } }
+r74: tagsRemove(id: "gid://shopify/Product/7607917871160", tags: ["bedtime stories", "board books", "Books", "early readers", "kids books", "literacy", "picture books", "storytime"]) { userErrors { message } }
+r75: tagsRemove(id: "gid://shopify/Product/7607926292536", tags: ["bedtime stories", "board books", "Books", "early readers", "kids books", "literacy", "picture books", "storytime"]) { userErrors { message } }
+r76: tagsRemove(id: "gid://shopify/Product/7607926685752", tags: ["Books"]) { userErrors { message } }
+r77: tagsRemove(id: "gid://shopify/Product/7607927406648", tags: ["bedtime stories", "board books", "Books", "early readers", "kids books", "literacy", "picture books", "storytime"]) { userErrors { message } }
+r78: tagsRemove(id: "gid://shopify/Product/7607927504952", tags: ["board book"]) { userErrors { message } }
+r79: tagsRemove(id: "gid://shopify/Product/7607940415544", tags: ["bedtime stories", "board books", "Books", "early readers", "kids books", "literacy", "picture books", "storytime"]) { userErrors { message } }
+r80: tagsRemove(id: "gid://shopify/Product/7607974395960", tags: ["bedtime stories", "board books", "Books", "early readers", "kids books", "literacy", "picture books", "storytime"]) { userErrors { message } }
+r81: tagsRemove(id: "gid://shopify/Product/7607974428728", tags: ["bedtime stories", "board books", "Books", "early readers", "kids books", "literacy", "picture books", "storytime"]) { userErrors { message } }
+r82: tagsRemove(id: "gid://shopify/Product/7607974527032", tags: ["Books", "dinosaur"]) { userErrors { message } }
+r83: tagsRemove(id: "gid://shopify/Product/7607974559800", tags: ["Book"]) { userErrors { message } }
+r84: tagsRemove(id: "gid://shopify/Product/7607992156216", tags: ["bedtime stories", "board books", "Books", "early readers", "kids books", "literacy", "picture books", "storytime"]) { userErrors { message } }
+r85: tagsRemove(id: "gid://shopify/Product/7608016470072", tags: ["Christmas decoration", "felt"]) { userErrors { message } }
+r86: tagsRemove(id: "gid://shopify/Product/7608016535608", tags: ["Christmas decoration", "felt"]) { userErrors { message } }
+r87: tagsRemove(id: "gid://shopify/Product/7608016601144", tags: ["Christmas decoration", "felt"]) { userErrors { message } }
+r88: tagsRemove(id: "gid://shopify/Product/7608016666680", tags: ["Christmas decoration", "felt"]) { userErrors { message } }
+r89: tagsRemove(id: "gid://shopify/Product/7608016797752", tags: ["Christmas decoration", "felt"]) { userErrors { message } }
+}

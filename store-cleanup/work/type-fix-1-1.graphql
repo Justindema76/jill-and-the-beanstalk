@@ -1,0 +1,72 @@
+mutation T {
+p0: productUpdate(product: {id: "gid://shopify/Product/10905793348", productType: "Colouring Book"}) { product { productType } userErrors { message } }
+p1: productUpdate(product: {id: "gid://shopify/Product/1975145791544", productType: "Book"}) { product { productType } userErrors { message } }
+p2: productUpdate(product: {id: "gid://shopify/Product/1976794316856", productType: "Book"}) { product { productType } userErrors { message } }
+p3: productUpdate(product: {id: "gid://shopify/Product/3770531708984", productType: "Book"}) { product { productType } userErrors { message } }
+p4: productUpdate(product: {id: "gid://shopify/Product/3771422441528", productType: "Book"}) { product { productType } userErrors { message } }
+p5: productUpdate(product: {id: "gid://shopify/Product/4351506808888", productType: "Colouring Book"}) { product { productType } userErrors { message } }
+p6: productUpdate(product: {id: "gid://shopify/Product/4351506874424", productType: "Book"}) { product { productType } userErrors { message } }
+p7: productUpdate(product: {id: "gid://shopify/Product/4351506907192", productType: "Book"}) { product { productType } userErrors { message } }
+p8: productUpdate(product: {id: "gid://shopify/Product/4351690833976", productType: "Bath Book"}) { product { productType } userErrors { message } }
+p9: productUpdate(product: {id: "gid://shopify/Product/4356681662520", productType: "Book"}) { product { productType } userErrors { message } }
+p10: productUpdate(product: {id: "gid://shopify/Product/4356708696120", productType: "Book"}) { product { productType } userErrors { message } }
+p11: productUpdate(product: {id: "gid://shopify/Product/4361053143096", productType: "Book"}) { product { productType } userErrors { message } }
+p12: productUpdate(product: {id: "gid://shopify/Product/5598753259576", productType: "Book"}) { product { productType } userErrors { message } }
+p13: productUpdate(product: {id: "gid://shopify/Product/5598846517304", productType: "Book"}) { product { productType } userErrors { message } }
+p14: productUpdate(product: {id: "gid://shopify/Product/5598859198520", productType: "Book"}) { product { productType } userErrors { message } }
+p15: productUpdate(product: {id: "gid://shopify/Product/5599829393464", productType: "Book"}) { product { productType } userErrors { message } }
+p16: productUpdate(product: {id: "gid://shopify/Product/5601989427256", productType: "Book"}) { product { productType } userErrors { message } }
+p17: productUpdate(product: {id: "gid://shopify/Product/5601990934584", productType: "Book"}) { product { productType } userErrors { message } }
+p18: productUpdate(product: {id: "gid://shopify/Product/5601991229496", productType: "Book"}) { product { productType } userErrors { message } }
+p19: productUpdate(product: {id: "gid://shopify/Product/5601991884856", productType: "Book"}) { product { productType } userErrors { message } }
+p20: productUpdate(product: {id: "gid://shopify/Product/5602131542072", productType: "Book"}) { product { productType } userErrors { message } }
+p21: productUpdate(product: {id: "gid://shopify/Product/5602142847032", productType: "Colouring Book"}) { product { productType } userErrors { message } }
+p22: productUpdate(product: {id: "gid://shopify/Product/5796740137016", productType: "Book"}) { product { productType } userErrors { message } }
+p23: productUpdate(product: {id: "gid://shopify/Product/6731126997048", productType: "Book"}) { product { productType } userErrors { message } }
+p24: productUpdate(product: {id: "gid://shopify/Product/6731190665272", productType: "Colouring Book"}) { product { productType } userErrors { message } }
+p25: productUpdate(product: {id: "gid://shopify/Product/6798801600568", productType: "Book"}) { product { productType } userErrors { message } }
+p26: productUpdate(product: {id: "gid://shopify/Product/7000649433144", productType: "Book"}) { product { productType } userErrors { message } }
+p27: productUpdate(product: {id: "gid://shopify/Product/7000690163768", productType: "Book"}) { product { productType } userErrors { message } }
+p28: productUpdate(product: {id: "gid://shopify/Product/7000690917432", productType: "Book"}) { product { productType } userErrors { message } }
+p29: productUpdate(product: {id: "gid://shopify/Product/7000748589112", productType: "Book"}) { product { productType } userErrors { message } }
+p30: productUpdate(product: {id: "gid://shopify/Product/7000748884024", productType: "Book"}) { product { productType } userErrors { message } }
+p31: productUpdate(product: {id: "gid://shopify/Product/7000812814392", productType: "Board Book"}) { product { productType } userErrors { message } }
+p32: productUpdate(product: {id: "gid://shopify/Product/7132275212344", productType: "Board Book"}) { product { productType } userErrors { message } }
+p33: productUpdate(product: {id: "gid://shopify/Product/7132275834936", productType: "Board Book"}) { product { productType } userErrors { message } }
+p34: productUpdate(product: {id: "gid://shopify/Product/7132276195384", productType: "Board Book"}) { product { productType } userErrors { message } }
+p35: productUpdate(product: {id: "gid://shopify/Product/7132278390840", productType: "Book"}) { product { productType } userErrors { message } }
+p36: productUpdate(product: {id: "gid://shopify/Product/7215136178232", productType: "Book"}) { product { productType } userErrors { message } }
+p37: productUpdate(product: {id: "gid://shopify/Product/7215271837752", productType: "Book"}) { product { productType } userErrors { message } }
+p38: productUpdate(product: {id: "gid://shopify/Product/7215273148472", productType: "Book"}) { product { productType } userErrors { message } }
+p39: productUpdate(product: {id: "gid://shopify/Product/7217401823288", productType: "Book"}) { product { productType } userErrors { message } }
+p40: productUpdate(product: {id: "gid://shopify/Product/7217403035704", productType: "Book"}) { product { productType } userErrors { message } }
+p41: productUpdate(product: {id: "gid://shopify/Product/7217403592760", productType: "Book"}) { product { productType } userErrors { message } }
+p42: productUpdate(product: {id: "gid://shopify/Product/7217403625528", productType: "Book"}) { product { productType } userErrors { message } }
+p43: productUpdate(product: {id: "gid://shopify/Product/7217403658296", productType: "Book"}) { product { productType } userErrors { message } }
+p44: productUpdate(product: {id: "gid://shopify/Product/7217403691064", productType: "Book"}) { product { productType } userErrors { message } }
+p45: productUpdate(product: {id: "gid://shopify/Product/7217403953208", productType: "Book"}) { product { productType } userErrors { message } }
+p46: productUpdate(product: {id: "gid://shopify/Product/7217404018744", productType: "Book"}) { product { productType } userErrors { message } }
+p47: productUpdate(product: {id: "gid://shopify/Product/7217404280888", productType: "Book"}) { product { productType } userErrors { message } }
+p48: productUpdate(product: {id: "gid://shopify/Product/7217404411960", productType: "Book"}) { product { productType } userErrors { message } }
+p49: productUpdate(product: {id: "gid://shopify/Product/7217404510264", productType: "Book"}) { product { productType } userErrors { message } }
+p50: productUpdate(product: {id: "gid://shopify/Product/7217404543032", productType: "Book"}) { product { productType } userErrors { message } }
+p51: productUpdate(product: {id: "gid://shopify/Product/7217404575800", productType: "Book"}) { product { productType } userErrors { message } }
+p52: productUpdate(product: {id: "gid://shopify/Product/7217404608568", productType: "Book"}) { product { productType } userErrors { message } }
+p53: productUpdate(product: {id: "gid://shopify/Product/7217404641336", productType: "Book"}) { product { productType } userErrors { message } }
+p54: productUpdate(product: {id: "gid://shopify/Product/7217404739640", productType: "Book"}) { product { productType } userErrors { message } }
+p55: productUpdate(product: {id: "gid://shopify/Product/7217475584056", productType: "Book"}) { product { productType } userErrors { message } }
+p56: productUpdate(product: {id: "gid://shopify/Product/7217475780664", productType: "Book"}) { product { productType } userErrors { message } }
+p57: productUpdate(product: {id: "gid://shopify/Product/7602146672696", productType: "Book"}) { product { productType } userErrors { message } }
+p58: productUpdate(product: {id: "gid://shopify/Product/7602146869304", productType: "Board Book"}) { product { productType } userErrors { message } }
+p59: productUpdate(product: {id: "gid://shopify/Product/7602146902072", productType: "Book"}) { product { productType } userErrors { message } }
+p60: productUpdate(product: {id: "gid://shopify/Product/7602147196984", productType: "Book"}) { product { productType } userErrors { message } }
+p61: productUpdate(product: {id: "gid://shopify/Product/7602147262520", productType: "Book"}) { product { productType } userErrors { message } }
+p62: productUpdate(product: {id: "gid://shopify/Product/7604633174072", productType: "Book"}) { product { productType } userErrors { message } }
+p63: productUpdate(product: {id: "gid://shopify/Product/7604738883640", productType: "Book"}) { product { productType } userErrors { message } }
+p64: productUpdate(product: {id: "gid://shopify/Product/7606603448376", productType: "Book"}) { product { productType } userErrors { message } }
+p65: productUpdate(product: {id: "gid://shopify/Product/7607786995768", productType: "Book"}) { product { productType } userErrors { message } }
+p66: productUpdate(product: {id: "gid://shopify/Product/7607819829304", productType: "Board Book"}) { product { productType } userErrors { message } }
+p67: productUpdate(product: {id: "gid://shopify/Product/8001031078196", productType: "Colouring Book"}) { product { productType } userErrors { message } }
+p68: productUpdate(product: {id: "gid://shopify/Product/8001034223924", productType: "Colouring Book"}) { product { productType } userErrors { message } }
+p69: productUpdate(product: {id: "gid://shopify/Product/8036178723124", productType: "Board Book"}) { product { productType } userErrors { message } }
+}

@@ -1,0 +1,92 @@
+mutation R {
+r0: tagsRemove(id: "gid://shopify/Product/8058240500020", tags: ["baby toys"]) { userErrors { message } }
+r1: tagsRemove(id: "gid://shopify/Product/8058241745204", tags: ["baby toys"]) { userErrors { message } }
+r2: tagsRemove(id: "gid://shopify/Product/8058242564404", tags: ["wooden toy"]) { userErrors { message } }
+r3: tagsRemove(id: "gid://shopify/Product/8058250101044", tags: ["wooden"]) { userErrors { message } }
+r4: tagsRemove(id: "gid://shopify/Product/8065600684340", tags: ["Piggy bank"]) { userErrors { message } }
+r5: tagsRemove(id: "gid://shopify/Product/8065604944180", tags: ["Piggy bank"]) { userErrors { message } }
+r6: tagsRemove(id: "gid://shopify/Product/8070087442740", tags: ["bedtime stories", "board books", "Books", "early readers", "kids books", "literacy", "picture books", "storytime"]) { userErrors { message } }
+r7: tagsRemove(id: "gid://shopify/Product/8070098616628", tags: ["bedtime stories", "board books", "Books", "early readers", "kids books", "literacy", "picture books", "storytime"]) { userErrors { message } }
+r8: tagsRemove(id: "gid://shopify/Product/8070101827892", tags: ["board book"]) { userErrors { message } }
+r9: tagsRemove(id: "gid://shopify/Product/8070106186036", tags: ["board book"]) { userErrors { message } }
+r10: tagsRemove(id: "gid://shopify/Product/8070127681844", tags: ["Ages 0-3", "Ages 1+", "Animal Characters", "Author Series", "Baby Shower Gift", "bedtime stories", "Bedtime Story", "Bestselling Book", "board books", "Books", "Boys", "Children's Book", "Classic Board Book", "Early Literacy", "early readers", "Educational Book", "Funny Book", "Girls", "Illustrated Book", "kids books", "Learning to Read", "literacy", "picture books", "Read Aloud", "Rhyming Book", "Sandra Boynton", "storytime", "Toddler Book"]) { userErrors { message } }
+r11: tagsRemove(id: "gid://shopify/Product/8070147146036", tags: ["board book"]) { userErrors { message } }
+r12: tagsRemove(id: "gid://shopify/Product/8070164873524", tags: ["craft"]) { userErrors { message } }
+r13: tagsRemove(id: "gid://shopify/Product/8071186121012", tags: ["10 Pack Wash Cloths", "Baby Bath Essentials", "Baby Hygiene", "Baby Wash Cloths", "Gentle B", "Infant Wash Cloths", "Just Born", "Kids Bath Time", "Newborn Bath Accessories", "Soft Baby Wash Cloths", "Washcloth Set"]) { userErrors { message } }
+r14: tagsRemove(id: "gid://shopify/Product/8071720304948", tags: ["Baby Sleep Accessories"]) { userErrors { message } }
+r15: tagsRemove(id: "gid://shopify/Product/8076793741620", tags: ["baby toys"]) { userErrors { message } }
+r16: tagsRemove(id: "gid://shopify/Product/8076801933620", tags: ["baby toys", "sensory"]) { userErrors { message } }
+r17: tagsRemove(id: "gid://shopify/Product/8082286281012", tags: ["greeting cards"]) { userErrors { message } }
+r18: tagsRemove(id: "gid://shopify/Product/8082323145012", tags: ["greeting cards"]) { userErrors { message } }
+r19: tagsRemove(id: "gid://shopify/Product/8086370681140", tags: ["baby swim diaper", "diapers"]) { userErrors { message } }
+r20: tagsRemove(id: "gid://shopify/Product/8086394372404", tags: ["baby swim diaper", "reusable swim diaper"]) { userErrors { message } }
+r21: tagsRemove(id: "gid://shopify/Product/8090169213236", tags: ["board book"]) { userErrors { message } }
+r22: tagsRemove(id: "gid://shopify/Product/8090261782836", tags: ["nail polish", "nail varnish", "nails"]) { userErrors { message } }
+r23: tagsRemove(id: "gid://shopify/Product/8090305003828", tags: ["nail polish"]) { userErrors { message } }
+r24: tagsRemove(id: "gid://shopify/Product/8090315948340", tags: ["breast feeding"]) { userErrors { message } }
+r25: tagsRemove(id: "gid://shopify/Product/8090333511988", tags: ["nail polish"]) { userErrors { message } }
+r26: tagsRemove(id: "gid://shopify/Product/8090351010100", tags: ["food wrap"]) { userErrors { message } }
+r27: tagsRemove(id: "gid://shopify/Product/8101357027636", tags: ["cream"]) { userErrors { message } }
+r28: tagsRemove(id: "gid://shopify/Product/8101414306100", tags: ["baby lotion", "eczema", "face cream"]) { userErrors { message } }
+r29: tagsRemove(id: "gid://shopify/Product/8101440061748", tags: ["Bath"]) { userErrors { message } }
+r30: tagsRemove(id: "gid://shopify/Product/8102789677364", tags: ["bedtime stories", "board books", "Books", "early readers", "kids books", "literacy", "picture books", "storytime"]) { userErrors { message } }
+r31: tagsRemove(id: "gid://shopify/Product/8102790234420", tags: ["Books"]) { userErrors { message } }
+r32: tagsRemove(id: "gid://shopify/Product/8102791872820", tags: ["bedtime stories", "board books", "Books", "early readers", "kids books", "literacy", "picture books", "storytime"]) { userErrors { message } }
+r33: tagsRemove(id: "gid://shopify/Product/8102807863604", tags: ["BPA-Free"]) { userErrors { message } }
+r34: tagsRemove(id: "gid://shopify/Product/8102818775348", tags: ["Cute Kids Silverware", "Eco Friendly", "Feeding Tools", "Kids Fork and Spoon", "knife", "Lunchbox Accessories", "Mealtime Essentials", "On-the-Go Feeding", "Portable Utensils", "Preschool Lunch Gear", "Reusable Utensils", "Toddler Cutlery"]) { userErrors { message } }
+r35: tagsRemove(id: "gid://shopify/Product/8108386025780", tags: ["BPA-Free", "drool bib"]) { userErrors { message } }
+r36: tagsRemove(id: "gid://shopify/Product/8109767033140", tags: ["Baby Clothes Toronto", "Baby Essentials", "Baby Footies", "Baby Sleepers", "Bamboo Sleepers", "Convertible Footie", "Convertible Pajamas", "Cozy Baby Clothes", "Eco-Friendly Sleepwear", "Footed Sleepers", "Gender Neutral Sleepers", "Günamüna", "Infant Sleepwear", "Newborn Pajamas", "OEKO-TEX Certified", "Organic Baby Clothes", "Soft Baby Pajamas", "Toddler Sleepwear", "Zipper Pajamas"]) { userErrors { message } }
+r37: tagsRemove(id: "gid://shopify/Product/8109803897140", tags: ["Natural Bug Spray"]) { userErrors { message } }
+r38: tagsRemove(id: "gid://shopify/Product/8109808288052", tags: ["Baby Skin Care", "cream", "Natural Bug Spray", "skin care"]) { userErrors { message } }
+r39: tagsRemove(id: "gid://shopify/Product/8112907485492", tags: ["balls"]) { userErrors { message } }
+r40: tagsRemove(id: "gid://shopify/Product/8119583015220", tags: ["Push and Pull Toy"]) { userErrors { message } }
+r41: tagsRemove(id: "gid://shopify/Product/8119709860148", tags: ["Action Toys", "Assorted Toys", "Bakugan Toys", "Battle Game Figures", "Collectible Toys"]) { userErrors { message } }
+r42: tagsRemove(id: "gid://shopify/Product/8119780573492", tags: ["board book"]) { userErrors { message } }
+r43: tagsRemove(id: "gid://shopify/Product/8122793984308", tags: ["guards"]) { userErrors { message } }
+r44: tagsRemove(id: "gid://shopify/Product/8122921582900", tags: ["Adjustable Fan", "Baby Fan", "Baby Gear", "Baby Must Have", "Baby Shower Gift", "Buggygear", "Buggygear Stroller Fan", "Clip-On Fan", "Compact Fan", "Cooling Fan", "Lightweight Fan", "On-the-Go Baby", "Outdoor Baby Gear", "Portable Fan", "Quiet Fan", "Rechargeable Fan", "Safe for Babies", "Stroller Accessories", "Stroller Fan", "Toddler Gear", "Travel Fan", "USB Fan"]) { userErrors { message } }
+r45: tagsRemove(id: "gid://shopify/Product/8122937934132", tags: ["guards"]) { userErrors { message } }
+r46: tagsRemove(id: "gid://shopify/Product/8132632543540", tags: ["guards"]) { userErrors { message } }
+r47: tagsRemove(id: "gid://shopify/Product/8132903469364", tags: ["Baby Bowl", "bowls", "Feeding Essentials", "feeding time", "Mealtime Essentials"]) { userErrors { message } }
+r48: tagsRemove(id: "gid://shopify/Product/8132938760500", tags: ["Feeding Essentials", "feeding time", "kids plate", "Mealtime Essentials", "Plate"]) { userErrors { message } }
+r49: tagsRemove(id: "gid://shopify/Product/8132948820276", tags: ["Feeding Essentials", "feeding time", "kids plate", "Mealtime Essentials", "Plate"]) { userErrors { message } }
+r50: tagsRemove(id: "gid://shopify/Product/8132985848116", tags: ["baby spoons", "Cute Kids Silverware", "Eco Friendly", "Feeding Tools", "Kids Fork and Spoon", "Lunchbox Accessories", "Mealtime Essentials", "On-the-Go Feeding", "Portable Utensils", "Preschool Lunch Gear", "Reusable Utensils", "spoons", "Toddler Cutlery"]) { userErrors { message } }
+r51: tagsRemove(id: "gid://shopify/Product/8132993089844", tags: ["Cute Kids Silverware", "Eco Friendly", "Feeding Tools", "Kids Fork and Spoon", "Kids Silverware", "Lunchbox Accessories", "Mealtime Essentials", "On-the-Go Feeding", "Portable Utensils", "Preschool Lunch Gear", "Reusable Utensils", "Silverware Set", "Silverware with Case", "Stainless Steel Cutlery", "Sugarbooger", "Toddler Cutlery", "Travel Utensils"]) { userErrors { message } }
+r52: tagsRemove(id: "gid://shopify/Product/8140915540276", tags: ["baby bath", "bath time essentials", "Bubble bath", "bubble bath for kids", "bubble whoosh", "fun bath time", "kids bath", "kids bubble bath", "natural bubble bath", "new toys", "organic bubble bath"]) { userErrors { message } }
+r53: tagsRemove(id: "gid://shopify/Product/8152539365684", tags: ["cool"]) { userErrors { message } }
+r54: tagsRemove(id: "gid://shopify/Product/8154027721012", tags: ["Ages 0-3", "Ages 1+", "Animal Characters", "Author Series", "Baby Shower Gift", "bedtime stories", "Bedtime Story", "Bestselling Book", "board books", "Books", "Boys", "Children's Book", "Classic Board Book", "Early Literacy", "early readers", "Educational Book", "Funny Book", "Girls", "Illustrated Book", "kids books", "Learning to Read", "literacy", "picture books", "Read Aloud", "Rhyming Book", "Sandra Boynton", "storytime", "Toddler Book"]) { userErrors { message } }
+r55: tagsRemove(id: "gid://shopify/Product/8155142357300", tags: ["activity"]) { userErrors { message } }
+r56: tagsRemove(id: "gid://shopify/Product/8155164148020", tags: ["craft kit"]) { userErrors { message } }
+r57: tagsRemove(id: "gid://shopify/Product/8155166245172", tags: ["craft", "craft kit"]) { userErrors { message } }
+r58: tagsRemove(id: "gid://shopify/Product/8161085194548", tags: ["magnetic", "magnets"]) { userErrors { message } }
+r59: tagsRemove(id: "gid://shopify/Product/8161097679156", tags: ["magnetic", "magnets"]) { userErrors { message } }
+r60: tagsRemove(id: "gid://shopify/Product/8161102594356", tags: ["baby bath", "Baby Bath Essentials", "Bath", "bath time", "Bath Time Activities", "Bath Time Entertainment", "bath time essentials", "bath toy", "Bathtime Fun", "crayons", "Kids Bath Time", "Toddler Bath Toy"]) { userErrors { message } }
+r61: tagsRemove(id: "gid://shopify/Product/8161156333876", tags: ["bedtime stories", "board books", "Books", "early readers", "kids books", "literacy", "picture books", "storytime"]) { userErrors { message } }
+r62: tagsRemove(id: "gid://shopify/Product/8161165181236", tags: ["board book"]) { userErrors { message } }
+r63: tagsRemove(id: "gid://shopify/Product/8161181401396", tags: ["bedtime stories", "board books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r64: tagsRemove(id: "gid://shopify/Product/8161201914164", tags: ["anti-racism for kids", "bedtime stories", "board books", "early readers", "equity education", "inclusive books", "jenny devenny", "Jill and the Beanstalk", "kids books", "kids books about race", "literacy", "picture books", "race cars", "social justice books", "storytime", "Toronto book store", "toronto bookstore", "white privilege"]) { userErrors { message } }
+r65: tagsRemove(id: "gid://shopify/Product/8161211416884", tags: ["bedtime stories", "board books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r66: tagsRemove(id: "gid://shopify/Product/8161224130868", tags: ["bedtime stories", "board books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r67: tagsRemove(id: "gid://shopify/Product/8161243136308", tags: ["bedtime stories", "board books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r68: tagsRemove(id: "gid://shopify/Product/8161249034548", tags: ["bedtime stories", "board books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r69: tagsRemove(id: "gid://shopify/Product/8161253654836", tags: ["bedtime stories", "board books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r70: tagsRemove(id: "gid://shopify/Product/8161261748532", tags: ["bedtime stories", "board books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r71: tagsRemove(id: "gid://shopify/Product/8161274396980", tags: ["Books", "kids books", "picture books"]) { userErrors { message } }
+r72: tagsRemove(id: "gid://shopify/Product/8163312468276", tags: ["coloring book"]) { userErrors { message } }
+r73: tagsRemove(id: "gid://shopify/Product/8163351494964", tags: ["art", "art for kids", "art supplies", "coloring supplies", "creative gifts", "fun pens", "gift for 5 year old", "gift for 7 year old", "kids art supplies", "kids craft supplies", "kids stationery", "loot bag ideas", "ooly canada", "ooly stickers", "Paint Crayons", "school supplies", "Shop Toronto", "Toronto baby products", "Toronto toy store"]) { userErrors { message } }
+r74: tagsRemove(id: "gid://shopify/Product/8163379249460", tags: ["crayons"]) { userErrors { message } }
+r75: tagsRemove(id: "gid://shopify/Product/8163389473076", tags: ["erasers"]) { userErrors { message } }
+r76: tagsRemove(id: "gid://shopify/Product/8163404087604", tags: ["crayons"]) { userErrors { message } }
+r77: tagsRemove(id: "gid://shopify/Product/8172618678580", tags: ["bedtime stories", "board books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r78: tagsRemove(id: "gid://shopify/Product/8172640698676", tags: ["bedtime stories", "board books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r79: tagsRemove(id: "gid://shopify/Product/8172651643188", tags: ["bedtime stories", "board books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r80: tagsRemove(id: "gid://shopify/Product/8172684017972", tags: ["bedtime stories", "board books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r81: tagsRemove(id: "gid://shopify/Product/8172692275508", tags: ["bedtime stories", "board books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r82: tagsRemove(id: "gid://shopify/Product/8172706890036", tags: ["bedtime stories", "board books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r83: tagsRemove(id: "gid://shopify/Product/8177335468340", tags: ["magnetic", "magnets"]) { userErrors { message } }
+r84: tagsRemove(id: "gid://shopify/Product/8189627269428", tags: ["cream"]) { userErrors { message } }
+r85: tagsRemove(id: "gid://shopify/Product/8191520670004", tags: ["9 Inch Bunny", "Animal Plush", "Aurora", "Bunny Gift", "Bunny Plush", "Cute Bunny", "Plush Bunny", "Soft Toy", "Toe Bean Besties"]) { userErrors { message } }
+r86: tagsRemove(id: "gid://shopify/Product/8191535251764", tags: ["Aurora"]) { userErrors { message } }
+r87: tagsRemove(id: "gid://shopify/Product/8191541707060", tags: ["Aurora", "plush toys"]) { userErrors { message } }
+r88: tagsRemove(id: "gid://shopify/Product/8201405432116", tags: ["Birthday Card", "Blank Card", "Card for Family", "Card for Friends", "Holiday Card", "Illustrated Card", "Independent Brand", "Local Artist", "Minimalist Card", "Modern Card", "Occasion Card", "Papermain", "Papermain Cards", "Printed in Canada", "Recycled Paper", "Thank You Card", "Toronto Brand"]) { userErrors { message } }
+r89: tagsRemove(id: "gid://shopify/Product/8203646370100", tags: ["Collectible Plush", "Elegant Mouse", "Fairy Tale Doll", "French Toy", "Il Etait Une Fois", "Moulin Roty", "Soft Doll", "Storybook Toy", "Stuffed Mouse"]) { userErrors { message } }
+}

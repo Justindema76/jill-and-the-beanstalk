@@ -1,0 +1,92 @@
+mutation R {
+r0: tagsRemove(id: "gid://shopify/Product/9278040801588", tags: ["Book", "Books", "kids books"]) { userErrors { message } }
+r1: tagsRemove(id: "gid://shopify/Product/9278042669364", tags: ["board books", "Books"]) { userErrors { message } }
+r2: tagsRemove(id: "gid://shopify/Product/9278042767668", tags: ["Books", "Kids Nail Art", "Nail Art for Kids"]) { userErrors { message } }
+r3: tagsRemove(id: "gid://shopify/Product/9278043259188", tags: ["Books"]) { userErrors { message } }
+r4: tagsRemove(id: "gid://shopify/Product/9278046142772", tags: ["Books", "Picture Book"]) { userErrors { message } }
+r5: tagsRemove(id: "gid://shopify/Product/9278048043316", tags: ["Book", "Books", "kids books"]) { userErrors { message } }
+r6: tagsRemove(id: "gid://shopify/Product/9278673027380", tags: ["games"]) { userErrors { message } }
+r7: tagsRemove(id: "gid://shopify/Product/9278682366260", tags: ["Costume Jewelry", "Jewelry Set", "Play Jewelry"]) { userErrors { message } }
+r8: tagsRemove(id: "gid://shopify/Product/9278687576372", tags: ["puzzle", "sensory"]) { userErrors { message } }
+r9: tagsRemove(id: "gid://shopify/Product/9278689280308", tags: ["Building Set", "building toys", "firetruck"]) { userErrors { message } }
+r10: tagsRemove(id: "gid://shopify/Product/9278697668916", tags: ["magnetic", "Magnetic Game", "magnets"]) { userErrors { message } }
+r11: tagsRemove(id: "gid://shopify/Product/9278707237172", tags: ["Books", "Picture Book"]) { userErrors { message } }
+r12: tagsRemove(id: "gid://shopify/Product/9278707925300", tags: ["Book", "Halloween Book", "Holiday Book"]) { userErrors { message } }
+r13: tagsRemove(id: "gid://shopify/Product/9278709563700", tags: ["Book", "Holiday Book"]) { userErrors { message } }
+r14: tagsRemove(id: "gid://shopify/Product/9278710120756", tags: ["Book", "Halloween Book", "Holiday Book"]) { userErrors { message } }
+r15: tagsRemove(id: "gid://shopify/Product/9278710972724", tags: ["Books", "workbook"]) { userErrors { message } }
+r16: tagsRemove(id: "gid://shopify/Product/9278713102644", tags: ["Books"]) { userErrors { message } }
+r17: tagsRemove(id: "gid://shopify/Product/9278713692468", tags: ["diary", "Diary for Girls", "Diary with Lock"]) { userErrors { message } }
+r18: tagsRemove(id: "gid://shopify/Product/9278718312756", tags: ["Books"]) { userErrors { message } }
+r19: tagsRemove(id: "gid://shopify/Product/9278718476596", tags: ["Books"]) { userErrors { message } }
+r20: tagsRemove(id: "gid://shopify/Product/9278718837044", tags: ["Books"]) { userErrors { message } }
+r21: tagsRemove(id: "gid://shopify/Product/9278719394100", tags: ["Books"]) { userErrors { message } }
+r22: tagsRemove(id: "gid://shopify/Product/9278719754548", tags: ["Books"]) { userErrors { message } }
+r23: tagsRemove(id: "gid://shopify/Product/9278720737588", tags: ["Books"]) { userErrors { message } }
+r24: tagsRemove(id: "gid://shopify/Product/9278721098036", tags: ["Books"]) { userErrors { message } }
+r25: tagsRemove(id: "gid://shopify/Product/9278721294644", tags: ["Books"]) { userErrors { message } }
+r26: tagsRemove(id: "gid://shopify/Product/9278721491252", tags: ["Books"]) { userErrors { message } }
+r27: tagsRemove(id: "gid://shopify/Product/9278721851700", tags: ["Books"]) { userErrors { message } }
+r28: tagsRemove(id: "gid://shopify/Product/9278722244916", tags: ["Books"]) { userErrors { message } }
+r29: tagsRemove(id: "gid://shopify/Product/9278722539828", tags: ["Books"]) { userErrors { message } }
+r30: tagsRemove(id: "gid://shopify/Product/9278722998580", tags: ["Books"]) { userErrors { message } }
+r31: tagsRemove(id: "gid://shopify/Product/9278727749940", tags: ["Books"]) { userErrors { message } }
+r32: tagsRemove(id: "gid://shopify/Product/9278727913780", tags: ["Books"]) { userErrors { message } }
+r33: tagsRemove(id: "gid://shopify/Product/9278728208692", tags: ["Books"]) { userErrors { message } }
+r34: tagsRemove(id: "gid://shopify/Product/9278728864052", tags: ["Books"]) { userErrors { message } }
+r35: tagsRemove(id: "gid://shopify/Product/9278729060660", tags: ["Books"]) { userErrors { message } }
+r36: tagsRemove(id: "gid://shopify/Product/9278729290036", tags: ["Books"]) { userErrors { message } }
+r37: tagsRemove(id: "gid://shopify/Product/9278763761972", tags: ["Books"]) { userErrors { message } }
+r38: tagsRemove(id: "gid://shopify/Product/9278763893044", tags: ["Books"]) { userErrors { message } }
+r39: tagsRemove(id: "gid://shopify/Product/9278763958580", tags: ["Books"]) { userErrors { message } }
+r40: tagsRemove(id: "gid://shopify/Product/9278775820596", tags: ["Musical Play"]) { userErrors { message } }
+r41: tagsRemove(id: "gid://shopify/Product/9278776181044", tags: ["teething"]) { userErrors { message } }
+r42: tagsRemove(id: "gid://shopify/Product/9278781161780", tags: ["hand puppets"]) { userErrors { message } }
+r43: tagsRemove(id: "gid://shopify/Product/9278782669108", tags: ["finger puppet", "Plush Animal", "stuffed animals"]) { userErrors { message } }
+r44: tagsRemove(id: "gid://shopify/Product/9278784405812", tags: ["finger puppet", "hand puppets", "Puppet", "Soft Puppet", "stuffed animals"]) { userErrors { message } }
+r45: tagsRemove(id: "gid://shopify/Product/9278855807284", tags: ["Hand Puppet", "hand puppets", "Puppet", "Soft Puppet"]) { userErrors { message } }
+r46: tagsRemove(id: "gid://shopify/Product/9278866456884", tags: ["finger puppet", "Puppet", "Soft Puppet"]) { userErrors { message } }
+r47: tagsRemove(id: "gid://shopify/Product/9278866948404", tags: ["finger puppet", "Puppet"]) { userErrors { message } }
+r48: tagsRemove(id: "gid://shopify/Product/9278870749492", tags: ["Hand Puppet", "Puppet", "Soft Puppet"]) { userErrors { message } }
+r49: tagsRemove(id: "gid://shopify/Product/9278879367476", tags: ["Hand Puppet", "Puppet", "Soft Puppet"]) { userErrors { message } }
+r50: tagsRemove(id: "gid://shopify/Product/9278882480436", tags: ["Hand Puppet", "Puppet", "Soft Puppet"]) { userErrors { message } }
+r51: tagsRemove(id: "gid://shopify/Product/9278882873652", tags: ["Hand Puppet", "Puppet", "Soft Puppet"]) { userErrors { message } }
+r52: tagsRemove(id: "gid://shopify/Product/9278885593396", tags: ["Hand Puppet", "hand puppets", "Puppet", "Soft Puppet"]) { userErrors { message } }
+r53: tagsRemove(id: "gid://shopify/Product/9278886281524", tags: ["Hand Puppet", "Puppet", "Soft Puppet"]) { userErrors { message } }
+r54: tagsRemove(id: "gid://shopify/Product/9278887461172", tags: ["finger puppet", "Puppet", "Soft Puppet"]) { userErrors { message } }
+r55: tagsRemove(id: "gid://shopify/Product/9278888018228", tags: ["finger puppet", "Puppet", "Soft Puppet"]) { userErrors { message } }
+r56: tagsRemove(id: "gid://shopify/Product/9278889886004", tags: ["finger puppet", "Puppet", "Soft Puppet"]) { userErrors { message } }
+r57: tagsRemove(id: "gid://shopify/Product/9278890705204", tags: ["finger puppet", "Puppet", "Soft Puppet"]) { userErrors { message } }
+r58: tagsRemove(id: "gid://shopify/Product/9278890869044", tags: ["finger puppet", "Puppet", "Soft Puppet"]) { userErrors { message } }
+r59: tagsRemove(id: "gid://shopify/Product/9278893359412", tags: ["finger puppet", "Puppet", "Soft Puppet"]) { userErrors { message } }
+r60: tagsRemove(id: "gid://shopify/Product/9278894276916", tags: ["finger puppet", "Puppet", "Soft Puppet"]) { userErrors { message } }
+r61: tagsRemove(id: "gid://shopify/Product/9278895194420", tags: ["finger puppet", "Puppet", "Soft Puppet"]) { userErrors { message } }
+r62: tagsRemove(id: "gid://shopify/Product/9278896668980", tags: ["Hand Puppet", "hand puppets", "Puppet", "Soft Puppet", "Storytelling Puppet"]) { userErrors { message } }
+r63: tagsRemove(id: "gid://shopify/Product/9278985273652", tags: ["Hand Puppet", "plush toys", "Puppet"]) { userErrors { message } }
+r64: tagsRemove(id: "gid://shopify/Product/9278991925556", tags: ["plush toys", "stuffed animals"]) { userErrors { message } }
+r65: tagsRemove(id: "gid://shopify/Product/9278997332276", tags: ["activity", "Fun Stickers"]) { userErrors { message } }
+r66: tagsRemove(id: "gid://shopify/Product/9279008997684", tags: ["Book"]) { userErrors { message } }
+r67: tagsRemove(id: "gid://shopify/Product/9279010275636", tags: ["Book", "Halloween Book", "Holiday Book"]) { userErrors { message } }
+r68: tagsRemove(id: "gid://shopify/Product/9279011127604", tags: ["Book", "Halloween Book", "Holiday Book"]) { userErrors { message } }
+r69: tagsRemove(id: "gid://shopify/Product/9279097667892", tags: ["Stacking Cups"]) { userErrors { message } }
+r70: tagsRemove(id: "gid://shopify/Product/9279100354868", tags: ["night light"]) { userErrors { message } }
+r71: tagsRemove(id: "gid://shopify/Product/9279134695732", tags: ["Book"]) { userErrors { message } }
+r72: tagsRemove(id: "gid://shopify/Product/9279135318324", tags: ["Book", "Halloween Book"]) { userErrors { message } }
+r73: tagsRemove(id: "gid://shopify/Product/9279136334132", tags: ["Book"]) { userErrors { message } }
+r74: tagsRemove(id: "gid://shopify/Product/9280590381364", tags: ["fun pens"]) { userErrors { message } }
+r75: tagsRemove(id: "gid://shopify/Product/9281906082100", tags: ["children's mittens", "kids mittens", "winter gloves"]) { userErrors { message } }
+r76: tagsRemove(id: "gid://shopify/Product/9281926496564", tags: ["Baby Socks", "children's socks", "Infant Socks", "kids socks"]) { userErrors { message } }
+r77: tagsRemove(id: "gid://shopify/Product/9282122350900", tags: ["baby dolls"]) { userErrors { message } }
+r78: tagsRemove(id: "gid://shopify/Product/9282122940724", tags: ["baby dolls"]) { userErrors { message } }
+r79: tagsRemove(id: "gid://shopify/Product/9282127888692", tags: ["doll clothes"]) { userErrors { message } }
+r80: tagsRemove(id: "gid://shopify/Product/9282128609588", tags: ["doll clothes"]) { userErrors { message } }
+r81: tagsRemove(id: "gid://shopify/Product/9282128970036", tags: ["doll clothes"]) { userErrors { message } }
+r82: tagsRemove(id: "gid://shopify/Product/9282129789236", tags: ["toddler shoes"]) { userErrors { message } }
+r83: tagsRemove(id: "gid://shopify/Product/9282647294260", tags: ["games", "marbles"]) { userErrors { message } }
+r84: tagsRemove(id: "gid://shopify/Product/9282647785780", tags: ["bluey", "kids lego", "lego building sets", "lego sets"]) { userErrors { message } }
+r85: tagsRemove(id: "gid://shopify/Product/9282648965428", tags: ["Marvel Super Heroes"]) { userErrors { message } }
+r86: tagsRemove(id: "gid://shopify/Product/9282678260020", tags: ["Dress Up Purse", "Fancy Purse", "purse"]) { userErrors { message } }
+r87: tagsRemove(id: "gid://shopify/Product/9282678587700", tags: ["rings"]) { userErrors { message } }
+r88: tagsRemove(id: "gid://shopify/Product/9282678849844", tags: ["jewllery", "Kids Rings"]) { userErrors { message } }
+r89: tagsRemove(id: "gid://shopify/Product/9282679800116", tags: ["earrings", "Kids Earrings"]) { userErrors { message } }
+}

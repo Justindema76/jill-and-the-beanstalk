@@ -1,0 +1,92 @@
+mutation R {
+r0: tagsRemove(id: "gid://shopify/Product/9334535291188", tags: ["4 Compartment Lunchbox", "Durable Lunchbox", "Eco Friendly Lunchbox", "Leakproof Lunchbox", "lunchbox"]) { userErrors { message } }
+r1: tagsRemove(id: "gid://shopify/Product/9334535815476", tags: ["6 Compartment Lunchbox", "Eco Friendly Lunchbox", "Kids Lunchbox"]) { userErrors { message } }
+r2: tagsRemove(id: "gid://shopify/Product/9334536470836", tags: ["insulated lunch bag"]) { userErrors { message } }
+r3: tagsRemove(id: "gid://shopify/Product/9334699622708", tags: ["baby"]) { userErrors { message } }
+r4: tagsRemove(id: "gid://shopify/Product/9334723838260", tags: ["purse"]) { userErrors { message } }
+r5: tagsRemove(id: "gid://shopify/Product/9334726689076", tags: ["Children's Jewelry", "Costume Jewelry", "Dress Up Accessories", "Gifts for Girls", "Gifts for Kids", "Girls Bracelets", "Great Pretenders", "Play Jewelry", "Toddler Jewelry"]) { userErrors { message } }
+r6: tagsRemove(id: "gid://shopify/Product/9334729900340", tags: ["Costume Jewelry", "Dress Up Rings", "Fancy Rings", "Fashion Play", "Girls Accessories", "Great Pretenders", "Great Pretenders Accessories", "Imaginative Play", "Jewelry Set", "Kids Dress Up", "Kids Rings", "Play Jewelry", "Pretend Play Rings", "Princess Rings", "Role Play", "Sparkly Rings", "Toy Jewelry", "Unisex Toy"]) { userErrors { message } }
+r7: tagsRemove(id: "gid://shopify/Product/9334731014452", tags: ["Beaded Necklace", "Children's Jewelry", "Colorful Jewelry", "Costume Jewelry", "Kids Necklace"]) { userErrors { message } }
+r8: tagsRemove(id: "gid://shopify/Product/9334739697972", tags: ["jewelry"]) { userErrors { message } }
+r9: tagsRemove(id: "gid://shopify/Product/9334740549940", tags: ["jewelry"]) { userErrors { message } }
+r10: tagsRemove(id: "gid://shopify/Product/9334741270836", tags: ["jewelry"]) { userErrors { message } }
+r11: tagsRemove(id: "gid://shopify/Product/9334750282036", tags: ["jewelry"]) { userErrors { message } }
+r12: tagsRemove(id: "gid://shopify/Product/9334751723828", tags: ["Kids Necklace"]) { userErrors { message } }
+r13: tagsRemove(id: "gid://shopify/Product/9334866018612", tags: ["Activity Set", "Baby Activity Toy"]) { userErrors { message } }
+r14: tagsRemove(id: "gid://shopify/Product/9334869229876", tags: ["squishy"]) { userErrors { message } }
+r15: tagsRemove(id: "gid://shopify/Product/9335373365556", tags: ["stuffed animals"]) { userErrors { message } }
+r16: tagsRemove(id: "gid://shopify/Product/9335385915700", tags: ["stuffed animals"]) { userErrors { message } }
+r17: tagsRemove(id: "gid://shopify/Product/9335388930356", tags: ["stuffed animals"]) { userErrors { message } }
+r18: tagsRemove(id: "gid://shopify/Product/9335406330164", tags: ["stuffed animals"]) { userErrors { message } }
+r19: tagsRemove(id: "gid://shopify/Product/9335416979764", tags: ["stuffed animals"]) { userErrors { message } }
+r20: tagsRemove(id: "gid://shopify/Product/9335423107380", tags: ["stuffed animals"]) { userErrors { message } }
+r21: tagsRemove(id: "gid://shopify/Product/9335423402292", tags: ["stuffed animals"]) { userErrors { message } }
+r22: tagsRemove(id: "gid://shopify/Product/9335425925428", tags: ["stuffed animals"]) { userErrors { message } }
+r23: tagsRemove(id: "gid://shopify/Product/9335428874548", tags: ["stuffed animals"]) { userErrors { message } }
+r24: tagsRemove(id: "gid://shopify/Product/9335434314036", tags: ["stuffed animals"]) { userErrors { message } }
+r25: tagsRemove(id: "gid://shopify/Product/9335436181812", tags: ["stuffed animals"]) { userErrors { message } }
+r26: tagsRemove(id: "gid://shopify/Product/9336018993460", tags: ["sensory", "Sensory Activity", "squishy"]) { userErrors { message } }
+r27: tagsRemove(id: "gid://shopify/Product/9336023417140", tags: ["sensory", "Sensory Activity", "squishy"]) { userErrors { message } }
+r28: tagsRemove(id: "gid://shopify/Product/9336025186612", tags: ["sensory"]) { userErrors { message } }
+r29: tagsRemove(id: "gid://shopify/Product/9336251973940", tags: ["Kids Sun Hat"]) { userErrors { message } }
+r30: tagsRemove(id: "gid://shopify/Product/9336300994868", tags: ["Adjustable Hat", "Adventure Gear", "Adventure Hat", "Ages 0+", "All-Weather Hat", "Aqua-Dry Hat", "Baby Hat", "Beach Hat", "Boys", "Girls", "Gro-With-Me Hat", "hat", "Jan & Jul", "Kids Sun Hat", "Lightweight Hat", "new clothing", "Outdoor Hat", "Packable Hat", "Quick-Dry Hat", "Summer Hat", "sun protection", "Sun Safety", "Toddler Hat", "Travel Hat", "UPF 50+ Sun Protection", "Water-Repellent Hat"]) { userErrors { message } }
+r31: tagsRemove(id: "gid://shopify/Product/9336304206132", tags: ["hat", "Kids Sun Hat", "new clothing", "sun protection"]) { userErrors { message } }
+r32: tagsRemove(id: "gid://shopify/Product/9336705810740", tags: ["Puppet", "Soft Puppet"]) { userErrors { message } }
+r33: tagsRemove(id: "gid://shopify/Product/9336707088692", tags: ["finger puppet", "Puppet", "Soft Puppet"]) { userErrors { message } }
+r34: tagsRemove(id: "gid://shopify/Product/9336707776820", tags: ["folkmanis", "Hand Puppet", "hand puppets", "Puppet", "Soft Puppet", "Storytelling Puppet"]) { userErrors { message } }
+r35: tagsRemove(id: "gid://shopify/Product/9336708006196", tags: ["folkmanis", "Hand Puppet", "hand puppets", "Puppet", "Soft Puppet", "Storytelling Puppet"]) { userErrors { message } }
+r36: tagsRemove(id: "gid://shopify/Product/9336709906740", tags: ["Assorted Stickers"]) { userErrors { message } }
+r37: tagsRemove(id: "gid://shopify/Product/9336710299956", tags: ["Assorted Stickers"]) { userErrors { message } }
+r38: tagsRemove(id: "gid://shopify/Product/9336713216308", tags: ["cloth book", "Soft Book"]) { userErrors { message } }
+r39: tagsRemove(id: "gid://shopify/Product/9336715149620", tags: ["Baby Activity Toy"]) { userErrors { message } }
+r40: tagsRemove(id: "gid://shopify/Product/9336720261428", tags: ["Baby Activity Toy"]) { userErrors { message } }
+r41: tagsRemove(id: "gid://shopify/Product/9336725012788", tags: ["Baby Board Book", "board book"]) { userErrors { message } }
+r42: tagsRemove(id: "gid://shopify/Product/9336733958452", tags: ["Assorted Stickers"]) { userErrors { message } }
+r43: tagsRemove(id: "gid://shopify/Product/9336737956148", tags: ["rattle", "Soft Rattle"]) { userErrors { message } }
+r44: tagsRemove(id: "gid://shopify/Product/9336756535604", tags: ["let's pretend", "Magic Wand"]) { userErrors { message } }
+r45: tagsRemove(id: "gid://shopify/Product/9336756699444", tags: ["let's pretend", "Magic Wand"]) { userErrors { message } }
+r46: tagsRemove(id: "gid://shopify/Product/9336797888820", tags: ["Baby Pacifier Holder"]) { userErrors { message } }
+r47: tagsRemove(id: "gid://shopify/Product/9336801427764", tags: ["Nesting Toy", "Stacking Cups"]) { userErrors { message } }
+r48: tagsRemove(id: "gid://shopify/Product/9336816828724", tags: ["100% cotton sleep sack"]) { userErrors { message } }
+r49: tagsRemove(id: "gid://shopify/Product/9336816927028", tags: ["100% cotton sleep sack"]) { userErrors { message } }
+r50: tagsRemove(id: "gid://shopify/Product/9336817320244", tags: ["Slippers"]) { userErrors { message } }
+r51: tagsRemove(id: "gid://shopify/Product/9336817516852", tags: ["100% cotton sleep sack"]) { userErrors { message } }
+r52: tagsRemove(id: "gid://shopify/Product/9336855527732", tags: ["For Toddlers", "wooden toy", "Wooden Toys"]) { userErrors { message } }
+r53: tagsRemove(id: "gid://shopify/Product/9336858313012", tags: ["Kids Tattoos", "Removable Tattoos"]) { userErrors { message } }
+r54: tagsRemove(id: "gid://shopify/Product/9336858509620", tags: ["coloring book", "colouring", "colouring book"]) { userErrors { message } }
+r55: tagsRemove(id: "gid://shopify/Product/9336858575156", tags: ["coloring book", "colouring", "colouring book"]) { userErrors { message } }
+r56: tagsRemove(id: "gid://shopify/Product/9336858771764", tags: ["coloring book", "colouring", "colouring book"]) { userErrors { message } }
+r57: tagsRemove(id: "gid://shopify/Product/9336858870068", tags: ["Bouncy Ball", "small ball"]) { userErrors { message } }
+r58: tagsRemove(id: "gid://shopify/Product/9336859951412", tags: ["Outdoor Toy", "Outdoor Toys"]) { userErrors { message } }
+r59: tagsRemove(id: "gid://shopify/Product/9336860148020", tags: ["Kids Tattoos", "Removable Tattoos"]) { userErrors { message } }
+r60: tagsRemove(id: "gid://shopify/Product/9336860672308", tags: ["Educational Puzzle", "Kids Puzzle", "Nature Puzzle"]) { userErrors { message } }
+r61: tagsRemove(id: "gid://shopify/Product/9336860836148", tags: ["trucks", "wooden cars"]) { userErrors { message } }
+r62: tagsRemove(id: "gid://shopify/Product/9336861294900", tags: ["activity games", "children's game"]) { userErrors { message } }
+r63: tagsRemove(id: "gid://shopify/Product/9336861458740", tags: ["kids outdoor toys"]) { userErrors { message } }
+r64: tagsRemove(id: "gid://shopify/Product/9336862146868", tags: ["kids outdoor toys"]) { userErrors { message } }
+r65: tagsRemove(id: "gid://shopify/Product/9336862474548", tags: ["Belt Bag", "Everyday Bag", "Lightweight Bag", "Mini Bag", "On-the-Go Bag", "Travel Bag"]) { userErrors { message } }
+r66: tagsRemove(id: "gid://shopify/Product/9336862834996", tags: ["Belt Bag", "Everyday Bag", "Lightweight Bag", "Mini Bag", "On-the-Go Bag", "Travel Bag"]) { userErrors { message } }
+r67: tagsRemove(id: "gid://shopify/Product/9336868995380", tags: ["kids lunch bag"]) { userErrors { message } }
+r68: tagsRemove(id: "gid://shopify/Product/9336869093684", tags: ["kids lunch bag"]) { userErrors { message } }
+r69: tagsRemove(id: "gid://shopify/Product/9336869126452", tags: ["kids lunch bag"]) { userErrors { message } }
+r70: tagsRemove(id: "gid://shopify/Product/9336869454132", tags: ["kids lunch bag"]) { userErrors { message } }
+r71: tagsRemove(id: "gid://shopify/Product/9336869945652", tags: ["kids lunch bag"]) { userErrors { message } }
+r72: tagsRemove(id: "gid://shopify/Product/9336870043956", tags: ["kids lunch bag"]) { userErrors { message } }
+r73: tagsRemove(id: "gid://shopify/Product/9336871289140", tags: ["keychain"]) { userErrors { message } }
+r74: tagsRemove(id: "gid://shopify/Product/9336871518516", tags: ["keychain"]) { userErrors { message } }
+r75: tagsRemove(id: "gid://shopify/Product/9339639988532", tags: ["Assorted Jewelry Set"]) { userErrors { message } }
+r76: tagsRemove(id: "gid://shopify/Product/9339641659700", tags: ["Assorted Jewelry Set", "craft kit", "DIY Jewelry", "jewelery kit"]) { userErrors { message } }
+r77: tagsRemove(id: "gid://shopify/Product/9339647230260", tags: ["craft kit"]) { userErrors { message } }
+r78: tagsRemove(id: "gid://shopify/Product/9339654242612", tags: ["Construction Vehicle", "Construction Vehicles", "Single Vehicle"]) { userErrors { message } }
+r79: tagsRemove(id: "gid://shopify/Product/9339655192884", tags: ["beach essentials", "Beach Toys"]) { userErrors { message } }
+r80: tagsRemove(id: "gid://shopify/Product/9339667284276", tags: ["card game for kids", "Family Card Game"]) { userErrors { message } }
+r81: tagsRemove(id: "gid://shopify/Product/9339669053748", tags: ["walkie-talkies"]) { userErrors { message } }
+r82: tagsRemove(id: "gid://shopify/Product/9339882012980", tags: ["Backpack", "kids backpack"]) { userErrors { message } }
+r83: tagsRemove(id: "gid://shopify/Product/9339882078516", tags: ["Backpack", "kids backpack"]) { userErrors { message } }
+r84: tagsRemove(id: "gid://shopify/Product/9339882373428", tags: ["Backpack", "kids backpack"]) { userErrors { message } }
+r85: tagsRemove(id: "gid://shopify/Product/9339882635572", tags: ["Herschel", "insulated lunch bag", "kids lunch bag", "Little Herschel"]) { userErrors { message } }
+r86: tagsRemove(id: "gid://shopify/Product/9339883192628", tags: ["Herschel Kids", "insulated lunch bag", "Little Herschel"]) { userErrors { message } }
+r87: tagsRemove(id: "gid://shopify/Product/9339883585844", tags: ["Herschel Kids", "insulated lunch bag", "Little Herschel"]) { userErrors { message } }
+r88: tagsRemove(id: "gid://shopify/Product/9339883913524", tags: ["Herschel", "Herschel Heritage", "Little Herschel"]) { userErrors { message } }
+r89: tagsRemove(id: "gid://shopify/Product/9339884241204", tags: ["Children’s Hats", "Herschel"]) { userErrors { message } }
+}

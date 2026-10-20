@@ -1,0 +1,92 @@
+mutation R {
+r0: tagsRemove(id: "gid://shopify/Product/9308545384756", tags: ["stuffed animals"]) { userErrors { message } }
+r1: tagsRemove(id: "gid://shopify/Product/9308545843508", tags: ["stuffed animals"]) { userErrors { message } }
+r2: tagsRemove(id: "gid://shopify/Product/9308546335028", tags: ["stuffed animals"]) { userErrors { message } }
+r3: tagsRemove(id: "gid://shopify/Product/9308548301108", tags: ["stuffed animals"]) { userErrors { message } }
+r4: tagsRemove(id: "gid://shopify/Product/9308548399412", tags: ["stuffed animals"]) { userErrors { message } }
+r5: tagsRemove(id: "gid://shopify/Product/9308973695284", tags: ["stuffed animals"]) { userErrors { message } }
+r6: tagsRemove(id: "gid://shopify/Product/9308973760820", tags: ["stuffed animals"]) { userErrors { message } }
+r7: tagsRemove(id: "gid://shopify/Product/9308978970932", tags: ["stuffed animals"]) { userErrors { message } }
+r8: tagsRemove(id: "gid://shopify/Product/9308979167540", tags: ["stuffed animals"]) { userErrors { message } }
+r9: tagsRemove(id: "gid://shopify/Product/9308979527988", tags: ["stuffed animals"]) { userErrors { message } }
+r10: tagsRemove(id: "gid://shopify/Product/9308989063476", tags: ["baby plush", "baby rattle", "Baby Rattles", "Mary Meyer", "plush toys", "rattle", "snuggly toys", "Soft Plush", "soft toys", "stuffed animals"]) { userErrors { message } }
+r11: tagsRemove(id: "gid://shopify/Product/9308992405812", tags: ["stuffed animals"]) { userErrors { message } }
+r12: tagsRemove(id: "gid://shopify/Product/9308993585460", tags: ["stuffed animals"]) { userErrors { message } }
+r13: tagsRemove(id: "gid://shopify/Product/9308993749300", tags: ["stuffed animals"]) { userErrors { message } }
+r14: tagsRemove(id: "gid://shopify/Product/9308993880372", tags: ["stuffed animals"]) { userErrors { message } }
+r15: tagsRemove(id: "gid://shopify/Product/9310086463796", tags: ["Baby Teether"]) { userErrors { message } }
+r16: tagsRemove(id: "gid://shopify/Product/9310086922548", tags: ["Baby Activity Toy"]) { userErrors { message } }
+r17: tagsRemove(id: "gid://shopify/Product/9310144921908", tags: ["12oz Water Bottle", "Eco Friendly Bottle", "Kid Classic Bottle", "Klean Kanteen", "Klean Kanteen Kids", "Leakp", "Sport Cap Bottle", "Stainless Steel Water Bottle"]) { userErrors { message } }
+r18: tagsRemove(id: "gid://shopify/Product/9310144987444", tags: ["12oz Water Bottle", "Eco Friendly Bottle", "Kid Classic Bottle", "Klean Kanteen", "Klean Kanteen Kids", "Leakp", "Sport Cap Bottle", "Stainless Steel Water Bottle"]) { userErrors { message } }
+r19: tagsRemove(id: "gid://shopify/Product/9310145052980", tags: ["12oz Water Bottle", "Eco Friendly Bottle", "Kid Classic Bottle", "Klean Kanteen", "Klean Kanteen Kids", "Leakp", "Sport Cap Bottle", "Stainless Steel Water Bottle"]) { userErrors { message } }
+r20: tagsRemove(id: "gid://shopify/Product/9310159274292", tags: ["Lip Balm"]) { userErrors { message } }
+r21: tagsRemove(id: "gid://shopify/Product/9310163730740", tags: ["Gentle Hair Detangler"]) { userErrors { message } }
+r22: tagsRemove(id: "gid://shopify/Product/9310199578932", tags: ["baby sunscreen"]) { userErrors { message } }
+r23: tagsRemove(id: "gid://shopify/Product/9310879940916", tags: ["baby swim diaper", "diapers"]) { userErrors { message } }
+r24: tagsRemove(id: "gid://shopify/Product/9310890623284", tags: ["crayons"]) { userErrors { message } }
+r25: tagsRemove(id: "gid://shopify/Product/9310891770164", tags: ["creative art kit"]) { userErrors { message } }
+r26: tagsRemove(id: "gid://shopify/Product/9310902190388", tags: ["creative art kit"]) { userErrors { message } }
+r27: tagsRemove(id: "gid://shopify/Product/9310903501108", tags: ["craft kit"]) { userErrors { message } }
+r28: tagsRemove(id: "gid://shopify/Product/9310905467188", tags: ["craft kit"]) { userErrors { message } }
+r29: tagsRemove(id: "gid://shopify/Product/9310907760948", tags: ["Baby Teether"]) { userErrors { message } }
+r30: tagsRemove(id: "gid://shopify/Product/9310910644532", tags: ["baby rattle", "rattle"]) { userErrors { message } }
+r31: tagsRemove(id: "gid://shopify/Product/9310947246388", tags: ["canadian greeting card", "greeting cards"]) { userErrors { message } }
+r32: tagsRemove(id: "gid://shopify/Product/9310947574068", tags: ["canadian greeting card", "greeting cards"]) { userErrors { message } }
+r33: tagsRemove(id: "gid://shopify/Product/9310947639604", tags: ["canadian greeting card", "greeting cards"]) { userErrors { message } }
+r34: tagsRemove(id: "gid://shopify/Product/9310947705140", tags: ["canadian greeting card", "greeting cards"]) { userErrors { message } }
+r35: tagsRemove(id: "gid://shopify/Product/9310947737908", tags: ["canadian greeting card", "greeting cards"]) { userErrors { message } }
+r36: tagsRemove(id: "gid://shopify/Product/9310947770676", tags: ["canadian greeting card", "greeting cards"]) { userErrors { message } }
+r37: tagsRemove(id: "gid://shopify/Product/9310947803444", tags: ["canadian greeting card", "greeting cards"]) { userErrors { message } }
+r38: tagsRemove(id: "gid://shopify/Product/9310948950324", tags: ["canadian greeting card", "greeting cards"]) { userErrors { message } }
+r39: tagsRemove(id: "gid://shopify/Product/9310951440692", tags: ["Baby Teether"]) { userErrors { message } }
+r40: tagsRemove(id: "gid://shopify/Product/9311052071220", tags: ["Baby Shampoo", "body wash", "Gentle Shampoo", "Kids Shampoo"]) { userErrors { message } }
+r41: tagsRemove(id: "gid://shopify/Product/9311070585140", tags: ["best diaper cream", "Diaper Bag Must-Have", "Diaper Cream", "diaper rash", "Diapering"]) { userErrors { message } }
+r42: tagsRemove(id: "gid://shopify/Product/9311073075508", tags: ["baby lotion", "body lotion", "lotion", "Natural Baby Lotion", "Safe Baby Lotion"]) { userErrors { message } }
+r43: tagsRemove(id: "gid://shopify/Product/9311080251700", tags: ["baby lotion", "Natural Baby Lotion", "Vegan Baby Lotion"]) { userErrors { message } }
+r44: tagsRemove(id: "gid://shopify/Product/9311081136436", tags: ["baby lotion", "Natural Baby Lotion", "Safe Baby Lotion", "Vegan Baby Lotion"]) { userErrors { message } }
+r45: tagsRemove(id: "gid://shopify/Product/9311081529652", tags: ["Baby Oral Care", "Baby Oral Development", "baby toothpaste", "fluoride-free toothpaste", "kids oral care", "Kids Toothpaste", "Oral Hygiene", "toddler toothpaste"]) { userErrors { message } }
+r46: tagsRemove(id: "gid://shopify/Product/9311082447156", tags: ["baby lotion", "baby skincare", "body lotion", "lotion", "Natural Baby Lotion", "Safe Baby Lotion"]) { userErrors { message } }
+r47: tagsRemove(id: "gid://shopify/Product/9311199953204", tags: ["Kids Swim Gear"]) { userErrors { message } }
+r48: tagsRemove(id: "gid://shopify/Product/9311201427764", tags: ["Kids Swim Gear"]) { userErrors { message } }
+r49: tagsRemove(id: "gid://shopify/Product/9311217254708", tags: ["baby swim diaper", "reusable swim diaper"]) { userErrors { message } }
+r50: tagsRemove(id: "gid://shopify/Product/9311217516852", tags: ["baby swim diaper", "reusable swim diaper"]) { userErrors { message } }
+r51: tagsRemove(id: "gid://shopify/Product/9311217582388", tags: ["baby swim diaper", "reusable swim diaper"]) { userErrors { message } }
+r52: tagsRemove(id: "gid://shopify/Product/9311219155252", tags: ["Lip Gloss Shine"]) { userErrors { message } }
+r53: tagsRemove(id: "gid://shopify/Product/9311219188020", tags: ["Lip Gloss Shine"]) { userErrors { message } }
+r54: tagsRemove(id: "gid://shopify/Product/9311219253556", tags: ["Lip Gloss Shine"]) { userErrors { message } }
+r55: tagsRemove(id: "gid://shopify/Product/9311220990260", tags: ["Lip Gloss Shine"]) { userErrors { message } }
+r56: tagsRemove(id: "gid://shopify/Product/9311221481780", tags: ["Lip Gloss Shine"]) { userErrors { message } }
+r57: tagsRemove(id: "gid://shopify/Product/9311227478324", tags: ["bath time"]) { userErrors { message } }
+r58: tagsRemove(id: "gid://shopify/Product/9311231050036", tags: ["Lip Gloss Shine"]) { userErrors { message } }
+r59: tagsRemove(id: "gid://shopify/Product/9311241339188", tags: ["Gentle Hair Detangler", "Hair Detangler"]) { userErrors { message } }
+r60: tagsRemove(id: "gid://shopify/Product/9311246090548", tags: ["Lip Gloss Shine"]) { userErrors { message } }
+r61: tagsRemove(id: "gid://shopify/Product/9311272370484", tags: ["BPA-Free", "Klean Kanteen"]) { userErrors { message } }
+r62: tagsRemove(id: "gid://shopify/Product/9311273484596", tags: ["12oz Bottle", "Ages 3+", "BPA-Free", "Durable Bottle", "Everyday Use", "Flip Sport Cap", "Hydration Bottle", "Klean Kanteen", "Leakproof Bottle", "Outdoor Gear", "Plastic-Free", "Safe for Kid", "School Essentials", "Spill-Resistant", "Sports Bottle", "Sustainable Living", "Toddler Bottle"]) { userErrors { message } }
+r63: tagsRemove(id: "gid://shopify/Product/9311274402100", tags: ["Flip Sport Cap", "Klean Kanteen", "Leakproof Bottle", "Spill-Resistant", "Sports Bottle"]) { userErrors { message } }
+r64: tagsRemove(id: "gid://shopify/Product/9311274565940", tags: ["Flip Sport Cap", "Klean Kanteen", "Leakproof Bottle", "Spill-Resistant", "Sports Bottle"]) { userErrors { message } }
+r65: tagsRemove(id: "gid://shopify/Product/9311274729780", tags: ["Flip Sport Cap", "Klean Kanteen", "Leakproof Bottle", "Spill-Resistant", "Sports Bottle"]) { userErrors { message } }
+r66: tagsRemove(id: "gid://shopify/Product/9311299993908", tags: ["12oz Bottle", "Ages 3+", "BPA-Free", "Double Wall Insulated", "Flip Sport Cap", "Klean Kanteen", "Leakproof Bottle", "Plastic-Free", "Reusable Water Bottle", "Spill-Resistant", "Sports Bottle", "Sustainable Living", "Thermal Bottle"]) { userErrors { message } }
+r67: tagsRemove(id: "gid://shopify/Product/9311306055988", tags: ["BPA-Free", "Double Wall Insulated", "Flip Sport Cap", "Klean Kanteen", "Leakproof Bottle", "Plastic-Free", "School Bottle", "Spill-Resistant", "Sports Bottle", "Thermal Bottle"]) { userErrors { message } }
+r68: tagsRemove(id: "gid://shopify/Product/9311308087604", tags: ["camp essentials", "cold drink bottle", "eco-friendly water bottle", "insulated water bottle", "Klean Kanteen", "school water bottle", "stainless steel bottle", "Toronto kids gear"]) { userErrors { message } }
+r69: tagsRemove(id: "gid://shopify/Product/9311310283060", tags: ["camp essentials", "cold drink bottle", "eco-friendly water bottle", "insulated water bottle", "Klean Kanteen", "school water bottle", "stainless steel bottle", "Toronto kids gear"]) { userErrors { message } }
+r70: tagsRemove(id: "gid://shopify/Product/9311310545204", tags: ["camp essentials", "cold drink bottle", "eco-friendly water bottle", "insulated water bottle", "Klean Kanteen", "school water bottle", "stainless steel bottle", "Toronto kids gear"]) { userErrors { message } }
+r71: tagsRemove(id: "gid://shopify/Product/9311310741812", tags: ["camp essentials", "cold drink bottle", "eco-friendly water bottle", "insulated water bottle", "Klean Kanteen", "school water bottle", "stainless steel bottle", "Toronto kids gear"]) { userErrors { message } }
+r72: tagsRemove(id: "gid://shopify/Product/9311326404916", tags: ["12oz Bottle", "Ages 3+", "BPA-Free", "Durable Bottle", "Flip Sport Cap", "Klean Kanteen", "Leakproof Bottle", "Plastic-Free", "Safe for Kid", "Spill-Resistant", "Sports Bottle"]) { userErrors { message } }
+r73: tagsRemove(id: "gid://shopify/Product/9311327289652", tags: ["12oz Bottle", "Ages 3+", "BPA-Free", "Durable Bottle", "Flip Sport Cap", "Klean Kanteen", "Leakproof Bottle", "Plastic-Free", "Safe for Kid", "Spill-Resistant", "Sports Bottle"]) { userErrors { message } }
+r74: tagsRemove(id: "gid://shopify/Product/9311330042164", tags: ["12oz Water Bottle", "Eco Friendly Bottle", "Kid Classic Bottle", "Klean Kanteen", "Klean Kanteen Kids", "Leakp", "Sport Cap Bottle", "Stainless Steel Water Bottle"]) { userErrors { message } }
+r75: tagsRemove(id: "gid://shopify/Product/9311330238772", tags: ["10oz Cup", "Ages 1+", "BPA-Free", "Durable Cup", "Everyda", "Hydration Gear", "Kids Cup", "Kids Drinkware", "Kids Straw Cup", "Klean Kanteen", "Leakproof Cup", "Outdoor Gear", "Plastic-Free", "Reusable Cup", "School Essentials", "Spill-Resistant", "Stainless Steel Cup", "Straw Lid", "Sustainable Living", "Travel Cup"]) { userErrors { message } }
+r76: tagsRemove(id: "gid://shopify/Product/9311347605812", tags: ["eco-friendly water bottle", "insulated water bottle", "Reusable Water Bottle", "Stainless Steel Water Bottle"]) { userErrors { message } }
+r77: tagsRemove(id: "gid://shopify/Product/9311348064564", tags: ["eco-friendly water bottle", "insulated water bottle", "Reusable Water Bottle", "Stainless Steel Water Bottle"]) { userErrors { message } }
+r78: tagsRemove(id: "gid://shopify/Product/9311348097332", tags: ["eco-friendly water bottle", "insulated water bottle", "Reusable Water Bottle", "Stainless Steel Water Bottle"]) { userErrors { message } }
+r79: tagsRemove(id: "gid://shopify/Product/9311988842804", tags: ["flashlight", "Outdoor Gear", "Outdoor Toy"]) { userErrors { message } }
+r80: tagsRemove(id: "gid://shopify/Product/9311992709428", tags: ["creative art kit"]) { userErrors { message } }
+r81: tagsRemove(id: "gid://shopify/Product/9312036061492", tags: ["flashlight", "Outdoor Gear", "Outdoor Toy"]) { userErrors { message } }
+r82: tagsRemove(id: "gid://shopify/Product/9312055886132", tags: ["Baby Hygiene", "Child Hygiene", "kids toothbrush", "Oral Hygiene"]) { userErrors { message } }
+r83: tagsRemove(id: "gid://shopify/Product/9312063652148", tags: ["kids toothbrush"]) { userErrors { message } }
+r84: tagsRemove(id: "gid://shopify/Product/9312068927796", tags: ["craft kit"]) { userErrors { message } }
+r85: tagsRemove(id: "gid://shopify/Product/9312085442868", tags: ["first aid"]) { userErrors { message } }
+r86: tagsRemove(id: "gid://shopify/Product/9312101400884", tags: ["Assorted Stickers", "Character Stickers", "Inkology Stickers", "kids crafts", "Licensed Stickers", "puffy stickers"]) { userErrors { message } }
+r87: tagsRemove(id: "gid://shopify/Product/9312101794100", tags: ["Assorted Stickers", "Character Stickers", "Inkology Stickers", "kids crafts", "Licensed Stickers", "puffy stickers"]) { userErrors { message } }
+r88: tagsRemove(id: "gid://shopify/Product/9312101925172", tags: ["Assorted Stickers", "Character Stickers", "Inkology Stickers", "kids crafts", "Licensed Stickers", "puffy stickers"]) { userErrors { message } }
+r89: tagsRemove(id: "gid://shopify/Product/9312102187316", tags: ["puffy stickers"]) { userErrors { message } }
+}

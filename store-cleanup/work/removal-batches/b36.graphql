@@ -1,0 +1,92 @@
+mutation R {
+r0: tagsRemove(id: "gid://shopify/Product/9291047502132", tags: ["Bracelet", "jewelry"]) { userErrors { message } }
+r1: tagsRemove(id: "gid://shopify/Product/9291050058036", tags: ["Bracelet", "Bracelets", "dress up bracelet", "jewelry"]) { userErrors { message } }
+r2: tagsRemove(id: "gid://shopify/Product/9291052450100", tags: ["jewelry"]) { userErrors { message } }
+r3: tagsRemove(id: "gid://shopify/Product/9291054383412", tags: ["jewerly"]) { userErrors { message } }
+r4: tagsRemove(id: "gid://shopify/Product/9291060805940", tags: ["Bracelet", "Bracelets", "jewelry"]) { userErrors { message } }
+r5: tagsRemove(id: "gid://shopify/Product/9291281924404", tags: ["wands"]) { userErrors { message } }
+r6: tagsRemove(id: "gid://shopify/Product/9291732025652", tags: ["Fancy Headband"]) { userErrors { message } }
+r7: tagsRemove(id: "gid://shopify/Product/9291825152308", tags: ["kids lego", "LEGO Building Set", "lego building sets", "LEGO City", "LEGO Classic", "lego playsets", "lego sets"]) { userErrors { message } }
+r8: tagsRemove(id: "gid://shopify/Product/9291900158260", tags: ["kids lego", "LEGO Building Set", "lego building sets", "LEGO Classic", "LEGO Minecraft", "lego playsets", "lego sets", "lego toys"]) { userErrors { message } }
+r9: tagsRemove(id: "gid://shopify/Product/9291901501748", tags: ["kids lego", "LEGO Animals", "LEGO Building Set", "lego building sets", "LEGO Classic", "lego sets"]) { userErrors { message } }
+r10: tagsRemove(id: "gid://shopify/Product/9291903795508", tags: ["kids lego", "LEGO Building Set", "lego building sets", "LEGO Classic", "lego playsets", "lego sets", "LEGO Super Mario", "lego toys"]) { userErrors { message } }
+r11: tagsRemove(id: "gid://shopify/Product/9292313166132", tags: ["jewelry", "Kids Necklace", "locket"]) { userErrors { message } }
+r12: tagsRemove(id: "gid://shopify/Product/9292340527412", tags: ["Costume Jewelry", "jewelry", "Play Jewelry"]) { userErrors { message } }
+r13: tagsRemove(id: "gid://shopify/Product/9292364874036", tags: ["jewelry"]) { userErrors { message } }
+r14: tagsRemove(id: "gid://shopify/Product/9292401738036", tags: ["Costume Jewelry", "jewelry", "Play Jewelry"]) { userErrors { message } }
+r15: tagsRemove(id: "gid://shopify/Product/9292427985204", tags: ["jewelry", "Play Jewelry"]) { userErrors { message } }
+r16: tagsRemove(id: "gid://shopify/Product/9292458197300", tags: ["jewelry", "Jewelry for Kids", "Play Jewelry"]) { userErrors { message } }
+r17: tagsRemove(id: "gid://shopify/Product/9292485329204", tags: ["Costume Jewelry", "jewelry", "Play Jewelry"]) { userErrors { message } }
+r18: tagsRemove(id: "gid://shopify/Product/9292507611444", tags: ["Costume Jewelry", "jewelry"]) { userErrors { message } }
+r19: tagsRemove(id: "gid://shopify/Product/9292523995444", tags: ["Costume Jewelry", "Dress Up Costume", "jewelry", "Kids Costume"]) { userErrors { message } }
+r20: tagsRemove(id: "gid://shopify/Product/9292525076788", tags: ["jewelry"]) { userErrors { message } }
+r21: tagsRemove(id: "gid://shopify/Product/9292525470004", tags: ["Children's Jewelry", "Costume Jewelry", "jewelry", "Toy Jewelry"]) { userErrors { message } }
+r22: tagsRemove(id: "gid://shopify/Product/9292525732148", tags: ["Costume Jewelry", "jewelry", "Play Jewelry"]) { userErrors { message } }
+r23: tagsRemove(id: "gid://shopify/Product/9292526027060", tags: ["Costume Jewelry", "jewelry", "Play Jewelry"]) { userErrors { message } }
+r24: tagsRemove(id: "gid://shopify/Product/9292542837044", tags: ["Baby Clothes Canada", "Baby Essentials", "Baby Pajamas", "Baby Romper", "Baby Shower Gift", "Baby Sleeper", "Baby Sleepers Toronto", "Bamboo Sleepers", "Breathable Baby Clothes", "Eco-Friendly Baby Clothes", "Footed Pajamas", "Infant Sleepwear", "One-Piece Pajamas", "Organic Baby Clothes", "sleepers", "Soft Baby Clothes", "Toddler Sleepwear", "Zipper Pajamas", "ZippyJamz"]) { userErrors { message } }
+r25: tagsRemove(id: "gid://shopify/Product/9292568625460", tags: ["sensory"]) { userErrors { message } }
+r26: tagsRemove(id: "gid://shopify/Product/9292570100020", tags: ["Outdoor Toy", "Outdoor Toys", "yo-yo"]) { userErrors { message } }
+r27: tagsRemove(id: "gid://shopify/Product/9292571312436", tags: ["baby", "Silicone"]) { userErrors { message } }
+r28: tagsRemove(id: "gid://shopify/Product/9292571967796", tags: ["baby", "Silicone"]) { userErrors { message } }
+r29: tagsRemove(id: "gid://shopify/Product/9292572492084", tags: ["Christmas decoration", "felt"]) { userErrors { message } }
+r30: tagsRemove(id: "gid://shopify/Product/9292572524852", tags: ["Christmas decoration", "felt"]) { userErrors { message } }
+r31: tagsRemove(id: "gid://shopify/Product/9292572655924", tags: ["Christmas decoration", "felt"]) { userErrors { message } }
+r32: tagsRemove(id: "gid://shopify/Product/9292572721460", tags: ["Christmas decoration", "felt"]) { userErrors { message } }
+r33: tagsRemove(id: "gid://shopify/Product/9292572754228", tags: ["Christmas decoration", "felt"]) { userErrors { message } }
+r34: tagsRemove(id: "gid://shopify/Product/9292572819764", tags: ["Christmas decoration", "felt"]) { userErrors { message } }
+r35: tagsRemove(id: "gid://shopify/Product/9292572852532", tags: ["Christmas decoration", "felt"]) { userErrors { message } }
+r36: tagsRemove(id: "gid://shopify/Product/9292573933876", tags: ["Christmas decoration", "felt"]) { userErrors { message } }
+r37: tagsRemove(id: "gid://shopify/Product/9292573966644", tags: ["Christmas decoration", "felt"]) { userErrors { message } }
+r38: tagsRemove(id: "gid://shopify/Product/9292644516148", tags: ["Hair Clips", "jewelry"]) { userErrors { message } }
+r39: tagsRemove(id: "gid://shopify/Product/9292644548916", tags: ["glitter", "jewelry"]) { userErrors { message } }
+r40: tagsRemove(id: "gid://shopify/Product/9292644614452", tags: ["jewelry", "makeup bag", "purse"]) { userErrors { message } }
+r41: tagsRemove(id: "gid://shopify/Product/9292723355956", tags: ["sensory", "sensory play"]) { userErrors { message } }
+r42: tagsRemove(id: "gid://shopify/Product/9292746752308", tags: ["Christmas decoration", "felt"]) { userErrors { message } }
+r43: tagsRemove(id: "gid://shopify/Product/9292746785076", tags: ["Christmas decoration", "felt"]) { userErrors { message } }
+r44: tagsRemove(id: "gid://shopify/Product/9292746817844", tags: ["Christmas decoration", "felt"]) { userErrors { message } }
+r45: tagsRemove(id: "gid://shopify/Product/9292746850612", tags: ["Christmas decoration", "felt"]) { userErrors { message } }
+r46: tagsRemove(id: "gid://shopify/Product/9292746883380", tags: ["Christmas decoration", "felt"]) { userErrors { message } }
+r47: tagsRemove(id: "gid://shopify/Product/9292746916148", tags: ["Christmas decoration", "felt"]) { userErrors { message } }
+r48: tagsRemove(id: "gid://shopify/Product/9293065486644", tags: ["Role Play"]) { userErrors { message } }
+r49: tagsRemove(id: "gid://shopify/Product/9293066109236", tags: ["Playmobil"]) { userErrors { message } }
+r50: tagsRemove(id: "gid://shopify/Product/9293161496884", tags: ["sensory play", "Toronto toy store", "Toy"]) { userErrors { message } }
+r51: tagsRemove(id: "gid://shopify/Product/9293161726260", tags: ["Action Figure"]) { userErrors { message } }
+r52: tagsRemove(id: "gid://shopify/Product/9293161890100", tags: ["Action Figure", "Mini Figures"]) { userErrors { message } }
+r53: tagsRemove(id: "gid://shopify/Product/9293220413748", tags: ["activity cards", "cards", "playing cards", "pokemon"]) { userErrors { message } }
+r54: tagsRemove(id: "gid://shopify/Product/9293530595636", tags: ["magnetic"]) { userErrors { message } }
+r55: tagsRemove(id: "gid://shopify/Product/9293537870132", tags: ["building toys", "magnetic"]) { userErrors { message } }
+r56: tagsRemove(id: "gid://shopify/Product/9293541867828", tags: ["magnetic"]) { userErrors { message } }
+r57: tagsRemove(id: "gid://shopify/Product/9296066904372", tags: ["figurine", "figurines", "wooden toy"]) { userErrors { message } }
+r58: tagsRemove(id: "gid://shopify/Product/9296070377780", tags: ["magnetic"]) { userErrors { message } }
+r59: tagsRemove(id: "gid://shopify/Product/9296201810228", tags: ["Adult Lunchbox", "Bento Box", "BPA-Free", "Durable Lunchbox", "Eco-Friendly Lunchbox", "Food Safe", "Kids Lunchbox", "Leakproof Container", "lunch container", "Meal Prep", "Plastic-Free", "Reusable Lunchbox", "School Lunchbox", "Stainless Steel Lunchbox", "Sustainable Living", "Travel Lunchb", "Yumbox Prêt", "Zero Waste"]) { userErrors { message } }
+r60: tagsRemove(id: "gid://shopify/Product/9296204890420", tags: ["BPA-Free", "Durable Lunchbox", "Eco-Friendly Lunchbox", "Kids Lunchbox", "Leakproof Container", "Reusable Lunchbox", "School Lunchbox", "Stainless Steel Lunchbox", "Yumbox Prêt"]) { userErrors { message } }
+r61: tagsRemove(id: "gid://shopify/Product/9296205513012", tags: ["BPA-Free", "Durable Lunchbox", "Eco-Friendly Lunchbox", "Kids Lunchbox", "Leakproof Container", "Reusable Lunchbox", "School Lunchbox", "Stainless Steel Lunchbox", "Yumbox Prêt"]) { userErrors { message } }
+r62: tagsRemove(id: "gid://shopify/Product/9296206463284", tags: ["BPA-Free", "Durable Lunchbox", "Eco-Friendly Lunchbox", "Kids Lunchbox", "Leakproof Container", "Reusable Lunchbox", "School Lunchbox", "Stainless Steel Lunchbox", "Yumbox Prêt"]) { userErrors { message } }
+r63: tagsRemove(id: "gid://shopify/Product/9296559276340", tags: ["Fancy Headband", "Girls Headband"]) { userErrors { message } }
+r64: tagsRemove(id: "gid://shopify/Product/9296562487604", tags: ["Costume Jewelry", "Dress Up Rings", "Fancy Rings", "Fashion Play", "Girls Accessories", "Great Pretenders", "Great Pretenders Accessories", "Imaginative Play", "Jewelry Set", "Kids Dress Up", "Kids Rings", "Play Jewelry", "Pretend Play Rings", "Princess Rings", "Role Play", "Sparkly Rings", "Toy Jewelry", "Unisex Toy"]) { userErrors { message } }
+r65: tagsRemove(id: "gid://shopify/Product/9296566419764", tags: ["jewelery"]) { userErrors { message } }
+r66: tagsRemove(id: "gid://shopify/Product/9296581624116", tags: ["Construction Toy", "construction toys"]) { userErrors { message } }
+r67: tagsRemove(id: "gid://shopify/Product/9296584900916", tags: ["LEGO Building Set", "lego building sets"]) { userErrors { message } }
+r68: tagsRemove(id: "gid://shopify/Product/9296591749428", tags: ["clothing", "new clothing", "toddler clothing", "underwear"]) { userErrors { message } }
+r69: tagsRemove(id: "gid://shopify/Product/9296594862388", tags: ["sensory", "sensory play"]) { userErrors { message } }
+r70: tagsRemove(id: "gid://shopify/Product/9301625831732", tags: ["card game for kids"]) { userErrors { message } }
+r71: tagsRemove(id: "gid://shopify/Product/9301634449716", tags: ["pokemon"]) { userErrors { message } }
+r72: tagsRemove(id: "gid://shopify/Product/9301634842932", tags: ["pokemon"]) { userErrors { message } }
+r73: tagsRemove(id: "gid://shopify/Product/9304015765812", tags: ["new"]) { userErrors { message } }
+r74: tagsRemove(id: "gid://shopify/Product/9304031232308", tags: ["Bento Five", "Child Friendly Latch", "Eco Friendly Lunchware", "Food Storage", "Healthy Lunch", "Insulated Lunchbox", "Kids Lunch Box", "Leakproof Bento", "Little Lunch Box Co", "Lunch Box for School", "MontiiCo Bento Five", "new", "No Removable Parts", "Picky Eater Solution", "Reusable Lunchbox", "Travel Lunch Box"]) { userErrors { message } }
+r75: tagsRemove(id: "gid://shopify/Product/9304053842228", tags: ["coloring book"]) { userErrors { message } }
+r76: tagsRemove(id: "gid://shopify/Product/9304053874996", tags: ["coloring book"]) { userErrors { message } }
+r77: tagsRemove(id: "gid://shopify/Product/9304053907764", tags: ["coloring book"]) { userErrors { message } }
+r78: tagsRemove(id: "gid://shopify/Product/9304053940532", tags: ["coloring book"]) { userErrors { message } }
+r79: tagsRemove(id: "gid://shopify/Product/9304060395828", tags: ["necklace"]) { userErrors { message } }
+r80: tagsRemove(id: "gid://shopify/Product/9304358355252", tags: ["Baby Sleeper", "Baby Sleepers Toronto", "Baby Sleepwear"]) { userErrors { message } }
+r81: tagsRemove(id: "gid://shopify/Product/9304704647476", tags: ["Aboriginal socks", "Children's Apparel", "Ethical Clothing", "First Nations", "Indigenous Design", "Native Northwest"]) { userErrors { message } }
+r82: tagsRemove(id: "gid://shopify/Product/9304704713012", tags: ["Aboriginal socks", "Children's Apparel", "Ethical Clothing", "First Nations", "Indigenous Design", "Native Northwest"]) { userErrors { message } }
+r83: tagsRemove(id: "gid://shopify/Product/9304704778548", tags: ["Aboriginal socks", "Children's Apparel", "Ethical Clothing", "First Nations", "Indigenous Design", "Native Northwest"]) { userErrors { message } }
+r84: tagsRemove(id: "gid://shopify/Product/9304704811316", tags: ["Aboriginal socks", "Children's Apparel", "Ethical Clothing", "First Nations", "Indigenous Design", "Native Northwest"]) { userErrors { message } }
+r85: tagsRemove(id: "gid://shopify/Product/9304714379572", tags: ["children's socks", "kids socks"]) { userErrors { message } }
+r86: tagsRemove(id: "gid://shopify/Product/9304714445108", tags: ["children's socks", "kids socks"]) { userErrors { message } }
+r87: tagsRemove(id: "gid://shopify/Product/9304714477876", tags: ["children's socks", "kids socks"]) { userErrors { message } }
+r88: tagsRemove(id: "gid://shopify/Product/9304714510644", tags: ["children's socks", "kids socks"]) { userErrors { message } }
+r89: tagsRemove(id: "gid://shopify/Product/9304714543412", tags: ["children's socks", "kids socks"]) { userErrors { message } }
+}

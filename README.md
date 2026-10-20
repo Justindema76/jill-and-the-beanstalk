@@ -14,7 +14,8 @@ The staff website is the `docs/` folder, published with GitHub Pages.
 - **reports/**: the same lists as files (including a CSV of products not in a collection) and `KEEP-LIST.txt`.
 - **scripts/**: `find_uncollected.py <export.jsonl>` rebuilds the "not in a collection" list.
 
-Backups of the original tags and Types are kept in the private repository `jill-and-the-beanstalk-private`.
+- **backups/**: every product's tags and Types before the cleanup, and the collection rules at each step. Use these to undo a change.
+- **work/**: Shopify exports and the batch files used to apply changes.
 
 Rules that always apply:
 - Needoh products always stay Uncategorized.

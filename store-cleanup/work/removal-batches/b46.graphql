@@ -1,0 +1,92 @@
+mutation R {
+r0: tagsRemove(id: "gid://shopify/Product/9354152411444", tags: ["LEGO Building Set"]) { userErrors { message } }
+r1: tagsRemove(id: "gid://shopify/Product/9354432905524", tags: ["Eric Carle", "Kids Matching Game", "Matching Game", "travel activities", "Travel Game", "travel games", "Very Hungry Caterpillar"]) { userErrors { message } }
+r2: tagsRemove(id: "gid://shopify/Product/9355529945396", tags: ["Fun Nail Stickers"]) { userErrors { message } }
+r3: tagsRemove(id: "gid://shopify/Product/9355530076468", tags: ["Fun Nail Stickers"]) { userErrors { message } }
+r4: tagsRemove(id: "gid://shopify/Product/9355530895668", tags: ["kid-safe make-up"]) { userErrors { message } }
+r5: tagsRemove(id: "gid://shopify/Product/9355532009780", tags: ["Colorful Hair Accessories"]) { userErrors { message } }
+r6: tagsRemove(id: "gid://shopify/Product/9359279784244", tags: ["eczema", "eczema care"]) { userErrors { message } }
+r7: tagsRemove(id: "gid://shopify/Product/9359284863284", tags: ["child skincare", "family friendly skincare", "family skincare", "skin care", "Toronto kids skincare"]) { userErrors { message } }
+r8: tagsRemove(id: "gid://shopify/Product/9359287157044", tags: ["child skincare", "family friendly skincare", "family skincare", "skin care", "Toronto kids skincare"]) { userErrors { message } }
+r9: tagsRemove(id: "gid://shopify/Product/9359288533300", tags: ["child skincare", "family friendly skincare", "family skincare", "skin care", "Toronto kids skincare"]) { userErrors { message } }
+r10: tagsRemove(id: "gid://shopify/Product/9359555625268", tags: ["bento lunch box", "Kids Lunch Box", "Lunch Box for School", "Travel Lunch Box"]) { userErrors { message } }
+r11: tagsRemove(id: "gid://shopify/Product/9360425746740", tags: ["Minecraft", "Minecraft Toy"]) { userErrors { message } }
+r12: tagsRemove(id: "gid://shopify/Product/9360652337460", tags: ["Joke Toy"]) { userErrors { message } }
+r13: tagsRemove(id: "gid://shopify/Product/9360790716724", tags: ["Musical Play"]) { userErrors { message } }
+r14: tagsRemove(id: "gid://shopify/Product/9363470778676", tags: ["squishy"]) { userErrors { message } }
+r15: tagsRemove(id: "gid://shopify/Product/9363472974132", tags: ["autism sensory toys", "keychain", "sensory"]) { userErrors { message } }
+r16: tagsRemove(id: "gid://shopify/Product/9363481231668", tags: ["autism sensory toys", "sensory"]) { userErrors { message } }
+r17: tagsRemove(id: "gid://shopify/Product/9363494175028", tags: ["Diecast Toys", "Realistic Truck", "Toy Truck", "Toy Trucks", "trucks"]) { userErrors { message } }
+r18: tagsRemove(id: "gid://shopify/Product/9363773849908", tags: ["Travel Toy"]) { userErrors { message } }
+r19: tagsRemove(id: "gid://shopify/Product/9363775750452", tags: ["flash cards"]) { userErrors { message } }
+r20: tagsRemove(id: "gid://shopify/Product/9363907772724", tags: ["Jigsaw Puzzle", "Kids Puzzle"]) { userErrors { message } }
+r21: tagsRemove(id: "gid://shopify/Product/9363925303604", tags: ["Kids Puzzle"]) { userErrors { message } }
+r22: tagsRemove(id: "gid://shopify/Product/9363930710324", tags: ["Matching Game"]) { userErrors { message } }
+r23: tagsRemove(id: "gid://shopify/Product/9363935232308", tags: ["Magnetic Game", "Travel Game"]) { userErrors { message } }
+r24: tagsRemove(id: "gid://shopify/Product/9363946504500", tags: ["baby shoes"]) { userErrors { message } }
+r25: tagsRemove(id: "gid://shopify/Product/9363983860020", tags: ["squishy"]) { userErrors { message } }
+r26: tagsRemove(id: "gid://shopify/Product/9364367933748", tags: ["baby card", "baby shower card", "canadian greeting card", "card", "Card for Family", "Card for Friends", "cards", "Celebration Card", "Colorful Card", "Congratulations Card", "Fun Card", "funny card", "greeting cards", "greeting cards toronto", "Greetings Card"]) { userErrors { message } }
+r27: tagsRemove(id: "gid://shopify/Product/9364827341108", tags: ["canadian greeting card", "greeting cards", "greeting cards toronto", "Greetings Card", "toronto greeting card"]) { userErrors { message } }
+r28: tagsRemove(id: "gid://shopify/Product/9364827603252", tags: ["canadian greeting card", "greeting cards", "greeting cards toronto", "Greetings Card", "toronto greeting card"]) { userErrors { message } }
+r29: tagsRemove(id: "gid://shopify/Product/9364828225844", tags: ["canadian greeting card", "greeting cards", "greeting cards toronto", "Greetings Card", "toronto greeting card"]) { userErrors { message } }
+r30: tagsRemove(id: "gid://shopify/Product/9364830716212", tags: ["canadian greeting card", "greeting cards", "greeting cards toronto", "Greetings Card", "toronto greeting card"]) { userErrors { message } }
+r31: tagsRemove(id: "gid://shopify/Product/9364831043892", tags: ["canadian greeting card", "greeting cards", "greeting cards toronto", "Greetings Card", "toronto greeting card"]) { userErrors { message } }
+r32: tagsRemove(id: "gid://shopify/Product/9364831502644", tags: ["canadian greeting card", "greeting cards", "greeting cards toronto", "Greetings Card", "toronto greeting card"]) { userErrors { message } }
+r33: tagsRemove(id: "gid://shopify/Product/9364831633716", tags: ["canadian greeting card", "greeting cards", "greeting cards toronto", "Greetings Card", "toronto greeting card"]) { userErrors { message } }
+r34: tagsRemove(id: "gid://shopify/Product/9364831961396", tags: ["canadian greeting card", "greeting cards", "greeting cards toronto", "Greetings Card", "toronto greeting card"]) { userErrors { message } }
+r35: tagsRemove(id: "gid://shopify/Product/9364832387380", tags: ["canadian greeting card", "greeting cards", "greeting cards toronto", "Greetings Card", "toronto greeting card"]) { userErrors { message } }
+r36: tagsRemove(id: "gid://shopify/Product/9364833534260", tags: ["canadian greeting card", "greeting cards", "greeting cards toronto", "Greetings Card", "toronto greeting card"]) { userErrors { message } }
+r37: tagsRemove(id: "gid://shopify/Product/9364833960244", tags: ["canadian greeting card", "greeting cards", "greeting cards toronto", "Greetings Card", "toronto greeting card"]) { userErrors { message } }
+r38: tagsRemove(id: "gid://shopify/Product/9364834255156", tags: ["canadian greeting card", "greeting cards", "greeting cards toronto", "Greetings Card", "toronto greeting card"]) { userErrors { message } }
+r39: tagsRemove(id: "gid://shopify/Product/9365388493108", tags: ["classic games"]) { userErrors { message } }
+r40: tagsRemove(id: "gid://shopify/Product/9365493678388", tags: ["Assorted Stickers", "Fun Stickers", "sticker pad", "Sticker Set"]) { userErrors { message } }
+r41: tagsRemove(id: "gid://shopify/Product/9365499248948", tags: ["Assorted Stickers", "Fun Stickers"]) { userErrors { message } }
+r42: tagsRemove(id: "gid://shopify/Product/9365499543860", tags: ["Assorted Stickers", "Fun Stickers"]) { userErrors { message } }
+r43: tagsRemove(id: "gid://shopify/Product/9365500231988", tags: ["Assorted Stickers", "Character Stickers", "Fun Stickers", "Licensed Stickers", "puffy stickers"]) { userErrors { message } }
+r44: tagsRemove(id: "gid://shopify/Product/9365501772084", tags: ["Assorted Stickers", "Fun Stickers"]) { userErrors { message } }
+r45: tagsRemove(id: "gid://shopify/Product/9365502361908", tags: ["Assorted Stickers", "Fun Stickers"]) { userErrors { message } }
+r46: tagsRemove(id: "gid://shopify/Product/9365502689588", tags: ["Assorted Stickers", "Character Stickers", "Licensed Stickers"]) { userErrors { message } }
+r47: tagsRemove(id: "gid://shopify/Product/9365503279412", tags: ["Assorted Stickers", "Character Stickers", "Fun Stickers", "Licensed Stickers"]) { userErrors { message } }
+r48: tagsRemove(id: "gid://shopify/Product/9367439114548", tags: ["Baby Bath Essentials"]) { userErrors { message } }
+r49: tagsRemove(id: "gid://shopify/Product/9367439245620", tags: ["bath towel", "infant bath towel"]) { userErrors { message } }
+r50: tagsRemove(id: "gid://shopify/Product/9367439835444", tags: ["Diaper Change Mat"]) { userErrors { message } }
+r51: tagsRemove(id: "gid://shopify/Product/9367440490804", tags: ["bath towel", "infant bath towel"]) { userErrors { message } }
+r52: tagsRemove(id: "gid://shopify/Product/9367441178932", tags: ["Baby Swaddle"]) { userErrors { message } }
+r53: tagsRemove(id: "gid://shopify/Product/9367441998132", tags: ["Baby Swaddle"]) { userErrors { message } }
+r54: tagsRemove(id: "gid://shopify/Product/9367782949172", tags: ["Search Game"]) { userErrors { message } }
+r55: tagsRemove(id: "gid://shopify/Product/9367783244084", tags: ["Baby Activity Toy", "Sensory Activity"]) { userErrors { message } }
+r56: tagsRemove(id: "gid://shopify/Product/9367892885812", tags: ["Hand Puppet", "hand puppets", "Puppet", "Soft Puppet", "Storytelling Puppet"]) { userErrors { message } }
+r57: tagsRemove(id: "gid://shopify/Product/9367893246260", tags: ["Hand Puppet", "hand puppets", "Puppet", "Soft Puppet", "Storytelling Puppet"]) { userErrors { message } }
+r58: tagsRemove(id: "gid://shopify/Product/9367893999924", tags: ["finger puppet", "Puppet", "Soft Puppet", "Storytelling Puppet"]) { userErrors { message } }
+r59: tagsRemove(id: "gid://shopify/Product/9367900029236", tags: ["Hand Puppet", "hand puppets", "Puppet", "Soft Puppet", "Storytelling Puppet"]) { userErrors { message } }
+r60: tagsRemove(id: "gid://shopify/Product/9367902191924", tags: ["Search Game"]) { userErrors { message } }
+r61: tagsRemove(id: "gid://shopify/Product/9367902683444", tags: ["Character Stickers", "Fun Stickers"]) { userErrors { message } }
+r62: tagsRemove(id: "gid://shopify/Product/9367990862132", tags: ["Baby Board Book", "board book", "board books"]) { userErrors { message } }
+r63: tagsRemove(id: "gid://shopify/Product/9367990927668", tags: ["Baby Board Book", "board book", "board books", "Board Books for Babies"]) { userErrors { message } }
+r64: tagsRemove(id: "gid://shopify/Product/9367991091508", tags: ["Fun Stickers"]) { userErrors { message } }
+r65: tagsRemove(id: "gid://shopify/Product/9367991320884", tags: ["Fun Stickers"]) { userErrors { message } }
+r66: tagsRemove(id: "gid://shopify/Product/9367992566068", tags: ["Assorted Stickers", "colouring", "colouring book", "Fun Stickers", "sticker pad"]) { userErrors { message } }
+r67: tagsRemove(id: "gid://shopify/Product/9367992729908", tags: ["Baby Activity Toy", "Sensory Activity"]) { userErrors { message } }
+r68: tagsRemove(id: "gid://shopify/Product/9367992860980", tags: ["Baby Activity Toy", "Push and Pull Toy"]) { userErrors { message } }
+r69: tagsRemove(id: "gid://shopify/Product/9367993024820", tags: ["utensils"]) { userErrors { message } }
+r70: tagsRemove(id: "gid://shopify/Product/9367993778484", tags: ["Kids Tattoos", "Removable Tattoos"]) { userErrors { message } }
+r71: tagsRemove(id: "gid://shopify/Product/9367993811252", tags: ["colouring", "colouring book"]) { userErrors { message } }
+r72: tagsRemove(id: "gid://shopify/Product/9367993975092", tags: ["Assorted Stickers", "colouring", "colouring book", "Fun Stickers", "sticker pad", "Sticker Set"]) { userErrors { message } }
+r73: tagsRemove(id: "gid://shopify/Product/9367994859828", tags: ["Baby Activity Toy", "Sensory Activity"]) { userErrors { message } }
+r74: tagsRemove(id: "gid://shopify/Product/9367995285812", tags: ["Baby Activity Toy"]) { userErrors { message } }
+r75: tagsRemove(id: "gid://shopify/Product/9367995351348", tags: ["Baby Activity Toy", "night light"]) { userErrors { message } }
+r76: tagsRemove(id: "gid://shopify/Product/9367995482420", tags: ["Baby Activity Toy", "Sensory Activity"]) { userErrors { message } }
+r77: tagsRemove(id: "gid://shopify/Product/9367996662068", tags: ["colouring", "colouring book"]) { userErrors { message } }
+r78: tagsRemove(id: "gid://shopify/Product/9367997153588", tags: ["craft", "craft kit", "Craft Supplies"]) { userErrors { message } }
+r79: tagsRemove(id: "gid://shopify/Product/9367997514036", tags: ["cars", "Vehicle Toy", "vehicles", "wooden cars"]) { userErrors { message } }
+r80: tagsRemove(id: "gid://shopify/Product/9367997743412", tags: ["activity magnets", "Baby Alphabet", "magnet"]) { userErrors { message } }
+r81: tagsRemove(id: "gid://shopify/Product/9367997841716", tags: ["Kids Puzzle", "kids puzzles", "puzzle", "Puzzle for Kids"]) { userErrors { message } }
+r82: tagsRemove(id: "gid://shopify/Product/9367997907252", tags: ["activity magnets", "magnet", "magnets", "wooden magnets"]) { userErrors { message } }
+r83: tagsRemove(id: "gid://shopify/Product/9368361828660", tags: ["autism sensory toys", "sensory", "sensory balls"]) { userErrors { message } }
+r84: tagsRemove(id: "gid://shopify/Product/9368605622580", tags: ["BPA-Free"]) { userErrors { message } }
+r85: tagsRemove(id: "gid://shopify/Product/9368607719732", tags: ["BPA-Free"]) { userErrors { message } }
+r86: tagsRemove(id: "gid://shopify/Product/9368816156980", tags: ["Nail Polishes"]) { userErrors { message } }
+r87: tagsRemove(id: "gid://shopify/Product/9368827003188", tags: ["Baby Feeder", "Baby Food Feeder"]) { userErrors { message } }
+r88: tagsRemove(id: "gid://shopify/Product/9369393332532", tags: ["Classic Card Game"]) { userErrors { message } }
+r89: tagsRemove(id: "gid://shopify/Product/9369393463604", tags: ["Classic Card Game"]) { userErrors { message } }
+}

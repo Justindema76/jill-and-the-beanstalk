@@ -1,0 +1,20 @@
+mutation X {
+p0: productUpdate(product: {id: "gid://shopify/Product/9368607719732", productType: ""}) { userErrors { message } }
+p1: productUpdate(product: {id: "gid://shopify/Product/9373060333876", productType: ""}) { userErrors { message } }
+p2: productUpdate(product: {id: "gid://shopify/Product/9373060366644", productType: ""}) { userErrors { message } }
+p3: productUpdate(product: {id: "gid://shopify/Product/9373060399412", productType: ""}) { userErrors { message } }
+p4: productUpdate(product: {id: "gid://shopify/Product/9373060432180", productType: ""}) { userErrors { message } }
+p5: productUpdate(product: {id: "gid://shopify/Product/9373060464948", productType: ""}) { userErrors { message } }
+p6: productUpdate(product: {id: "gid://shopify/Product/9373060497716", productType: ""}) { userErrors { message } }
+p7: productUpdate(product: {id: "gid://shopify/Product/9373060530484", productType: ""}) { userErrors { message } }
+p8: productUpdate(product: {id: "gid://shopify/Product/9373060596020", productType: ""}) { userErrors { message } }
+p9: productUpdate(product: {id: "gid://shopify/Product/9373060661556", productType: ""}) { userErrors { message } }
+p10: productUpdate(product: {id: "gid://shopify/Product/9373060694324", productType: ""}) { userErrors { message } }
+p11: productUpdate(product: {id: "gid://shopify/Product/9373060727092", productType: ""}) { userErrors { message } }
+p12: productUpdate(product: {id: "gid://shopify/Product/9373060759860", productType: ""}) { userErrors { message } }
+p13: productUpdate(product: {id: "gid://shopify/Product/9373060792628", productType: ""}) { userErrors { message } }
+p14: productUpdate(product: {id: "gid://shopify/Product/9373060825396", productType: ""}) { userErrors { message } }
+p15: productUpdate(product: {id: "gid://shopify/Product/9373060890932", productType: ""}) { userErrors { message } }
+p16: productUpdate(product: {id: "gid://shopify/Product/9373060923700", productType: ""}) { userErrors { message } }
+p17: productUpdate(product: {id: "gid://shopify/Product/9373060989236", productType: ""}) { userErrors { message } }
+}

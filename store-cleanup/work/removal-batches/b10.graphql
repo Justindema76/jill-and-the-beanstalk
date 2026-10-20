@@ -1,0 +1,92 @@
+mutation R {
+r0: tagsRemove(id: "gid://shopify/Product/6731913822264", tags: ["Pull‑Back Vehicles", "vehicles"]) { userErrors { message } }
+r1: tagsRemove(id: "gid://shopify/Product/6798403633208", tags: ["Bedtime Story", "Canadian Cities", "Children's Story", "Goodnight Book", "Katherine Sully", "Local Book", "Night-Night Toronto", "Toddler Book", "Toronto for Kids"]) { userErrors { message } }
+r2: tagsRemove(id: "gid://shopify/Product/6798403731512", tags: ["Chris Ferrie", "Early Learning", "Educational Book", "Famous Scientists", "Read Aloud", "Science for Kids", "Scientist Book", "STEM Book", "Toddler Science"]) { userErrors { message } }
+r3: tagsRemove(id: "gid://shopify/Product/6798403797048", tags: ["diary", "journaling", "notebook"]) { userErrors { message } }
+r4: tagsRemove(id: "gid://shopify/Product/6798403928120", tags: ["Book"]) { userErrors { message } }
+r5: tagsRemove(id: "gid://shopify/Product/6798403960888", tags: ["Be Amazing", "Children's Book", "Desmond Is Amazing", "Diversity", "Empowerment Book", "Inclusive Story", "Kids Activism", "LGBTQ+ Education", "LGBTQ+ History", "Pride Book"]) { userErrors { message } }
+r6: tagsRemove(id: "gid://shopify/Product/6798404091960", tags: ["Children's Book", "Diversity Book", "Empowerment", "Identity Book", "Inclusive Story", "Kids Literature", "Mixed Me", "Multiracial Family", "Picture Book", "Social Themes", "Taye Diggs"]) { userErrors { message } }
+r7: tagsRemove(id: "gid://shopify/Product/6798404223032", tags: ["Books", "Canadian Author", "Children's Book", "Eric James", "Halloween Book", "Holiday Book", "Kids Halloween", "Local Story", "Picture Book", "Seasonal Reading", "Toronto Book", "Trick or Treat"]) { userErrors { message } }
+r8: tagsRemove(id: "gid://shopify/Product/6798404321336", tags: ["playing cards"]) { userErrors { message } }
+r9: tagsRemove(id: "gid://shopify/Product/6798409400376", tags: ["puzzle"]) { userErrors { message } }
+r10: tagsRemove(id: "gid://shopify/Product/6798411071544", tags: ["fun"]) { userErrors { message } }
+r11: tagsRemove(id: "gid://shopify/Product/6798413267000", tags: ["cool", "fun"]) { userErrors { message } }
+r12: tagsRemove(id: "gid://shopify/Product/6798413463608", tags: ["cool", "fun", "Toy"]) { userErrors { message } }
+r13: tagsRemove(id: "gid://shopify/Product/6798413692984", tags: ["cool", "craft", "fun"]) { userErrors { message } }
+r14: tagsRemove(id: "gid://shopify/Product/6798415691832", tags: ["baby", "Book"]) { userErrors { message } }
+r15: tagsRemove(id: "gid://shopify/Product/6798416183352", tags: ["bedtime stories", "board books", "Books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r16: tagsRemove(id: "gid://shopify/Product/6798416478264", tags: ["baby", "Book"]) { userErrors { message } }
+r17: tagsRemove(id: "gid://shopify/Product/6798416543800", tags: ["board book"]) { userErrors { message } }
+r18: tagsRemove(id: "gid://shopify/Product/6798416674872", tags: ["bedtime stories", "board books", "Books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r19: tagsRemove(id: "gid://shopify/Product/6798417723448", tags: ["bedtime stories", "board books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r20: tagsRemove(id: "gid://shopify/Product/6798441775160", tags: ["fun", "toys"]) { userErrors { message } }
+r21: tagsRemove(id: "gid://shopify/Product/6798442037304", tags: ["cool"]) { userErrors { message } }
+r22: tagsRemove(id: "gid://shopify/Product/6798457864248", tags: ["12oz Water Bottle", "Eco Friendly", "insulated bottle", "Insulated Sport Bottle", "Klean Kanteen", "Leakproof", "Reusable Water Bottle", "Sport Cap Bottle", "Stainless Steel Water Bottle"]) { userErrors { message } }
+r23: tagsRemove(id: "gid://shopify/Product/6798524874808", tags: ["archaeology toy", "dig it eggs", "dig it up", "dino dig kit", "dinosaur egg excavation", "early readers", "excavation kit", "fossil eggs", "hands-on science", "Kids Science", "kids science experiment", "literacy", "Science Toys"]) { userErrors { message } }
+r24: tagsRemove(id: "gid://shopify/Product/6798538047544", tags: ["hair care"]) { userErrors { message } }
+r25: tagsRemove(id: "gid://shopify/Product/6798538211384", tags: ["fine motor skills", "interactive play", "Jill and the Beanstalk", "Toronto toy store"]) { userErrors { message } }
+r26: tagsRemove(id: "gid://shopify/Product/6798563082296", tags: ["Jill and the Beanstalk"]) { userErrors { message } }
+r27: tagsRemove(id: "gid://shopify/Product/6798563147832", tags: ["cool", "craft", "fun"]) { userErrors { message } }
+r28: tagsRemove(id: "gid://shopify/Product/6798563344440", tags: ["cool", "craft", "fun"]) { userErrors { message } }
+r29: tagsRemove(id: "gid://shopify/Product/6798598766648", tags: ["Feeding Essentials", "feeding time", "kids plate", "Mealtime Essentials", "Plate"]) { userErrors { message } }
+r30: tagsRemove(id: "gid://shopify/Product/6798598963256", tags: ["baby", "Silicone"]) { userErrors { message } }
+r31: tagsRemove(id: "gid://shopify/Product/6798801371192", tags: ["bedtime stories", "board books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r32: tagsRemove(id: "gid://shopify/Product/6798828077112", tags: ["bedtime stories", "board books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r33: tagsRemove(id: "gid://shopify/Product/6798828109880", tags: ["bedtime stories", "board books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r34: tagsRemove(id: "gid://shopify/Product/6798902427704", tags: ["wooden"]) { userErrors { message } }
+r35: tagsRemove(id: "gid://shopify/Product/6798915436600", tags: ["bedtime stories", "board books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r36: tagsRemove(id: "gid://shopify/Product/6798915600440", tags: ["board book", "Montessori"]) { userErrors { message } }
+r37: tagsRemove(id: "gid://shopify/Product/6798915633208", tags: ["bedtime stories", "board books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r38: tagsRemove(id: "gid://shopify/Product/6798920876088", tags: ["bedtime stories", "board books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r39: tagsRemove(id: "gid://shopify/Product/6798921203768", tags: ["bedtime stories", "board books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r40: tagsRemove(id: "gid://shopify/Product/6798921269304", tags: ["baby book"]) { userErrors { message } }
+r41: tagsRemove(id: "gid://shopify/Product/6798921334840", tags: ["bedtime stories", "board books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r42: tagsRemove(id: "gid://shopify/Product/6798989557816", tags: ["nail polish", "nail varnish", "nails"]) { userErrors { message } }
+r43: tagsRemove(id: "gid://shopify/Product/6799015510072", tags: ["3 Compartment Bento", "Bento Snack Box", "BPA-Free", "Compact Lunchbox", "Durable Lunchbox", "Easy Open", "Food Safe", "Healthy Eating", "Kids Lunchbox", "Leakproof Snack Box", "Meal Prep", "Plastic-Free", "Portion Control", "Reusable Lunchbox", "School Lunchbox", "Snack Bento Box", "Snack Container", "Travel Snack Box", "Yumbox Snack"]) { userErrors { message } }
+r44: tagsRemove(id: "gid://shopify/Product/6999599349816", tags: ["Health"]) { userErrors { message } }
+r45: tagsRemove(id: "gid://shopify/Product/6999600824376", tags: ["baby animal toys", "baby dolls", "baby gift canada", "baby lovey", "baby plush", "baby products toronto", "baby toys", "Mary Meyer", "newborn essentials", "plush toys", "snuggly toys", "Soft Plush", "soft toys", "stuffed animals"]) { userErrors { message } }
+r46: tagsRemove(id: "gid://shopify/Product/6999654563896", tags: ["Soft Rattle"]) { userErrors { message } }
+r47: tagsRemove(id: "gid://shopify/Product/6999772725304", tags: ["educational toys", "Kids Science", "Kids Science Kit", "Science and Laboratory", "Science Kit", "Science Toys"]) { userErrors { message } }
+r48: tagsRemove(id: "gid://shopify/Product/6999813324856", tags: ["baby"]) { userErrors { message } }
+r49: tagsRemove(id: "gid://shopify/Product/6999813554232", tags: ["cool", "fun"]) { userErrors { message } }
+r50: tagsRemove(id: "gid://shopify/Product/6999813750840", tags: ["cool", "fun", "Silicone"]) { userErrors { message } }
+r51: tagsRemove(id: "gid://shopify/Product/6999814111288", tags: ["cool", "craft", "fun", "sensory"]) { userErrors { message } }
+r52: tagsRemove(id: "gid://shopify/Product/6999842619448", tags: ["cool", "fun", "Toy"]) { userErrors { message } }
+r53: tagsRemove(id: "gid://shopify/Product/6999842750520", tags: ["cool", "crafts", "fun", "Toy"]) { userErrors { message } }
+r54: tagsRemove(id: "gid://shopify/Product/6999842881592", tags: ["fun", "sensory", "slime"]) { userErrors { message } }
+r55: tagsRemove(id: "gid://shopify/Product/6999842979896", tags: ["cool", "crafts", "fun"]) { userErrors { message } }
+r56: tagsRemove(id: "gid://shopify/Product/6999843078200", tags: ["fun", "Toy"]) { userErrors { message } }
+r57: tagsRemove(id: "gid://shopify/Product/6999843176504", tags: ["cool", "fun", "Toy"]) { userErrors { message } }
+r58: tagsRemove(id: "gid://shopify/Product/6999843405880", tags: ["cool", "fun", "toys"]) { userErrors { message } }
+r59: tagsRemove(id: "gid://shopify/Product/6999843471416", tags: ["cool", "fun", "Toy"]) { userErrors { message } }
+r60: tagsRemove(id: "gid://shopify/Product/6999843504184", tags: ["cool", "fun", "Toy"]) { userErrors { message } }
+r61: tagsRemove(id: "gid://shopify/Product/6999966122040", tags: ["cool", "fun"]) { userErrors { message } }
+r62: tagsRemove(id: "gid://shopify/Product/6999966187576", tags: ["cool", "fun", "hair"]) { userErrors { message } }
+r63: tagsRemove(id: "gid://shopify/Product/6999966285880", tags: ["cool"]) { userErrors { message } }
+r64: tagsRemove(id: "gid://shopify/Product/6999966351416", tags: ["cool", "Costume Jewelry", "fun"]) { userErrors { message } }
+r65: tagsRemove(id: "gid://shopify/Product/6999966384184", tags: ["Brush", "brushes", "hair care"]) { userErrors { message } }
+r66: tagsRemove(id: "gid://shopify/Product/6999966416952", tags: ["cool", "fun", "hair"]) { userErrors { message } }
+r67: tagsRemove(id: "gid://shopify/Product/6999966482488", tags: ["cool", "fun", "hair"]) { userErrors { message } }
+r68: tagsRemove(id: "gid://shopify/Product/6999966548024", tags: ["Colorful Hair Clips", "cool", "Cute Hair Clips", "fun", "hair", "Hair Clips"]) { userErrors { message } }
+r69: tagsRemove(id: "gid://shopify/Product/6999966580792", tags: ["cool", "fun", "unicorn"]) { userErrors { message } }
+r70: tagsRemove(id: "gid://shopify/Product/6999966613560", tags: ["cool", "fun"]) { userErrors { message } }
+r71: tagsRemove(id: "gid://shopify/Product/6999966646328", tags: ["cool", "Costume Jewelry", "fun"]) { userErrors { message } }
+r72: tagsRemove(id: "gid://shopify/Product/6999966679096", tags: ["cool", "fun"]) { userErrors { message } }
+r73: tagsRemove(id: "gid://shopify/Product/6999970414648", tags: ["Clip-On Earrings", "Costume Jewelry", "Dress Up Accessories", "Fancy Earrings", "Fashion Jewelry", "Girls Accessories", "Great Pretenders", "Great Pretenders Accessories", "Imaginative Play", "Jewelry for Kids", "Kids Dress Up", "Kids Earrings", "Non-Pierced Earrings", "Party Favor", "Play Earrings", "Role Play", "Toy Jewelry", "Unisex Toy"]) { userErrors { message } }
+r74: tagsRemove(id: "gid://shopify/Product/6999970807864", tags: ["Costume Jewelry", "Dress Up Rings", "Fancy Rings", "Fashion Play", "Girls Accessories", "Great Pretenders", "Great Pretenders Accessories", "Imaginative Play", "Jewelry Set", "Kids Dress Up", "Kids Rings", "Play Jewelry", "Pretend Play Rings", "Princess Rings", "Role Play", "Sparkly Rings", "Toy Jewelry", "Unisex Toy"]) { userErrors { message } }
+r75: tagsRemove(id: "gid://shopify/Product/6999971004472", tags: ["Costume Tiara", "Dress Up Tiara", "Fairy Tale Tiara", "Fancy Tiara", "Fashion Play", "Girls Accessories", "Great Pretenders", "Great Pretenders Accessories", "Imaginative Play", "Kids Dress Up", "Kids Tiara", "Party Accessory", "Pretend Play Tiara", "Princess Tiara", "Role Play", "Royal Costume", "Sparkly Tiara", "Tiara Headband", "Toy Tiara", "Unisex Toy"]) { userErrors { message } }
+r76: tagsRemove(id: "gid://shopify/Product/6999971364920", tags: ["hair care"]) { userErrors { message } }
+r77: tagsRemove(id: "gid://shopify/Product/6999972970552", tags: ["air dry clay"]) { userErrors { message } }
+r78: tagsRemove(id: "gid://shopify/Product/7000087724088", tags: ["collectible", "fun"]) { userErrors { message } }
+r79: tagsRemove(id: "gid://shopify/Product/7000187371576", tags: ["Birthday Card", "Blank Card", "Card for Family", "Card for Friends", "Celebration Card", "Holiday Card", "Humorous Card", "Independent Brand", "Local Artist", "Occasion Card", "Party Mountain", "Printed in Canada", "Quirky Card", "Recycled Paper", "Unique Card"]) { userErrors { message } }
+r80: tagsRemove(id: "gid://shopify/Product/7000187404344", tags: ["Birthday Card", "Blank Inside", "Card for Family", "Card for Friends", "Humorous Card", "Independent Brand", "Local Artist", "Occasion Card", "Party Mountain", "Party Mountain Paper Co", "Printed in Canada", "Quirky Card", "Recycled Paper", "Unique Card"]) { userErrors { message } }
+r81: tagsRemove(id: "gid://shopify/Product/7000292884536", tags: ["cool", "fun"]) { userErrors { message } }
+r82: tagsRemove(id: "gid://shopify/Product/7000293113912", tags: ["Birthday Card", "Blank Card", "Card for Family", "Card for Friends", "Colorful Card", "cool", "fun", "Fun Card", "Holiday Card", "Illustrated Card", "Independent Brand", "Local Artist", "Occasion Card", "Penny Paper", "Penny Paper Co", "Printed in Canada", "Recycled Paper", "Thank You Card", "Unique Card"]) { userErrors { message } }
+r83: tagsRemove(id: "gid://shopify/Product/7000293277752", tags: ["cool", "greeting cards"]) { userErrors { message } }
+r84: tagsRemove(id: "gid://shopify/Product/7000293441592", tags: ["greeting cards"]) { userErrors { message } }
+r85: tagsRemove(id: "gid://shopify/Product/7000293539896", tags: ["Care Bears", "greeting cards"]) { userErrors { message } }
+r86: tagsRemove(id: "gid://shopify/Product/7000293769272", tags: ["cool", "fun"]) { userErrors { message } }
+r87: tagsRemove(id: "gid://shopify/Product/7000299798584", tags: ["baby", "greeting cards"]) { userErrors { message } }
+r88: tagsRemove(id: "gid://shopify/Product/7000303796280", tags: ["Birthday Card", "Blank Card", "Card for Family", "Card for Friends", "Celebration Card", "cool", "fun", "Holiday Card", "Humorous Card", "Independent Brand", "Local Artist", "Occasion Card", "Party Mountain", "Printed in Canada", "Quirky Card", "Recycled Paper", "Unique Card"]) { userErrors { message } }
+r89: tagsRemove(id: "gid://shopify/Product/7000303861816", tags: ["cool", "fun"]) { userErrors { message } }
+}

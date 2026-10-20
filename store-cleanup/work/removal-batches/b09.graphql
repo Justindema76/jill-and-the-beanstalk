@@ -1,0 +1,92 @@
+mutation R {
+r0: tagsRemove(id: "gid://shopify/Product/6559833751608", tags: ["cool", "craft", "fun"]) { userErrors { message } }
+r1: tagsRemove(id: "gid://shopify/Product/6559834669112", tags: ["cool", "fun", "sensory", "Toy"]) { userErrors { message } }
+r2: tagsRemove(id: "gid://shopify/Product/6559865208888", tags: ["baby bed", "Crib", "kids beds", "Sheets"]) { userErrors { message } }
+r3: tagsRemove(id: "gid://shopify/Product/6571455643704", tags: ["Outdoor Toy"]) { userErrors { message } }
+r4: tagsRemove(id: "gid://shopify/Product/6571455742008", tags: ["water", "Water Magnifyer"]) { userErrors { message } }
+r5: tagsRemove(id: "gid://shopify/Product/6571479957560", tags: ["cool", "fun"]) { userErrors { message } }
+r6: tagsRemove(id: "gid://shopify/Product/6580493058104", tags: ["magnets"]) { userErrors { message } }
+r7: tagsRemove(id: "gid://shopify/Product/6580493221944", tags: ["bedtime stories", "board books", "Books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r8: tagsRemove(id: "gid://shopify/Product/6580493254712", tags: ["Early Literacy", "Flip-Flap Book", "Lizi Boyd", "Read Aloud", "Toddler Reading", "Who Loves Books"]) { userErrors { message } }
+r9: tagsRemove(id: "gid://shopify/Product/6580493484088", tags: ["Baby Learning", "Be Kind", "Board Book Set", "Empathy Book", "First Books", "Kindness Book", "Mudpuppy", "Social Emotional Learning", "Toddler Book"]) { userErrors { message } }
+r10: tagsRemove(id: "gid://shopify/Product/6580493877304", tags: ["Board Book Set", "Calm Baby", "First Books", "Mindful Baby", "Mindfulness for Kids", "Mudpuppy", "Social Emotional", "Toddler Learning"]) { userErrors { message } }
+r11: tagsRemove(id: "gid://shopify/Product/6580494106680", tags: ["A Little Space For Me", "Children’s Book", "Empathy", "Jennifer Gray Olson", "Mindfulness", "Personal Space", "Picture Book", "Social Emotional Learning"]) { userErrors { message } }
+r12: tagsRemove(id: "gid://shopify/Product/6581452079160", tags: ["fun", "Toy"]) { userErrors { message } }
+r13: tagsRemove(id: "gid://shopify/Product/6581452111928", tags: ["cool", "fun", "toys"]) { userErrors { message } }
+r14: tagsRemove(id: "gid://shopify/Product/6581452243000", tags: ["balls", "craft", "fun", "sensory", "toys"]) { userErrors { message } }
+r15: tagsRemove(id: "gid://shopify/Product/6581452800056", tags: ["cool", "craft", "fun"]) { userErrors { message } }
+r16: tagsRemove(id: "gid://shopify/Product/6581453422648", tags: ["cool", "fun", "Toy"]) { userErrors { message } }
+r17: tagsRemove(id: "gid://shopify/Product/6581453520952", tags: ["cool", "fun", "sensory", "Toy"]) { userErrors { message } }
+r18: tagsRemove(id: "gid://shopify/Product/6581453881400", tags: ["fun", "Toy"]) { userErrors { message } }
+r19: tagsRemove(id: "gid://shopify/Product/6581454241848", tags: ["baby", "cool", "fun", "sensory", "Toy"]) { userErrors { message } }
+r20: tagsRemove(id: "gid://shopify/Product/6581455552568", tags: ["cool", "Educational", "fun"]) { userErrors { message } }
+r21: tagsRemove(id: "gid://shopify/Product/6581455683640", tags: ["cool", "fun", "Toy"]) { userErrors { message } }
+r22: tagsRemove(id: "gid://shopify/Product/6581506867256", tags: ["baby"]) { userErrors { message } }
+r23: tagsRemove(id: "gid://shopify/Product/6581527478328", tags: ["Backyard Toy", "Bird House", "Bird Watching Toy", "DIY Bird House", "Eco-Friendly Toy", "Kids Gardening", "Le Botaniste", "Montessori Toy", "Moulin Roty", "Moulin Roty Toys", "Nature Activity", "Unisex Toy", "Wildlife Toy", "Wooden Bird House"]) { userErrors { message } }
+r24: tagsRemove(id: "gid://shopify/Product/6581648195640", tags: ["Book"]) { userErrors { message } }
+r25: tagsRemove(id: "gid://shopify/Product/6581668446264", tags: ["A Place to Stay", "Books", "Children's Book", "Empathy Book", "Family Story", "Inclusive Book", "Kids Literature", "Picture Book", "Shelter Story", "Social Issues"]) { userErrors { message } }
+r26: tagsRemove(id: "gid://shopify/Product/6581683191864", tags: ["cool", "fun"]) { userErrors { message } }
+r27: tagsRemove(id: "gid://shopify/Product/6587077525560", tags: ["cutting paper", "easy fun kids items", "fine motor skills", "school", "teaching"]) { userErrors { message } }
+r28: tagsRemove(id: "gid://shopify/Product/6587088961592", tags: ["stamps"]) { userErrors { message } }
+r29: tagsRemove(id: "gid://shopify/Product/6587098038328", tags: ["fine motor skills", "Folding Box", "Indoor Sand", "interactive play", "Jill and the Beanstalk", "Mess-Free Sand", "Moldable Sand", "Open-Ended Play", "Sand Box", "Toronto toy store"]) { userErrors { message } }
+r30: tagsRemove(id: "gid://shopify/Product/6587653881912", tags: ["art", "cool", "craft", "fun"]) { userErrors { message } }
+r31: tagsRemove(id: "gid://shopify/Product/6594627076152", tags: ["cool", "crafts", "fun"]) { userErrors { message } }
+r32: tagsRemove(id: "gid://shopify/Product/6594657714232", tags: ["cool", "craft", "fun"]) { userErrors { message } }
+r33: tagsRemove(id: "gid://shopify/Product/6594744287288", tags: ["cool", "craft", "fun"]) { userErrors { message } }
+r34: tagsRemove(id: "gid://shopify/Product/6594850127928", tags: ["craft", "fun", "sensory"]) { userErrors { message } }
+r35: tagsRemove(id: "gid://shopify/Product/6729836953656", tags: ["cool", "craft", "fun"]) { userErrors { message } }
+r36: tagsRemove(id: "gid://shopify/Product/6729837051960", tags: ["Educational", "fun"]) { userErrors { message } }
+r37: tagsRemove(id: "gid://shopify/Product/6729837084728", tags: ["cool", "craft", "fun", "sensory"]) { userErrors { message } }
+r38: tagsRemove(id: "gid://shopify/Product/6729837543480", tags: ["Outdoor Toy"]) { userErrors { message } }
+r39: tagsRemove(id: "gid://shopify/Product/6729837576248", tags: ["cool", "frisbee", "fun", "kids outdoor toys", "kids park play", "outdoor play"]) { userErrors { message } }
+r40: tagsRemove(id: "gid://shopify/Product/6729837641784", tags: ["Discovery Set", "Nostalgic Toy"]) { userErrors { message } }
+r41: tagsRemove(id: "gid://shopify/Product/6729839542328", tags: ["puzzle"]) { userErrors { message } }
+r42: tagsRemove(id: "gid://shopify/Product/6729842229304", tags: ["lava lamp bulb"]) { userErrors { message } }
+r43: tagsRemove(id: "gid://shopify/Product/6729843376184", tags: ["cool", "fun", "sensory"]) { userErrors { message } }
+r44: tagsRemove(id: "gid://shopify/Product/6729906257976", tags: ["summer essentials"]) { userErrors { message } }
+r45: tagsRemove(id: "gid://shopify/Product/6730060202040", tags: ["Brush", "brushes", "hair care"]) { userErrors { message } }
+r46: tagsRemove(id: "gid://shopify/Product/6730076815416", tags: ["magic milk bottle", "make believe", "My Sweet Baby", "Toddler"]) { userErrors { message } }
+r47: tagsRemove(id: "gid://shopify/Product/6730108796984", tags: ["Baby Shower Gift", "baby spoons", "Eco Friendly", "Feeding Spoons", "lil bitty spoons", "Lil' Bitty Spoon Set", "Mealtime Essentials", "Safe Baby Utensils", "Silicone Spoons", "Soft Spoons", "Sugarbooger", "Toddler Spoons"]) { userErrors { message } }
+r48: tagsRemove(id: "gid://shopify/Product/6730108829752", tags: ["Baby Dishware", "Baby Led Weaning", "Child Plate", "Eco Friendly", "Feeding Essentials", "First Foods Plate", "Leakproof Plate", "Mealtime Gear", "Non Slip Plate", "Portable Plate", "Spill Proof Plate", "Suction Base", "Suction Plate", "Sugarbooger"]) { userErrors { message } }
+r49: tagsRemove(id: "gid://shopify/Product/6730108862520", tags: ["smoothie straw cups"]) { userErrors { message } }
+r50: tagsRemove(id: "gid://shopify/Product/6730109026360", tags: ["baby", "baby feeding", "Baby Sippy Cup", "BPA-Free Sippy Cup", "Eco-Friendly Sippy Cup", "Feeding Essentials", "Silicone"]) { userErrors { message } }
+r51: tagsRemove(id: "gid://shopify/Product/6730224468024", tags: ["Health"]) { userErrors { message } }
+r52: tagsRemove(id: "gid://shopify/Product/6730227351608", tags: ["beach essentials", "Beach Toys", "sand toy", "Sand Toys"]) { userErrors { message } }
+r53: tagsRemove(id: "gid://shopify/Product/6730228072504", tags: ["wooden toy"]) { userErrors { message } }
+r54: tagsRemove(id: "gid://shopify/Product/6730229612600", tags: ["Baby Clementoni", "Baby Development", "easy fun kids items", "Fine Motor Toy", "Interactive Toy", "Toddler Tool Bench", "Workbench Toy"]) { userErrors { message } }
+r55: tagsRemove(id: "gid://shopify/Product/6730231906360", tags: ["summer essentials"]) { userErrors { message } }
+r56: tagsRemove(id: "gid://shopify/Product/6730233675832", tags: ["Baby Sippy Cup", "BPA-Free Sippy Cup", "Eco-Friendly Sippy Cup", "Feeding Essentials"]) { userErrors { message } }
+r57: tagsRemove(id: "gid://shopify/Product/6730243637304", tags: ["baby sunscreen", "SPF protection", "Summer", "sunscreen Canada", "Toronto baby store"]) { userErrors { message } }
+r58: tagsRemove(id: "gid://shopify/Product/6730254614584", tags: ["dinosaur", "gigantic sprinkler", "gorillia", "sprinkler"]) { userErrors { message } }
+r59: tagsRemove(id: "gid://shopify/Product/6730447061048", tags: ["cool", "fun", "sensory"]) { userErrors { message } }
+r60: tagsRemove(id: "gid://shopify/Product/6730447519800", tags: ["Body Art Markers", "Craft Supplies", "fun", "Fun Kids Art", "Glitter Pens", "Kids Craft Pens", "Non Toxic Pens", "Party Activity", "Safe Tattoo Pens", "Temporary Tattoo Pens", "Washable Pens"]) { userErrors { message } }
+r61: tagsRemove(id: "gid://shopify/Product/6730618634296", tags: ["hair"]) { userErrors { message } }
+r62: tagsRemove(id: "gid://shopify/Product/6730620141624", tags: ["hair"]) { userErrors { message } }
+r63: tagsRemove(id: "gid://shopify/Product/6730621157432", tags: ["hair"]) { userErrors { message } }
+r64: tagsRemove(id: "gid://shopify/Product/6730670866488", tags: ["Ages 0-3", "Ages 1+", "Animal Characters", "Author Series", "baby", "Baby Shower Gift", "Bedtime Story", "Bestselling Book", "Book", "Boys", "Children's Book", "Classic Board Book", "Early Literacy", "Educational Book", "Funny Book", "Girls", "Illustrated Book", "Learning to Read", "Read Aloud", "Rhyming Book", "Sandra Boynton", "Toddler Book"]) { userErrors { message } }
+r65: tagsRemove(id: "gid://shopify/Product/6730685251640", tags: ["cards", "greeting cards"]) { userErrors { message } }
+r66: tagsRemove(id: "gid://shopify/Product/6730685284408", tags: ["Birthday Card", "Blank Card", "Card for Family", "Card for Friends", "Celebration Card", "Holiday Card", "Humorous Card", "Independent Brand", "Local Artist", "Occasion Card", "Party Mountain", "Printed in Canada", "Quirky Card", "Recycled Paper", "Unique Card"]) { userErrors { message } }
+r67: tagsRemove(id: "gid://shopify/Product/6730685349944", tags: ["Birthday Card", "Blank Inside", "Card for Family", "Card for Friends", "Humorous Card", "Independent Brand", "Local Artist", "Occasion Card", "Party Mountain", "Party Mountain Paper Co", "Printed in Canada", "Quirky Card", "Recycled Paper", "Unique Card"]) { userErrors { message } }
+r68: tagsRemove(id: "gid://shopify/Product/6730787389496", tags: ["cool", "craft", "fun", "sensory", "Toy"]) { userErrors { message } }
+r69: tagsRemove(id: "gid://shopify/Product/6730787815480", tags: ["craft", "educational toys", "fun", "Kids Science Kit", "Science Kit", "Science Kit for Kids", "science kits", "sensory"]) { userErrors { message } }
+r70: tagsRemove(id: "gid://shopify/Product/6730824056888", tags: ["18 Month Size", "baby", "Baby Swim", "Lassig", "Mrs. Seagull", "Rashguard", "Short Sleeve", "Toddler Swim Shirt", "UV Protection"]) { userErrors { message } }
+r71: tagsRemove(id: "gid://shopify/Product/6730904567864", tags: ["craft", "fun", "sensory"]) { userErrors { message } }
+r72: tagsRemove(id: "gid://shopify/Product/6730906665016", tags: ["cool", "fun"]) { userErrors { message } }
+r73: tagsRemove(id: "gid://shopify/Product/6730908827704", tags: ["cool", "fun", "sensory"]) { userErrors { message } }
+r74: tagsRemove(id: "gid://shopify/Product/6731117953080", tags: ["Bac", "Eco Friendly", "Flip and Sip", "Hydration for Kids", "Leakproof Bottle", "On-the-Go Drinkware", "Reusable Water Bottle", "School Essentials", "Spill Proof Bottle", "Sugarbooger", "Sugarbooger Bottle", "Tritan Water Bottle"]) { userErrors { message } }
+r75: tagsRemove(id: "gid://shopify/Product/6731126997048", tags: ["Book", "cool"]) { userErrors { message } }
+r76: tagsRemove(id: "gid://shopify/Product/6731127586872", tags: ["cool", "fun", "nail polish", "nail varnish", "nails", "unicorn"]) { userErrors { message } }
+r77: tagsRemove(id: "gid://shopify/Product/6731129061432", tags: ["cool", "fun"]) { userErrors { message } }
+r78: tagsRemove(id: "gid://shopify/Product/6731182932024", tags: ["food"]) { userErrors { message } }
+r79: tagsRemove(id: "gid://shopify/Product/6731189616696", tags: ["Cultural Awareness", "Ethical Fashion", "Every Child Matters", "everyday clothing", "First Nations Clothing", "Indigenous Apparel", "Kids Shirt", "Native Northwest", "orange", "Orange Shirt Day", "Youth T-Shirt"]) { userErrors { message } }
+r80: tagsRemove(id: "gid://shopify/Product/6731190075448", tags: ["board book"]) { userErrors { message } }
+r81: tagsRemove(id: "gid://shopify/Product/6731190304824", tags: ["Big and Small", "Book", "Canadian Literature", "Cultural Education", "First Nations Book", "Indigenous Author", "kids books", "Native Northwest", "Paul Windsor", "Toddler Reading"]) { userErrors { message } }
+r82: tagsRemove(id: "gid://shopify/Product/6731445043256", tags: ["750 Piece Puzzle", "Adult Puzzle", "Bird Watching", "Birds Puzzle", "Crocodile Creek", "Educational Puzzle", "Family Puzzle", "Jigsaw Puzzle", "Nature Puzzle", "Puzzle for Kids"]) { userErrors { message } }
+r83: tagsRemove(id: "gid://shopify/Product/6731445731384", tags: ["kids backpack", "kids gear", "school"]) { userErrors { message } }
+r84: tagsRemove(id: "gid://shopify/Product/6731455725624", tags: ["kids backpack", "kids gear", "school"]) { userErrors { message } }
+r85: tagsRemove(id: "gid://shopify/Product/6731666292792", tags: ["Backpack"]) { userErrors { message } }
+r86: tagsRemove(id: "gid://shopify/Product/6731723079736", tags: ["toothpaste"]) { userErrors { message } }
+r87: tagsRemove(id: "gid://shopify/Product/6731874730040", tags: ["Aboriginal socks", "Children's Apparel", "Ethical Clothing", "First Nations", "Indigenous Design", "Native Northwest"]) { userErrors { message } }
+r88: tagsRemove(id: "gid://shopify/Product/6731887542328", tags: ["easy fun kids items", "Toddler"]) { userErrors { message } }
+r89: tagsRemove(id: "gid://shopify/Product/6731888263224", tags: ["baby bath", "Baby Bath Essentials", "Bath", "bath time", "Bath Time Activities", "Bath Time Entertainment", "bath time essentials", "bath toy", "Bathtime Fun", "fun bath time", "fun bath toys", "kids bath", "Kids Bath Time"]) { userErrors { message } }
+}

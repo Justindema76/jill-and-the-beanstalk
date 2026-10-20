@@ -1,0 +1,92 @@
+mutation R {
+r0: tagsRemove(id: "gid://shopify/Product/9320653324596", tags: ["Bunny Plush", "Plush Bunny", "stuffed animals", "stuffie"]) { userErrors { message } }
+r1: tagsRemove(id: "gid://shopify/Product/9320653717812", tags: ["stuffed animals"]) { userErrors { message } }
+r2: tagsRemove(id: "gid://shopify/Product/9320653979956", tags: ["stuffed animals", "stuffie"]) { userErrors { message } }
+r3: tagsRemove(id: "gid://shopify/Product/9320654078260", tags: ["Bunny toys", "sensory", "sensory play"]) { userErrors { message } }
+r4: tagsRemove(id: "gid://shopify/Product/9320656306484", tags: ["stuffed animals"]) { userErrors { message } }
+r5: tagsRemove(id: "gid://shopify/Product/9320656470324", tags: ["stuffed animals", "stuffie"]) { userErrors { message } }
+r6: tagsRemove(id: "gid://shopify/Product/9320656830772", tags: ["stuffed animals", "stuffie"]) { userErrors { message } }
+r7: tagsRemove(id: "gid://shopify/Product/9320659517748", tags: ["activity magnets", "magnet", "magnetic", "magnets"]) { userErrors { message } }
+r8: tagsRemove(id: "gid://shopify/Product/9320769159476", tags: ["balls", "Classic Ball", "Playground Ball", "Soft Ball", "Sports Ball"]) { userErrors { message } }
+r9: tagsRemove(id: "gid://shopify/Product/9320770339124", tags: ["balls", "Kids Soccer", "soccer", "Soccer Ball", "Sports Ball"]) { userErrors { message } }
+r10: tagsRemove(id: "gid://shopify/Product/9320771551540", tags: ["Kids Puzzle"]) { userErrors { message } }
+r11: tagsRemove(id: "gid://shopify/Product/9320775024948", tags: ["Kids Puzzle", "puzzle"]) { userErrors { message } }
+r12: tagsRemove(id: "gid://shopify/Product/9320777056564", tags: ["Kids Puzzle"]) { userErrors { message } }
+r13: tagsRemove(id: "gid://shopify/Product/9320777548084", tags: ["Kids Gardening"]) { userErrors { message } }
+r14: tagsRemove(id: "gid://shopify/Product/9320810086708", tags: ["board book", "Books", "early readers", "kids books", "picture books"]) { userErrors { message } }
+r15: tagsRemove(id: "gid://shopify/Product/9320812380468", tags: ["board books", "early readers", "kids books", "picture books", "Science Toys"]) { userErrors { message } }
+r16: tagsRemove(id: "gid://shopify/Product/9320813166900", tags: ["Books", "Educational Book"]) { userErrors { message } }
+r17: tagsRemove(id: "gid://shopify/Product/9320813625652", tags: ["baby books", "board books", "Books", "kids books", "picture books"]) { userErrors { message } }
+r18: tagsRemove(id: "gid://shopify/Product/9320814117172", tags: ["Early Learning Activities"]) { userErrors { message } }
+r19: tagsRemove(id: "gid://shopify/Product/9320814969140", tags: ["Educational Puzzle", "puzzle"]) { userErrors { message } }
+r20: tagsRemove(id: "gid://shopify/Product/9320816116020", tags: ["board books", "kids books", "picture books"]) { userErrors { message } }
+r21: tagsRemove(id: "gid://shopify/Product/9320816673076", tags: ["Early Learning", "Educational Book", "Learning Book"]) { userErrors { message } }
+r22: tagsRemove(id: "gid://shopify/Product/9320817230132", tags: ["Early Learning", "Educational Book", "Learning Book"]) { userErrors { message } }
+r23: tagsRemove(id: "gid://shopify/Product/9320817426740", tags: ["Books", "Early Education", "Early Learning", "Educational Book"]) { userErrors { message } }
+r24: tagsRemove(id: "gid://shopify/Product/9321147302196", tags: ["board book", "Books", "early readers", "kids books", "picture books"]) { userErrors { message } }
+r25: tagsRemove(id: "gid://shopify/Product/9321150972212", tags: ["board books", "Books", "kids books", "picture books"]) { userErrors { message } }
+r26: tagsRemove(id: "gid://shopify/Product/9321153528116", tags: ["board books", "Books", "early readers", "kids books", "picture books"]) { userErrors { message } }
+r27: tagsRemove(id: "gid://shopify/Product/9321154740532", tags: ["Books", "early readers", "kids books", "picture books"]) { userErrors { message } }
+r28: tagsRemove(id: "gid://shopify/Product/9321157001524", tags: ["Books", "Educational Book", "kids books", "Learning Book"]) { userErrors { message } }
+r29: tagsRemove(id: "gid://shopify/Product/9321157787956", tags: ["board book", "Books", "kids books", "picture books"]) { userErrors { message } }
+r30: tagsRemove(id: "gid://shopify/Product/9321645900084", tags: ["candy tins"]) { userErrors { message } }
+r31: tagsRemove(id: "gid://shopify/Product/9321662939444", tags: ["Surprise Toy"]) { userErrors { message } }
+r32: tagsRemove(id: "gid://shopify/Product/9321664020788", tags: ["magnet", "magnetic", "magnets"]) { userErrors { message } }
+r33: tagsRemove(id: "gid://shopify/Product/9322104783156", tags: ["kids lunch bag", "reusable lunch bag", "school lunch bag"]) { userErrors { message } }
+r34: tagsRemove(id: "gid://shopify/Product/9322108322100", tags: ["Change Mat", "Diaper Change Mat", "Foldable Change Mat", "Portable Change Mat", "Sprout Change Mat"]) { userErrors { message } }
+r35: tagsRemove(id: "gid://shopify/Product/9322235363636", tags: ["kids lego", "LEGO Building Set", "lego building sets", "lego playsets", "lego sets"]) { userErrors { message } }
+r36: tagsRemove(id: "gid://shopify/Product/9322268066100", tags: ["potty training"]) { userErrors { message } }
+r37: tagsRemove(id: "gid://shopify/Product/9322378887476", tags: ["Herschel", "Herschel Heritage", "Herschel Kids", "kids lunch bag", "Kids Lunchbox", "Little Herschel", "school lunch bag", "School Lunchbox"]) { userErrors { message } }
+r38: tagsRemove(id: "gid://shopify/Product/9322379411764", tags: ["Herschel", "Herschel Heritage", "kids lunch bag", "Kids Lunchbox", "Little Herschel", "school lunch bag", "School Lunchbox"]) { userErrors { message } }
+r39: tagsRemove(id: "gid://shopify/Product/9322381476148", tags: ["Herschel", "Herschel Heritage", "Herschel Kids", "Little Herschel", "Travel Bag"]) { userErrors { message } }
+r40: tagsRemove(id: "gid://shopify/Product/9322382524724", tags: ["Herschel", "kids lunch bag", "Reusable Lunchbox", "school lunch bag", "School Lunchbox"]) { userErrors { message } }
+r41: tagsRemove(id: "gid://shopify/Product/9322384130356", tags: ["Herschel", "Herschel Heritage", "Herschel Kids", "Little Herschel", "Travel Bag"]) { userErrors { message } }
+r42: tagsRemove(id: "gid://shopify/Product/9322537091380", tags: ["Belt Bag", "Everyday Bag", "Fancy Purse", "Fashion Purse", "Kids Purse", "Lightweight Bag", "Mini Bag", "Mini Purse", "On-the-Go Bag", "purse", "Stylish Bag", "Travel Bag"]) { userErrors { message } }
+r43: tagsRemove(id: "gid://shopify/Product/9322538631476", tags: ["kids lunch bag"]) { userErrors { message } }
+r44: tagsRemove(id: "gid://shopify/Product/9322539614516", tags: ["kids lunch bag"]) { userErrors { message } }
+r45: tagsRemove(id: "gid://shopify/Product/9322541252916", tags: ["kids lunch bag"]) { userErrors { message } }
+r46: tagsRemove(id: "gid://shopify/Product/9322649583924", tags: ["Jigsaw Puzzle", "Kids Puzzle"]) { userErrors { message } }
+r47: tagsRemove(id: "gid://shopify/Product/9322649747764", tags: ["Jigsaw Puzzle", "Kids Puzzle"]) { userErrors { message } }
+r48: tagsRemove(id: "gid://shopify/Product/9322650009908", tags: ["Jigsaw Puzzle", "Kids Puzzle"]) { userErrors { message } }
+r49: tagsRemove(id: "gid://shopify/Product/9322650730804", tags: ["Jigsaw Puzzle", "Kids Puzzle"]) { userErrors { message } }
+r50: tagsRemove(id: "gid://shopify/Product/9322651910452", tags: ["Jigsaw Puzzle", "Kids Puzzle"]) { userErrors { message } }
+r51: tagsRemove(id: "gid://shopify/Product/9322652565812", tags: ["Jigsaw Puzzle", "Kids Puzzle"]) { userErrors { message } }
+r52: tagsRemove(id: "gid://shopify/Product/9322652893492", tags: ["Jigsaw Puzzle", "Kids Puzzle"]) { userErrors { message } }
+r53: tagsRemove(id: "gid://shopify/Product/9322653548852", tags: ["board Games", "Kids Games"]) { userErrors { message } }
+r54: tagsRemove(id: "gid://shopify/Product/9322654073140", tags: ["Baby Activity Toy"]) { userErrors { message } }
+r55: tagsRemove(id: "gid://shopify/Product/9322654269748", tags: ["Costume Jewelry", "Jewelry Set", "Play Jewelry", "Toy Jewelry"]) { userErrors { message } }
+r56: tagsRemove(id: "gid://shopify/Product/9322656104756", tags: ["Kids Pretend Toy", "let's pretend"]) { userErrors { message } }
+r57: tagsRemove(id: "gid://shopify/Product/9322679533876", tags: ["dolls"]) { userErrors { message } }
+r58: tagsRemove(id: "gid://shopify/Product/9322679697716", tags: ["Baby Activity Toy"]) { userErrors { message } }
+r59: tagsRemove(id: "gid://shopify/Product/9323204870452", tags: ["art", "art for kids", "art supplies", "kids art supplies"]) { userErrors { message } }
+r60: tagsRemove(id: "gid://shopify/Product/9323205296436", tags: ["Animal Coloring Book", "coloring book", "coloring supplies", "colouring", "colouring book", "kids art supplies"]) { userErrors { message } }
+r61: tagsRemove(id: "gid://shopify/Product/9323205787956", tags: ["art", "coloring book", "kids art supplies"]) { userErrors { message } }
+r62: tagsRemove(id: "gid://shopify/Product/9323206672692", tags: ["Animal Coloring Book", "art", "coloring book", "coloring supplies", "kids art supplies"]) { userErrors { message } }
+r63: tagsRemove(id: "gid://shopify/Product/9323207721268", tags: ["art", "coloring book", "coloring supplies", "colouring", "colouring book", "kids art supplies"]) { userErrors { message } }
+r64: tagsRemove(id: "gid://shopify/Product/9323209883956", tags: ["art", "craft", "craft kit", "kids art supplies", "kids craft supplies"]) { userErrors { message } }
+r65: tagsRemove(id: "gid://shopify/Product/9323211653428", tags: ["hair", "hair care", "hair styling", "kid-safe make-up", "Kids Hair Accessories"]) { userErrors { message } }
+r66: tagsRemove(id: "gid://shopify/Product/9323214078260", tags: ["art", "Body Art for Kids", "Body Art Markers", "kids art supplies"]) { userErrors { message } }
+r67: tagsRemove(id: "gid://shopify/Product/9323345117492", tags: ["board Games", "educational games", "games", "travel games"]) { userErrors { message } }
+r68: tagsRemove(id: "gid://shopify/Product/9323350884660", tags: ["craft kit", "kids craft supplies"]) { userErrors { message } }
+r69: tagsRemove(id: "gid://shopify/Product/9323605197108", tags: ["Building Set"]) { userErrors { message } }
+r70: tagsRemove(id: "gid://shopify/Product/9323605262644", tags: ["Building Set"]) { userErrors { message } }
+r71: tagsRemove(id: "gid://shopify/Product/9323605295412", tags: ["Building Set"]) { userErrors { message } }
+r72: tagsRemove(id: "gid://shopify/Product/9323605492020", tags: ["Building Set"]) { userErrors { message } }
+r73: tagsRemove(id: "gid://shopify/Product/9323605918004", tags: ["kids puzzles"]) { userErrors { message } }
+r74: tagsRemove(id: "gid://shopify/Product/9323606180148", tags: ["wooden toy", "Wooden Toys"]) { userErrors { message } }
+r75: tagsRemove(id: "gid://shopify/Product/9323606442292", tags: ["magnets", "wooden magnets", "Wooden Toys"]) { userErrors { message } }
+r76: tagsRemove(id: "gid://shopify/Product/9323606475060", tags: ["magnets", "wooden magnets", "Wooden Toys"]) { userErrors { message } }
+r77: tagsRemove(id: "gid://shopify/Product/9323606606132", tags: ["Jigsaw Puzzle", "Kids Puzzle"]) { userErrors { message } }
+r78: tagsRemove(id: "gid://shopify/Product/9323606999348", tags: ["Baby Activity Toy"]) { userErrors { message } }
+r79: tagsRemove(id: "gid://shopify/Product/9323607359796", tags: ["Musical Play"]) { userErrors { message } }
+r80: tagsRemove(id: "gid://shopify/Product/9323608473908", tags: ["wooden car", "wooden cars", "wooden toy", "Wooden Toys"]) { userErrors { message } }
+r81: tagsRemove(id: "gid://shopify/Product/9323609751860", tags: ["Jigsaw Puzzle", "Kids Puzzle"]) { userErrors { message } }
+r82: tagsRemove(id: "gid://shopify/Product/9323610767668", tags: ["Jigsaw Puzzle", "Kids Puzzle"]) { userErrors { message } }
+r83: tagsRemove(id: "gid://shopify/Product/9323611259188", tags: ["magic", "Magic Wand", "Magical Play"]) { userErrors { message } }
+r84: tagsRemove(id: "gid://shopify/Product/9323611717940", tags: ["activity games", "Family Games", "Kids Games"]) { userErrors { message } }
+r85: tagsRemove(id: "gid://shopify/Product/9323611947316", tags: ["wooden car", "wooden toy", "Wooden Toys"]) { userErrors { message } }
+r86: tagsRemove(id: "gid://shopify/Product/9323614503220", tags: ["board Games"]) { userErrors { message } }
+r87: tagsRemove(id: "gid://shopify/Product/9323614929204", tags: ["lego building sets"]) { userErrors { message } }
+r88: tagsRemove(id: "gid://shopify/Product/9323615289652", tags: ["lego building sets"]) { userErrors { message } }
+r89: tagsRemove(id: "gid://shopify/Product/9323616043316", tags: ["Baby Activity Toy", "wooden toy", "Wooden Toys"]) { userErrors { message } }
+}

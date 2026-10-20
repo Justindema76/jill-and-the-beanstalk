@@ -1,0 +1,92 @@
+mutation R {
+r0: tagsRemove(id: "gid://shopify/Product/1557103804472", tags: ["Baby Accessories", "Baby Essentials", "mealtime bib", "sleeved"]) { userErrors { message } }
+r1: tagsRemove(id: "gid://shopify/Product/1557374828600", tags: ["12 Inch Doll", "Ages", "Baby Stella", "Brown Doll", "cool", "Diversity Toys", "dolls", "fun", "Inclusive Toys", "Manhattan Toy", "Nurturing Play", "Plush Doll", "Soft Doll", "Toddler Doll", "toys", "Wee Baby Stella"]) { userErrors { message } }
+r2: tagsRemove(id: "gid://shopify/Product/1557375025208", tags: ["baby", "dolls", "stella", "Toy"]) { userErrors { message } }
+r3: tagsRemove(id: "gid://shopify/Product/1557446950968", tags: ["bedtime stories", "board book", "Books", "early readers", "fine motor skills", "fun", "interactive books", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "pop up books", "storytime", "toddler books", "Toronto book store"]) { userErrors { message } }
+r4: tagsRemove(id: "gid://shopify/Product/1557493415992", tags: ["activity", "baby toys"]) { userErrors { message } }
+r5: tagsRemove(id: "gid://shopify/Product/1557497380920", tags: ["Book", "contrasts", "first words", "pictures", "words"]) { userErrors { message } }
+r6: tagsRemove(id: "gid://shopify/Product/1557658665016", tags: ["balls"]) { userErrors { message } }
+r7: tagsRemove(id: "gid://shopify/Product/1557658697784", tags: ["baby"]) { userErrors { message } }
+r8: tagsRemove(id: "gid://shopify/Product/1557658894392", tags: ["baby", "fun", "sensory"]) { userErrors { message } }
+r9: tagsRemove(id: "gid://shopify/Product/1557686911032", tags: ["gift", "Health"]) { userErrors { message } }
+r10: tagsRemove(id: "gid://shopify/Product/1558025601080", tags: ["balls"]) { userErrors { message } }
+r11: tagsRemove(id: "gid://shopify/Product/1558026911800", tags: ["coloring book"]) { userErrors { message } }
+r12: tagsRemove(id: "gid://shopify/Product/1558028419128", tags: ["art", "unicorn"]) { userErrors { message } }
+r13: tagsRemove(id: "gid://shopify/Product/1558049226808", tags: ["Baby Rain Gear", "Kids Rain Gear", "Toddler Rain Gear"]) { userErrors { message } }
+r14: tagsRemove(id: "gid://shopify/Product/1558056730680", tags: ["fun", "Old school"]) { userErrors { message } }
+r15: tagsRemove(id: "gid://shopify/Product/1559921360952", tags: ["Educational", "fun", "travel"]) { userErrors { message } }
+r16: tagsRemove(id: "gid://shopify/Product/1559921393720", tags: ["continents", "Countries", "culture", "europe"]) { userErrors { message } }
+r17: tagsRemove(id: "gid://shopify/Product/1559961829432", tags: ["bedtime stories", "board book", "Books", "early readers", "fine motor skills", "fun", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r18: tagsRemove(id: "gid://shopify/Product/1585248206904", tags: ["Ages 0-3", "Ages 1+", "Animal Characters", "Animal Sounds", "Author Series", "Baby Shower Gift", "Bedtime Story", "Bestselling Book", "board book", "Boys", "Children's Book", "Classic Board Book", "Classic Kids Book", "Early Learning", "Early Literacy", "Educational Book", "Funny Book", "Girls", "Illustrated Book", "Learning to Read", "Moo Baa La La La", "Read Aloud", "Rhyming Book", "Sandra Boynton", "Toddler Book"]) { userErrors { message } }
+r19: tagsRemove(id: "gid://shopify/Product/1585769807928", tags: ["Baby Accessories", "Baby Essentials", "mealtime bib", "sleeved"]) { userErrors { message } }
+r20: tagsRemove(id: "gid://shopify/Product/1585869455416", tags: ["register@https://srcentre.ca/families/pj-plus-18-month-3-years-2018.html"]) { userErrors { message } }
+r21: tagsRemove(id: "gid://shopify/Product/1586043584568", tags: ["Baby Development", "Baby Rattle Set", "Baby Rattles", "Early Learning", "Hape", "Infant Toy", "Stay-Put Rattle", "Suction Cup Toy"]) { userErrors { message } }
+r22: tagsRemove(id: "gid://shopify/Product/1586964070456", tags: ["Cultural Book", "Early Education", "Holiday Book", "Jewish Book", "Julie Merberg", "Religion for Kids", "Toddler Learning"]) { userErrors { message } }
+r23: tagsRemove(id: "gid://shopify/Product/1586968133688", tags: ["Emotional Intelligence Book", "Funny Book", "I'm Sad", "Michael Ian Black", "Picture Book", "Read Aloud", "Social Emotional Learning", "Toddler Feelings Book"]) { userErrors { message } }
+r24: tagsRemove(id: "gid://shopify/Product/1586968166456", tags: ["Books"]) { userErrors { message } }
+r25: tagsRemove(id: "gid://shopify/Product/1588433092664", tags: ["Ada Twist", "Andrea Beaty", "Book", "Educational Book", "Girls in STEM", "Kids Biography", "Picture Book", "Read Aloud", "Scientist Book", "STEM Book"]) { userErrors { message } }
+r26: tagsRemove(id: "gid://shopify/Product/1589323563064", tags: ["Cute Story", "David Slonim", "Funny Kids Book", "I Loathe You", "Love Story for Kids", "Monster Book", "Picture Book", "Read Aloud", "Toddler Humor"]) { userErrors { message } }
+r27: tagsRemove(id: "gid://shopify/Product/1589325365304", tags: ["Ben Clanton", "Dance Book", "Fun Kids Book", "Monster Boogie", "Monster Story", "Picture Book", "Read Aloud", "Storytime Favorite", "Toddler Book"]) { userErrors { message } }
+r28: tagsRemove(id: "gid://shopify/Product/1589333884984", tags: ["000 Dresses", "10", "Diversity Book", "Empowerment Book", "Gender Expression", "Identity Book", "Inclusive Story", "LGBTQ+ Kids Book", "Marcus Ewert", "Picture Book"]) { userErrors { message } }
+r29: tagsRemove(id: "gid://shopify/Product/1589750792248", tags: ["Baby Activity Toy", "Baby Links", "Bright Starts", "Linking Rings", "Links Toy", "Stroller Toy"]) { userErrors { message } }
+r30: tagsRemove(id: "gid://shopify/Product/1589750857784", tags: ["baby ear protection", "baby hearing protection"]) { userErrors { message } }
+r31: tagsRemove(id: "gid://shopify/Product/1921405878328", tags: ["baby", "bottle", "Bpa free", "newborn", "Orange"]) { userErrors { message } }
+r32: tagsRemove(id: "gid://shopify/Product/1921557266488", tags: ["board book"]) { userErrors { message } }
+r33: tagsRemove(id: "gid://shopify/Product/1921841397816", tags: ["board book"]) { userErrors { message } }
+r34: tagsRemove(id: "gid://shopify/Product/1921845985336", tags: ["cool", "fun"]) { userErrors { message } }
+r35: tagsRemove(id: "gid://shopify/Product/1922074378296", tags: ["balls", "magic"]) { userErrors { message } }
+r36: tagsRemove(id: "gid://shopify/Product/1922115174456", tags: ["5 Inch Ball", "Active Play", "balls", "Bouncing Ball", "Classic Ball", "Kids Ball", "outdoor play", "Outdoor Toy", "Playground Ball", "Playground balls", "Rainbow Ball", "Schylling", "Sports Ball"]) { userErrors { message } }
+r37: tagsRemove(id: "gid://shopify/Product/1922210070584", tags: ["Ada", "board book", "feminist"]) { userErrors { message } }
+r38: tagsRemove(id: "gid://shopify/Product/1922210103352", tags: ["Book", "Civil Rights Book", "Diversity Book", "feminist", "Inspirational Story", "Kids Biography", "Little People Big Dreams", "Toddler Learning"]) { userErrors { message } }
+r39: tagsRemove(id: "gid://shopify/Product/1922650701880", tags: ["Bedtime Story", "Children’s Book", "Environmental Book", "Illustrated Story", "Kids Literature", "Light and Energy Awareness", "Picture Book", "Thoughtful Book"]) { userErrors { message } }
+r40: tagsRemove(id: "gid://shopify/Product/1922656698424", tags: ["Bubble bath", "organic", "synthetic free"]) { userErrors { message } }
+r41: tagsRemove(id: "gid://shopify/Product/1922689105976", tags: ["Amelia Earhart", "Aviation Book", "Book", "Books", "Children's Book", "fun", "Hardcover Book", "Inspirational Story", "Kids Biography", "Little People Big Dreams", "Women in History"]) { userErrors { message } }
+r42: tagsRemove(id: "gid://shopify/Product/1927116881976", tags: ["carry", "essentials", "soft", "Travel"]) { userErrors { message } }
+r43: tagsRemove(id: "gid://shopify/Product/1927116914744", tags: ["baby", "Baby Accessories", "Baby Essentials", "baby wash", "wet wipe"]) { userErrors { message } }
+r44: tagsRemove(id: "gid://shopify/Product/1927117439032", tags: ["corners", "Cush", "safe"]) { userErrors { message } }
+r45: tagsRemove(id: "gid://shopify/Product/1928969748536", tags: ["baby"]) { userErrors { message } }
+r46: tagsRemove(id: "gid://shopify/Product/1929049309240", tags: ["baby", "Silicone"]) { userErrors { message } }
+r47: tagsRemove(id: "gid://shopify/Product/1929057173560", tags: ["baby nails", "electric nail file", "small nail"]) { userErrors { message } }
+r48: tagsRemove(id: "gid://shopify/Product/1929094135864", tags: ["chalk"]) { userErrors { message } }
+r49: tagsRemove(id: "gid://shopify/Product/1929107669048", tags: ["coloring tools", "colouring", "creative play", "heart crayons", "Jill and the Beanstalk", "kids art supplies", "stacking crayons", "Toronto toy store"]) { userErrors { message } }
+r50: tagsRemove(id: "gid://shopify/Product/1929107800120", tags: ["art supplies"]) { userErrors { message } }
+r51: tagsRemove(id: "gid://shopify/Product/1929531195448", tags: ["body wash"]) { userErrors { message } }
+r52: tagsRemove(id: "gid://shopify/Product/1930366844984", tags: ["cool", "fun", "Toy", "wooden toy"]) { userErrors { message } }
+r53: tagsRemove(id: "gid://shopify/Product/1931117428792", tags: ["playing cards"]) { userErrors { message } }
+r54: tagsRemove(id: "gid://shopify/Product/1931122245688", tags: ["playing cards"]) { userErrors { message } }
+r55: tagsRemove(id: "gid://shopify/Product/1932124880952", tags: ["gifts"]) { userErrors { message } }
+r56: tagsRemove(id: "gid://shopify/Product/1932719489080", tags: ["water"]) { userErrors { message } }
+r57: tagsRemove(id: "gid://shopify/Product/1932719882296", tags: ["cool"]) { userErrors { message } }
+r58: tagsRemove(id: "gid://shopify/Product/1933024329784", tags: ["Baby Sippy Cup", "BPA-Free Sippy Cup", "Eco-Friendly Sippy Cup"]) { userErrors { message } }
+r59: tagsRemove(id: "gid://shopify/Product/1933185843256", tags: ["drinking cup"]) { userErrors { message } }
+r60: tagsRemove(id: "gid://shopify/Product/1933553172536", tags: ["Kids Science", "Kids Science Kit", "Science for Kids", "Science Kit", "Science Toys"]) { userErrors { message } }
+r61: tagsRemove(id: "gid://shopify/Product/1933794967608", tags: ["Beach Toys", "Outdoor Toy", "sand toy", "Sand Toys", "Summer"]) { userErrors { message } }
+r62: tagsRemove(id: "gid://shopify/Product/1933797949496", tags: ["car", "wooden toy"]) { userErrors { message } }
+r63: tagsRemove(id: "gid://shopify/Product/1969500487736", tags: ["baby", "baby wash"]) { userErrors { message } }
+r64: tagsRemove(id: "gid://shopify/Product/1969500520504", tags: ["baby"]) { userErrors { message } }
+r65: tagsRemove(id: "gid://shopify/Product/1970142740536", tags: ["gift", "mommy help", "New Mom Essentials", "Substance"]) { userErrors { message } }
+r66: tagsRemove(id: "gid://shopify/Product/1970142806072", tags: ["essentials", "lotion"]) { userErrors { message } }
+r67: tagsRemove(id: "gid://shopify/Product/1970143428664", tags: ["baby", "Book", "Books", "Classic Author", "cool", "Eric Carle", "Father’s Day Book", "fun", "Gift Book", "I Love Dad", "Very Hungry Caterpillar"]) { userErrors { message } }
+r68: tagsRemove(id: "gid://shopify/Product/1970144018488", tags: ["bedtime stories", "board book", "Books", "early readers", "fine motor skills", "fun", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r69: tagsRemove(id: "gid://shopify/Product/1970144215096", tags: ["bedtime stories", "board book", "Books", "early readers", "fine motor skills", "fun", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r70: tagsRemove(id: "gid://shopify/Product/1970153193528", tags: ["summer accessories", "summer essentials"]) { userErrors { message } }
+r71: tagsRemove(id: "gid://shopify/Product/1971603865656", tags: ["vehicles"]) { userErrors { message } }
+r72: tagsRemove(id: "gid://shopify/Product/1971605700664", tags: ["cool", "fun"]) { userErrors { message } }
+r73: tagsRemove(id: "gid://shopify/Product/1972203814968", tags: ["bedtime stories", "board book", "Books", "early readers", "fine motor skills", "fun", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r74: tagsRemove(id: "gid://shopify/Product/1972239925304", tags: ["Baby Board Book", "Empowerment Book", "Equality Book", "Feminist Baby", "Funny Book", "Inclusive Book", "Loryn Brantz", "Social Awareness"]) { userErrors { message } }
+r75: tagsRemove(id: "gid://shopify/Product/1972240056376", tags: ["Coco Chanel", "Fashion Story", "Female Role Model", "Inspirational Book", "Little People Big Dreams", "Toddler Biography"]) { userErrors { message } }
+r76: tagsRemove(id: "gid://shopify/Product/1972240318520", tags: ["board book", "ella fitzgerald"]) { userErrors { message } }
+r77: tagsRemove(id: "gid://shopify/Product/1972240351288", tags: ["Book", "Fun Kids Book", "kids books"]) { userErrors { message } }
+r78: tagsRemove(id: "gid://shopify/Product/1972254965816", tags: ["nail polish", "nail varnish", "nails"]) { userErrors { message } }
+r79: tagsRemove(id: "gid://shopify/Product/1972255555640", tags: ["nail polish"]) { userErrors { message } }
+r80: tagsRemove(id: "gid://shopify/Product/1972277346360", tags: ["Ages 2+", "Farm Game", "Matching Game", "Old MacDonald", "Preschool Toy", "Toddler Game"]) { userErrors { message } }
+r81: tagsRemove(id: "gid://shopify/Product/1974891544632", tags: ["Courtney Acampora", "Fun Science Book", "Funny Book", "Kids Space Exploration", "Neil Armswan", "Space Book", "STEM Story"]) { userErrors { message } }
+r82: tagsRemove(id: "gid://shopify/Product/1974891577400", tags: ["Anatomy for Kids", "baby", "Baby Science", "Book", "Educational Book", "Hello World", "Jill McDonald", "Learning Book", "My Body Book"]) { userErrors { message } }
+r83: tagsRemove(id: "gid://shopify/Product/1974891610168", tags: ["Backyard Bugs", "Bug Book", "Early Learning", "Hello World", "Jill McDonald", "Nature Book", "Toddler Book"]) { userErrors { message } }
+r84: tagsRemove(id: "gid://shopify/Product/1975144120376", tags: ["bathing suit", "Eco-Friendly Diaper", "Lassig", "Reusable Diaper", "Toddler Swim", "Water Play Gear"]) { userErrors { message } }
+r85: tagsRemove(id: "gid://shopify/Product/1975144742968", tags: ["Book", "Educational"]) { userErrors { message } }
+r86: tagsRemove(id: "gid://shopify/Product/1975144775736", tags: ["Arthur Miller", "Children’s Story", "Classic Book", "Emotional Book", "Family Story", "Illustrated Book", "Jane’s Blanket", "Picture Book"]) { userErrors { message } }
+r87: tagsRemove(id: "gid://shopify/Product/1975145365560", tags: ["Baby Accessories", "Baby Essentials", "mealtime bib"]) { userErrors { message } }
+r88: tagsRemove(id: "gid://shopify/Product/1975147561016", tags: ["Architecture Story", "Eiffel Tower Story", "Illustrated Book", "Love Story for Kids", "Madame Eiffel", "Picture Book", "Unique Children's Book"]) { userErrors { message } }
+r89: tagsRemove(id: "gid://shopify/Product/1975231774776", tags: ["Learning Book", "workbook"]) { userErrors { message } }
+}

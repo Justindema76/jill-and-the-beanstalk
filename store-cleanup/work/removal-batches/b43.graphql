@@ -1,0 +1,92 @@
+mutation R {
+r0: tagsRemove(id: "gid://shopify/Product/9329040359732", tags: ["Schleich Animal", "Schleich Figurine"]) { userErrors { message } }
+r1: tagsRemove(id: "gid://shopify/Product/9329040654644", tags: ["Schleich Animal", "Schleich Figurine"]) { userErrors { message } }
+r2: tagsRemove(id: "gid://shopify/Product/9329040851252", tags: ["Schleich Animal", "Schleich Figurine"]) { userErrors { message } }
+r3: tagsRemove(id: "gid://shopify/Product/9329041080628", tags: ["Schleich Animal", "Schleich Figurine"]) { userErrors { message } }
+r4: tagsRemove(id: "gid://shopify/Product/9329044980020", tags: ["animals", "Animals of the World", "farm", "Farm Animal Counters", "farm animals", "figurine", "figurines", "Imaginative Play"]) { userErrors { message } }
+r5: tagsRemove(id: "gid://shopify/Product/9329045111092", tags: ["Schleich Animal", "Schleich Figurine"]) { userErrors { message } }
+r6: tagsRemove(id: "gid://shopify/Product/9329045209396", tags: ["Schleich Figurine"]) { userErrors { message } }
+r7: tagsRemove(id: "gid://shopify/Product/9329045733684", tags: ["Schleich Figurine"]) { userErrors { message } }
+r8: tagsRemove(id: "gid://shopify/Product/9329216782644", tags: ["baby teething", "infant teething", "natural teething relief", "teething", "Teething Relief", "teething remedy"]) { userErrors { message } }
+r9: tagsRemove(id: "gid://shopify/Product/9329220616500", tags: ["baby toothbrush", "baby toothpaste", "finger toothbrush", "kids toothbrush", "Kids Toothpaste", "toddler toothbrush"]) { userErrors { message } }
+r10: tagsRemove(id: "gid://shopify/Product/9329230151988", tags: ["art", "art for kids", "art supplies", "fun pens", "kids art supplies"]) { userErrors { message } }
+r11: tagsRemove(id: "gid://shopify/Product/9329244242228", tags: ["art", "fun pens", "kids art supplies", "Kids Craft Pens"]) { userErrors { message } }
+r12: tagsRemove(id: "gid://shopify/Product/9329250238772", tags: ["baby bath", "Baby Bath Essentials", "Bath", "bath time", "Bath Time Activities", "Bath Time Entertainment", "bath time essentials", "bath toy", "Bathtime Fun", "crayons", "Kids Bath Time", "kids bath toys", "Toddler Bath Toy"]) { userErrors { message } }
+r13: tagsRemove(id: "gid://shopify/Product/9329254105396", tags: ["baby bath", "Baby Bath Essentials", "Bath", "bath time", "Bath Time Activities", "Bath Time Entertainment", "bath time essentials", "bath toy", "Bathtime Fun", "Kids Bath Time", "kids bath toys", "Toddler Bath Toy"]) { userErrors { message } }
+r14: tagsRemove(id: "gid://shopify/Product/9329257185588", tags: ["art", "art supplies", "craft kit", "Crafts and Activites", "kids art supplies", "kids craft supplies", "kids crafts", "kids drawing toy"]) { userErrors { message } }
+r15: tagsRemove(id: "gid://shopify/Product/9329259446580", tags: ["art", "art for kids", "art supplies", "kids art supplies", "kids drawing toy", "markers"]) { userErrors { message } }
+r16: tagsRemove(id: "gid://shopify/Product/9329264558388", tags: ["art", "art for kids", "art supplies", "colouring", "colouring book", "kids art supplies"]) { userErrors { message } }
+r17: tagsRemove(id: "gid://shopify/Product/9329275732276", tags: ["baby bath", "Baby Bath Essentials", "Bath", "bath time", "bath toy", "Bathtime Fun", "Kids Bath Time", "kids bath toys"]) { userErrors { message } }
+r18: tagsRemove(id: "gid://shopify/Product/9329291526452", tags: ["bath book", "Bath Books for Babies", "Children's Bath Books", "Fun Bath Books", "Toddler Bath Books"]) { userErrors { message } }
+r19: tagsRemove(id: "gid://shopify/Product/9329302831412", tags: ["bath book", "Bath Books for Babies", "Children's Bath Books", "Colour Magic Bath Book", "Fun Bath Books", "Interactive Bath Books", "Toddler Bath Books"]) { userErrors { message } }
+r20: tagsRemove(id: "gid://shopify/Product/9329401069876", tags: ["flash cards"]) { userErrors { message } }
+r21: tagsRemove(id: "gid://shopify/Product/9329402183988", tags: ["air dry clay", "craft kit"]) { userErrors { message } }
+r22: tagsRemove(id: "gid://shopify/Product/9329407852852", tags: ["board book"]) { userErrors { message } }
+r23: tagsRemove(id: "gid://shopify/Product/9329411162420", tags: ["bath book", "Bath Books for Babies", "Children's Bath Books"]) { userErrors { message } }
+r24: tagsRemove(id: "gid://shopify/Product/9329496391988", tags: ["board book"]) { userErrors { message } }
+r25: tagsRemove(id: "gid://shopify/Product/9329496719668", tags: ["board book"]) { userErrors { message } }
+r26: tagsRemove(id: "gid://shopify/Product/9329497538868", tags: ["Crafts and Activites"]) { userErrors { message } }
+r27: tagsRemove(id: "gid://shopify/Product/9329504420148", tags: ["Baby Sleepers Toronto", "Baby Sleepwear", "Infant Sleepwear", "sleepers", "Toddler Sleepwear"]) { userErrors { message } }
+r28: tagsRemove(id: "gid://shopify/Product/9329504747828", tags: ["Baby Sleepers Toronto", "Baby Sleepwear", "Infant Sleepwear", "sleepers", "Toddler Sleepwear"]) { userErrors { message } }
+r29: tagsRemove(id: "gid://shopify/Product/9329540301108", tags: ["flash cards"]) { userErrors { message } }
+r30: tagsRemove(id: "gid://shopify/Product/9329545314612", tags: ["card game for kids"]) { userErrors { message } }
+r31: tagsRemove(id: "gid://shopify/Product/9329546068276", tags: ["Travel Game"]) { userErrors { message } }
+r32: tagsRemove(id: "gid://shopify/Product/9329800085812", tags: ["cotton bibs"]) { userErrors { message } }
+r33: tagsRemove(id: "gid://shopify/Product/9329800282420", tags: ["BPA-Free"]) { userErrors { message } }
+r34: tagsRemove(id: "gid://shopify/Product/9330273255732", tags: ["doll clothes"]) { userErrors { message } }
+r35: tagsRemove(id: "gid://shopify/Product/9330274173236", tags: ["doll clothes"]) { userErrors { message } }
+r36: tagsRemove(id: "gid://shopify/Product/9330274730292", tags: ["baby dolls", "dolls"]) { userErrors { message } }
+r37: tagsRemove(id: "gid://shopify/Product/9330275156276", tags: ["baby dolls"]) { userErrors { message } }
+r38: tagsRemove(id: "gid://shopify/Product/9330276041012", tags: ["baby dolls"]) { userErrors { message } }
+r39: tagsRemove(id: "gid://shopify/Product/9330276598068", tags: ["baby dolls"]) { userErrors { message } }
+r40: tagsRemove(id: "gid://shopify/Product/9330327028020", tags: ["Travel Game", "travel games"]) { userErrors { message } }
+r41: tagsRemove(id: "gid://shopify/Product/9330327060788", tags: ["Travel Game", "travel games"]) { userErrors { message } }
+r42: tagsRemove(id: "gid://shopify/Product/9330327126324", tags: ["Travel Game", "travel games"]) { userErrors { message } }
+r43: tagsRemove(id: "gid://shopify/Product/9330327159092", tags: ["Travel Game", "travel games"]) { userErrors { message } }
+r44: tagsRemove(id: "gid://shopify/Product/9330693275956", tags: ["Baby Board Book", "board book", "Board Book Classic"]) { userErrors { message } }
+r45: tagsRemove(id: "gid://shopify/Product/9330693407028", tags: ["Baby Board Book", "board book", "Board Book Classic"]) { userErrors { message } }
+r46: tagsRemove(id: "gid://shopify/Product/9330693767476", tags: ["Baby Board Book", "board book"]) { userErrors { message } }
+r47: tagsRemove(id: "gid://shopify/Product/9330994610484", tags: ["Adjustable Hats", "Adjustable Hats for Kids", "Adjustable Kids Cap", "Adjustable Kids Caps", "Boys Cap", "Boys Caps", "Children’s Hats", "Cool Kids Cap", "Girls Cap", "Girls Caps", "hats", "Headster", "Headster Adjustable Cap", "Headster Hats", "Kids Baseball Caps", "Kids Cap", "Kids Caps", "Kids Fashion", "Kids Hat Collection", "Kids Headwear", "Outdoor Kids Hats", "Snapback Cap", "Summer Cap", "Summer Kids Caps", "Toddler Cap", "Trendy Kids Cap", "Unisex Cap", "Urban Kids Style", "Youth Cap"]) { userErrors { message } }
+r48: tagsRemove(id: "gid://shopify/Product/9330998444340", tags: ["Adjustable Hats", "Adjustable Hats for Kids", "Adjustable Kids Cap", "Adjustable Kids Caps", "Boys Cap", "Boys Caps", "Children’s Hats", "Cool Kids Cap", "Girls Cap", "Girls Caps", "hats", "Headster", "Headster Adjustable Cap", "Headster Hats", "Kids Baseball Caps", "Kids Cap", "Kids Caps", "Kids Fashion", "Kids Hat Collection", "Kids Headwear", "Outdoor Kids Hats", "Snapback Cap", "Summer Cap", "Summer Kids Caps", "Toddler Cap", "Trendy Kids Cap", "Unisex Cap", "Urban Kids Style", "Youth Cap"]) { userErrors { message } }
+r49: tagsRemove(id: "gid://shopify/Product/9331417252148", tags: ["baby sunglasses", "Durable Kids Sunglasses", "Fashion Sunglasses", "kids UV protection sunglasses", "polarized kids sunglasses", "Polarized Sunglasses", "Retro Baby Sunglasses", "Unbreakable Sunglasses", "UV sunglasses"]) { userErrors { message } }
+r50: tagsRemove(id: "gid://shopify/Product/9331418136884", tags: ["baby sunglasses", "Durable Kids Sunglasses", "Fashion Sunglasses", "kids UV protection sunglasses", "polarized kids sunglasses", "Polarized Sunglasses", "Retro Baby Sunglasses", "stylish kids sunglasses", "toddler sunglasses", "Unbreakable Sunglasses", "UV sunglasses"]) { userErrors { message } }
+r51: tagsRemove(id: "gid://shopify/Product/9331452903732", tags: ["baby sunglasses", "Durable Kids Sunglasses", "Fashion Sunglasses", "kids UV protection sunglasses", "polarized kids sunglasses", "Polarized Sunglasses", "Retro Baby Sunglasses", "stylish kids sunglasses", "toddler sunglasses", "Unbreakable Sunglasses", "UV sunglasses"]) { userErrors { message } }
+r52: tagsRemove(id: "gid://shopify/Product/9331482165556", tags: ["baby sunglasses", "Durable Kids Sunglasses", "Fashion Sunglasses", "kids UV protection sunglasses", "polarized kids sunglasses", "Polarized Sunglasses", "Retro Baby Sunglasses", "stylish kids sunglasses", "toddler sunglasses", "Unbreakable Sunglasses", "UV sunglasses"]) { userErrors { message } }
+r53: tagsRemove(id: "gid://shopify/Product/9331488555316", tags: ["replacement straws"]) { userErrors { message } }
+r54: tagsRemove(id: "gid://shopify/Product/9331488915764", tags: ["dolls"]) { userErrors { message } }
+r55: tagsRemove(id: "gid://shopify/Product/9331491406132", tags: ["baby dolls", "Brown Doll", "Dress Up Doll", "Kids Dolls", "Plush Doll", "Plush Dolls", "Soft Dolls"]) { userErrors { message } }
+r56: tagsRemove(id: "gid://shopify/Product/9331492553012", tags: ["baby dolls", "dolls", "Dress Up Doll", "Kids Dolls", "Play Doll", "Plush Doll", "Plush Dolls", "Soft Doll", "Soft Dolls", "Stuffed Doll"]) { userErrors { message } }
+r57: tagsRemove(id: "gid://shopify/Product/9331645186356", tags: ["transformers", "Transformers Toys"]) { userErrors { message } }
+r58: tagsRemove(id: "gid://shopify/Product/9331809386804", tags: ["playdoh"]) { userErrors { message } }
+r59: tagsRemove(id: "gid://shopify/Product/9331809714484", tags: ["transformers", "Transformers Toys"]) { userErrors { message } }
+r60: tagsRemove(id: "gid://shopify/Product/9331809878324", tags: ["playdoh"]) { userErrors { message } }
+r61: tagsRemove(id: "gid://shopify/Product/9331810140468", tags: ["Inkology Stickers"]) { userErrors { message } }
+r62: tagsRemove(id: "gid://shopify/Product/9331845136692", tags: ["body care"]) { userErrors { message } }
+r63: tagsRemove(id: "gid://shopify/Product/9331848806708", tags: ["sensory", "Stretch Bracelets", "Toy"]) { userErrors { message } }
+r64: tagsRemove(id: "gid://shopify/Product/9331849036084", tags: ["sensory", "Stretch Bracelets", "Toy"]) { userErrors { message } }
+r65: tagsRemove(id: "gid://shopify/Product/9331849756980", tags: ["sensory balls"]) { userErrors { message } }
+r66: tagsRemove(id: "gid://shopify/Product/9331852214580", tags: ["sensory balls"]) { userErrors { message } }
+r67: tagsRemove(id: "gid://shopify/Product/9331856769332", tags: ["sensory"]) { userErrors { message } }
+r68: tagsRemove(id: "gid://shopify/Product/9331945668916", tags: ["2-10 Players", "Ages 7+", "Birthday Gift", "Color Matching Game", "cool", "Easy to Learn", "Educational Game", "Fast-Paced Game", "fun", "Fun for All Ages", "Game Night", "Indoor Game", "Kids Game", "Mattel", "Party Game", "Portable Game", "Strategy Game", "Toy", "Travel Game", "UNO", "UNO Card Game"]) { userErrors { message } }
+r69: tagsRemove(id: "gid://shopify/Product/9332684325172", tags: ["microphone"]) { userErrors { message } }
+r70: tagsRemove(id: "gid://shopify/Product/9332685406516", tags: ["Push and Pull Toy"]) { userErrors { message } }
+r71: tagsRemove(id: "gid://shopify/Product/9332685635892", tags: ["magnet train", "train", "train set", "trains", "Wooden Train Set"]) { userErrors { message } }
+r72: tagsRemove(id: "gid://shopify/Product/9332795048244", tags: ["toddler shoes"]) { userErrors { message } }
+r73: tagsRemove(id: "gid://shopify/Product/9332795081012", tags: ["toddler shoes"]) { userErrors { message } }
+r74: tagsRemove(id: "gid://shopify/Product/9333037531444", tags: ["wooden", "wooden toy", "Wooden Toys"]) { userErrors { message } }
+r75: tagsRemove(id: "gid://shopify/Product/9333047099700", tags: ["Baby Socks", "children's socks", "Cozy Socks", "Cute Baby Socks", "Infant Socks", "kids socks", "Soft Kids Socks"]) { userErrors { message } }
+r76: tagsRemove(id: "gid://shopify/Product/9333057814836", tags: ["Baby Socks", "children's socks", "Cozy Socks", "Cute Baby Socks", "Infant Socks", "kids socks", "Soft Kids Socks"]) { userErrors { message } }
+r77: tagsRemove(id: "gid://shopify/Product/9333080686900", tags: ["replacement straws", "straws"]) { userErrors { message } }
+r78: tagsRemove(id: "gid://shopify/Product/9333406171444", tags: ["art supplies", "craft", "craft kit", "Craft Supplies", "crafts", "Crafts and Activites", "creative art kit", "Kids Art", "kids art supplies", "Kids Craft", "kids craft supplies", "kids crafts"]) { userErrors { message } }
+r79: tagsRemove(id: "gid://shopify/Product/9333407711540", tags: ["art supplies", "craft", "craft kit", "Craft Supplies", "crafts", "Crafts and Activites", "creative art kit", "Kids Art", "kids art supplies", "Kids Craft", "kids craft supplies", "kids crafts"]) { userErrors { message } }
+r80: tagsRemove(id: "gid://shopify/Product/9333409808692", tags: ["Assorted Stickers", "Fun Stickers"]) { userErrors { message } }
+r81: tagsRemove(id: "gid://shopify/Product/9333410431284", tags: ["Assorted Stickers", "Fun Stickers", "sticker pad"]) { userErrors { message } }
+r82: tagsRemove(id: "gid://shopify/Product/9333412102452", tags: ["Assorted Stickers", "Fun Stickers", "sticker pad", "Sticker Set"]) { userErrors { message } }
+r83: tagsRemove(id: "gid://shopify/Product/9333413970228", tags: ["dump truck", "Dump Truck Toy", "Toy Truck", "Toy Trucks", "trucks"]) { userErrors { message } }
+r84: tagsRemove(id: "gid://shopify/Product/9333587542324", tags: ["kid-safe make-up"]) { userErrors { message } }
+r85: tagsRemove(id: "gid://shopify/Product/9333587607860", tags: ["Kids Nail Art", "nail stickers"]) { userErrors { message } }
+r86: tagsRemove(id: "gid://shopify/Product/9333589147956", tags: ["2 Player Game", "Active Game", "Balance Game"]) { userErrors { message } }
+r87: tagsRemove(id: "gid://shopify/Product/9333589279028", tags: ["Mini Vehicles", "vehicles"]) { userErrors { message } }
+r88: tagsRemove(id: "gid://shopify/Product/9333732901172", tags: ["Kids Pretend Toy", "let's pretend"]) { userErrors { message } }
+r89: tagsRemove(id: "gid://shopify/Product/9334233235764", tags: ["Educational Puzzle", "Family Puzzle", "Jigsaw Puzzle", "Kids Puzzle", "kids puzzles", "puzzle", "Puzzle for Kids"]) { userErrors { message } }
+}

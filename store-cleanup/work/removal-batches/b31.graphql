@@ -1,0 +1,92 @@
+mutation R {
+r0: tagsRemove(id: "gid://shopify/Product/9251590799668", tags: ["baby hair care", "frizz control shampoo", "shampoo", "sulfate free shampoo", "t is for tame", "taming shampoo", "tear free shampoo", "toddler hair care"]) { userErrors { message } }
+r1: tagsRemove(id: "gid://shopify/Product/9251591553332", tags: ["baby dry shampoo", "Baby Shampoo", "gentle hair powder", "natural dry shampoo", "no rinse shampoo", "powder puff dry shampoo", "shampoo", "t is for tame", "talc free powder", "toddler hair care", "travel friendly"]) { userErrors { message } }
+r2: tagsRemove(id: "gid://shopify/Product/9251619864884", tags: ["Bracelets", "dress up bracelet", "girls fashion accessory", "mermaid accessories", "mermaid bracelet", "ocean themed jewelry", "sparkly bracelet", "twisty bracelet", "under the sea"]) { userErrors { message } }
+r3: tagsRemove(id: "gid://shopify/Product/9251623010612", tags: ["cat bag charm", "cute cat clip", "fluffy keychain", "fun backpack clip", "kids backpack accessory", "kitty backpack clip", "novelty bag charm", "plush keychain", "plush toys", "pom keychain", "school bag accessory"]) { userErrors { message } }
+r4: tagsRemove(id: "gid://shopify/Product/9251655582004", tags: ["Baby Clothes Canada", "Baby Essentials", "Baby Pajamas", "Baby Romper", "Baby Shower Gift", "Baby Sleeper", "Baby Sleepers Toronto", "Bamboo Sleepers", "Breathable Baby Clothes", "Eco-Friendly Baby Clothes", "Footed Pajamas", "Infant Sleepwear", "One-Piece Pajamas", "Organic Baby Clothes", "sleepers", "Soft Baby Clothes", "Toddler Sleepwear", "Zipper Pajamas", "ZippyJamz"]) { userErrors { message } }
+r5: tagsRemove(id: "gid://shopify/Product/9251673571636", tags: ["6 months to 3T", "art smock bib", "Baby Accessories", "baby bib", "Baby Essentials", "baby mealtime", "bapron baby", "eric carle bib", "feeding bib", "mealtime bib", "rainbow caterpillar", "toddler bib", "waterproof bib"]) { userErrors { message } }
+r6: tagsRemove(id: "gid://shopify/Product/9251830530356", tags: ["0-18 months", "animal hooded towel", "Baby Bath Essentials", "baby hooded towel", "bath time", "bath towel", "cozy hooded towel", "infant bath towel", "Kids Bath Time", "newborn towel", "soft baby towel", "towel", "zoocchini towel"]) { userErrors { message } }
+r7: tagsRemove(id: "gid://shopify/Product/9251831021876", tags: ["0-18 months", "animal hooded towel", "baby hooded towel", "bath towel", "cozy hooded towel", "infant bath towel", "newborn towel", "soft baby towel", "towel", "zoocchini towel"]) { userErrors { message } }
+r8: tagsRemove(id: "gid://shopify/Product/9251831415092", tags: ["0-18 months", "animal hooded towel", "baby hooded towel", "bath towel", "cozy hooded towel", "infant bath towel", "newborn towel", "soft baby towel", "towel", "zoocchini towel"]) { userErrors { message } }
+r9: tagsRemove(id: "gid://shopify/Product/9251831775540", tags: ["0-18 months", "animal hooded towel", "baby hooded towel", "bath towel", "cozy hooded towel", "infant bath towel", "newborn towel", "soft baby towel", "towel", "zoocchini towel"]) { userErrors { message } }
+r10: tagsRemove(id: "gid://shopify/Product/9251832201524", tags: ["0-18 months", "animal hooded towel", "Baby Bath Essentials", "baby hooded towel", "bath time", "bath towel", "cozy hooded towel", "infant bath towel", "Kids Bath Time", "newborn towel", "soft baby towel", "towel", "zoocchini towel"]) { userErrors { message } }
+r11: tagsRemove(id: "gid://shopify/Product/9251847078196", tags: ["baby shoes"]) { userErrors { message } }
+r12: tagsRemove(id: "gid://shopify/Product/9251859366196", tags: ["6 months plus", "baby feeding gear", "baby training cup", "bbox spout cup", "easy grip cup", "sage green cup", "silicone spout cup", "toddler drinkware", "transition cup"]) { userErrors { message } }
+r13: tagsRemove(id: "gid://shopify/Product/9252260282676", tags: ["Birthday Card", "Blank Inside", "Card for Family", "Card for Friends", "Humorous Card", "Independent Brand", "Local Artist", "Occasion Card", "Printed in Canada", "Quirky Card", "Recycled Paper", "Unique Card"]) { userErrors { message } }
+r14: tagsRemove(id: "gid://shopify/Product/9252260970804", tags: ["Birthday Card", "Blank Inside", "Card for Family", "Card for Friends", "Humorous Card", "Independent Brand", "Local Artist", "Occasion Card", "Printed in Canada", "Quirky Card", "Recycled Paper", "Unique Card"]) { userErrors { message } }
+r15: tagsRemove(id: "gid://shopify/Product/9252261462324", tags: ["Birthday Card", "Blank Inside", "Card for Family", "Card for Friends", "Humorous Card", "Independent Brand", "Local Artist", "Occasion Card", "Printed in Canada", "Quirky Card", "Recycled Paper", "Unique Card"]) { userErrors { message } }
+r16: tagsRemove(id: "gid://shopify/Product/9252261658932", tags: ["Birthday Card", "Blank Inside", "Card for Family", "Card for Friends", "Humorous Card", "Independent Brand", "Local Artist", "Occasion Card", "Printed in Canada", "Quirky Card", "Recycled Paper", "Unique Card"]) { userErrors { message } }
+r17: tagsRemove(id: "gid://shopify/Product/9253039407412", tags: ["Badger and Burke", "Birthday Card", "Birthday cards", "Congratulations Card", "Cute Design", "Gender Neutral", "greeting cards", "Greetings Card", "Illustrated Card"]) { userErrors { message } }
+r18: tagsRemove(id: "gid://shopify/Product/9253048222004", tags: ["Badger and Burke", "Birthday Card", "Birthday cards", "Congratulations Card", "Cute Design", "Gender Neutral", "greeting cards", "Illustrated Card"]) { userErrors { message } }
+r19: tagsRemove(id: "gid://shopify/Product/9253049008436", tags: ["Badger and Burke", "Birthday Card", "Birthday cards", "Congratulations Card", "Cute Design", "Gender Neutral", "greeting cards", "Illustrated Card"]) { userErrors { message } }
+r20: tagsRemove(id: "gid://shopify/Product/9253059887412", tags: ["Badger and Burke", "Congratulations Card", "Cute Design", "Gender Neutral", "greeting cards", "Illustrated Card"]) { userErrors { message } }
+r21: tagsRemove(id: "gid://shopify/Product/9253061787956", tags: ["Badger and Burke", "Birthday Card", "Birthday cards", "Celebration", "Colourful Design", "Congratulations Card", "Cute Design", "Gender Neutral", "greeting cards", "Illustrated Card"]) { userErrors { message } }
+r22: tagsRemove(id: "gid://shopify/Product/9253062639924", tags: ["Badger and Burke", "Birthday Card", "Birthday cards", "Celebration", "Colourful Design", "Congratulations Card", "Cute Design", "Gender Neutral", "greeting cards", "Illustrated Card"]) { userErrors { message } }
+r23: tagsRemove(id: "gid://shopify/Product/9253062902068", tags: ["Badger and Burke", "Birthday Card", "Birthday cards", "Celebration", "Colourful Design", "Congratulations Card", "Cute Design", "Gender Neutral", "greeting cards", "Illustrated Card"]) { userErrors { message } }
+r24: tagsRemove(id: "gid://shopify/Product/9253063262516", tags: ["Badger and Burke", "Birthday Card", "Birthday cards", "Celebration", "Colourful Design", "Congratulations Card", "Cute Design", "Gender Neutral", "greeting cards", "Illustrated Card"]) { userErrors { message } }
+r25: tagsRemove(id: "gid://shopify/Product/9253065687348", tags: ["Badger and Burke", "Birthday Card", "Celebration", "Colourful Design", "Congratulations Card", "Cute Design", "Gender Neutral", "greeting cards", "Illustrated Card"]) { userErrors { message } }
+r26: tagsRemove(id: "gid://shopify/Product/9254076350772", tags: ["baby sunglasses"]) { userErrors { message } }
+r27: tagsRemove(id: "gid://shopify/Product/9254899876148", tags: ["Books"]) { userErrors { message } }
+r28: tagsRemove(id: "gid://shopify/Product/9254907019572", tags: ["activity games", "activity magnets", "board Games", "games", "Magnetic Board Games", "magnets", "travel games"]) { userErrors { message } }
+r29: tagsRemove(id: "gid://shopify/Product/9254988775732", tags: ["Books"]) { userErrors { message } }
+r30: tagsRemove(id: "gid://shopify/Product/9255006208308", tags: ["Book", "Holiday Book"]) { userErrors { message } }
+r31: tagsRemove(id: "gid://shopify/Product/9255016792372", tags: ["Books"]) { userErrors { message } }
+r32: tagsRemove(id: "gid://shopify/Product/9255030128948", tags: ["Books"]) { userErrors { message } }
+r33: tagsRemove(id: "gid://shopify/Product/9256419164468", tags: ["Educational Game"]) { userErrors { message } }
+r34: tagsRemove(id: "gid://shopify/Product/9256456618292", tags: ["Books"]) { userErrors { message } }
+r35: tagsRemove(id: "gid://shopify/Product/9256457732404", tags: ["Books"]) { userErrors { message } }
+r36: tagsRemove(id: "gid://shopify/Product/9256494465332", tags: ["vehicles"]) { userErrors { message } }
+r37: tagsRemove(id: "gid://shopify/Product/9256983232820", tags: ["Books"]) { userErrors { message } }
+r38: tagsRemove(id: "gid://shopify/Product/9256985755956", tags: ["Books"]) { userErrors { message } }
+r39: tagsRemove(id: "gid://shopify/Product/9258017980724", tags: ["candy tins"]) { userErrors { message } }
+r40: tagsRemove(id: "gid://shopify/Product/9258022011188", tags: ["candy tins"]) { userErrors { message } }
+r41: tagsRemove(id: "gid://shopify/Product/9258905370932", tags: ["Hello Kitty"]) { userErrors { message } }
+r42: tagsRemove(id: "gid://shopify/Product/9258906157364", tags: ["Children's Jewelry", "Girls Jewelry", "Girls Jewelry Box", "Imaginative Play", "jewellery", "Jewellery Box", "Jewelry Box", "Jewelry Organizer", "Kids Jewelry Box", "Pink Jewelry Box"]) { userErrors { message } }
+r43: tagsRemove(id: "gid://shopify/Product/9259296227636", tags: ["Book"]) { userErrors { message } }
+r44: tagsRemove(id: "gid://shopify/Product/9259526684980", tags: ["Baby Potty", "Children’s Potty", "Comfortable Potty", "Easy Clean Potty", "Portable Potty", "potties", "Potty Seat", "potty training"]) { userErrors { message } }
+r45: tagsRemove(id: "gid://shopify/Product/9259532583220", tags: ["Baby Oral Care", "Baby Oral Development", "toothbrush"]) { userErrors { message } }
+r46: tagsRemove(id: "gid://shopify/Product/9259532714292", tags: ["diaper", "Diapering"]) { userErrors { message } }
+r47: tagsRemove(id: "gid://shopify/Product/9259552506164", tags: ["baby toothbrush", "toddler toothbrush"]) { userErrors { message } }
+r48: tagsRemove(id: "gid://shopify/Product/9259554013492", tags: ["baby cold", "breathing baby", "help baby"]) { userErrors { message } }
+r49: tagsRemove(id: "gid://shopify/Product/9265113268532", tags: ["Health"]) { userErrors { message } }
+r50: tagsRemove(id: "gid://shopify/Product/9265282875700", tags: ["Bracelet", "dress up bracelet"]) { userErrors { message } }
+r51: tagsRemove(id: "gid://shopify/Product/9265285005620", tags: ["Fun Nails", "Kids Nail Art", "nail art", "Nail Art for Kids", "Nail care", "nail polish", "nail varnish", "nails"]) { userErrors { message } }
+r52: tagsRemove(id: "gid://shopify/Product/9265286021428", tags: ["Money Box", "Piggy bank"]) { userErrors { message } }
+r53: tagsRemove(id: "gid://shopify/Product/9265286873396", tags: ["Dress Up Accessories", "Face art", "Face Paint", "kid-safe make-up", "Kids Dress Up"]) { userErrors { message } }
+r54: tagsRemove(id: "gid://shopify/Product/9265288839476", tags: ["Janod", "Janod toys", "Push and Pull Toy", "wooden toy", "Wooden Toys"]) { userErrors { message } }
+r55: tagsRemove(id: "gid://shopify/Product/9265630085428", tags: ["Baby Socks", "children's socks", "Infant Socks", "kids socks"]) { userErrors { message } }
+r56: tagsRemove(id: "gid://shopify/Product/9265650368820", tags: ["baby dolls", "cute dolls", "dolls"]) { userErrors { message } }
+r57: tagsRemove(id: "gid://shopify/Product/9265651515700", tags: ["Books"]) { userErrors { message } }
+r58: tagsRemove(id: "gid://shopify/Product/9268225147188", tags: ["kids plush toy", "plush toys", "Soft Plush"]) { userErrors { message } }
+r59: tagsRemove(id: "gid://shopify/Product/9268227866932", tags: ["kids plush toy", "plush keychain", "plush toys", "Soft Plush"]) { userErrors { message } }
+r60: tagsRemove(id: "gid://shopify/Product/9268228620596", tags: ["kids plush toy", "plush toys", "Soft Plush"]) { userErrors { message } }
+r61: tagsRemove(id: "gid://shopify/Product/9268229865780", tags: ["kids plush toy", "plush dog toy", "plush toys", "Soft Plush"]) { userErrors { message } }
+r62: tagsRemove(id: "gid://shopify/Product/9268852785460", tags: ["Books"]) { userErrors { message } }
+r63: tagsRemove(id: "gid://shopify/Product/9268897939764", tags: ["baby book", "Books"]) { userErrors { message } }
+r64: tagsRemove(id: "gid://shopify/Product/9269079703860", tags: ["Baby Socks", "children's socks", "Infant Socks", "kids socks"]) { userErrors { message } }
+r65: tagsRemove(id: "gid://shopify/Product/9269079736628", tags: ["Baby Socks", "children's socks", "Infant Socks", "kids socks"]) { userErrors { message } }
+r66: tagsRemove(id: "gid://shopify/Product/9269079769396", tags: ["Baby Socks", "children's socks", "Infant Socks", "kids socks"]) { userErrors { message } }
+r67: tagsRemove(id: "gid://shopify/Product/9269079802164", tags: ["Baby Socks", "children's socks", "Infant Socks", "kids socks"]) { userErrors { message } }
+r68: tagsRemove(id: "gid://shopify/Product/9269079834932", tags: ["Baby Socks", "children's socks", "Infant Socks", "kids socks"]) { userErrors { message } }
+r69: tagsRemove(id: "gid://shopify/Product/9269079900468", tags: ["Baby Socks", "children's socks", "Infant Socks", "kids socks"]) { userErrors { message } }
+r70: tagsRemove(id: "gid://shopify/Product/9269079933236", tags: ["Baby Socks", "children's socks", "Infant Socks", "kids socks"]) { userErrors { message } }
+r71: tagsRemove(id: "gid://shopify/Product/9269079966004", tags: ["Baby Socks", "children's socks", "Infant Socks", "kids socks"]) { userErrors { message } }
+r72: tagsRemove(id: "gid://shopify/Product/9269080621364", tags: ["Baby Socks", "children's socks", "Infant Socks", "kids socks"]) { userErrors { message } }
+r73: tagsRemove(id: "gid://shopify/Product/9269080654132", tags: ["Baby Socks", "children's socks", "Infant Socks", "kids socks"]) { userErrors { message } }
+r74: tagsRemove(id: "gid://shopify/Product/9269080686900", tags: ["Baby Socks", "children's socks", "Infant Socks", "kids socks"]) { userErrors { message } }
+r75: tagsRemove(id: "gid://shopify/Product/9269081243956", tags: ["Baby Outerwear", "Kids Outerwear"]) { userErrors { message } }
+r76: tagsRemove(id: "gid://shopify/Product/9269081276724", tags: ["Baby Outerwear", "Kids Outerwear"]) { userErrors { message } }
+r77: tagsRemove(id: "gid://shopify/Product/9269081309492", tags: ["Baby Outerwear", "Kids Outerwear"]) { userErrors { message } }
+r78: tagsRemove(id: "gid://shopify/Product/9269081342260", tags: ["Baby Outerwear", "Kids Outerwear"]) { userErrors { message } }
+r79: tagsRemove(id: "gid://shopify/Product/9269081375028", tags: ["Baby Outerwear", "Kids Outerwear"]) { userErrors { message } }
+r80: tagsRemove(id: "gid://shopify/Product/9269081997620", tags: ["Baby Socks", "children's socks", "Infant Socks", "kids socks"]) { userErrors { message } }
+r81: tagsRemove(id: "gid://shopify/Product/9269082063156", tags: ["Baby Socks", "children's socks", "Infant Socks", "kids socks"]) { userErrors { message } }
+r82: tagsRemove(id: "gid://shopify/Product/9269082095924", tags: ["Baby Socks", "children's socks", "Infant Socks", "kids socks"]) { userErrors { message } }
+r83: tagsRemove(id: "gid://shopify/Product/9269082161460", tags: ["Baby Socks", "children's socks", "Infant Socks", "kids socks"]) { userErrors { message } }
+r84: tagsRemove(id: "gid://shopify/Product/9269082194228", tags: ["Baby Socks", "children's socks", "Infant Socks", "kids socks"]) { userErrors { message } }
+r85: tagsRemove(id: "gid://shopify/Product/9269082226996", tags: ["Baby Socks", "children's socks", "Infant Socks", "kids socks"]) { userErrors { message } }
+r86: tagsRemove(id: "gid://shopify/Product/9269084193076", tags: ["Baby Socks", "children's socks", "Infant Socks", "kids socks"]) { userErrors { message } }
+r87: tagsRemove(id: "gid://shopify/Product/9269084258612", tags: ["Baby Socks", "children's socks", "Infant Socks", "kids socks"]) { userErrors { message } }
+r88: tagsRemove(id: "gid://shopify/Product/9269084651828", tags: ["Baby Socks", "children's socks", "Infant Socks", "kids socks"]) { userErrors { message } }
+r89: tagsRemove(id: "gid://shopify/Product/9269084750132", tags: ["Baby Socks", "children's socks", "Infant Socks", "kids socks"]) { userErrors { message } }
+}

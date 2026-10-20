@@ -1,0 +1,92 @@
+mutation R {
+r0: tagsRemove(id: "gid://shopify/Product/4358298337336", tags: ["Silicone"]) { userErrors { message } }
+r1: tagsRemove(id: "gid://shopify/Product/4358320324664", tags: ["Educational"]) { userErrors { message } }
+r2: tagsRemove(id: "gid://shopify/Product/4358320521272", tags: ["bedtime stories", "board book", "Books", "early readers", "fine motor skills", "fun", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r3: tagsRemove(id: "gid://shopify/Product/4358327074872", tags: ["baby", "Silicone"]) { userErrors { message } }
+r4: tagsRemove(id: "gid://shopify/Product/4358333169720", tags: ["cool", "fun", "sensory", "Toy"]) { userErrors { message } }
+r5: tagsRemove(id: "gid://shopify/Product/4358333268024", tags: ["art", "Book", "cool", "craft", "crafts", "fun"]) { userErrors { message } }
+r6: tagsRemove(id: "gid://shopify/Product/4358333628472", tags: ["Book", "cool", "craft", "fun"]) { userErrors { message } }
+r7: tagsRemove(id: "gid://shopify/Product/4358333661240", tags: ["cool", "sensory"]) { userErrors { message } }
+r8: tagsRemove(id: "gid://shopify/Product/4358333825080", tags: ["baby", "cool", "fun", "Toy"]) { userErrors { message } }
+r9: tagsRemove(id: "gid://shopify/Product/4358349488184", tags: ["baby"]) { userErrors { message } }
+r10: tagsRemove(id: "gid://shopify/Product/4358349553720", tags: ["baby"]) { userErrors { message } }
+r11: tagsRemove(id: "gid://shopify/Product/4358349946936", tags: ["baby"]) { userErrors { message } }
+r12: tagsRemove(id: "gid://shopify/Product/4358359253048", tags: ["guards"]) { userErrors { message } }
+r13: tagsRemove(id: "gid://shopify/Product/4358487343160", tags: ["nail polish", "nail varnish", "nails"]) { userErrors { message } }
+r14: tagsRemove(id: "gid://shopify/Product/4358487638072", tags: ["hair care"]) { userErrors { message } }
+r15: tagsRemove(id: "gid://shopify/Product/4358498123832", tags: ["cool", "fun"]) { userErrors { message } }
+r16: tagsRemove(id: "gid://shopify/Product/4358517719096", tags: ["art", "cool", "craft", "fun", "sensory", "Toy"]) { userErrors { message } }
+r17: tagsRemove(id: "gid://shopify/Product/4358518046776", tags: ["Costume Jewelry", "earrings", "fun"]) { userErrors { message } }
+r18: tagsRemove(id: "gid://shopify/Product/4358576898104", tags: ["hands-on science", "Kids Science", "Science Toys"]) { userErrors { message } }
+r19: tagsRemove(id: "gid://shopify/Product/4358703317048", tags: ["organic"]) { userErrors { message } }
+r20: tagsRemove(id: "gid://shopify/Product/4358703349816", tags: ["baby", "Diaper Bag Must-Have", "Diaper Cream", "diaper rash", "Diapering", "Health", "organic"]) { userErrors { message } }
+r21: tagsRemove(id: "gid://shopify/Product/4359109279800", tags: ["baby", "Book"]) { userErrors { message } }
+r22: tagsRemove(id: "gid://shopify/Product/4359704313912", tags: ["cool", "fun", "Toy"]) { userErrors { message } }
+r23: tagsRemove(id: "gid://shopify/Product/4359704346680", tags: ["baby", "cool", "fun", "Silicone"]) { userErrors { message } }
+r24: tagsRemove(id: "gid://shopify/Product/4359704379448", tags: ["baby", "cool", "fun"]) { userErrors { message } }
+r25: tagsRemove(id: "gid://shopify/Product/4359804354616", tags: ["Healthy", "vegan"]) { userErrors { message } }
+r26: tagsRemove(id: "gid://shopify/Product/4359804551224", tags: ["baby", "organic"]) { userErrors { message } }
+r27: tagsRemove(id: "gid://shopify/Product/4359990575160", tags: ["board book", "Books", "kids books"]) { userErrors { message } }
+r28: tagsRemove(id: "gid://shopify/Product/4360012070968", tags: ["fun"]) { userErrors { message } }
+r29: tagsRemove(id: "gid://shopify/Product/4360244035640", tags: ["Book", "cool", "fun"]) { userErrors { message } }
+r30: tagsRemove(id: "gid://shopify/Product/4360244068408", tags: ["bedtime stories", "board book", "Books", "early readers", "fine motor skills", "fun", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r31: tagsRemove(id: "gid://shopify/Product/4360669233208", tags: ["bedtime stories", "board books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r32: tagsRemove(id: "gid://shopify/Product/4360669331512", tags: ["bedtime stories", "board books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r33: tagsRemove(id: "gid://shopify/Product/4360674508856", tags: ["Baby Announcement", "Baby First Year", "Baby Gift", "Baby Journal", "Baby Keepsake", "Baby Keepsake Book", "Baby Milestone", "Baby Record", "Baby Shower Gift", "Baby Welcome Gift", "Badger & Burke", "cool", "Heirloom Gift", "Keepsake Memory Book", "Mother’s Gift", "New Baby", "New Parent Gift", "Newborn Gift", "Nursery Decor", "Personalized Baby Book", "Welcome to the World"]) { userErrors { message } }
+r34: tagsRemove(id: "gid://shopify/Product/4360674541624", tags: ["baby", "cool", "fun"]) { userErrors { message } }
+r35: tagsRemove(id: "gid://shopify/Product/4360674574392", tags: ["baby", "Badger and Burke", "Congratulations Card", "Cute Design", "Gender Neutral", "greeting cards", "Illustrated Card"]) { userErrors { message } }
+r36: tagsRemove(id: "gid://shopify/Product/4360674607160", tags: ["baby card", "Badger and Burke", "Congratulations Card", "Cute Design", "Gender Neutral", "Illustrated Card", "new baby card"]) { userErrors { message } }
+r37: tagsRemove(id: "gid://shopify/Product/4360674672696", tags: ["Birthday cards", "cool", "fun", "greeting cards"]) { userErrors { message } }
+r38: tagsRemove(id: "gid://shopify/Product/4360704229432", tags: ["baby", "card", "greeting cards"]) { userErrors { message } }
+r39: tagsRemove(id: "gid://shopify/Product/4360732672056", tags: ["bedtime stories", "board book", "Books", "early readers", "fine motor skills", "fun", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r40: tagsRemove(id: "gid://shopify/Product/4360755052600", tags: ["bath toy", "cool", "fun", "kids bath toys", "Kids Puzzle", "puzzle", "toys"]) { userErrors { message } }
+r41: tagsRemove(id: "gid://shopify/Product/4360880717880", tags: ["baby", "cool", "fun", "sensory"]) { userErrors { message } }
+r42: tagsRemove(id: "gid://shopify/Product/4360888975416", tags: ["cool", "Silicone"]) { userErrors { message } }
+r43: tagsRemove(id: "gid://shopify/Product/4360915320888", tags: ["Baby Accessories", "Baby Essentials", "mealtime bib"]) { userErrors { message } }
+r44: tagsRemove(id: "gid://shopify/Product/4360971780152", tags: ["baby", "Baby Bowl", "Feeding Essentials", "feeding time", "Non Slip Bowl", "Silicone", "Toronto toy store"]) { userErrors { message } }
+r45: tagsRemove(id: "gid://shopify/Product/4361053143096", tags: ["bedtime stories", "board book", "Books", "early readers", "fine motor skills", "fun", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r46: tagsRemove(id: "gid://shopify/Product/4361720332344", tags: ["bedtime stories", "board book", "Books", "early readers", "fine motor skills", "fun", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r47: tagsRemove(id: "gid://shopify/Product/4361756278840", tags: ["baby", "cotton bibs"]) { userErrors { message } }
+r48: tagsRemove(id: "gid://shopify/Product/4361790586936", tags: ["2.5 TOG grobag", "best baby sleep sack", "grobag", "grobag reviews", "grobag summer", "grobag winter", "infant sleep bag", "organic cotton sleep bag", "safe sleep baby gown", "toddler sleeping bag"]) { userErrors { message } }
+r49: tagsRemove(id: "gid://shopify/Product/4361799925816", tags: ["Art Card", "Badger and Burke", "Birthday Card", "Blank Card", "Card for Family", "Card for Friends", "Colorful Card", "Designer Card", "greeting cards", "Holiday Card", "Illustrated Card", "Independent Brand", "Local Artist", "Occasion Card", "Printed in Canada", "Recycled Paper", "Thank You Card", "Unique Card"]) { userErrors { message } }
+r50: tagsRemove(id: "gid://shopify/Product/4361825583160", tags: ["baby", "cool", "fun", "Toy"]) { userErrors { message } }
+r51: tagsRemove(id: "gid://shopify/Product/4361839312952", tags: ["baby", "cool", "fun", "Toy"]) { userErrors { message } }
+r52: tagsRemove(id: "gid://shopify/Product/4361894920248", tags: ["cool", "fun", "Toy"]) { userErrors { message } }
+r53: tagsRemove(id: "gid://shopify/Product/4362048110648", tags: ["Fancy Headband", "Girls Headband", "Sparkly Headband"]) { userErrors { message } }
+r54: tagsRemove(id: "gid://shopify/Product/4362094051384", tags: ["baby", "cool", "fun", "Silicone"]) { userErrors { message } }
+r55: tagsRemove(id: "gid://shopify/Product/5593414303800", tags: ["baby", "Book", "cool", "fun", "sensory"]) { userErrors { message } }
+r56: tagsRemove(id: "gid://shopify/Product/5594031161400", tags: ["classic games"]) { userErrors { message } }
+r57: tagsRemove(id: "gid://shopify/Product/5594031259704", tags: ["Pull‑Back Vehicles", "Toddler", "vehicles"]) { userErrors { message } }
+r58: tagsRemove(id: "gid://shopify/Product/5594031489080", tags: ["cool", "fun", "Toy"]) { userErrors { message } }
+r59: tagsRemove(id: "gid://shopify/Product/5594032177208", tags: ["board Games"]) { userErrors { message } }
+r60: tagsRemove(id: "gid://shopify/Product/5594032341048", tags: ["board Games", "fun"]) { userErrors { message } }
+r61: tagsRemove(id: "gid://shopify/Product/5594032373816", tags: ["board games", "Hasbro", "Jill and the Beanstalk", "Toronto toy store"]) { userErrors { message } }
+r62: tagsRemove(id: "gid://shopify/Product/5594061275192", tags: ["game cards"]) { userErrors { message } }
+r63: tagsRemove(id: "gid://shopify/Product/5594062553144", tags: ["cool", "fun", "Toy"]) { userErrors { message } }
+r64: tagsRemove(id: "gid://shopify/Product/5594089619512", tags: ["cool", "fun", "Toy", "wooden toy"]) { userErrors { message } }
+r65: tagsRemove(id: "gid://shopify/Product/5594104168504", tags: ["art", "cool", "craft", "fun", "sensory", "Toy"]) { userErrors { message } }
+r66: tagsRemove(id: "gid://shopify/Product/5594137264184", tags: ["cool", "fun", "Toy", "wooden toy"]) { userErrors { message } }
+r67: tagsRemove(id: "gid://shopify/Product/5594165444664", tags: ["fun", "sensory", "Toy"]) { userErrors { message } }
+r68: tagsRemove(id: "gid://shopify/Product/5594190315576", tags: ["cool", "fun", "Toy", "wooden toy"]) { userErrors { message } }
+r69: tagsRemove(id: "gid://shopify/Product/5594190413880", tags: ["cool", "fun", "Toy", "wooden toy"]) { userErrors { message } }
+r70: tagsRemove(id: "gid://shopify/Product/5594190446648", tags: ["bedtime stories", "board book", "Books", "early readers", "fine motor skills", "fun", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r71: tagsRemove(id: "gid://shopify/Product/5594190544952", tags: ["art", "cool", "craft", "crafts", "fun", "sensory"]) { userErrors { message } }
+r72: tagsRemove(id: "gid://shopify/Product/5594190577720", tags: ["food", "wood"]) { userErrors { message } }
+r73: tagsRemove(id: "gid://shopify/Product/5594232324152", tags: ["toddlers"]) { userErrors { message } }
+r74: tagsRemove(id: "gid://shopify/Product/5594232455224", tags: ["art", "cool", "fun", "sensory"]) { userErrors { message } }
+r75: tagsRemove(id: "gid://shopify/Product/5594242023480", tags: ["baby", "Book"]) { userErrors { message } }
+r76: tagsRemove(id: "gid://shopify/Product/5594341572664", tags: ["cool", "fun"]) { userErrors { message } }
+r77: tagsRemove(id: "gid://shopify/Product/5594341605432", tags: ["cool", "fun"]) { userErrors { message } }
+r78: tagsRemove(id: "gid://shopify/Product/5594341867576", tags: ["cool", "fun", "puzzle"]) { userErrors { message } }
+r79: tagsRemove(id: "gid://shopify/Product/5594341998648", tags: ["cool", "fun"]) { userErrors { message } }
+r80: tagsRemove(id: "gid://shopify/Product/5594342064184", tags: ["cool", "fun", "Toy"]) { userErrors { message } }
+r81: tagsRemove(id: "gid://shopify/Product/5594342293560", tags: ["cool", "fun"]) { userErrors { message } }
+r82: tagsRemove(id: "gid://shopify/Product/5594342359096", tags: ["cool", "fun"]) { userErrors { message } }
+r83: tagsRemove(id: "gid://shopify/Product/5594342391864", tags: ["cool", "fun"]) { userErrors { message } }
+r84: tagsRemove(id: "gid://shopify/Product/5594342457400", tags: ["Birthday cards", "cool"]) { userErrors { message } }
+r85: tagsRemove(id: "gid://shopify/Product/5594452131896", tags: ["Books"]) { userErrors { message } }
+r86: tagsRemove(id: "gid://shopify/Product/5594499481656", tags: ["cool", "fun", "Toy"]) { userErrors { message } }
+r87: tagsRemove(id: "gid://shopify/Product/5594500628536", tags: ["coding", "robot", "sensory"]) { userErrors { message } }
+r88: tagsRemove(id: "gid://shopify/Product/5594500726840", tags: ["baby", "cool", "fun", "Toy"]) { userErrors { message } }
+r89: tagsRemove(id: "gid://shopify/Product/5598752768056", tags: ["bedtime stories", "board book", "Books", "early readers", "fine motor skills", "fun", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+}

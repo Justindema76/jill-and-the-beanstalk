@@ -1,0 +1,92 @@
+mutation R {
+r0: tagsRemove(id: "gid://shopify/Product/9304714674484", tags: ["children's socks", "kids socks"]) { userErrors { message } }
+r1: tagsRemove(id: "gid://shopify/Product/9304714707252", tags: ["children's socks", "kids socks"]) { userErrors { message } }
+r2: tagsRemove(id: "gid://shopify/Product/9304714740020", tags: ["children's socks", "kids socks"]) { userErrors { message } }
+r3: tagsRemove(id: "gid://shopify/Product/9304714772788", tags: ["children's socks", "kids socks"]) { userErrors { message } }
+r4: tagsRemove(id: "gid://shopify/Product/9304714805556", tags: ["children's socks", "kids socks"]) { userErrors { message } }
+r5: tagsRemove(id: "gid://shopify/Product/9304714871092", tags: ["children's socks", "kids socks"]) { userErrors { message } }
+r6: tagsRemove(id: "gid://shopify/Product/9304714903860", tags: ["children's socks", "kids socks"]) { userErrors { message } }
+r7: tagsRemove(id: "gid://shopify/Product/9304714969396", tags: ["children's socks", "kids socks"]) { userErrors { message } }
+r8: tagsRemove(id: "gid://shopify/Product/9304721228084", tags: ["children's socks", "kids socks"]) { userErrors { message } }
+r9: tagsRemove(id: "gid://shopify/Product/9305215009076", tags: ["hat", "Kids Sun Hat", "new clothing", "sun protection"]) { userErrors { message } }
+r10: tagsRemove(id: "gid://shopify/Product/9305215041844", tags: ["hat", "Kids Sun Hat", "new clothing", "sun protection"]) { userErrors { message } }
+r11: tagsRemove(id: "gid://shopify/Product/9305225691444", tags: ["hat", "Kids Sun Hat", "new clothing", "sun protection"]) { userErrors { message } }
+r12: tagsRemove(id: "gid://shopify/Product/9305225724212", tags: ["hat", "Kids Sun Hat", "new clothing", "sun protection"]) { userErrors { message } }
+r13: tagsRemove(id: "gid://shopify/Product/9305225756980", tags: ["hat", "Kids Sun Hat", "new clothing", "sun protection"]) { userErrors { message } }
+r14: tagsRemove(id: "gid://shopify/Product/9305225789748", tags: ["hat", "Kids Sun Hat", "new clothing", "sun protection"]) { userErrors { message } }
+r15: tagsRemove(id: "gid://shopify/Product/9305225822516", tags: ["hat", "Kids Sun Hat", "new clothing", "sun protection"]) { userErrors { message } }
+r16: tagsRemove(id: "gid://shopify/Product/9305225888052", tags: ["hat", "Kids Sun Hat", "new clothing", "sun protection"]) { userErrors { message } }
+r17: tagsRemove(id: "gid://shopify/Product/9305225953588", tags: ["hat", "Kids Sun Hat", "new clothing", "sun protection"]) { userErrors { message } }
+r18: tagsRemove(id: "gid://shopify/Product/9305226084660", tags: ["hat", "Kids Sun Hat", "new clothing", "sun protection"]) { userErrors { message } }
+r19: tagsRemove(id: "gid://shopify/Product/9305226150196", tags: ["hat", "Kids Sun Hat", "new clothing", "sun protection"]) { userErrors { message } }
+r20: tagsRemove(id: "gid://shopify/Product/9305237422388", tags: ["Baby Essentials"]) { userErrors { message } }
+r21: tagsRemove(id: "gid://shopify/Product/9305343164724", tags: ["Winter Baby Gear", "winter gloves"]) { userErrors { message } }
+r22: tagsRemove(id: "gid://shopify/Product/9305343230260", tags: ["Winter Baby Gear", "winter gloves"]) { userErrors { message } }
+r23: tagsRemove(id: "gid://shopify/Product/9305343394100", tags: ["children's mittens", "kids mittens", "winter gloves"]) { userErrors { message } }
+r24: tagsRemove(id: "gid://shopify/Product/9305343459636", tags: ["children's mittens", "kids mittens", "winter gloves"]) { userErrors { message } }
+r25: tagsRemove(id: "gid://shopify/Product/9305344082228", tags: ["school supplies"]) { userErrors { message } }
+r26: tagsRemove(id: "gid://shopify/Product/9305344114996", tags: ["school supplies"]) { userErrors { message } }
+r27: tagsRemove(id: "gid://shopify/Product/9305344147764", tags: ["school supplies"]) { userErrors { message } }
+r28: tagsRemove(id: "gid://shopify/Product/9305344180532", tags: ["school supplies"]) { userErrors { message } }
+r29: tagsRemove(id: "gid://shopify/Product/9307487338804", tags: ["Push and Pull Toy", "Toddler Toys"]) { userErrors { message } }
+r30: tagsRemove(id: "gid://shopify/Product/9307487764788", tags: ["Baby Toy", "baby toys", "Push and Pull Toy"]) { userErrors { message } }
+r31: tagsRemove(id: "gid://shopify/Product/9307492450612", tags: ["vehicles"]) { userErrors { message } }
+r32: tagsRemove(id: "gid://shopify/Product/9307499495732", tags: ["Musical Box", "Musical Play"]) { userErrors { message } }
+r33: tagsRemove(id: "gid://shopify/Product/9307529838900", tags: ["greeting cards"]) { userErrors { message } }
+r34: tagsRemove(id: "gid://shopify/Product/9307530035508", tags: ["greeting cards"]) { userErrors { message } }
+r35: tagsRemove(id: "gid://shopify/Product/9307531575604", tags: ["greeting cards"]) { userErrors { message } }
+r36: tagsRemove(id: "gid://shopify/Product/9307531706676", tags: ["greeting cards"]) { userErrors { message } }
+r37: tagsRemove(id: "gid://shopify/Product/9307532984628", tags: ["greeting cards"]) { userErrors { message } }
+r38: tagsRemove(id: "gid://shopify/Product/9307533050164", tags: ["greeting cards"]) { userErrors { message } }
+r39: tagsRemove(id: "gid://shopify/Product/9307533115700", tags: ["greeting cards"]) { userErrors { message } }
+r40: tagsRemove(id: "gid://shopify/Product/9307539177780", tags: ["greeting cards"]) { userErrors { message } }
+r41: tagsRemove(id: "gid://shopify/Product/9307542683956", tags: ["greeting cards"]) { userErrors { message } }
+r42: tagsRemove(id: "gid://shopify/Product/9307542880564", tags: ["greeting cards"]) { userErrors { message } }
+r43: tagsRemove(id: "gid://shopify/Product/9307544813876", tags: ["greeting cards"]) { userErrors { message } }
+r44: tagsRemove(id: "gid://shopify/Product/9307805188404", tags: ["Family Puzzle", "Jigsaw Puzzle", "Kids Puzzle", "Nature Puzzle", "puzzle", "Puzzle for Kids"]) { userErrors { message } }
+r45: tagsRemove(id: "gid://shopify/Product/9307977482548", tags: ["1 TOG", "All Season", "Baby Essentials", "Baby Gear", "baby sleepsack", "Baby Sleepwear", "Bamboo Rayon", "Bamboo Sleep Sack", "Breathable", "Cozy Sleep Sack", "Down Alternative", "Gender Neutral", "Günamüna", "sleep bag", "sleeping blanket", "Soft Sleep Sack", "soft sleepsack", "Toddler Sleep Sack", "Unisex Baby", "Wearable Blanket", "WonderZip"]) { userErrors { message } }
+r46: tagsRemove(id: "gid://shopify/Product/9307978924340", tags: ["Brush"]) { userErrors { message } }
+r47: tagsRemove(id: "gid://shopify/Product/9307980398900", tags: ["Baby Teether"]) { userErrors { message } }
+r48: tagsRemove(id: "gid://shopify/Product/9307982659892", tags: ["Kids Straw Cup", "Straw Cup"]) { userErrors { message } }
+r49: tagsRemove(id: "gid://shopify/Product/9307983708468", tags: ["floor mat", "play mat"]) { userErrors { message } }
+r50: tagsRemove(id: "gid://shopify/Product/9307983970612", tags: ["floor mat", "play mat"]) { userErrors { message } }
+r51: tagsRemove(id: "gid://shopify/Product/9307987935540", tags: ["Toddler Cutlery"]) { userErrors { message } }
+r52: tagsRemove(id: "gid://shopify/Product/9307991671092", tags: ["Snack Container"]) { userErrors { message } }
+r53: tagsRemove(id: "gid://shopify/Product/9307993473332", tags: ["Snack Container"]) { userErrors { message } }
+r54: tagsRemove(id: "gid://shopify/Product/9308006678836", tags: ["baby rattle", "rattle"]) { userErrors { message } }
+r55: tagsRemove(id: "gid://shopify/Product/9308013592884", tags: ["Baby Teether", "Natural Rubber Teether"]) { userErrors { message } }
+r56: tagsRemove(id: "gid://shopify/Product/9308023750964", tags: ["bath toy"]) { userErrors { message } }
+r57: tagsRemove(id: "gid://shopify/Product/9308026143028", tags: ["bath toy"]) { userErrors { message } }
+r58: tagsRemove(id: "gid://shopify/Product/9308032729396", tags: ["Baby Teether"]) { userErrors { message } }
+r59: tagsRemove(id: "gid://shopify/Product/9308033777972", tags: ["Baby Teether"]) { userErrors { message } }
+r60: tagsRemove(id: "gid://shopify/Product/9308040593716", tags: ["Baby Teether", "BPA-Free", "Handmade", "Infant Teething Toy", "Natural Rubber Teether", "Oli & Carol", "Organic Baby Toy", "Safe for Babies", "Sustainable"]) { userErrors { message } }
+r61: tagsRemove(id: "gid://shopify/Product/9308043936052", tags: ["baby print kit"]) { userErrors { message } }
+r62: tagsRemove(id: "gid://shopify/Product/9308052652340", tags: ["sensory baby toy", "sensory play"]) { userErrors { message } }
+r63: tagsRemove(id: "gid://shopify/Product/9308069134644", tags: ["sensory"]) { userErrors { message } }
+r64: tagsRemove(id: "gid://shopify/Product/9308071067956", tags: ["sensory"]) { userErrors { message } }
+r65: tagsRemove(id: "gid://shopify/Product/9308072247604", tags: ["sensory"]) { userErrors { message } }
+r66: tagsRemove(id: "gid://shopify/Product/9308166717748", tags: ["stuffed animals", "stuffie"]) { userErrors { message } }
+r67: tagsRemove(id: "gid://shopify/Product/9308175728948", tags: ["stuffed animals"]) { userErrors { message } }
+r68: tagsRemove(id: "gid://shopify/Product/9308198830388", tags: ["Baby Teether"]) { userErrors { message } }
+r69: tagsRemove(id: "gid://shopify/Product/9308206596404", tags: ["stuffed animals"]) { userErrors { message } }
+r70: tagsRemove(id: "gid://shopify/Product/9308208464180", tags: ["stuffed animals"]) { userErrors { message } }
+r71: tagsRemove(id: "gid://shopify/Product/9308465332532", tags: ["Cuddle Toy", "stuffed animals"]) { userErrors { message } }
+r72: tagsRemove(id: "gid://shopify/Product/9308499968308", tags: ["Aurora", "palm pal", "small stuffed animal", "stuffed animals"]) { userErrors { message } }
+r73: tagsRemove(id: "gid://shopify/Product/9308529492276", tags: ["Aurora", "palm pal", "small stuffed animal", "stuffed animals"]) { userErrors { message } }
+r74: tagsRemove(id: "gid://shopify/Product/9308529590580", tags: ["stuffed animals"]) { userErrors { message } }
+r75: tagsRemove(id: "gid://shopify/Product/9308530245940", tags: ["stuffed animals"]) { userErrors { message } }
+r76: tagsRemove(id: "gid://shopify/Product/9308531360052", tags: ["stuffed animals"]) { userErrors { message } }
+r77: tagsRemove(id: "gid://shopify/Product/9308532146484", tags: ["stuffed animals"]) { userErrors { message } }
+r78: tagsRemove(id: "gid://shopify/Product/9308533653812", tags: ["stuffed animals"]) { userErrors { message } }
+r79: tagsRemove(id: "gid://shopify/Product/9308533719348", tags: ["stuffed animals"]) { userErrors { message } }
+r80: tagsRemove(id: "gid://shopify/Product/9308536406324", tags: ["stuffed animals"]) { userErrors { message } }
+r81: tagsRemove(id: "gid://shopify/Product/9308536799540", tags: ["stuffed animals"]) { userErrors { message } }
+r82: tagsRemove(id: "gid://shopify/Product/9308538667316", tags: ["stuffed animals"]) { userErrors { message } }
+r83: tagsRemove(id: "gid://shopify/Product/9308538700084", tags: ["stuffed animals"]) { userErrors { message } }
+r84: tagsRemove(id: "gid://shopify/Product/9308540764468", tags: ["stuffed animals"]) { userErrors { message } }
+r85: tagsRemove(id: "gid://shopify/Product/9308541944116", tags: ["stuffed animals"]) { userErrors { message } }
+r86: tagsRemove(id: "gid://shopify/Product/9308542173492", tags: ["stuffed animals"]) { userErrors { message } }
+r87: tagsRemove(id: "gid://shopify/Product/9308542861620", tags: ["stuffed animals"]) { userErrors { message } }
+r88: tagsRemove(id: "gid://shopify/Product/9308543975732", tags: ["stuffed animals"]) { userErrors { message } }
+r89: tagsRemove(id: "gid://shopify/Product/9308544139572", tags: ["stuffed animals"]) { userErrors { message } }
+}

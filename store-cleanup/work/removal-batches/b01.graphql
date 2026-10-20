@@ -1,0 +1,92 @@
+mutation R {
+r0: tagsRemove(id: "gid://shopify/Product/3600863108", tags: ["baby store gift card", "digital gift card", "e-gift card", "flexible gift card", "gift card", "gift certificate", "gift idea", "instant gift card", "Jill and the Beanstalk gift card", "kids gift card", "online gift card", "perfect gift", "store gift card"]) { userErrors { message } }
+r1: tagsRemove(id: "gid://shopify/Product/3741963844", tags: ["cool", "fun"]) { userErrors { message } }
+r2: tagsRemove(id: "gid://shopify/Product/3788687236", tags: ["baby clothing stain remover", "buncha farmers", "buncha farmers stain remover", "chemical-free stain remover", "eco-friendly stain remover", "kids clothing stain remover", "laundry stain remover", "laundry stick", "natural stain remover", "new clothing", "stain remover for clothes", "stain remover stick"]) { userErrors { message } }
+r3: tagsRemove(id: "gid://shopify/Product/4125767684", tags: ["cool"]) { userErrors { message } }
+r4: tagsRemove(id: "gid://shopify/Product/4125828292", tags: ["7oz Cup", "Baby Essentials", "Baby Gear", "drinking cup", "Easy Clean Cup", "Leak Proof Cup", "Miracle Cup", "Munchkin", "Munchkin Cup", "No Spill Cup", "Oral Health Cup", "Spill Proof Cup", "Toddler Drinkware", "Unisex Baby"]) { userErrors { message } }
+r5: tagsRemove(id: "gid://shopify/Product/4131277764", tags: ["baby wash"]) { userErrors { message } }
+r6: tagsRemove(id: "gid://shopify/Product/4131290372", tags: ["baby balm"]) { userErrors { message } }
+r7: tagsRemove(id: "gid://shopify/Product/4131316996", tags: ["baby sunscreen", "SPF protection", "sunscreen Canada", "Toronto baby store"]) { userErrors { message } }
+r8: tagsRemove(id: "gid://shopify/Product/4131326468", tags: ["dental hygiene", "kids toothbrush", "oral", "toddler toothbrush"]) { userErrors { message } }
+r9: tagsRemove(id: "gid://shopify/Product/4131333700", tags: ["baby balm", "Baby Sleep Accessories", "cream", "sleep"]) { userErrors { message } }
+r10: tagsRemove(id: "gid://shopify/Product/4157127044", tags: ["baby care", "baby medicine", "baby teething", "boiron", "camilia", "camilia teething drops", "camilia toronto", "homeopathic", "infant teething", "natural baby products", "natural teething relief", "sugar-free teething drops", "teething", "teething remedy"]) { userErrors { message } }
+r11: tagsRemove(id: "gid://shopify/Product/4159297220", tags: ["baby pain", "homeopathy", "pain relief", "teething", "tooth"]) { userErrors { message } }
+r12: tagsRemove(id: "gid://shopify/Product/4163462404", tags: ["kids lunch bag"]) { userErrors { message } }
+r13: tagsRemove(id: "gid://shopify/Product/4202754756", tags: ["Health"]) { userErrors { message } }
+r14: tagsRemove(id: "gid://shopify/Product/4202764676", tags: ["Natural Bug Spray"]) { userErrors { message } }
+r15: tagsRemove(id: "gid://shopify/Product/4202766340", tags: ["body wash"]) { userErrors { message } }
+r16: tagsRemove(id: "gid://shopify/Product/4248680324", tags: ["baby", "baby food"]) { userErrors { message } }
+r17: tagsRemove(id: "gid://shopify/Product/4248707588", tags: ["healthy snack", "toddler snack"]) { userErrors { message } }
+r18: tagsRemove(id: "gid://shopify/Product/4352277764", tags: ["baby food", "healthy snack", "snack"]) { userErrors { message } }
+r19: tagsRemove(id: "gid://shopify/Product/4358609732", tags: ["baby"]) { userErrors { message } }
+r20: tagsRemove(id: "gid://shopify/Product/4358874884", tags: ["gummy bears", "treats", "vegan"]) { userErrors { message } }
+r21: tagsRemove(id: "gid://shopify/Product/4474083972", tags: ["baby spoons", "Feeding Essentials", "spoons"]) { userErrors { message } }
+r22: tagsRemove(id: "gid://shopify/Product/4475560260", tags: ["baby spoons", "Feeding Essentials", "spoons"]) { userErrors { message } }
+r23: tagsRemove(id: "gid://shopify/Product/4579520836", tags: ["toddler snack"]) { userErrors { message } }
+r24: tagsRemove(id: "gid://shopify/Product/4786526916", tags: ["Adults Toothpaste", "Berry Toothpaste", "Clean Ingredients", "Cruelty-Free", "Fluoride-Free", "Fresh Breath", "Green Beaver", "Kids Toothpaste", "Mint Toothpaste", "Natural Oral Care", "Oral Hygiene", "Organic Toothpaste", "Sensitive Teeth", "Sustainable", "Vegan Toothpaste"]) { userErrors { message } }
+r25: tagsRemove(id: "gid://shopify/Product/4786808132", tags: ["dental hygiene", "kids toothbrush", "oral", "toddler toothbrush"]) { userErrors { message } }
+r26: tagsRemove(id: "gid://shopify/Product/4887184644", tags: ["straw cleaning brush"]) { userErrors { message } }
+r27: tagsRemove(id: "gid://shopify/Product/4887226180", tags: ["cool", "fun"]) { userErrors { message } }
+r28: tagsRemove(id: "gid://shopify/Product/4915686916", tags: ["soother"]) { userErrors { message } }
+r29: tagsRemove(id: "gid://shopify/Product/5027467844", tags: ["baby", "baby plate", "BPA free plate", "Plate"]) { userErrors { message } }
+r30: tagsRemove(id: "gid://shopify/Product/6126511876", tags: ["baby time", "crafts", "free coffee", "free tea", "freeplay", "hangout"]) { userErrors { message } }
+r31: tagsRemove(id: "gid://shopify/Product/6367010180", tags: ["baby sunscreen", "Canadian sunscreen", "Jill and the Beanstalk", "mineral sunscreen", "natural sunscreen", "organic sun care", "SPF 30", "SPF protection", "Substance", "summer essentials", "sun protection", "sunscreen Canada", "toddler sun protection", "Toronto baby store", "Toronto kids skincare", "zinc oxide SPF"]) { userErrors { message } }
+r32: tagsRemove(id: "gid://shopify/Product/8981529220", tags: ["kids lunch bag"]) { userErrors { message } }
+r33: tagsRemove(id: "gid://shopify/Product/9109889732", tags: ["Butt Butter", "cream", "Diaper Cream", "diaper rash"]) { userErrors { message } }
+r34: tagsRemove(id: "gid://shopify/Product/9110942020", tags: ["cream", "Diaper Cream", "diaper rash"]) { userErrors { message } }
+r35: tagsRemove(id: "gid://shopify/Product/9128366596", tags: ["dental hygiene", "kids toothbrush", "oral", "toddler toothbrush"]) { userErrors { message } }
+r36: tagsRemove(id: "gid://shopify/Product/9128457988", tags: ["baby toothpaste", "fluoride-free toothpaste", "kids oral care", "natural toothpaste", "personal care", "safe toothpaste", "toddler toothpaste"]) { userErrors { message } }
+r37: tagsRemove(id: "gid://shopify/Product/9139159940", tags: ["featured"]) { userErrors { message } }
+r38: tagsRemove(id: "gid://shopify/Product/9145804484", tags: ["baby bottle alternative", "glass baby bottle"]) { userErrors { message } }
+r39: tagsRemove(id: "gid://shopify/Product/9213416836", tags: ["food", "lunchbox"]) { userErrors { message } }
+r40: tagsRemove(id: "gid://shopify/Product/9224974980", tags: ["baby toothbrush", "finger toothbrush"]) { userErrors { message } }
+r41: tagsRemove(id: "gid://shopify/Product/9254607044", tags: ["nipple care"]) { userErrors { message } }
+r42: tagsRemove(id: "gid://shopify/Product/9301878340", tags: ["Book"]) { userErrors { message } }
+r43: tagsRemove(id: "gid://shopify/Product/9361137348", tags: ["baby"]) { userErrors { message } }
+r44: tagsRemove(id: "gid://shopify/Product/9576331844", tags: ["back to school gear", "bento lunch box", "cute lunch bag", "daycare lunch bag", "eco lunch bag", "insulated lunch bag", "kids food storage", "kids lunch bag", "lunch tote", "lunchbox canada", "lunchbox toronto", "reusable lunch bag", "school lunch bag", "toddler lunch bag"]) { userErrors { message } }
+r45: tagsRemove(id: "gid://shopify/Product/9610899076", tags: ["baby"]) { userErrors { message } }
+r46: tagsRemove(id: "gid://shopify/Product/9679453828", tags: ["coconut water"]) { userErrors { message } }
+r47: tagsRemove(id: "gid://shopify/Product/9736870276", tags: ["register@http://anchorstudio96.pixieset.com"]) { userErrors { message } }
+r48: tagsRemove(id: "gid://shopify/Product/9916601348", tags: ["baby", "best diaper cream", "Diaper Cream"]) { userErrors { message } }
+r49: tagsRemove(id: "gid://shopify/Product/10039802372", tags: ["drinking cup"]) { userErrors { message } }
+r50: tagsRemove(id: "gid://shopify/Product/10058081924", tags: ["baby", "Silicone"]) { userErrors { message } }
+r51: tagsRemove(id: "gid://shopify/Product/10058330180", tags: ["food", "Silicone"]) { userErrors { message } }
+r52: tagsRemove(id: "gid://shopify/Product/10239183940", tags: ["fun", "nail polish", "nail varnish", "nails"]) { userErrors { message } }
+r53: tagsRemove(id: "gid://shopify/Product/10368880132", tags: ["Bubble bath"]) { userErrors { message } }
+r54: tagsRemove(id: "gid://shopify/Product/10525603204", tags: ["mail"]) { userErrors { message } }
+r55: tagsRemove(id: "gid://shopify/Product/10548986052", tags: ["baby", "cool", "fun", "sensory"]) { userErrors { message } }
+r56: tagsRemove(id: "gid://shopify/Product/10550085444", tags: ["baby food", "lunch container", "Reusable Container", "Snack Container"]) { userErrors { message } }
+r57: tagsRemove(id: "gid://shopify/Product/10728722692", tags: ["baby", "baby nails", "nail clippers", "tiny nails"]) { userErrors { message } }
+r58: tagsRemove(id: "gid://shopify/Product/10771838916", tags: ["baby cold", "best snot sucker", "breathing baby", "snot sucker"]) { userErrors { message } }
+r59: tagsRemove(id: "gid://shopify/Product/10890076484", tags: ["Children's hand soap", "Hand soap", "Soap"]) { userErrors { message } }
+r60: tagsRemove(id: "gid://shopify/Product/10890360132", tags: ["baby", "calm"]) { userErrors { message } }
+r61: tagsRemove(id: "gid://shopify/Product/10978917380", tags: ["baby oil", "New Mom Essentials"]) { userErrors { message } }
+r62: tagsRemove(id: "gid://shopify/Product/11124686596", tags: ["baby"]) { userErrors { message } }
+r63: tagsRemove(id: "gid://shopify/Product/11126772868", tags: ["dental hygiene", "kids toothbrush", "oral", "toddler toothbrush"]) { userErrors { message } }
+r64: tagsRemove(id: "gid://shopify/Product/11128794820", tags: ["Baby Oral Care"]) { userErrors { message } }
+r65: tagsRemove(id: "gid://shopify/Product/11128922372", tags: ["locking cleaning products", "safe cupboards"]) { userErrors { message } }
+r66: tagsRemove(id: "gid://shopify/Product/11136451844", tags: ["drink bottle", "travel bottle"]) { userErrors { message } }
+r67: tagsRemove(id: "gid://shopify/Product/11136584196", tags: ["straw", "straws"]) { userErrors { message } }
+r68: tagsRemove(id: "gid://shopify/Product/11141752452", tags: ["featured"]) { userErrors { message } }
+r69: tagsRemove(id: "gid://shopify/Product/11165172676", tags: ["nipple care"]) { userErrors { message } }
+r70: tagsRemove(id: "gid://shopify/Product/11166661572", tags: ["baby spoons", "Feeding Essentials", "spoons"]) { userErrors { message } }
+r71: tagsRemove(id: "gid://shopify/Product/11216646980", tags: ["Baby Teether", "Cute Teether", "Natural Rubber Teether", "Natural Teether", "Rubber Teether", "Soothing Teether"]) { userErrors { message } }
+r72: tagsRemove(id: "gid://shopify/Product/11216680004", tags: ["baby toys"]) { userErrors { message } }
+r73: tagsRemove(id: "gid://shopify/Product/11344718852", tags: ["baby safe", "baby sunscreen", "mineral sunscreen", "natural sunscreen", "SPF protection", "sunsafe", "sunscreen Canada", "Toronto baby store"]) { userErrors { message } }
+r74: tagsRemove(id: "gid://shopify/Product/11344740100", tags: ["Baby Snack Feeder", "Baby Snack Holder", "Kids Snack Container", "On-the-Go Snacks", "Portable Snack Container", "Reusable Snack Container", "Snack Container"]) { userErrors { message } }
+r75: tagsRemove(id: "gid://shopify/Product/11345850436", tags: ["kids lunch bag", "lunch tote"]) { userErrors { message } }
+r76: tagsRemove(id: "gid://shopify/Product/11426391108", tags: ["baby", "food", "Silicone"]) { userErrors { message } }
+r77: tagsRemove(id: "gid://shopify/Product/11554269124", tags: ["cool", "fun", "Toy", "wooden toy"]) { userErrors { message } }
+r78: tagsRemove(id: "gid://shopify/Product/11611392004", tags: ["Bento Box", "Bento Lunch", "Bento Three Compartments", "Child Friendly Latch", "Eco Friendly Lunch", "Food Storage", "Healthy Lunch", "Insulated Lunchbox", "Kids Lunch Box", "Leakproof Bento", "Little Lunch Box Co", "MontiiCo Bento Three", "No Removable Parts", "Picky Eater Solution", "Reusable Lunchware", "School Lunch", "Travel Lunch Box"]) { userErrors { message } }
+r79: tagsRemove(id: "gid://shopify/Product/11611414980", tags: ["Bento Five", "Child Friendly Latch", "Eco Friendly Lunchware", "Food Storage", "Healthy Lunch", "Insulated Lunchbox", "Kids Lunch Box", "Leakproof Bento", "Little Lunch Box Co", "Lunch Box for School", "MontiiCo Bento Five", "No Removable Parts", "Picky Eater Solution", "Reusable Lunchbox", "Travel Lunch Box"]) { userErrors { message } }
+r80: tagsRemove(id: "gid://shopify/Product/11615119044", tags: ["sleep", "sleep class", "sleep training"]) { userErrors { message } }
+r81: tagsRemove(id: "gid://shopify/Product/11823642820", tags: ["cool", "fun", "sensory", "Toy"]) { userErrors { message } }
+r82: tagsRemove(id: "gid://shopify/Product/11824240836", tags: ["coloring book"]) { userErrors { message } }
+r83: tagsRemove(id: "gid://shopify/Product/11824636164", tags: ["fun", "Toy"]) { userErrors { message } }
+r84: tagsRemove(id: "gid://shopify/Product/11842304516", tags: ["Kitchen Toys", "Melissa & Doug", "Play Food Sets"]) { userErrors { message } }
+r85: tagsRemove(id: "gid://shopify/Product/11872359364", tags: ["bedtime stories", "board book", "Books", "early readers", "fine motor skills", "fun", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r86: tagsRemove(id: "gid://shopify/Product/11879502532", tags: ["Generated Barcode", "Toy"]) { userErrors { message } }
+r87: tagsRemove(id: "gid://shopify/Product/11879663812", tags: ["toys"]) { userErrors { message } }
+r88: tagsRemove(id: "gid://shopify/Product/11880254596", tags: ["6 Compartment Lunchbox", "Bento Box", "Eco Friendly Lunchbox", "Kids Lunchbox", "Leakproof Lunchbox", "lunch", "lunchbox", "Lunchbox for Kids", "Meal Prep", "Portion Control", "Reusable Lunchbox", "School Lunch", "toddler lunchbox", "yumbox", "Yumbox Lunchbox", "Yumbox Original"]) { userErrors { message } }
+r89: tagsRemove(id: "gid://shopify/Product/11880292548", tags: ["4 Compartment Lunchbox", "Bento Box", "cool lunchbag", "Eco Friendly Lunchbox", "Family Lunch Gear", "Healthy Eating", "Kids Lunchbox", "Leakproof Lunchbox", "lunchbox", "Lunchbox for Kids", "Meal Prep", "Portion Control", "Reusable Lunchbox", "School Lunch", "toddler lunch", "yumbox", "Yumbox L", "Yumbox Panino"]) { userErrors { message } }
+}

@@ -1,0 +1,8 @@
+mutation R {
+r0: tagsRemove(id: "gid://shopify/Product/9370328105268", tags: ["kids cutlery set"]) { userErrors { message } }
+r1: tagsRemove(id: "gid://shopify/Product/9371508932916", tags: ["Wooden Toys"]) { userErrors { message } }
+r2: tagsRemove(id: "gid://shopify/Product/9371541766452", tags: ["Wooden Toys"]) { userErrors { message } }
+r3: tagsRemove(id: "gid://shopify/Product/9371657273652", tags: ["Educational Game"]) { userErrors { message } }
+r4: tagsRemove(id: "gid://shopify/Product/9372042395956", tags: ["Hand Puppet", "Puppet", "Soft Puppet"]) { userErrors { message } }
+r5: tagsRemove(id: "gid://shopify/Product/9372621275444", tags: ["100% cotton sleep sack"]) { userErrors { message } }
+}

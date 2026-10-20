@@ -1,0 +1,92 @@
+mutation R {
+r0: tagsRemove(id: "gid://shopify/Product/9288025375028", tags: ["Baby Activity Toy"]) { userErrors { message } }
+r1: tagsRemove(id: "gid://shopify/Product/9288025604404", tags: ["bath toy"]) { userErrors { message } }
+r2: tagsRemove(id: "gid://shopify/Product/9288048738612", tags: ["rattle", "Soft Rattle"]) { userErrors { message } }
+r3: tagsRemove(id: "gid://shopify/Product/9288048869684", tags: ["children's mittens", "kids mittens", "mimitens mittens"]) { userErrors { message } }
+r4: tagsRemove(id: "gid://shopify/Product/9288050999604", tags: ["rattle", "Soft Rattle"]) { userErrors { message } }
+r5: tagsRemove(id: "gid://shopify/Product/9288053162292", tags: ["Money Box", "Piggy bank"]) { userErrors { message } }
+r6: tagsRemove(id: "gid://shopify/Product/9288053391668", tags: ["Baby Activity Toy", "stuffed animals"]) { userErrors { message } }
+r7: tagsRemove(id: "gid://shopify/Product/9288059846964", tags: ["rattle", "Soft Rattle"]) { userErrors { message } }
+r8: tagsRemove(id: "gid://shopify/Product/9288060436788", tags: ["Baby Activity Toy"]) { userErrors { message } }
+r9: tagsRemove(id: "gid://shopify/Product/9288208613684", tags: ["card game for kids", "Classic Card Game", "Family Card Game", "Kids Card Game", "playing cards", "UNO Card Game"]) { userErrors { message } }
+r10: tagsRemove(id: "gid://shopify/Product/9288212611380", tags: ["Fun Stickers", "Glowing Stars", "Home Decor Decals", "Nursery Decor"]) { userErrors { message } }
+r11: tagsRemove(id: "gid://shopify/Product/9288312586548", tags: ["vehicles"]) { userErrors { message } }
+r12: tagsRemove(id: "gid://shopify/Product/9288321171764", tags: ["Bird Watching Toy", "Musical Play"]) { userErrors { message } }
+r13: tagsRemove(id: "gid://shopify/Product/9288325693748", tags: ["Science for Kids", "Science Toys"]) { userErrors { message } }
+r14: tagsRemove(id: "gid://shopify/Product/9288325792052", tags: ["sensory", "Stretch Bracelets", "Toy"]) { userErrors { message } }
+r15: tagsRemove(id: "gid://shopify/Product/9288326709556", tags: ["kids puzzles"]) { userErrors { message } }
+r16: tagsRemove(id: "gid://shopify/Product/9288406139188", tags: ["Dress Up Wand", "Fairy Tale Wand", "Fancy Wand", "Great Pretenders", "Great Pretenders Accessories", "Great Pretenders Toys", "Kids Pretend Toy", "Magic Wand", "Pretend Play Wand", "Sparkly Wand", "Toy Wand"]) { userErrors { message } }
+r17: tagsRemove(id: "gid://shopify/Product/9288573387060", tags: ["board Games"]) { userErrors { message } }
+r18: tagsRemove(id: "gid://shopify/Product/9288574140724", tags: ["board Games"]) { userErrors { message } }
+r19: tagsRemove(id: "gid://shopify/Product/9288574730548", tags: ["board Games", "games"]) { userErrors { message } }
+r20: tagsRemove(id: "gid://shopify/Product/9288578367796", tags: ["board Games"]) { userErrors { message } }
+r21: tagsRemove(id: "gid://shopify/Product/9288626241844", tags: ["board book", "Classic Board Book"]) { userErrors { message } }
+r22: tagsRemove(id: "gid://shopify/Product/9288627355956", tags: ["puzzle"]) { userErrors { message } }
+r23: tagsRemove(id: "gid://shopify/Product/9288627519796", tags: ["puzzle"]) { userErrors { message } }
+r24: tagsRemove(id: "gid://shopify/Product/9288627716404", tags: ["puzzle"]) { userErrors { message } }
+r25: tagsRemove(id: "gid://shopify/Product/9288627978548", tags: ["puzzle"]) { userErrors { message } }
+r26: tagsRemove(id: "gid://shopify/Product/9288628175156", tags: ["puzzle"]) { userErrors { message } }
+r27: tagsRemove(id: "gid://shopify/Product/9288628601140", tags: ["puzzle"]) { userErrors { message } }
+r28: tagsRemove(id: "gid://shopify/Product/9288629125428", tags: ["puzzle"]) { userErrors { message } }
+r29: tagsRemove(id: "gid://shopify/Product/9288629387572", tags: ["puzzle"]) { userErrors { message } }
+r30: tagsRemove(id: "gid://shopify/Product/9288629453108", tags: ["puzzle"]) { userErrors { message } }
+r31: tagsRemove(id: "gid://shopify/Product/9288629748020", tags: ["puzzle"]) { userErrors { message } }
+r32: tagsRemove(id: "gid://shopify/Product/9288629813556", tags: ["puzzle"]) { userErrors { message } }
+r33: tagsRemove(id: "gid://shopify/Product/9288629911860", tags: ["puzzle"]) { userErrors { message } }
+r34: tagsRemove(id: "gid://shopify/Product/9288630075700", tags: ["puzzle"]) { userErrors { message } }
+r35: tagsRemove(id: "gid://shopify/Product/9288630239540", tags: ["puzzle"]) { userErrors { message } }
+r36: tagsRemove(id: "gid://shopify/Product/9288630370612", tags: ["puzzle"]) { userErrors { message } }
+r37: tagsRemove(id: "gid://shopify/Product/9288630599988", tags: ["puzzle"]) { userErrors { message } }
+r38: tagsRemove(id: "gid://shopify/Product/9288798339380", tags: ["Baby Rain Gear", "Kids Rain Gear", "Lightweight Outerwear", "Puddle-Dry", "rain gear", "Rain Suit", "Single-Layer", "Toddler Rain Suit", "Toronto toy store"]) { userErrors { message } }
+r39: tagsRemove(id: "gid://shopify/Product/9288798798132", tags: ["All-Weather Suit", "Baby Outerwear", "Cozy-Dry", "Fleece-Lined", "Kids Rain Gear", "rain gear", "Rain Suit", "Toddler Outerwear"]) { userErrors { message } }
+r40: tagsRemove(id: "gid://shopify/Product/9288799617332", tags: ["All-Weather Suit", "Baby Outerwear", "Cozy-Dry", "Fleece-Lined", "Kids Rain Gear", "rain gear", "Rain Suit", "Toddler Outerwear"]) { userErrors { message } }
+r41: tagsRemove(id: "gid://shopify/Product/9288800174388", tags: ["All-Weather Suit", "Baby Outerwear", "Cozy-Dry", "Fleece-Lined", "Kids Rain Gear", "rain gear", "Rain Suit", "Toddler Outerwear"]) { userErrors { message } }
+r42: tagsRemove(id: "gid://shopify/Product/9289039610164", tags: ["Harry Potter"]) { userErrors { message } }
+r43: tagsRemove(id: "gid://shopify/Product/9289160851764", tags: ["Educational Puzzle", "Jigsaw Puzzle", "Kids Puzzle", "kids puzzles"]) { userErrors { message } }
+r44: tagsRemove(id: "gid://shopify/Product/9289161244980", tags: ["Jigsaw Puzzle", "Kids Puzzle", "kids puzzles", "puzzle"]) { userErrors { message } }
+r45: tagsRemove(id: "gid://shopify/Product/9289163735348", tags: ["Jigsaw Puzzle", "Kids Puzzle", "kids puzzles", "puzzle"]) { userErrors { message } }
+r46: tagsRemove(id: "gid://shopify/Product/9289459826996", tags: ["crossword puzzles", "Kids Puzzle", "kids puzzles", "Nature Puzzle", "puzzle"]) { userErrors { message } }
+r47: tagsRemove(id: "gid://shopify/Product/9289459990836", tags: ["12 Piece Puzzle", "Family Puzzle", "Kids Puzzle", "kids puzzles", "puzzle", "Puzzle for Kids"]) { userErrors { message } }
+r48: tagsRemove(id: "gid://shopify/Product/9289460351284", tags: ["art for kids", "art supplies", "craft", "craft kit", "Craft Supplies", "crafts", "Crafts and Activites", "Kids Craft", "kids craft supplies", "kids crafts"]) { userErrors { message } }
+r49: tagsRemove(id: "gid://shopify/Product/9289460547892", tags: ["Family Puzzle", "Jigsaw Puzzle", "Kids Puzzle", "kids puzzles", "puzzle", "Puzzle for Kids"]) { userErrors { message } }
+r50: tagsRemove(id: "gid://shopify/Product/9289460810036", tags: ["stuffed animals"]) { userErrors { message } }
+r51: tagsRemove(id: "gid://shopify/Product/9289692479796", tags: ["Baby Socks", "children's socks", "Infant Socks", "kids socks"]) { userErrors { message } }
+r52: tagsRemove(id: "gid://shopify/Product/9289692610868", tags: ["Baby Socks", "children's socks", "Infant Socks", "kids socks"]) { userErrors { message } }
+r53: tagsRemove(id: "gid://shopify/Product/9289699885364", tags: ["games"]) { userErrors { message } }
+r54: tagsRemove(id: "gid://shopify/Product/9289716400436", tags: ["games"]) { userErrors { message } }
+r55: tagsRemove(id: "gid://shopify/Product/9289716662580", tags: ["board Games"]) { userErrors { message } }
+r56: tagsRemove(id: "gid://shopify/Product/9289716728116", tags: ["Musical Play"]) { userErrors { message } }
+r57: tagsRemove(id: "gid://shopify/Product/9289717940532", tags: ["puzzle"]) { userErrors { message } }
+r58: tagsRemove(id: "gid://shopify/Product/9289718300980", tags: ["board Games", "games"]) { userErrors { message } }
+r59: tagsRemove(id: "gid://shopify/Product/9289718366516", tags: ["craft", "craft kit"]) { userErrors { message } }
+r60: tagsRemove(id: "gid://shopify/Product/9289718464820", tags: ["craft", "craft kit"]) { userErrors { message } }
+r61: tagsRemove(id: "gid://shopify/Product/9289718792500", tags: ["vehicles"]) { userErrors { message } }
+r62: tagsRemove(id: "gid://shopify/Product/9289774825780", tags: ["bath toy", "kids bath toys"]) { userErrors { message } }
+r63: tagsRemove(id: "gid://shopify/Product/9289774956852", tags: ["craft kit", "kids craft supplies"]) { userErrors { message } }
+r64: tagsRemove(id: "gid://shopify/Product/9289775218996", tags: ["Money Box", "Piggy bank"]) { userErrors { message } }
+r65: tagsRemove(id: "gid://shopify/Product/9290016129332", tags: ["sensory"]) { userErrors { message } }
+r66: tagsRemove(id: "gid://shopify/Product/9290027532596", tags: ["puzzle"]) { userErrors { message } }
+r67: tagsRemove(id: "gid://shopify/Product/9290041524532", tags: ["craft kit"]) { userErrors { message } }
+r68: tagsRemove(id: "gid://shopify/Product/9290206150964", tags: ["activity magnets", "magnets", "wooden blocks"]) { userErrors { message } }
+r69: tagsRemove(id: "gid://shopify/Product/9290206970164", tags: ["sensory", "slime"]) { userErrors { message } }
+r70: tagsRemove(id: "gid://shopify/Product/9290207854900", tags: ["sensory", "slime"]) { userErrors { message } }
+r71: tagsRemove(id: "gid://shopify/Product/9290208051508", tags: ["sensory", "slime"]) { userErrors { message } }
+r72: tagsRemove(id: "gid://shopify/Product/9290208149812", tags: ["sensory", "slime"]) { userErrors { message } }
+r73: tagsRemove(id: "gid://shopify/Product/9290208674100", tags: ["sensory"]) { userErrors { message } }
+r74: tagsRemove(id: "gid://shopify/Product/9290210509108", tags: ["vehicles"]) { userErrors { message } }
+r75: tagsRemove(id: "gid://shopify/Product/9290888970548", tags: ["kids lego", "LEGO Building Set", "lego building sets", "lego playsets", "lego sets"]) { userErrors { message } }
+r76: tagsRemove(id: "gid://shopify/Product/9290889756980", tags: ["kids lego", "LEGO Building Set", "lego building sets", "lego sets", "lego toys"]) { userErrors { message } }
+r77: tagsRemove(id: "gid://shopify/Product/9290890051892", tags: ["kids lego", "LEGO Building Set", "lego building sets", "lego sets", "lego toys"]) { userErrors { message } }
+r78: tagsRemove(id: "gid://shopify/Product/9290890477876", tags: ["kids lego", "LEGO Building Set", "lego building sets", "LEGO Classic", "LEGO Marvel", "lego playsets", "lego sets", "lego toys"]) { userErrors { message } }
+r79: tagsRemove(id: "gid://shopify/Product/9290892345652", tags: ["Play Food Sets", "playdoh"]) { userErrors { message } }
+r80: tagsRemove(id: "gid://shopify/Product/9290893558068", tags: ["Play-Doh", "playdoh"]) { userErrors { message } }
+r81: tagsRemove(id: "gid://shopify/Product/9290895032628", tags: ["UNO", "UNO Card Game"]) { userErrors { message } }
+r82: tagsRemove(id: "gid://shopify/Product/9290895458612", tags: ["UNO", "UNO Card Game"]) { userErrors { message } }
+r83: tagsRemove(id: "gid://shopify/Product/9291015323956", tags: ["diary", "Diary with Lock", "Kids Diary", "Locked Diary"]) { userErrors { message } }
+r84: tagsRemove(id: "gid://shopify/Product/9291015455028", tags: ["Book", "Books", "diary", "education books", "Fun Diary", "kids books", "Kids Diary", "Locked Diary"]) { userErrors { message } }
+r85: tagsRemove(id: "gid://shopify/Product/9291015913780", tags: ["educational books"]) { userErrors { message } }
+r86: tagsRemove(id: "gid://shopify/Product/9291017322804", tags: ["Fancy Purse", "jewelry", "purse"]) { userErrors { message } }
+r87: tagsRemove(id: "gid://shopify/Product/9291019878708", tags: ["Dress Up Headband"]) { userErrors { message } }
+r88: tagsRemove(id: "gid://shopify/Product/9291042718004", tags: ["jewelry", "Kids Necklace", "necklace"]) { userErrors { message } }
+r89: tagsRemove(id: "gid://shopify/Product/9291044880692", tags: ["Bracelet"]) { userErrors { message } }
+}

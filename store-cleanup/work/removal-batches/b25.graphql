@@ -1,0 +1,92 @@
+mutation R {
+r0: tagsRemove(id: "gid://shopify/Product/9236349485364", tags: ["Soft Rattle"]) { userErrors { message } }
+r1: tagsRemove(id: "gid://shopify/Product/9236349518132", tags: ["baby", "baby rattle", "Baby Rattles", "best years", "knitted toy", "rattle", "Soft Rattle"]) { userErrors { message } }
+r2: tagsRemove(id: "gid://shopify/Product/9236349714740", tags: ["baby plush", "baby toys", "made for babies", "Mary Meyer", "plush toys", "Soft Plush", "soft toys", "stuffed animals"]) { userErrors { message } }
+r3: tagsRemove(id: "gid://shopify/Product/9236349780276", tags: ["fair trade", "knitted toy", "rattle", "stuffie"]) { userErrors { message } }
+r4: tagsRemove(id: "gid://shopify/Product/9236349813044", tags: ["Soft Rattle"]) { userErrors { message } }
+r5: tagsRemove(id: "gid://shopify/Product/9236349845812", tags: ["Soft Rattle"]) { userErrors { message } }
+r6: tagsRemove(id: "gid://shopify/Product/9236349878580", tags: ["fair trade", "knitted toy", "rattle", "stuffie"]) { userErrors { message } }
+r7: tagsRemove(id: "gid://shopify/Product/9236350075188", tags: ["Soft Rattle"]) { userErrors { message } }
+r8: tagsRemove(id: "gid://shopify/Product/9236350107956", tags: ["Soft Rattle"]) { userErrors { message } }
+r9: tagsRemove(id: "gid://shopify/Product/9236350370100", tags: ["balls", "cool", "fun", "Toy"]) { userErrors { message } }
+r10: tagsRemove(id: "gid://shopify/Product/9236350402868", tags: ["balls", "cool", "fun", "Toy"]) { userErrors { message } }
+r11: tagsRemove(id: "gid://shopify/Product/9236350435636", tags: ["balls", "cool", "fun", "Toy"]) { userErrors { message } }
+r12: tagsRemove(id: "gid://shopify/Product/9236350501172", tags: ["Outdoor Toy"]) { userErrors { message } }
+r13: tagsRemove(id: "gid://shopify/Product/9236351058228", tags: ["Outdoor Toy"]) { userErrors { message } }
+r14: tagsRemove(id: "gid://shopify/Product/9236379337012", tags: ["animals", "Animals of the World", "farm", "Farm Animal Counters", "farm animals", "figurine", "figurines", "Imaginative Play"]) { userErrors { message } }
+r15: tagsRemove(id: "gid://shopify/Product/9236383334708", tags: ["animals", "Animals of the World", "farm", "Farm Animal Counters", "farm animals", "figurine", "figurines", "Imaginative Play"]) { userErrors { message } }
+r16: tagsRemove(id: "gid://shopify/Product/9236389757236", tags: ["animals", "Animals of the World", "figurine", "figurines", "Imaginative Play", "wild life"]) { userErrors { message } }
+r17: tagsRemove(id: "gid://shopify/Product/9236398113076", tags: ["animals", "Animals of the World", "figurine", "figurines", "Imaginative Play", "Schleich", "Schleich Animal", "Schleich Animals", "Schleich Figurine", "wild life"]) { userErrors { message } }
+r18: tagsRemove(id: "gid://shopify/Product/9236400439604", tags: ["animals", "Animals of the World", "dinos", "dinosaur", "dinosaurs", "figurine", "figurines", "Imaginative Play", "Schleich"]) { userErrors { message } }
+r19: tagsRemove(id: "gid://shopify/Product/9236404076852", tags: ["Schleich", "Schleich Animal", "Schleich Animals", "Schleich Figurine"]) { userErrors { message } }
+r20: tagsRemove(id: "gid://shopify/Product/9236407058740", tags: ["magnet", "magnetic", "Magnetic Game", "magnets", "travel activities", "Travel Game", "travel games"]) { userErrors { message } }
+r21: tagsRemove(id: "gid://shopify/Product/9236407255348", tags: ["magnet", "magnetic", "Magnetic Game", "magnets", "travel activities", "Travel Game", "travel games"]) { userErrors { message } }
+r22: tagsRemove(id: "gid://shopify/Product/9236407484724", tags: ["magnet", "magnetic", "Magnetic Game", "magnets", "travel activities", "Travel Game", "travel games"]) { userErrors { message } }
+r23: tagsRemove(id: "gid://shopify/Product/9236408041780", tags: ["magnet", "magnetic", "Magnetic Game", "magnets", "travel activities", "Travel Game", "travel games"]) { userErrors { message } }
+r24: tagsRemove(id: "gid://shopify/Product/9236408992052", tags: ["magnet", "magnetic", "Magnetic Game", "magnets", "travel activities", "Travel Game", "travel games"]) { userErrors { message } }
+r25: tagsRemove(id: "gid://shopify/Product/9236414136628", tags: ["magnet", "magnetic", "Magnetic Game", "magnets", "travel activities", "Travel Game", "travel games"]) { userErrors { message } }
+r26: tagsRemove(id: "gid://shopify/Product/9236416626996", tags: ["car activities", "Kids Puzzle", "kids puzzles", "magnetic", "Magnetic Puzzle", "puzzle", "travel activities", "travel games"]) { userErrors { message } }
+r27: tagsRemove(id: "gid://shopify/Product/9236418494772", tags: ["Kids Puzzle", "kids puzzles", "puzzle"]) { userErrors { message } }
+r28: tagsRemove(id: "gid://shopify/Product/9236452671796", tags: ["children's game", "game", "loot bag idea", "Mudpuppy", "short game"]) { userErrors { message } }
+r29: tagsRemove(id: "gid://shopify/Product/9236453032244", tags: ["children's game", "game", "loot bag idea", "Mudpuppy", "short game"]) { userErrors { message } }
+r30: tagsRemove(id: "gid://shopify/Product/9236453130548", tags: ["children's game", "game", "loot bag idea", "Mudpuppy", "short game"]) { userErrors { message } }
+r31: tagsRemove(id: "gid://shopify/Product/9236453196084", tags: ["children's game", "game", "loot bag idea", "Mudpuppy", "short game"]) { userErrors { message } }
+r32: tagsRemove(id: "gid://shopify/Product/9236513063220", tags: ["colour changing", "floss and rock", "Kids Rain Gear"]) { userErrors { message } }
+r33: tagsRemove(id: "gid://shopify/Product/9236513128756", tags: ["colour changing", "floss and rock", "Kids Rain Gear"]) { userErrors { message } }
+r34: tagsRemove(id: "gid://shopify/Product/9236514799924", tags: ["colour changing", "floss and rock", "Kids Rain Gear"]) { userErrors { message } }
+r35: tagsRemove(id: "gid://shopify/Product/9236514996532", tags: ["colour changing", "floss & rock", "floss and rock", "Kids Rain Gear"]) { userErrors { message } }
+r36: tagsRemove(id: "gid://shopify/Product/9236515225908", tags: ["colour changing", "floss and rock", "Kids Rain Gear"]) { userErrors { message } }
+r37: tagsRemove(id: "gid://shopify/Product/9236515356980", tags: ["colour changing", "floss and rock", "Kids Rain Gear"]) { userErrors { message } }
+r38: tagsRemove(id: "gid://shopify/Product/9236515619124", tags: ["colour changing", "floss and rock", "Kids Rain Gear"]) { userErrors { message } }
+r39: tagsRemove(id: "gid://shopify/Product/9236515750196", tags: ["colour changing", "floss and rock", "Kids Rain Gear"]) { userErrors { message } }
+r40: tagsRemove(id: "gid://shopify/Product/9236515815732", tags: ["colour changing", "floss and rock", "Kids Rain Gear"]) { userErrors { message } }
+r41: tagsRemove(id: "gid://shopify/Product/9236515946804", tags: ["colour changing", "floss and rock", "Kids Rain Gear"]) { userErrors { message } }
+r42: tagsRemove(id: "gid://shopify/Product/9236550320436", tags: ["balls", "cool", "fun", "Playground Ball", "Playground Toy", "Toy"]) { userErrors { message } }
+r43: tagsRemove(id: "gid://shopify/Product/9236550680884", tags: ["Outdoor Toy"]) { userErrors { message } }
+r44: tagsRemove(id: "gid://shopify/Product/9236550713652", tags: ["balls", "cool", "fun", "Playground Ball", "Playground Toy", "Toy"]) { userErrors { message } }
+r45: tagsRemove(id: "gid://shopify/Product/9236550811956", tags: ["balls", "cool", "fun", "Playground Ball", "Playground Toy", "Toy"]) { userErrors { message } }
+r46: tagsRemove(id: "gid://shopify/Product/9236551794996", tags: ["Outdoor Toy"]) { userErrors { message } }
+r47: tagsRemove(id: "gid://shopify/Product/9236551827764", tags: ["balls", "kids outdoor toys", "outdoor play", "Outdoor Toy", "Playground Ball", "Playground Toy"]) { userErrors { message } }
+r48: tagsRemove(id: "gid://shopify/Product/9236552057140", tags: ["Outdoor Toy"]) { userErrors { message } }
+r49: tagsRemove(id: "gid://shopify/Product/9236552778036", tags: ["Crocodile Creek", "kids outdoor toys", "outdoor play", "Outdoor Toy"]) { userErrors { message } }
+r50: tagsRemove(id: "gid://shopify/Product/9236552974644", tags: ["Outdoor Toy"]) { userErrors { message } }
+r51: tagsRemove(id: "gid://shopify/Product/9236598096180", tags: ["Books"]) { userErrors { message } }
+r52: tagsRemove(id: "gid://shopify/Product/9236610023732", tags: ["Educational", "Educational Game", "Janod", "Kids Puzzle", "Magnetibook", "Portable Puzzle", "Themed Activities", "Toddler", "Travel Toy"]) { userErrors { message } }
+r53: tagsRemove(id: "gid://shopify/Product/9236610089268", tags: ["magnet"]) { userErrors { message } }
+r54: tagsRemove(id: "gid://shopify/Product/9236611072308", tags: ["kids clothing", "kids clothing used clothing", "Moncler", "winter jacket"]) { userErrors { message } }
+r55: tagsRemove(id: "gid://shopify/Product/9237449376052", tags: ["0-6 Months", "Baby Accessories", "Baby Gift", "Baby Shower Gift", "Chill Baby", "fun", "Funny Pacifier", "Infant Pacifier", "Moustache Pacifier", "Novelty Baby", "Silicone Pacifier"]) { userErrors { message } }
+r56: tagsRemove(id: "gid://shopify/Product/9237611118900", tags: ["Soft Bear", "stuffed bear", "Teddy Bear"]) { userErrors { message } }
+r57: tagsRemove(id: "gid://shopify/Product/9237620064564", tags: ["consignment clothing", "kids clothing used clothing", "kids consignment", "kids used clothing", "used clothing"]) { userErrors { message } }
+r58: tagsRemove(id: "gid://shopify/Product/9237680652596", tags: ["baby plush", "baby rattle", "Baby Rattles", "Mary Meyer", "plush toys", "rattle", "snuggly toys", "Soft Plush", "soft toys", "stuffed animals"]) { userErrors { message } }
+r59: tagsRemove(id: "gid://shopify/Product/9237682454836", tags: ["doll clothes", "stella"]) { userErrors { message } }
+r60: tagsRemove(id: "gid://shopify/Product/9237682520372", tags: ["doll clothes", "stella"]) { userErrors { message } }
+r61: tagsRemove(id: "gid://shopify/Product/9238620995892", tags: ["Mr. Potato Head"]) { userErrors { message } }
+r62: tagsRemove(id: "gid://shopify/Product/9238631022900", tags: ["Books"]) { userErrors { message } }
+r63: tagsRemove(id: "gid://shopify/Product/9238631252276", tags: ["Books"]) { userErrors { message } }
+r64: tagsRemove(id: "gid://shopify/Product/9238631285044", tags: ["Books"]) { userErrors { message } }
+r65: tagsRemove(id: "gid://shopify/Product/9238631350580", tags: ["Creative Writing", "diary", "Diary for Girls", "Diary with Lock", "Fun Diary", "journaling", "Kids Diary", "Kids Journal", "Kids Keepsake", "Kitten Gifts", "Kitten Theme", "Locked Diary", "Mudpuppy", "notebook", "Personal Diary", "Private Diary", "Secret Diary", "Teacup Kittens Diary", "Toddler Diary"]) { userErrors { message } }
+r66: tagsRemove(id: "gid://shopify/Product/9238631383348", tags: ["diary", "journaling", "notebook"]) { userErrors { message } }
+r67: tagsRemove(id: "gid://shopify/Product/9238690169140", tags: ["construction toys", "gift for kids", "kids lego", "lego building sets", "lego canada", "lego playsets", "lego sets", "lego toronto", "lego toys", "new toys", "toys for kids"]) { userErrors { message } }
+r68: tagsRemove(id: "gid://shopify/Product/9238743974196", tags: ["LEGO Minions"]) { userErrors { message } }
+r69: tagsRemove(id: "gid://shopify/Product/9238744203572", tags: ["LEGO Marvel"]) { userErrors { message } }
+r70: tagsRemove(id: "gid://shopify/Product/9238744334644", tags: ["LEGO Marvel"]) { userErrors { message } }
+r71: tagsRemove(id: "gid://shopify/Product/9238744662324", tags: ["LEGO Building Set"]) { userErrors { message } }
+r72: tagsRemove(id: "gid://shopify/Product/9238744858932", tags: ["Ages 6+", "Birthday Gift", "Boys", "Building Set", "Construction Toy", "construction toys", "Construction Vehicle", "gift for kids", "Girls", "Imaginative Play", "kids lego", "lego building sets", "lego canada", "LEGO City", "lego playsets", "lego sets", "lego toronto", "lego toys", "LEGO Truck", "new toys", "toys for kids", "Vehicle LEGO", "Wheel Loader", "Yellow Loader"]) { userErrors { message } }
+r73: tagsRemove(id: "gid://shopify/Product/9238745186612", tags: ["LEGO Super Mario"]) { userErrors { message } }
+r74: tagsRemove(id: "gid://shopify/Product/9238745284916", tags: ["LEGO Super Mario"]) { userErrors { message } }
+r75: tagsRemove(id: "gid://shopify/Product/9238745514292", tags: ["LEGO Animals"]) { userErrors { message } }
+r76: tagsRemove(id: "gid://shopify/Product/9238819537204", tags: ["Akedo"]) { userErrors { message } }
+r77: tagsRemove(id: "gid://shopify/Product/9239343759668", tags: ["Books"]) { userErrors { message } }
+r78: tagsRemove(id: "gid://shopify/Product/9239343825204", tags: ["board book", "board books", "Book", "Books", "fairy tale", "reading", "Story Book", "Toddler Book", "toddler books"]) { userErrors { message } }
+r79: tagsRemove(id: "gid://shopify/Product/9239343857972", tags: ["Books"]) { userErrors { message } }
+r80: tagsRemove(id: "gid://shopify/Product/9239343956276", tags: ["Books"]) { userErrors { message } }
+r81: tagsRemove(id: "gid://shopify/Product/9239344742708", tags: ["jigsaw", "kids puzzles", "scratch and sniff"]) { userErrors { message } }
+r82: tagsRemove(id: "gid://shopify/Product/9239344906548", tags: ["card game for kids", "Educational Card Game", "Family Card Game", "Fun for Kids", "Girls Card Game", "Kids Card Game", "Matching Game", "Mer-Maid Card Game", "Mermaid Game", "Mermaid Gifts", "Mermaid Toy", "Mudpuppy", "Ocean Themed Game", "Portable Card Game", "Preschool Games", "Under the Sea Game"]) { userErrors { message } }
+r83: tagsRemove(id: "gid://shopify/Product/9239344972084", tags: ["card game for kids"]) { userErrors { message } }
+r84: tagsRemove(id: "gid://shopify/Product/9239346184500", tags: ["sticker pad"]) { userErrors { message } }
+r85: tagsRemove(id: "gid://shopify/Product/9239509467444", tags: ["gently used designer coat", "kids clothing used clothing", "kids used clothing", "used baby items", "used clothing", "used kids clothes", "winter jacket"]) { userErrors { message } }
+r86: tagsRemove(id: "gid://shopify/Product/9239515922740", tags: ["Ages 3+", "Boys Toys", "Bulldozer Toy", "CAT Brand", "CAT Toy", "Caterpillar Toys", "Construction Toy", "Dump Truck Toy", "Imaginative Play", "Loader Toy", "Mini Machine", "Preschool Toys", "Single Vehicle", "Toddler Toys", "Toy Digger", "Toy Singles", "Toy Truck", "Toy Trucks", "Vehicle Toy"]) { userErrors { message } }
+r87: tagsRemove(id: "gid://shopify/Product/9239532634420", tags: ["autism sensory toys", "cookie monster toy", "elmo light-up toy", "fine motor skills", "fun bath toys", "gift for kids", "glo pals", "glo pals light-up", "glo pals sensory toy", "interactive play", "Jill and the Beanstalk", "kids bath toys", "light-up bath toys", "new toys", "sensory bath toys", "sensory play", "Toronto toy store", "water-activated toys"]) { userErrors { message } }
+r88: tagsRemove(id: "gid://shopify/Product/9239532732724", tags: ["autism sensory toys", "cookie monster toy", "elmo light-up toy", "fine motor skills", "fun bath toys", "gift for kids", "glo pals", "glo pals light-up", "glo pals sensory toy", "interactive play", "Jill and the Beanstalk", "kids bath toys", "light-up bath toys", "new toys", "sensory bath toys", "sensory play", "Toronto toy store", "water-activated toys"]) { userErrors { message } }
+r89: tagsRemove(id: "gid://shopify/Product/9239537484084", tags: ["bamboo cutlery", "biodegradable cutlery", "bobo and boo", "cutlery", "eco-friendly", "eco-friendly cutlery", "kids cutlery set", "non-toxic", "plant-based", "plant-based cutlery", "sustainable utensils", "toddler utensils"]) { userErrors { message } }
+}

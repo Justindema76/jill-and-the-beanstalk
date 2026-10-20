@@ -1,0 +1,92 @@
+mutation R {
+r0: tagsRemove(id: "gid://shopify/Product/9282810347828", tags: ["toddler shoes"]) { userErrors { message } }
+r1: tagsRemove(id: "gid://shopify/Product/9283005284660", tags: ["greeting cards"]) { userErrors { message } }
+r2: tagsRemove(id: "gid://shopify/Product/9283006071092", tags: ["greeting cards"]) { userErrors { message } }
+r3: tagsRemove(id: "gid://shopify/Product/9283107225908", tags: ["baby", "children's mittens", "cool", "fun", "kids mittens", "kids winter accessories", "mimitens", "mimitens mittens", "mittens with thumbs", "new clothing", "outdoor mittens", "toddler mittens", "warm mittens", "waterproof mittens", "winter mittens"]) { userErrors { message } }
+r4: tagsRemove(id: "gid://shopify/Product/9283108995380", tags: ["baby", "children's mittens", "cool", "fun", "kids mittens", "kids winter accessories", "mimitens", "mimitens mittens", "mittens with thumbs", "new clothing", "outdoor mittens", "toddler mittens", "warm mittens", "waterproof mittens", "winter mittens"]) { userErrors { message } }
+r5: tagsRemove(id: "gid://shopify/Product/9283109093684", tags: ["baby", "children's mittens", "cool", "fun", "kids mittens", "kids winter accessories", "mimitens", "mimitens mittens", "mittens with thumbs", "new clothing", "outdoor mittens", "toddler mittens", "warm mittens", "waterproof mittens", "winter mittens"]) { userErrors { message } }
+r6: tagsRemove(id: "gid://shopify/Product/9283109191988", tags: ["baby", "children's mittens", "cool", "fun", "kids mittens", "kids winter accessories", "mimitens", "mimitens mittens", "mittens with thumbs", "new clothing", "outdoor mittens", "toddler mittens", "warm mittens", "waterproof mittens", "winter mittens"]) { userErrors { message } }
+r7: tagsRemove(id: "gid://shopify/Product/9283109290292", tags: ["baby", "children's mittens", "cool", "fun", "kids mittens", "kids winter accessories", "mimitens", "mimitens mittens", "mittens with thumbs", "new clothing", "outdoor mittens", "toddler mittens", "warm mittens", "waterproof mittens", "winter mittens"]) { userErrors { message } }
+r8: tagsRemove(id: "gid://shopify/Product/9283109355828", tags: ["baby", "children's mittens", "cool", "fun", "kids mittens", "kids winter accessories", "mimitens", "mimitens mittens", "mittens with thumbs", "new clothing", "outdoor mittens", "toddler mittens", "warm mittens", "waterproof mittens", "winter mittens"]) { userErrors { message } }
+r9: tagsRemove(id: "gid://shopify/Product/9283109519668", tags: ["baby", "children's mittens", "cool", "fun", "kids mittens", "kids winter accessories", "mimitens", "mimitens mittens", "mittens with thumbs", "new clothing", "outdoor mittens", "toddler mittens", "warm mittens", "waterproof mittens", "winter mittens"]) { userErrors { message } }
+r10: tagsRemove(id: "gid://shopify/Product/9283109617972", tags: ["baby", "children's mittens", "cool", "fun", "kids mittens", "kids winter accessories", "mimitens", "mimitens mittens", "mittens with thumbs", "new clothing", "outdoor mittens", "toddler mittens", "warm mittens", "waterproof mittens", "winter mittens"]) { userErrors { message } }
+r11: tagsRemove(id: "gid://shopify/Product/9283110502708", tags: ["baby", "children's mittens", "cool", "fun", "kids mittens", "kids winter accessories", "mimitens", "mimitens mittens", "mittens with thumbs", "new clothing", "outdoor mittens", "toddler mittens", "warm mittens", "waterproof mittens", "winter mittens"]) { userErrors { message } }
+r12: tagsRemove(id: "gid://shopify/Product/9283110764852", tags: ["baby", "children's mittens", "cool", "fun", "kids mittens", "kids winter accessories", "mimitens", "mimitens mittens", "mittens with thumbs", "new clothing", "outdoor mittens", "toddler mittens", "warm mittens", "waterproof mittens", "winter mittens"]) { userErrors { message } }
+r13: tagsRemove(id: "gid://shopify/Product/9283110928692", tags: ["baby", "children's mittens", "cool", "fun", "kids mittens", "kids winter accessories", "mimitens", "mimitens mittens", "mittens with thumbs", "new clothing", "outdoor mittens", "toddler mittens", "warm mittens", "waterproof mittens", "winter mittens"]) { userErrors { message } }
+r14: tagsRemove(id: "gid://shopify/Product/9283111223604", tags: ["baby", "children's mittens", "cool", "fun", "kids mittens", "kids winter accessories", "mimitens", "mimitens mittens", "mittens with thumbs", "new clothing", "outdoor mittens", "toddler mittens", "warm mittens", "waterproof mittens", "winter mittens"]) { userErrors { message } }
+r15: tagsRemove(id: "gid://shopify/Product/9283263856948", tags: ["slime"]) { userErrors { message } }
+r16: tagsRemove(id: "gid://shopify/Product/9283285221684", tags: ["slime"]) { userErrors { message } }
+r17: tagsRemove(id: "gid://shopify/Product/9283306389812", tags: ["slime"]) { userErrors { message } }
+r18: tagsRemove(id: "gid://shopify/Product/9283500802356", tags: ["board book", "Classic Book"]) { userErrors { message } }
+r19: tagsRemove(id: "gid://shopify/Product/9283501457716", tags: ["Costume Jewelry", "jewelry", "Play Jewelry"]) { userErrors { message } }
+r20: tagsRemove(id: "gid://shopify/Product/9283501785396", tags: ["jewelery", "jewelry"]) { userErrors { message } }
+r21: tagsRemove(id: "gid://shopify/Product/9283560505652", tags: ["jewelry"]) { userErrors { message } }
+r22: tagsRemove(id: "gid://shopify/Product/9283561226548", tags: ["jewelry"]) { userErrors { message } }
+r23: tagsRemove(id: "gid://shopify/Product/9283661267252", tags: ["Beaded Necklace", "Children's Jewelry", "Colorful Necklace", "Cute Necklace", "Girls Necklace", "jewelry", "Kids Necklace", "necklace", "Play Jewelry", "Princess Necklace", "Sparkly Necklace", "Toy Jewelry"]) { userErrors { message } }
+r24: tagsRemove(id: "gid://shopify/Product/9283661300020", tags: ["jewelry"]) { userErrors { message } }
+r25: tagsRemove(id: "gid://shopify/Product/9283661660468", tags: ["Beaded Necklace", "Children's Jewelry", "Colorful Necklace", "Costume Jewelry", "Cute Jewelry", "Cute Necklace", "Fashion Jewelry", "Girls Jewelry", "Girls Necklace", "jewelry", "Jewelry Set", "Kids Necklace", "necklace", "Play Jewelry", "Princess Necklace", "Sparkly Necklace", "Toddler Jewelry", "Toy Jewelry"]) { userErrors { message } }
+r26: tagsRemove(id: "gid://shopify/Product/9283662840116", tags: ["Beaded Necklace", "Children's Jewelry", "Colorful Necklace", "Costume Jewelry", "Cute Jewelry", "Cute Necklace", "Fashion Jewelry", "Fun Jewelry", "Girls Jewelry", "Girls Necklace", "jewelry", "Jewelry for Kids", "Jewelry Set", "Kids Jewelry Set", "Kids Necklace", "necklace", "Play Jewelry", "Princess Necklace", "Sparkly Necklace", "Toddler Jewelry", "Toy Jewelry"]) { userErrors { message } }
+r27: tagsRemove(id: "gid://shopify/Product/9283733487924", tags: ["art", "colour changing", "pencil crayons"]) { userErrors { message } }
+r28: tagsRemove(id: "gid://shopify/Product/9283733815604", tags: ["art supplies", "back to school gear", "kids art supplies", "school", "School Accessories", "School Essentials", "school supplies"]) { userErrors { message } }
+r29: tagsRemove(id: "gid://shopify/Product/9283734765876", tags: ["art", "art supplies", "kids art supplies", "markers"]) { userErrors { message } }
+r30: tagsRemove(id: "gid://shopify/Product/9283736273204", tags: ["erasers", "Funny Erasers", "school", "School Accessories", "School Essentials", "school supplies"]) { userErrors { message } }
+r31: tagsRemove(id: "gid://shopify/Product/9283736928564", tags: ["art", "art supplies", "Cute Pen", "Fun Pen", "fun pens", "kids art supplies", "Novelty Pen"]) { userErrors { message } }
+r32: tagsRemove(id: "gid://shopify/Product/9283737682228", tags: ["art", "art supplies", "Cute Pen", "Fun Pen", "fun pens", "kids art supplies"]) { userErrors { message } }
+r33: tagsRemove(id: "gid://shopify/Product/9283754328372", tags: ["Beaded Necklace", "Children's Jewelry", "Costume Jewelry", "Cute Jewelry", "Cute Necklace", "Fashion Jewelry", "Fun Jewelry", "Girls Jewelry", "Girls Necklace", "Kids Necklace", "necklace", "Play Jewelry", "Princess Necklace", "Sparkly Necklace", "Toddler Jewelry", "Toy Jewelry"]) { userErrors { message } }
+r34: tagsRemove(id: "gid://shopify/Product/9284024303924", tags: ["baby", "children's mittens", "cool", "fun", "kids mittens", "kids winter accessories"]) { userErrors { message } }
+r35: tagsRemove(id: "gid://shopify/Product/9284068573492", tags: ["baby", "children's mittens", "cool", "fun", "kids mittens", "kids winter accessories"]) { userErrors { message } }
+r36: tagsRemove(id: "gid://shopify/Product/9284092068148", tags: ["baby", "children's mittens", "cool", "fun", "kids mittens", "kids winter accessories"]) { userErrors { message } }
+r37: tagsRemove(id: "gid://shopify/Product/9284109828404", tags: ["baby", "children's mittens", "cool", "fun", "kids mittens", "kids winter accessories"]) { userErrors { message } }
+r38: tagsRemove(id: "gid://shopify/Product/9284136632628", tags: ["Baby Clothes Canada", "booties"]) { userErrors { message } }
+r39: tagsRemove(id: "gid://shopify/Product/9284152787252", tags: ["baby clothes", "Baby Clothes Canada", "booties"]) { userErrors { message } }
+r40: tagsRemove(id: "gid://shopify/Product/9284183228724", tags: ["Baby Clothes Canada"]) { userErrors { message } }
+r41: tagsRemove(id: "gid://shopify/Product/9284200497460", tags: ["baby clothes", "Baby Clothes Canada", "booties"]) { userErrors { message } }
+r42: tagsRemove(id: "gid://shopify/Product/9284204134708", tags: ["baby", "children's mittens", "cool", "fun", "kids mittens", "kids winter accessories", "mimitens", "mimitens mittens", "mittens with thumbs", "new clothing", "outdoor mittens", "toddler mittens", "warm mittens", "waterproof mittens", "winter mittens"]) { userErrors { message } }
+r43: tagsRemove(id: "gid://shopify/Product/9284685201716", tags: ["Baby Teether"]) { userErrors { message } }
+r44: tagsRemove(id: "gid://shopify/Product/9284686119220", tags: ["Children’s Hats", "hats"]) { userErrors { message } }
+r45: tagsRemove(id: "gid://shopify/Product/9284688281908", tags: ["Children’s Hats", "hats"]) { userErrors { message } }
+r46: tagsRemove(id: "gid://shopify/Product/9284689002804", tags: ["Baby Teether"]) { userErrors { message } }
+r47: tagsRemove(id: "gid://shopify/Product/9284691820852", tags: ["Baby Teether"]) { userErrors { message } }
+r48: tagsRemove(id: "gid://shopify/Product/9284694540596", tags: ["Baby Teether"]) { userErrors { message } }
+r49: tagsRemove(id: "gid://shopify/Product/9284698243380", tags: ["nail polish", "Nail Polishes"]) { userErrors { message } }
+r50: tagsRemove(id: "gid://shopify/Product/9284699914548", tags: ["nail polish", "Nail Polishes"]) { userErrors { message } }
+r51: tagsRemove(id: "gid://shopify/Product/9284703355188", tags: ["nail polish", "Nail Polishes"]) { userErrors { message } }
+r52: tagsRemove(id: "gid://shopify/Product/9284704403764", tags: ["nail polish", "Nail Polishes"]) { userErrors { message } }
+r53: tagsRemove(id: "gid://shopify/Product/9285452857652", tags: ["Assorted Stickers", "Fun Stickers", "puffy stickers", "sticker pad", "Sticker Set"]) { userErrors { message } }
+r54: tagsRemove(id: "gid://shopify/Product/9285467668788", tags: ["art", "art supplies", "Creative Writing", "Cute Pen", "Fun Pen", "fun pens", "gel pen", "kids art supplies", "Novelty Pen", "School Accessories", "School Essentials"]) { userErrors { message } }
+r55: tagsRemove(id: "gid://shopify/Product/9285469405492", tags: ["art", "art for kids", "art supplies", "crayons", "kids art supplies", "Paint Crayons"]) { userErrors { message } }
+r56: tagsRemove(id: "gid://shopify/Product/9285469569332", tags: ["art", "art for kids", "art supplies", "crayons", "kids art supplies", "Paint Crayons"]) { userErrors { message } }
+r57: tagsRemove(id: "gid://shopify/Product/9285932024116", tags: ["Baby Teether"]) { userErrors { message } }
+r58: tagsRemove(id: "gid://shopify/Product/9287219839284", tags: ["Assorted Stickers", "Fun Stickers"]) { userErrors { message } }
+r59: tagsRemove(id: "gid://shopify/Product/9287220101428", tags: ["chocolate"]) { userErrors { message } }
+r60: tagsRemove(id: "gid://shopify/Product/9287672561972", tags: ["Baby Sleeper", "Baby Sleepers", "Baby Sleepers Toronto", "Footed Sleepers", "Footie Sleeper", "New Sleeper"]) { userErrors { message } }
+r61: tagsRemove(id: "gid://shopify/Product/9287674233140", tags: ["Baby Sleeper", "Baby Sleepers", "Baby Sleepers Toronto", "Footed Sleepers", "Footie Sleeper", "New Sleeper", "sleepers"]) { userErrors { message } }
+r62: tagsRemove(id: "gid://shopify/Product/9287679541556", tags: ["Baby Sleepers", "Footed Sleepers", "sleeper", "sleepers"]) { userErrors { message } }
+r63: tagsRemove(id: "gid://shopify/Product/9287681638708", tags: ["Baby Sleeper"]) { userErrors { message } }
+r64: tagsRemove(id: "gid://shopify/Product/9287683342644", tags: ["Baby & Toddler Sleepwear", "Baby Sleeper", "Baby Sleepers", "Baby Sleepers Toronto", "Footed Sleepers", "Footie Sleeper", "New Sleeper"]) { userErrors { message } }
+r65: tagsRemove(id: "gid://shopify/Product/9287690518836", tags: ["Baby & Toddler Sleepwear", "Baby Romper"]) { userErrors { message } }
+r66: tagsRemove(id: "gid://shopify/Product/9287695008052", tags: ["Baby & Toddler Sleepwear", "Baby Sleeper", "Baby Sleepers", "Bamboo Sleepers", "Footie Sleeper"]) { userErrors { message } }
+r67: tagsRemove(id: "gid://shopify/Product/9287698678068", tags: ["Baby & Toddler Sleepwear", "Baby Romper", "Baby Sleepwear"]) { userErrors { message } }
+r68: tagsRemove(id: "gid://shopify/Product/9287703429428", tags: ["Cozy Socks", "Cute Baby Socks", "Infant Socks", "kids socks"]) { userErrors { message } }
+r69: tagsRemove(id: "gid://shopify/Product/9287705428276", tags: ["Baby Socks", "children's socks", "Cozy Socks", "Cute Baby Socks", "Infant Socks", "kids socks", "Rattle Socks", "Sensory Socks", "Soft Kids Socks"]) { userErrors { message } }
+r70: tagsRemove(id: "gid://shopify/Product/9287845445940", tags: ["board Games", "game board"]) { userErrors { message } }
+r71: tagsRemove(id: "gid://shopify/Product/9287846199604", tags: ["Play-Doh", "playdoh"]) { userErrors { message } }
+r72: tagsRemove(id: "gid://shopify/Product/9287863730484", tags: ["craft kit"]) { userErrors { message } }
+r73: tagsRemove(id: "gid://shopify/Product/9287872020788", tags: ["board book"]) { userErrors { message } }
+r74: tagsRemove(id: "gid://shopify/Product/9287872839988", tags: ["Musical Play"]) { userErrors { message } }
+r75: tagsRemove(id: "gid://shopify/Product/9287905444148", tags: ["puzzle"]) { userErrors { message } }
+r76: tagsRemove(id: "gid://shopify/Product/9287977173300", tags: ["Baby Activity Toy"]) { userErrors { message } }
+r77: tagsRemove(id: "gid://shopify/Product/9287981203764", tags: ["Baby Activity Toy", "baby rattle", "rattle", "Soft Rattle"]) { userErrors { message } }
+r78: tagsRemove(id: "gid://shopify/Product/9287986086196", tags: ["Piggy bank"]) { userErrors { message } }
+r79: tagsRemove(id: "gid://shopify/Product/9287986544948", tags: ["Stainless Steel Cutlery", "Toddler Cutlery"]) { userErrors { message } }
+r80: tagsRemove(id: "gid://shopify/Product/9287997849908", tags: ["Stainless Steel Cutlery", "Toddler Cutlery"]) { userErrors { message } }
+r81: tagsRemove(id: "gid://shopify/Product/9288002470196", tags: ["Baby Activity Toy", "Nursery Decor"]) { userErrors { message } }
+r82: tagsRemove(id: "gid://shopify/Product/9288002928948", tags: ["baby rattle", "rattle", "Soft Rattle"]) { userErrors { message } }
+r83: tagsRemove(id: "gid://shopify/Product/9288002994484", tags: ["colouring book"]) { userErrors { message } }
+r84: tagsRemove(id: "gid://shopify/Product/9288003387700", tags: ["kids tea set", "tea set"]) { userErrors { message } }
+r85: tagsRemove(id: "gid://shopify/Product/9288006631732", tags: ["Baby Activity Toy"]) { userErrors { message } }
+r86: tagsRemove(id: "gid://shopify/Product/9288007450932", tags: ["Baby Activity Toy"]) { userErrors { message } }
+r87: tagsRemove(id: "gid://shopify/Product/9288011219252", tags: ["colouring book"]) { userErrors { message } }
+r88: tagsRemove(id: "gid://shopify/Product/9288023769396", tags: ["stuffed animals"]) { userErrors { message } }
+r89: tagsRemove(id: "gid://shopify/Product/9288025243956", tags: ["Baby Activity Toy"]) { userErrors { message } }
+}

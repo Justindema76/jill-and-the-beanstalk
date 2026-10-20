@@ -1,0 +1,92 @@
+mutation R {
+r0: tagsRemove(id: "gid://shopify/Product/9323616207156", tags: ["wooden toy"]) { userErrors { message } }
+r1: tagsRemove(id: "gid://shopify/Product/9323616862516", tags: ["wooden toy", "Wooden Toys", "yo-yo"]) { userErrors { message } }
+r2: tagsRemove(id: "gid://shopify/Product/9323617452340", tags: ["let's pretend", "Toy Trucks", "wooden car", "wooden toy", "Wooden Toys"]) { userErrors { message } }
+r3: tagsRemove(id: "gid://shopify/Product/9323743183156", tags: ["art", "art for kids", "art supplies", "kids art supplies"]) { userErrors { message } }
+r4: tagsRemove(id: "gid://shopify/Product/9323743314228", tags: ["Assorted Stickers"]) { userErrors { message } }
+r5: tagsRemove(id: "gid://shopify/Product/9323743609140", tags: ["Assorted Stickers", "puffy stickers"]) { userErrors { message } }
+r6: tagsRemove(id: "gid://shopify/Product/9323743805748", tags: ["Assorted Stickers", "puffy stickers"]) { userErrors { message } }
+r7: tagsRemove(id: "gid://shopify/Product/9323744559412", tags: ["Assorted Stickers", "puffy stickers", "sticker pad", "Sticker Set"]) { userErrors { message } }
+r8: tagsRemove(id: "gid://shopify/Product/9323744788788", tags: ["Assorted Stickers", "puffy stickers", "sticker pad", "Sticker Set"]) { userErrors { message } }
+r9: tagsRemove(id: "gid://shopify/Product/9323745280308", tags: ["Assorted Stickers", "puffy stickers", "sticker pad", "Sticker Set"]) { userErrors { message } }
+r10: tagsRemove(id: "gid://shopify/Product/9323748327732", tags: ["Assorted Stickers", "puffy stickers", "sticker pad", "Sticker Set"]) { userErrors { message } }
+r11: tagsRemove(id: "gid://shopify/Product/9323906990388", tags: ["Baby Sleeper", "Baby Sleepers Toronto", "Baby Sleepwear", "Infant Sleepwear"]) { userErrors { message } }
+r12: tagsRemove(id: "gid://shopify/Product/9323909972276", tags: ["Baby Sleepers Toronto", "Baby Sleepwear", "Infant Sleepwear", "sleepers", "Toddler Sleepwear"]) { userErrors { message } }
+r13: tagsRemove(id: "gid://shopify/Product/9323911250228", tags: ["Baby Sleeper", "Baby Sleepers Toronto", "Baby Sleepwear", "Infant Sleepwear", "Toddler Sleepwear"]) { userErrors { message } }
+r14: tagsRemove(id: "gid://shopify/Product/9324049498420", tags: ["slime"]) { userErrors { message } }
+r15: tagsRemove(id: "gid://shopify/Product/9324051202356", tags: ["slime"]) { userErrors { message } }
+r16: tagsRemove(id: "gid://shopify/Product/9324205572404", tags: ["kids clothing"]) { userErrors { message } }
+r17: tagsRemove(id: "gid://shopify/Product/9324227756340", tags: ["Kids Puzzle", "kids puzzles", "puzzle", "Puzzle for Kids", "Travel Bag", "Travel Game"]) { userErrors { message } }
+r18: tagsRemove(id: "gid://shopify/Product/9324232933684", tags: ["dinosaur", "dinosaurs", "Jigsaw Puzzle", "Kids Puzzle", "kids puzzles", "puzzle", "Puzzle for Kids"]) { userErrors { message } }
+r19: tagsRemove(id: "gid://shopify/Product/9324234080564", tags: ["Baby Board Book", "board book", "board books", "Classic Board Book"]) { userErrors { message } }
+r20: tagsRemove(id: "gid://shopify/Product/9324664357172", tags: ["board book", "board books"]) { userErrors { message } }
+r21: tagsRemove(id: "gid://shopify/Product/9324665471284", tags: ["Board Books for Babies"]) { userErrors { message } }
+r22: tagsRemove(id: "gid://shopify/Product/9324667011380", tags: ["fish", "Matching Game"]) { userErrors { message } }
+r23: tagsRemove(id: "gid://shopify/Product/9324671336756", tags: ["Travel Game"]) { userErrors { message } }
+r24: tagsRemove(id: "gid://shopify/Product/9324674154804", tags: ["activity magnets", "magnets"]) { userErrors { message } }
+r25: tagsRemove(id: "gid://shopify/Product/9324687163700", tags: ["activity magnets", "magnets"]) { userErrors { message } }
+r26: tagsRemove(id: "gid://shopify/Product/9324688081204", tags: ["board book", "board books"]) { userErrors { message } }
+r27: tagsRemove(id: "gid://shopify/Product/9324692046132", tags: ["puzzle"]) { userErrors { message } }
+r28: tagsRemove(id: "gid://shopify/Product/9324697551156", tags: ["Assorted Stickers"]) { userErrors { message } }
+r29: tagsRemove(id: "gid://shopify/Product/9324784091444", tags: ["Cozy-Dry", "Fleece Lined", "Kids Outerwear", "Kids Rain Gear", "rain gear", "Rain Jacket", "Warm Rain Jacket", "Waterproof Jacket"]) { userErrors { message } }
+r30: tagsRemove(id: "gid://shopify/Product/9324956025140", tags: ["animal hooded towel"]) { userErrors { message } }
+r31: tagsRemove(id: "gid://shopify/Product/9324957139252", tags: ["animal hooded towel", "towel"]) { userErrors { message } }
+r32: tagsRemove(id: "gid://shopify/Product/9324957925684", tags: ["animal hooded towel", "towel"]) { userErrors { message } }
+r33: tagsRemove(id: "gid://shopify/Product/9325965148468", tags: ["Jewelry Box", "Jewelry Organizer", "Kids Jewelry Box", "Musical Box"]) { userErrors { message } }
+r34: tagsRemove(id: "gid://shopify/Product/9326291910964", tags: ["colour changing", "floss and rock", "Kids Rain Gear"]) { userErrors { message } }
+r35: tagsRemove(id: "gid://shopify/Product/9326295744820", tags: ["colour changing", "floss and rock", "Kids Rain Gear"]) { userErrors { message } }
+r36: tagsRemove(id: "gid://shopify/Product/9326304985396", tags: ["colour changing", "floss and rock", "Kids Rain Gear"]) { userErrors { message } }
+r37: tagsRemove(id: "gid://shopify/Product/9326444904756", tags: ["Kids Rain Gear", "Lightweight Pants", "Outdoor Clothing", "Puddle-Dry", "Rain Pants", "Single Layer", "Toddler Outerwear", "Waterproof Pants"]) { userErrors { message } }
+r38: tagsRemove(id: "gid://shopify/Product/9326444937524", tags: ["Kids Rain Gear", "Lightweight Pants", "Outdoor Clothing", "Puddle-Dry", "Rain Pants", "Single Layer", "Toddler Outerwear", "Waterproof Pants"]) { userErrors { message } }
+r39: tagsRemove(id: "gid://shopify/Product/9326446739764", tags: ["Baby Rain Gear", "Kids Rain Gear", "Lightweight Outerwear", "Puddle-Dry", "rain gear", "Rain Suit", "Single-Layer", "Toddler Rain Suit", "Toronto toy store"]) { userErrors { message } }
+r40: tagsRemove(id: "gid://shopify/Product/9326447755572", tags: ["Baby Rain Gear", "Kids Rain Gear", "Lightweight Outerwear", "Puddle-Dry", "rain gear", "Rain Suit", "Single-Layer", "Toddler Rain Suit", "Toronto toy store"]) { userErrors { message } }
+r41: tagsRemove(id: "gid://shopify/Product/9326453096756", tags: ["Adjustable Hat", "Adventure Gear", "Ages 0+", "Baby Hat", "Beach Hat", "Boys", "Breathable Hat", "Comfortable Hat", "Cotton Bucket Hat", "Everyday Hat", "Girls", "Grow with Me Hat", "hat", "Jan & Jul", "Kids Sun Hat", "Lightweight Hat", "new clothing", "Outdoor Hat", "Packable Hat", "Summer Hat", "sun protection", "Sun Safety", "Toddler Hat", "Travel Hat", "UPF 50+ Sun Protection"]) { userErrors { message } }
+r42: tagsRemove(id: "gid://shopify/Product/9326483996980", tags: ["Adjustable Hat", "Adventure Gear", "Ages 0+", "Baby Hat", "Beach Hat", "Boys", "Breathable Hat", "Comfortable Hat", "Cotton Adventure Hat", "Girls", "Gro-With-Me Hat", "hat", "Hiking Hat", "Jan & Jul", "Kids Sun Hat", "Lightweight Hat", "new clothing", "Outdoor Hat", "Packable Hat", "Summer Hat", "sun protection", "Sun Safety", "Toddler Hat", "Travel Hat", "UPF 50+ Sun Protection"]) { userErrors { message } }
+r43: tagsRemove(id: "gid://shopify/Product/9326484750644", tags: ["Adjustable Hat", "Adventure Gear", "Ages 0+", "Baby Hat", "Beach Hat", "Boys", "Breathable Hat", "Comfortable Hat", "Cotton Adventure Hat", "Girls", "Gro-With-Me Hat", "hat", "Hiking Hat", "Jan & Jul", "Kids Sun Hat", "Lightweight Hat", "new clothing", "Outdoor Hat", "Packable Hat", "Summer Hat", "sun protection", "Sun Safety", "Toddler Hat", "Travel Hat", "UPF 50+ Sun Protection"]) { userErrors { message } }
+r44: tagsRemove(id: "gid://shopify/Product/9327472247092", tags: ["Kids Nail Art", "nail stickers"]) { userErrors { message } }
+r45: tagsRemove(id: "gid://shopify/Product/9327472771380", tags: ["Kids Nail Art", "nail polish"]) { userErrors { message } }
+r46: tagsRemove(id: "gid://shopify/Product/9327473459508", tags: ["Kids Nail Art", "nail polish"]) { userErrors { message } }
+r47: tagsRemove(id: "gid://shopify/Product/9327474475316", tags: ["Gift Set", "nail polish"]) { userErrors { message } }
+r48: tagsRemove(id: "gid://shopify/Product/9327474639156", tags: ["Gift Set", "nail polish"]) { userErrors { message } }
+r49: tagsRemove(id: "gid://shopify/Product/9327476179252", tags: ["flashlight", "Outdoor Gear", "Outdoor Toy"]) { userErrors { message } }
+r50: tagsRemove(id: "gid://shopify/Product/9327476539700", tags: ["fine motor skills", "Fine Motor Toy"]) { userErrors { message } }
+r51: tagsRemove(id: "gid://shopify/Product/9327476605236", tags: ["art", "stencils"]) { userErrors { message } }
+r52: tagsRemove(id: "gid://shopify/Product/9327530705204", tags: ["Kids Sun Hat"]) { userErrors { message } }
+r53: tagsRemove(id: "gid://shopify/Product/9327530869044", tags: ["Adjustable Hat", "Adventure Bucket Hat", "Adventure Gear", "Ages 0+", "Aqua-Dry Hat", "Baby Hat", "Beach Hat", "Boys", "Girls", "hat", "Hiking Hat", "Jan & Jul", "Kids Sun Hat", "Lightweight Hat", "new clothing", "Outdoor Gear", "Outdoor Hat", "Packable Hat", "Quick-Dry Hat", "Summer Hat", "sun protection", "Sun Safety", "Toddler Hat", "Travel Hat", "UPF 50+ Sun Protection", "Water-Repellent Hat"]) { userErrors { message } }
+r54: tagsRemove(id: "gid://shopify/Product/9327531032884", tags: ["Adjustable Hat", "Adventure Bucket Hat", "Adventure Gear", "Ages 0+", "Aqua-Dry Hat", "Baby Hat", "Beach Hat", "Boys", "Girls", "hat", "Hiking Hat", "Jan & Jul", "Kids Sun Hat", "Lightweight Hat", "new clothing", "Outdoor Gear", "Outdoor Hat", "Packable Hat", "Quick-Dry Hat", "Summer Hat", "sun protection", "Sun Safety", "Toddler Hat", "Travel Hat", "UPF 50+ Sun Protection", "Water-Repellent Hat"]) { userErrors { message } }
+r55: tagsRemove(id: "gid://shopify/Product/9327531098420", tags: ["Adjustable Hat", "Adventure Bucket Hat", "Adventure Gear", "Ages 0+", "Aqua-Dry Hat", "Baby Hat", "Beach Hat", "Boys", "Girls", "hat", "Hiking Hat", "Jan & Jul", "Kids Sun Hat", "Lightweight Hat", "new clothing", "Outdoor Gear", "Outdoor Hat", "Packable Hat", "Quick-Dry Hat", "Summer Hat", "sun protection", "Sun Safety", "Toddler Hat", "Travel Hat", "UPF 50+ Sun Protection", "Water-Repellent Hat"]) { userErrors { message } }
+r56: tagsRemove(id: "gid://shopify/Product/9327533359412", tags: ["hat", "Kids Sun Hat", "new clothing", "sun protection"]) { userErrors { message } }
+r57: tagsRemove(id: "gid://shopify/Product/9327533982004", tags: ["hat", "Kids Sun Hat", "new clothing", "sun protection"]) { userErrors { message } }
+r58: tagsRemove(id: "gid://shopify/Product/9327534145844", tags: ["Adjustable Hat", "Adventure Gear", "Adventure Hat", "Ages 0+", "All-Weather Hat", "Aqua-Dry Hat", "Baby Hat", "Beach Hat", "Boys", "Girls", "Gro-With-Me Hat", "hat", "Jan & Jul", "Kids Sun Hat", "Lightweight Hat", "new clothing", "Outdoor Hat", "Packable Hat", "Quick-Dry Hat", "Summer Hat", "sun protection", "Sun Safety", "Toddler Hat", "Travel Hat", "UPF 50+ Sun Protection", "Water-Repellent Hat"]) { userErrors { message } }
+r59: tagsRemove(id: "gid://shopify/Product/9327536275764", tags: ["Adjustable Hat", "Adventure Gear", "Adventure Hat", "Ages 0+", "All-Weather Hat", "Aqua-Dry Hat", "Baby Hat", "Beach Hat", "Boys", "Girls", "Gro-With-Me Hat", "hat", "Jan & Jul", "Kids Sun Hat", "Lightweight Hat", "new clothing", "Outdoor Hat", "Packable Hat", "Quick-Dry Hat", "Summer Hat", "sun protection", "Sun Safety", "Toddler Hat", "Travel Hat", "UPF 50+ Sun Protection", "Water-Repellent Hat"]) { userErrors { message } }
+r60: tagsRemove(id: "gid://shopify/Product/9327536636212", tags: ["Adjustable Hat", "Adventure Gear", "Ages 0+", "Baby Hat", "Beach Hat", "Boys", "Breathable Hat", "Comfortable Hat", "Cotton Bucket Hat", "Everyday Hat", "Girls", "Grow with Me Hat", "hat", "Jan & Jul", "Kids Sun Hat", "Lightweight Hat", "new clothing", "Outdoor Hat", "Packable Hat", "Summer Hat", "sun protection", "Sun Safety", "Toddler Hat", "Travel Hat", "UPF 50+ Sun Protection"]) { userErrors { message } }
+r61: tagsRemove(id: "gid://shopify/Product/9327729934644", tags: ["card game for kids", "cards", "playing cards"]) { userErrors { message } }
+r62: tagsRemove(id: "gid://shopify/Product/9327730000180", tags: ["board Games", "Card for Family"]) { userErrors { message } }
+r63: tagsRemove(id: "gid://shopify/Product/9327731212596", tags: ["card game for kids", "cards", "playing cards"]) { userErrors { message } }
+r64: tagsRemove(id: "gid://shopify/Product/9327731376436", tags: ["Kids Games"]) { userErrors { message } }
+r65: tagsRemove(id: "gid://shopify/Product/9327731704116", tags: ["card game for kids", "cards", "playing cards"]) { userErrors { message } }
+r66: tagsRemove(id: "gid://shopify/Product/9327732097332", tags: ["card game for kids", "cards", "playing cards"]) { userErrors { message } }
+r67: tagsRemove(id: "gid://shopify/Product/9328624402740", tags: ["paint brushes"]) { userErrors { message } }
+r68: tagsRemove(id: "gid://shopify/Product/9328633577780", tags: ["wooden games", "wooden toy", "Wooden Toys"]) { userErrors { message } }
+r69: tagsRemove(id: "gid://shopify/Product/9328633938228", tags: ["craft kit"]) { userErrors { message } }
+r70: tagsRemove(id: "gid://shopify/Product/9328754983220", tags: ["art", "art for kids", "art supplies", "kids art supplies"]) { userErrors { message } }
+r71: tagsRemove(id: "gid://shopify/Product/9328755114292", tags: ["sensory", "Sensory Activity", "sensory play"]) { userErrors { message } }
+r72: tagsRemove(id: "gid://shopify/Product/9328755245364", tags: ["activity magnets", "magnets"]) { userErrors { message } }
+r73: tagsRemove(id: "gid://shopify/Product/9328755409204", tags: ["sensory", "Sensory Activity", "sensory play"]) { userErrors { message } }
+r74: tagsRemove(id: "gid://shopify/Product/9328814948660", tags: ["baby wash", "gentle cleanser", "natural baby products", "Natural Cleaner", "Unscented"]) { userErrors { message } }
+r75: tagsRemove(id: "gid://shopify/Product/9328815374644", tags: ["biodegradable", "kids toothbrush", "natural toothbrush"]) { userErrors { message } }
+r76: tagsRemove(id: "gid://shopify/Product/9328820781364", tags: ["baby bath", "Bath", "Bubble bath", "bubble bath for kids", "kids bubble bath", "natural bubble bath"]) { userErrors { message } }
+r77: tagsRemove(id: "gid://shopify/Product/9328821076276", tags: ["Kids Toothpaste", "natural toothbrush", "natural toothpaste", "toddler toothbrush"]) { userErrors { message } }
+r78: tagsRemove(id: "gid://shopify/Product/9328821698868", tags: ["kids toothbrush", "Kids Toothpaste", "natural toothbrush", "natural toothpaste", "tootbrush", "toothpaste"]) { userErrors { message } }
+r79: tagsRemove(id: "gid://shopify/Product/9328822812980", tags: ["baby teething", "natural teething relief", "Teething Relief", "teething remedy"]) { userErrors { message } }
+r80: tagsRemove(id: "gid://shopify/Product/9328824254772", tags: ["baby toothbrush", "dental hygiene", "teething"]) { userErrors { message } }
+r81: tagsRemove(id: "gid://shopify/Product/9328825368884", tags: ["dental hygiene", "toddler toothbrush"]) { userErrors { message } }
+r82: tagsRemove(id: "gid://shopify/Product/9328826384692", tags: ["glass bottle", "replacement glass"]) { userErrors { message } }
+r83: tagsRemove(id: "gid://shopify/Product/9329035378996", tags: ["Animal Figurine"]) { userErrors { message } }
+r84: tagsRemove(id: "gid://shopify/Product/9329036132660", tags: ["Schleich Figurine"]) { userErrors { message } }
+r85: tagsRemove(id: "gid://shopify/Product/9329036886324", tags: ["Schleich Figurine"]) { userErrors { message } }
+r86: tagsRemove(id: "gid://shopify/Product/9329038033204", tags: ["Schleich Figurine"]) { userErrors { message } }
+r87: tagsRemove(id: "gid://shopify/Product/9329038164276", tags: ["Schleich Figurine"]) { userErrors { message } }
+r88: tagsRemove(id: "gid://shopify/Product/9329038524724", tags: ["Schleich Figurine"]) { userErrors { message } }
+r89: tagsRemove(id: "gid://shopify/Product/9329038983476", tags: ["Schleich Animal", "Schleich Figurine"]) { userErrors { message } }
+}

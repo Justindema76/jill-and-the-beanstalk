@@ -1,0 +1,92 @@
+mutation R {
+r0: tagsRemove(id: "gid://shopify/Product/5598753095736", tags: ["bedtime stories", "board book", "board books", "early readers", "fine motor skills", "fun", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r1: tagsRemove(id: "gid://shopify/Product/5598753259576", tags: ["Book"]) { userErrors { message } }
+r2: tagsRemove(id: "gid://shopify/Product/5598788354104", tags: ["Baby Accessories", "Baby Essentials", "mealtime bib"]) { userErrors { message } }
+r3: tagsRemove(id: "gid://shopify/Product/5598794350648", tags: ["baby", "Durable Cup", "Eco Friendly", "Kids Drinkware", "Leakproof Cup", "Learning to Drink", "Mealtime Essentials", "Portable Drinkware", "Reusable Cup", "Silicone", "Spill Proof Cup", "Toddler Drink Bottle", "Travel Cup"]) { userErrors { message } }
+r4: tagsRemove(id: "gid://shopify/Product/5598814109752", tags: ["baby", "greeting cards"]) { userErrors { message } }
+r5: tagsRemove(id: "gid://shopify/Product/5598814142520", tags: ["baby", "cool"]) { userErrors { message } }
+r6: tagsRemove(id: "gid://shopify/Product/5598833541176", tags: ["baby", "baby clothes", "Baby Clothes Canada", "Baby Clothing", "organic"]) { userErrors { message } }
+r7: tagsRemove(id: "gid://shopify/Product/5598836031544", tags: ["board book"]) { userErrors { message } }
+r8: tagsRemove(id: "gid://shopify/Product/5598846222392", tags: ["Books"]) { userErrors { message } }
+r9: tagsRemove(id: "gid://shopify/Product/5598846419000", tags: ["bedtime stories", "board books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r10: tagsRemove(id: "gid://shopify/Product/5598855397432", tags: ["baby music", "dolls", "mouse", "music"]) { userErrors { message } }
+r11: tagsRemove(id: "gid://shopify/Product/5598856446008", tags: ["baby"]) { userErrors { message } }
+r12: tagsRemove(id: "gid://shopify/Product/5598856511544", tags: ["baby"]) { userErrors { message } }
+r13: tagsRemove(id: "gid://shopify/Product/5598856577080", tags: ["baby"]) { userErrors { message } }
+r14: tagsRemove(id: "gid://shopify/Product/5598856642616", tags: ["baby"]) { userErrors { message } }
+r15: tagsRemove(id: "gid://shopify/Product/5598859198520", tags: ["baby", "cool", "fun"]) { userErrors { message } }
+r16: tagsRemove(id: "gid://shopify/Product/5598909890616", tags: ["paintbrushes"]) { userErrors { message } }
+r17: tagsRemove(id: "gid://shopify/Product/5598910283832", tags: ["cool", "craft", "fun"]) { userErrors { message } }
+r18: tagsRemove(id: "gid://shopify/Product/5598910349368", tags: ["art", "cool", "craft", "fun"]) { userErrors { message } }
+r19: tagsRemove(id: "gid://shopify/Product/5598951768120", tags: ["airplane", "storytime", "Toddler", "toy planes", "vehicles"]) { userErrors { message } }
+r20: tagsRemove(id: "gid://shopify/Product/5599120031800", tags: ["Baby Bowl", "Feeding Essentials", "feeding time", "Non Slip Bowl"]) { userErrors { message } }
+r21: tagsRemove(id: "gid://shopify/Product/5599120195640", tags: ["belly"]) { userErrors { message } }
+r22: tagsRemove(id: "gid://shopify/Product/5599120228408", tags: ["body wash", "hair care"]) { userErrors { message } }
+r23: tagsRemove(id: "gid://shopify/Product/5599120261176", tags: ["baby"]) { userErrors { message } }
+r24: tagsRemove(id: "gid://shopify/Product/5599125667896", tags: ["baby", "cool", "fun", "wood"]) { userErrors { message } }
+r25: tagsRemove(id: "gid://shopify/Product/5599125733432", tags: ["baby", "cool", "fun", "wood"]) { userErrors { message } }
+r26: tagsRemove(id: "gid://shopify/Product/5599125766200", tags: ["cool", "food", "fun"]) { userErrors { message } }
+r27: tagsRemove(id: "gid://shopify/Product/5599125864504", tags: ["cool"]) { userErrors { message } }
+r28: tagsRemove(id: "gid://shopify/Product/5599256019000", tags: ["cool", "Costume Jewelry", "fun"]) { userErrors { message } }
+r29: tagsRemove(id: "gid://shopify/Product/5599266537528", tags: ["cool", "fun"]) { userErrors { message } }
+r30: tagsRemove(id: "gid://shopify/Product/5599266603064", tags: ["experiment", "toys"]) { userErrors { message } }
+r31: tagsRemove(id: "gid://shopify/Product/5599299665976", tags: ["baby", "Brush", "brushes", "hair care"]) { userErrors { message } }
+r32: tagsRemove(id: "gid://shopify/Product/5599299764280", tags: ["Baby Nose Care"]) { userErrors { message } }
+r33: tagsRemove(id: "gid://shopify/Product/5599301992504", tags: ["baby", "fun", "sensory"]) { userErrors { message } }
+r34: tagsRemove(id: "gid://shopify/Product/5599306907704", tags: ["baby", "sensory", "Toy"]) { userErrors { message } }
+r35: tagsRemove(id: "gid://shopify/Product/5599308808248", tags: ["bedtime stories", "board books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r36: tagsRemove(id: "gid://shopify/Product/5599316836408", tags: ["baby", "cool", "fun"]) { userErrors { message } }
+r37: tagsRemove(id: "gid://shopify/Product/5599375589432", tags: ["Dress Up Wand", "Fairy Tale Wand", "Fairy Wand", "Fancy Wand", "Girls Accessories", "Great Pretenders", "Great Pretenders Accessories", "Kids Dress Up", "Kids Pretend Toy", "Magic Wand", "Magical Play", "Party Accessory", "Pretend Play Wand", "Princess Wand", "Role Play", "Sparkly Wand", "Toy Wand", "toys for kids", "Unisex Toy", "wands"]) { userErrors { message } }
+r38: tagsRemove(id: "gid://shopify/Product/5599376539704", tags: ["jewellery"]) { userErrors { message } }
+r39: tagsRemove(id: "gid://shopify/Product/5599394725944", tags: ["cool", "fun"]) { userErrors { message } }
+r40: tagsRemove(id: "gid://shopify/Product/5599402098744", tags: ["cool", "fun"]) { userErrors { message } }
+r41: tagsRemove(id: "gid://shopify/Product/5599438798904", tags: ["cool dolls", "cute dolls", "dolls"]) { userErrors { message } }
+r42: tagsRemove(id: "gid://shopify/Product/5599440044088", tags: ["3 Pack", "Ages 3+", "Boys Toys", "CAT 3 Piece", "CAT Brand", "CAT Metal", "CAT Toys", "Caterpillar Toys", "cement truck", "Construction Vehicles", "Die-Cast Vehicles", "dump truck", "Durable Toys", "excavator", "Girls Toys", "Heavy Machinery Toys", "Imaginative Play", "Metal Construction Toys", "Mini Vehicles", "Toddler Toys", "Toy Bulldozer", "Toy Dump Truck", "Toy Excavator", "Toy Set", "Toy Trucks"]) { userErrors { message } }
+r43: tagsRemove(id: "gid://shopify/Product/5599453642808", tags: ["baby", "bath time", "body wash", "hair care"]) { userErrors { message } }
+r44: tagsRemove(id: "gid://shopify/Product/5599580618808", tags: ["organic"]) { userErrors { message } }
+r45: tagsRemove(id: "gid://shopify/Product/5599822118968", tags: ["baby"]) { userErrors { message } }
+r46: tagsRemove(id: "gid://shopify/Product/5599829393464", tags: ["baby", "cool", "fun", "sensory"]) { userErrors { message } }
+r47: tagsRemove(id: "gid://shopify/Product/5599831719992", tags: ["art", "cool", "craft", "fun", "sensory", "toys"]) { userErrors { message } }
+r48: tagsRemove(id: "gid://shopify/Product/5599831752760", tags: ["bedtime stories", "board books", "Book", "cool", "early readers", "fine motor skills", "kids books", "literacy", "picture books", "storytime"]) { userErrors { message } }
+r49: tagsRemove(id: "gid://shopify/Product/5599838470200", tags: ["baby", "Book", "fun", "sensory"]) { userErrors { message } }
+r50: tagsRemove(id: "gid://shopify/Product/5599910232120", tags: ["baby", "cool", "fun", "Toy"]) { userErrors { message } }
+r51: tagsRemove(id: "gid://shopify/Product/5599915573304", tags: ["Hasbro", "Jill and the Beanstalk", "Toronto toy store"]) { userErrors { message } }
+r52: tagsRemove(id: "gid://shopify/Product/5599915606072", tags: ["Active Game", "Adults Game", "Ages 6+", "board games", "Floor Game", "Game Night", "Hasbro", "Jill and the Beanstalk", "Kids Game", "Movement Game", "Multiplayer Game", "Party Game", "Physical", "Toronto toy store", "Twister", "Twister Game"]) { userErrors { message } }
+r53: tagsRemove(id: "gid://shopify/Product/5600059752504", tags: ["baby clothes", "Baby Clothes Canada", "booties"]) { userErrors { message } }
+r54: tagsRemove(id: "gid://shopify/Product/5600059916344", tags: ["baby", "fun", "sensory", "Toy"]) { userErrors { message } }
+r55: tagsRemove(id: "gid://shopify/Product/5600060047416", tags: ["cool", "craft", "fun"]) { userErrors { message } }
+r56: tagsRemove(id: "gid://shopify/Product/5600060112952", tags: ["baby", "cool", "fun", "sensory", "Toy"]) { userErrors { message } }
+r57: tagsRemove(id: "gid://shopify/Product/5600061227064", tags: ["baby", "cool", "fun", "sensory", "Toy"]) { userErrors { message } }
+r58: tagsRemove(id: "gid://shopify/Product/5600061423672", tags: ["Classic Toys", "Magic 8 Ball", "picture books"]) { userErrors { message } }
+r59: tagsRemove(id: "gid://shopify/Product/5600512081976", tags: ["Memory Game"]) { userErrors { message } }
+r60: tagsRemove(id: "gid://shopify/Product/5600545603640", tags: ["cool", "fun", "Toy", "wooden toy"]) { userErrors { message } }
+r61: tagsRemove(id: "gid://shopify/Product/5600548749368", tags: ["baby", "Diaper Cream", "hypoallergenic"]) { userErrors { message } }
+r62: tagsRemove(id: "gid://shopify/Product/5600549404728", tags: ["Dexterity Game"]) { userErrors { message } }
+r63: tagsRemove(id: "gid://shopify/Product/5600799948856", tags: ["baby"]) { userErrors { message } }
+r64: tagsRemove(id: "gid://shopify/Product/5600804667448", tags: ["dental hygiene", "kids toothbrush", "oral", "toddler toothbrush"]) { userErrors { message } }
+r65: tagsRemove(id: "gid://shopify/Product/5600804765752", tags: ["Cute Kids Cup", "Durable Cup", "Eco Friendly", "Kids Drinkware", "Leakproof Cup", "Learning to Drink", "Mealtime Essentials", "Portable Drinkware", "Preschool Cup", "Reusable Cup", "Spill Proof Cup", "Sugarbooger", "Toddler Drink Bottle", "Toddler Hydration", "Travel Cup"]) { userErrors { message } }
+r66: tagsRemove(id: "gid://shopify/Product/5600805453880", tags: ["Costume Jewelry", "Dress Up Rings", "Fancy Rings", "Fashion Play", "Girls Accessories", "Great Pretenders", "Great Pretenders Accessories", "Imaginative Play", "jewellery", "Jewelry Set", "Kids Dress Up", "Kids Rings", "Play Jewelry", "Pretend Play Rings", "Princess Rings", "ring", "Role Play", "Sparkly Rings", "Toy Jewelry", "unicorn ring", "Unisex Toy"]) { userErrors { message } }
+r67: tagsRemove(id: "gid://shopify/Product/5600805847096", tags: ["jewellery", "rainbow"]) { userErrors { message } }
+r68: tagsRemove(id: "gid://shopify/Product/5600806010936", tags: ["elastics", "hair'"]) { userErrors { message } }
+r69: tagsRemove(id: "gid://shopify/Product/5600806043704", tags: ["hair elastics"]) { userErrors { message } }
+r70: tagsRemove(id: "gid://shopify/Product/5600806076472", tags: ["Colorful Hair Accessories", "Dress Up Accessories", "Everyday Hair Ties", "Gentle Hair Elastics", "Gifts for Girls", "Gifts for Kids", "Girls Hair Ties", "Great Pretenders", "Kids Hair Accessories", "Mixed Hair Elastics", "Multi Color Hair Ties", "No Pull Hair Elastics", "Ouchless Elastics", "Party Favor", "Play Accessories"]) { userErrors { message } }
+r71: tagsRemove(id: "gid://shopify/Product/5601346650168", tags: ["Bath", "herbal remedies"]) { userErrors { message } }
+r72: tagsRemove(id: "gid://shopify/Product/5601495449656", tags: ["Educational"]) { userErrors { message } }
+r73: tagsRemove(id: "gid://shopify/Product/5601727053880", tags: ["bedtime stories", "board books", "early readers", "Jill and the Beanstalk", "kids books", "literacy", "picture books", "storytime", "Toronto book store"]) { userErrors { message } }
+r74: tagsRemove(id: "gid://shopify/Product/5601733836856", tags: ["baby", "Book", "fun"]) { userErrors { message } }
+r75: tagsRemove(id: "gid://shopify/Product/5601753989176", tags: ["Pull‑Back Vehicles", "Schylling Toys", "Toy Bus"]) { userErrors { message } }
+r76: tagsRemove(id: "gid://shopify/Product/5601754251320", tags: ["firetruck", "police car", "vehicles"]) { userErrors { message } }
+r77: tagsRemove(id: "gid://shopify/Product/5601859665976", tags: ["baby", "baby lotion"]) { userErrors { message } }
+r78: tagsRemove(id: "gid://shopify/Product/5601864220728", tags: ["pencil crayons"]) { userErrors { message } }
+r79: tagsRemove(id: "gid://shopify/Product/5601864417336", tags: ["crayons"]) { userErrors { message } }
+r80: tagsRemove(id: "gid://shopify/Product/5601871003704", tags: ["cool", "fun", "wood"]) { userErrors { message } }
+r81: tagsRemove(id: "gid://shopify/Product/5601871069240", tags: ["baby", "food", "Silicone"]) { userErrors { message } }
+r82: tagsRemove(id: "gid://shopify/Product/5601918681144", tags: ["food"]) { userErrors { message } }
+r83: tagsRemove(id: "gid://shopify/Product/5601930149944", tags: ["Cute Necklace", "Kids Necklace"]) { userErrors { message } }
+r84: tagsRemove(id: "gid://shopify/Product/5601961672760", tags: ["grow", "grow with me", "training cup"]) { userErrors { message } }
+r85: tagsRemove(id: "gid://shopify/Product/5601988182072", tags: ["Book", "cool", "craft", "fun"]) { userErrors { message } }
+r86: tagsRemove(id: "gid://shopify/Product/5601988345912", tags: ["Book", "cool", "fun"]) { userErrors { message } }
+r87: tagsRemove(id: "gid://shopify/Product/5601988640824", tags: ["baby", "Book", "cool", "fun"]) { userErrors { message } }
+r88: tagsRemove(id: "gid://shopify/Product/5601988706360", tags: ["baby", "board book"]) { userErrors { message } }
+r89: tagsRemove(id: "gid://shopify/Product/5601988804664", tags: ["Books", "dinosaur"]) { userErrors { message } }
+}

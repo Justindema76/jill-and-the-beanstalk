@@ -1,0 +1,92 @@
+mutation R {
+r0: tagsRemove(id: "gid://shopify/Product/9191110246708", tags: ["Book"]) { userErrors { message } }
+r1: tagsRemove(id: "gid://shopify/Product/9191117685044", tags: ["board books"]) { userErrors { message } }
+r2: tagsRemove(id: "gid://shopify/Product/9192600895796", tags: ["Ages 0+", "Bab", "Baby Accessories", "Baby Essentials", "Baby Shower Gift", "Gender Neutral", "Infant Accessories", "Loulou LOLLIPOP", "Loulou Lollipop Clip", "Modern Baby", "Neutral Baby Gift", "pacifier clip", "Pacifier Holder", "Rainbow Gem", "Safe for Babies", "Silicone Pacifier Clip"]) { userErrors { message } }
+r3: tagsRemove(id: "gid://shopify/Product/9192605221172", tags: ["straw"]) { userErrors { message } }
+r4: tagsRemove(id: "gid://shopify/Product/9192608170292", tags: ["Soft Rattle"]) { userErrors { message } }
+r5: tagsRemove(id: "gid://shopify/Product/9192728690996", tags: ["Aviator Sunglasses", "Baby Accessories", "Classic Aviator Sunglasses", "Durable Kids Sunglasses", "Hipsterkid", "Polarized Sunglasses", "Retro Baby Sunglasses", "Stylish Baby", "Toddler Accessories", "Trendy B", "Unbreakable Sunglasses", "UV Protection"]) { userErrors { message } }
+r6: tagsRemove(id: "gid://shopify/Product/9192820638004", tags: ["Baby Socks", "kids socks"]) { userErrors { message } }
+r7: tagsRemove(id: "gid://shopify/Product/9193401516340", tags: ["Birthday Card", "Blank Card", "Card for Family", "Card for Friends", "Colorful Card", "Fun Card", "greeting cards", "Holiday Card", "Illustrated Card", "Independent Brand", "Local Artist", "Occasion Card", "Penny Paper", "Penny Paper Co", "Printed in Canada", "Recycled Paper", "Thank You Card", "Unique Card"]) { userErrors { message } }
+r8: tagsRemove(id: "gid://shopify/Product/9193403646260", tags: ["baby sunscreen", "SPF protection", "sunscreen Canada", "Toronto baby store"]) { userErrors { message } }
+r9: tagsRemove(id: "gid://shopify/Product/9193408561460", tags: ["Birthday Card", "Blank Inside", "Card for Family", "Card for Friends", "Humorous Card", "Independent Brand", "Local Artist", "Occasion Card", "Party Mountain", "Party Mountain Paper Co", "Printed in Canada", "Quirky Card", "Recycled Paper", "Unique Card"]) { userErrors { message } }
+r10: tagsRemove(id: "gid://shopify/Product/9195124785460", tags: ["Baby Essentials", "Baby Footie", "Baby Girl Sleepwear", "Baby Outfit", "Baby Sleeper", "Baby Sleepwear", "Easy Change", "Footie Pajamas", "Footie Sleeper", "Infant Pajamas", "magnetic", "Magnetic Closure", "Magnetic Footie", "Magnetic Me", "Magnetic Me Pajamas", "magnets", "Modal Fabric", "Modal Footie", "Newborn Sleepwear", "Ruffle Footie", "Soft Baby Pajamas", "Unisex Baby Clothes"]) { userErrors { message } }
+r11: tagsRemove(id: "gid://shopify/Product/9195512824116", tags: ["after sun care", "after sun spray", "aloe vera spray", "cool down spray", "family sun care", "Jill and the Beanstalk", "post-sun skincare", "summer essentials", "Sun Bum", "sun relief", "Toronto kids products"]) { userErrors { message } }
+r12: tagsRemove(id: "gid://shopify/Product/9195513217332", tags: ["beach essentials", "family skincare", "Jill and the Beanstalk", "kids sunscreen", "non-greasy SPF", "reef-friendly sunscreen", "SPF 50", "Sun Bum", "sun protection spray", "sunscreen spray", "Toronto sunscreen", "vegan sun care", "water-resistant sunscreen"]) { userErrors { message } }
+r13: tagsRemove(id: "gid://shopify/Product/9196823576884", tags: ["baby safe hair spray"]) { userErrors { message } }
+r14: tagsRemove(id: "gid://shopify/Product/9196825477428", tags: ["Gentle Hair Detangler", "hair care", "Hair Detangler"]) { userErrors { message } }
+r15: tagsRemove(id: "gid://shopify/Product/9197057114420", tags: ["hair care", "Soap"]) { userErrors { message } }
+r16: tagsRemove(id: "gid://shopify/Product/9197059146036", tags: ["hair care", "Soap"]) { userErrors { message } }
+r17: tagsRemove(id: "gid://shopify/Product/9197061505332", tags: ["bamboo toothbrush", "eco-friendly", "kids toothbrush", "non-toxic"]) { userErrors { message } }
+r18: tagsRemove(id: "gid://shopify/Product/9197063897396", tags: ["straw", "straws"]) { userErrors { message } }
+r19: tagsRemove(id: "gid://shopify/Product/9197064847668", tags: ["baby", "Baby Accessories", "Baby Essentials", "baby feeding"]) { userErrors { message } }
+r20: tagsRemove(id: "gid://shopify/Product/9197065437492", tags: ["body wash", "hair care"]) { userErrors { message } }
+r21: tagsRemove(id: "gid://shopify/Product/9197340295476", tags: ["Art Card", "Badger and Burke", "Birthday Card", "Blank Card", "Card for Family", "Card for Friends", "Colorful Card", "Designer Card", "greeting cards", "Holiday Card", "Illustrated Card", "Independent Brand", "Local Artist", "Occasion Card", "Printed in Canada", "Recycled Paper", "Thank You Card", "Unique Card"]) { userErrors { message } }
+r22: tagsRemove(id: "gid://shopify/Product/9197341933876", tags: ["Art Card", "Badger and Burke", "Birthday Card", "Blank Card", "Card for Family", "Card for Friends", "Colorful Card", "Designer Card", "greeting cards", "Holiday Card", "Illustrated Card", "Independent Brand", "Local Artist", "Occasion Card", "Printed in Canada", "Recycled Paper", "Thank You Card", "Unique Card"]) { userErrors { message } }
+r23: tagsRemove(id: "gid://shopify/Product/9197346849076", tags: ["Art Card", "Badger and Burke", "Birthday Card", "Blank Card", "Card for Family", "Card for Friends", "Colorful Card", "Designer Card", "greeting cards", "Illustrated Card", "Independent Brand", "Local Artist", "Occasion Card", "Printed in Canada", "Recycled Paper", "Thank You Card", "Unique Card"]) { userErrors { message } }
+r24: tagsRemove(id: "gid://shopify/Product/9197602210100", tags: ["game"]) { userErrors { message } }
+r25: tagsRemove(id: "gid://shopify/Product/9197642645812", tags: ["travel", "travel activities", "Travel Bag", "Travel Game", "travel games", "Travel Toy"]) { userErrors { message } }
+r26: tagsRemove(id: "gid://shopify/Product/9197643039028", tags: ["magnetic", "magnets"]) { userErrors { message } }
+r27: tagsRemove(id: "gid://shopify/Product/9197643268404", tags: ["magnetic", "magnets"]) { userErrors { message } }
+r28: tagsRemove(id: "gid://shopify/Product/9198373503284", tags: ["Baby Essentials"]) { userErrors { message } }
+r29: tagsRemove(id: "gid://shopify/Product/9198493925684", tags: ["cream", "Diaper Cream", "diaper rash", "Diapering"]) { userErrors { message } }
+r30: tagsRemove(id: "gid://shopify/Product/9199013921076", tags: ["hair care", "shampoo"]) { userErrors { message } }
+r31: tagsRemove(id: "gid://shopify/Product/9199014084916", tags: ["body wash", "hair care"]) { userErrors { message } }
+r32: tagsRemove(id: "gid://shopify/Product/9199014248756", tags: ["hair care", "shampoo"]) { userErrors { message } }
+r33: tagsRemove(id: "gid://shopify/Product/9199271772468", tags: ["BFF Necklace", "Children's Jewelry", "Cute Necklace", "Girls Necklace", "Kids Necklace", "Play Jewelry", "Toy Jewelry"]) { userErrors { message } }
+r34: tagsRemove(id: "gid://shopify/Product/9199272657204", tags: ["Children's Jewelry", "Costume Jewelry", "Cute Necklace", "Fashion Jewelry", "Girls Jewelry", "Girls Necklace", "jewelery", "jewellery", "Kids Necklace", "Play Jewelry", "Toddler Jewelry", "Toy Jewelry"]) { userErrors { message } }
+r35: tagsRemove(id: "gid://shopify/Product/9199277736244", tags: ["hair"]) { userErrors { message } }
+r36: tagsRemove(id: "gid://shopify/Product/9199289172276", tags: ["Dress Up Purse", "Fancy Purse", "Fashion Purse", "Girls Accessories", "Great Pretenders", "Great Pretenders Accessories", "Handbag for Kids", "Imaginative Play", "Kids Dress Up", "Kids Purse", "Mini Purse", "Party Accessory", "Petite Purse", "Play Purse", "Pretend Play Purse", "Purse with Strap", "Role Play", "Toy Purse", "Unisex Toy"]) { userErrors { message } }
+r37: tagsRemove(id: "gid://shopify/Product/9199300706612", tags: ["Costume Jewelry", "Dress Up Rings", "Fancy Rings", "Fashion Play", "Girls Accessories", "Great Pretenders", "Great Pretenders Accessories", "Imaginative Play", "Jewelry Set", "Kids Dress Up", "Kids Rings", "Play Jewelry", "Pretend Play Rings", "Princess Rings", "Role Play", "Sparkly Rings", "Toy Jewelry", "Unisex Toy"]) { userErrors { message } }
+r38: tagsRemove(id: "gid://shopify/Product/9199300935988", tags: ["Costume Jewelry", "Dress Up Rings", "Fancy Rings", "Fashion Play", "Girls Accessories", "Great Pretenders", "Great Pretenders Accessories", "Imaginative Play", "Jewelry Set", "Kids Dress Up", "Kids Rings", "Play Jewelry", "Pretend Play Rings", "Princess Rings", "Role Play", "Sparkly Rings", "Toy Jewelry", "Unisex Toy"]) { userErrors { message } }
+r39: tagsRemove(id: "gid://shopify/Product/9201086988596", tags: ["Books"]) { userErrors { message } }
+r40: tagsRemove(id: "gid://shopify/Product/9202449973556", tags: ["hat", "Kids Sun Hat", "new clothing", "sun protection"]) { userErrors { message } }
+r41: tagsRemove(id: "gid://shopify/Product/9202468290868", tags: ["eco-friendly water bottle", "Insulated", "insulated water bottle", "Kids bottle", "Reusable Water Bottle", "Stainless Steel Water Bottle"]) { userErrors { message } }
+r42: tagsRemove(id: "gid://shopify/Product/9202469830964", tags: ["board book", "Book"]) { userErrors { message } }
+r43: tagsRemove(id: "gid://shopify/Product/9202768642356", tags: ["Travel Game", "travel games"]) { userErrors { message } }
+r44: tagsRemove(id: "gid://shopify/Product/9202776375604", tags: ["board book", "board books", "Book", "Books", "fairy tale", "reading", "Story Book", "Toddler Book", "toddler books"]) { userErrors { message } }
+r45: tagsRemove(id: "gid://shopify/Product/9202778964276", tags: ["Books"]) { userErrors { message } }
+r46: tagsRemove(id: "gid://shopify/Product/9202782306612", tags: ["Book", "Books"]) { userErrors { message } }
+r47: tagsRemove(id: "gid://shopify/Product/9202784534836", tags: ["board book"]) { userErrors { message } }
+r48: tagsRemove(id: "gid://shopify/Product/9202792038708", tags: ["Push and Pull Toy"]) { userErrors { message } }
+r49: tagsRemove(id: "gid://shopify/Product/9202794430772", tags: ["Travel Game"]) { userErrors { message } }
+r50: tagsRemove(id: "gid://shopify/Product/9202814976308", tags: ["coloring book"]) { userErrors { message } }
+r51: tagsRemove(id: "gid://shopify/Product/9203677757748", tags: ["board book"]) { userErrors { message } }
+r52: tagsRemove(id: "gid://shopify/Product/9203677888820", tags: ["board book"]) { userErrors { message } }
+r53: tagsRemove(id: "gid://shopify/Product/9203677987124", tags: ["board book", "Story Book"]) { userErrors { message } }
+r54: tagsRemove(id: "gid://shopify/Product/9205561262388", tags: ["Books", "dinosaur"]) { userErrors { message } }
+r55: tagsRemove(id: "gid://shopify/Product/9205568274740", tags: ["board book"]) { userErrors { message } }
+r56: tagsRemove(id: "gid://shopify/Product/9205577056564", tags: ["board book"]) { userErrors { message } }
+r57: tagsRemove(id: "gid://shopify/Product/9205579907380", tags: ["board book"]) { userErrors { message } }
+r58: tagsRemove(id: "gid://shopify/Product/9205894676788", tags: ["nail polish", "nail varnish", "nails"]) { userErrors { message } }
+r59: tagsRemove(id: "gid://shopify/Product/9205898576180", tags: ["baby sunscreen", "SPF protection", "sunscreen Canada", "Toronto baby store"]) { userErrors { message } }
+r60: tagsRemove(id: "gid://shopify/Product/9205907390772", tags: ["Animal Figurine"]) { userErrors { message } }
+r61: tagsRemove(id: "gid://shopify/Product/9206068871476", tags: ["nail polish", "nail varnish", "nails"]) { userErrors { message } }
+r62: tagsRemove(id: "gid://shopify/Product/9206071689524", tags: ["hair care"]) { userErrors { message } }
+r63: tagsRemove(id: "gid://shopify/Product/9206072082740", tags: ["after sun care"]) { userErrors { message } }
+r64: tagsRemove(id: "gid://shopify/Product/9206105112884", tags: ["body wash", "hair care"]) { userErrors { message } }
+r65: tagsRemove(id: "gid://shopify/Product/9206108291380", tags: ["hair care"]) { userErrors { message } }
+r66: tagsRemove(id: "gid://shopify/Product/9206113796404", tags: ["baby sunscreen", "SPF protection", "sunscreen Canada", "Toronto baby store"]) { userErrors { message } }
+r67: tagsRemove(id: "gid://shopify/Product/9208083743028", tags: ["baby", "Baby Accessories", "baby clothes", "Baby Clothes Canada", "Baby Essentials", "Baby Sleeper", "Baby Sleepwear", "Eco-Friendly Baby Clothes", "Organic Baby Clothes", "Toronto baby products", "Toronto baby store"]) { userErrors { message } }
+r68: tagsRemove(id: "gid://shopify/Product/9208084103476", tags: ["baby", "Baby Accessories", "baby clothes", "Baby Clothes Canada", "Baby Essentials", "Baby Sleeper", "Baby Sleepwear", "Eco-Friendly Baby Clothes", "Organic Baby Clothes", "Toronto baby products", "Toronto baby store"]) { userErrors { message } }
+r69: tagsRemove(id: "gid://shopify/Product/9208088199476", tags: ["baby", "Baby Accessories", "Baby Essentials", "baby feeding"]) { userErrors { message } }
+r70: tagsRemove(id: "gid://shopify/Product/9208088461620", tags: ["baby", "Baby Accessories", "baby bath", "Baby Essentials", "bath time", "Kids Bath Time", "Toronto baby store"]) { userErrors { message } }
+r71: tagsRemove(id: "gid://shopify/Product/9208093933876", tags: ["baby", "Baby Accessories", "Baby Essentials"]) { userErrors { message } }
+r72: tagsRemove(id: "gid://shopify/Product/9208537940276", tags: ["Outdoor Toy"]) { userErrors { message } }
+r73: tagsRemove(id: "gid://shopify/Product/9208672321844", tags: ["board Games", "educational games", "games", "travel games"]) { userErrors { message } }
+r74: tagsRemove(id: "gid://shopify/Product/9208674976052", tags: ["kids lego", "LEGO Building Set", "lego building sets", "LEGO Classic", "lego playsets", "lego sets"]) { userErrors { message } }
+r75: tagsRemove(id: "gid://shopify/Product/9208726520116", tags: ["dolls"]) { userErrors { message } }
+r76: tagsRemove(id: "gid://shopify/Product/9208758042932", tags: ["dolls"]) { userErrors { message } }
+r77: tagsRemove(id: "gid://shopify/Product/9208808079668", tags: ["2-10 Players", "Ages 7+", "Birthday Gift", "Color Matching Game", "cool", "Easy to Learn", "Educational Game", "Fast-Paced Game", "fun", "Fun for All Ages", "Game Night", "Indoor Game", "Kids Game", "Mattel", "Party Game", "Portable Game", "Strategy Game", "Toy", "Travel Game", "UNO", "UNO Card Game"]) { userErrors { message } }
+r78: tagsRemove(id: "gid://shopify/Product/9208814633268", tags: ["bubble experiments", "bubble science", "educational toys", "Jill and the Beanstalk", "science activities", "Science Experiment", "science experiment kit", "Science for Kids", "science gift for kids", "Science Gifts", "Science Lab", "Science Lab for Kids", "science lab kit", "Science Toy", "Toronto toy store"]) { userErrors { message } }
+r79: tagsRemove(id: "gid://shopify/Product/9208852316468", tags: ["dolls"]) { userErrors { message } }
+r80: tagsRemove(id: "gid://shopify/Product/9208994791732", tags: ["coloring book"]) { userErrors { message } }
+r81: tagsRemove(id: "gid://shopify/Product/9213057958196", tags: ["puzzle"]) { userErrors { message } }
+r82: tagsRemove(id: "gid://shopify/Product/9213087416628", tags: ["cream", "Diaper Cream", "diaper rash"]) { userErrors { message } }
+r83: tagsRemove(id: "gid://shopify/Product/9213217341748", tags: ["Baby Essentials"]) { userErrors { message } }
+r84: tagsRemove(id: "gid://shopify/Product/9213233791284", tags: ["baby plush", "baby rattle", "Baby Rattles", "Mary Meyer", "plush toys", "rattle", "snuggly toys", "Soft Plush", "soft toys", "stuffed animals"]) { userErrors { message } }
+r85: tagsRemove(id: "gid://shopify/Product/9213717840180", tags: ["Baby Oral Care", "baby toothpaste", "oral"]) { userErrors { message } }
+r86: tagsRemove(id: "gid://shopify/Product/9213728096564", tags: ["cream", "Diaper Cream", "diaper rash"]) { userErrors { message } }
+r87: tagsRemove(id: "gid://shopify/Product/9213737992500", tags: ["hand sanitizer", "skin care"]) { userErrors { message } }
+r88: tagsRemove(id: "gid://shopify/Product/9213746053428", tags: ["baby sunscreen", "SPF protection", "sunscreen Canada", "Toronto baby store"]) { userErrors { message } }
+r89: tagsRemove(id: "gid://shopify/Product/9213747691828", tags: ["baby sunscreen", "SPF protection", "sunscreen Canada", "Toronto baby store"]) { userErrors { message } }
+}
