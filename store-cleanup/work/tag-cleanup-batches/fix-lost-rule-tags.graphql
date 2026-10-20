@@ -1,0 +1,11 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/8994798338356",tags:["Arts & Crafts", "pen", "pens"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9144008966452",tags:["Arts & Crafts", "pen", "pens"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9283736928564",tags:["Arts & Crafts", "pen", "pens"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9283737682228",tags:["Arts & Crafts", "pen", "pens"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9286557401396",tags:["pen", "Pretend Play", "pens"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9291731763508",tags:["Arts & Crafts", "pen", "pens"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9291731861812",tags:["Arts & Crafts", "pen", "pens"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9329230151988",tags:["Arts & Crafts", "pen", "pens"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9329244242228",tags:["Arts & Crafts", "pen", "pens"]}){userErrors{message}}
+}
