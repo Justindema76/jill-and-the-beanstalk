@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9341683925300",tags:["LEGO"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9341712662836",tags:["Arts & Crafts"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9341753786676",tags:[]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9341760536884",tags:["LEGO"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9341784621364",tags:["activity book"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9341791174964",tags:["LEGO"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9341794091316",tags:["activity book"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9341819912500",tags:["activity book", "Arts & Crafts"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9341831643444",tags:["card game"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9341838459188",tags:["LEGO"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9341859791156",tags:["Board Game"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9341860282676",tags:["play doh"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9341862150452",tags:["LEGO"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9341862936884",tags:["LEGO"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9341866541364",tags:["play doh"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9341870375220",tags:["LEGO"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9341871587636",tags:["LEGO"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9341872931124",tags:["LEGO"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9341873422644",tags:[]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9341922541876",tags:[]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9341935911220",tags:[]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9343462539572",tags:[]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9343761252660",tags:["Baby Bath Toy"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9343761318196",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9343992856884",tags:["ball", "Sports Balls"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9344002130228",tags:[]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9345749385524",tags:["nofun10"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9345750532404",tags:["nofun10"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9345751023924",tags:["sensory toy"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9345751580980",tags:["sensory toy"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9345752006964",tags:["sensory toy"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9345752858932",tags:["sensory toy"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9345753088308",tags:["sensory toy"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9345951269172",tags:[]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9345959395636",tags:[]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9345966047540",tags:[]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9345966178612",tags:["Musical Instruments"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9348170318132",tags:[]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9348174774580",tags:[]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9348178477364",tags:[]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9348180640052",tags:[]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9348186702132",tags:[]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9348189290804",tags:[]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9348193583412",tags:[]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9348195942708",tags:[]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9348207608116",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9348574314804",tags:["fidget toy"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9351970455860",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9352659566900",tags:[]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9352660123956",tags:[]}){userErrors{message}}
+}

@@ -1,0 +1,40 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9367997153588",tags:["Arts & Crafts"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9367997514036",tags:["Toy Vehicles"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9367997743412",tags:[]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9367997841716",tags:["puzzles"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9367997907252",tags:[]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9368361828660",tags:[]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9368605622580",tags:["bibs", "bibs with arms", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9368607719732",tags:["bibs", "bibs with arms", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9368816156980",tags:[]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9368827003188",tags:[]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9369393332532",tags:["card game"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9369393463604",tags:["card game"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9369444876596",tags:[]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9369632407860",tags:[]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9369674875188",tags:[]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9369675104564",tags:[]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9369676939572",tags:[]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9370328105268",tags:[]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9371508932916",tags:[]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9371541766452",tags:[]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9371657273652",tags:[]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9372042395956",tags:[]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9372621275444",tags:[]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9373930881332",tags:["fidget toy"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9376600228148",tags:[]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9376647381300",tags:["stuffed animal"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9376648036660",tags:["stuffed animal"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9376650101044",tags:["stuffed animal"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9376650461492",tags:["stuffed animal"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9376650559796",tags:["stuffed animal"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9376650690868",tags:["stuffed animal"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9376650789172",tags:["stuffed animal"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9376650920244",tags:["stuffed animal"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9376656064820",tags:["stuffed animal"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9376656228660",tags:["stuffed animal"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9376656425268",tags:["stuffed animal"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9376656523572",tags:["stuffed animal"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9376657146164",tags:["stuffed animal"]}){userErrors{message}}
+}

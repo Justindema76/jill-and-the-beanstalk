@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9329038033204",tags:[]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9329038164276",tags:[]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9329038524724",tags:[]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9329038983476",tags:[]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9329040359732",tags:["Action Figures"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9329040654644",tags:[]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9329040851252",tags:[]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9329041080628",tags:[]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9329044980020",tags:[]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9329045111092",tags:[]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9329045209396",tags:[]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9329045733684",tags:[]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9329216782644",tags:[]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9329220616500",tags:[]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9329230151988",tags:["Arts & Crafts", "pen"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9329244242228",tags:["Arts & Crafts", "pen"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9329250238772",tags:["Baby Bath Toy"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9329254105396",tags:["Baby Bath Toy"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9329257185588",tags:["Arts & Crafts"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9329259446580",tags:["Arts & Crafts"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9329264558388",tags:["Arts & Crafts"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9329275732276",tags:["Baby Bath Toy"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9329291526452",tags:[]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9329302831412",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9329401069876",tags:["sensory toy"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9329402183988",tags:[]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9329407852852",tags:[]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9329411162420",tags:[]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9329496391988",tags:[]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9329496719668",tags:[]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9329497538868",tags:["Arts & Crafts"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9329504420148",tags:[]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9329504747828",tags:[]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9329540301108",tags:[]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9329541284148",tags:[]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9329545314612",tags:["card game"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9329546068276",tags:["Board Game"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9329800085812",tags:["bibs", "Canadian Brand", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9329800282420",tags:["bibs", "bibs with arms", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9330273255732",tags:[]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9330274173236",tags:[]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9330274730292",tags:["Baby Doll", "doll"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9330275156276",tags:["Baby Doll"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9330276041012",tags:["Baby Doll"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9330276598068",tags:["Baby Doll"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9330327028020",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9330327060788",tags:[]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9330327126324",tags:[]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9330327159092",tags:[]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9330693275956",tags:[]}){userErrors{message}}
+}

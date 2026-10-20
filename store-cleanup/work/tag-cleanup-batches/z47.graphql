@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9311081529652",tags:[]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9311082447156",tags:["kids skincare"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9311199953204",tags:["Swimwear"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9311201427764",tags:["Swimwear"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9311217254708",tags:["Swim Diaper"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9311217516852",tags:["Swim Diaper"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9311217582388",tags:["Swim Diaper"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9311219155252",tags:[]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9311219188020",tags:[]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9311219253556",tags:[]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9311220990260",tags:[]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9311221481780",tags:[]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9311227478324",tags:[]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9311231050036",tags:["Easter"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9311241339188",tags:[]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9311246090548",tags:[]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9311272370484",tags:["Lunch Gear", "water bottle"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9311273484596",tags:["water bottle"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9311274402100",tags:["water bottle"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9311274565940",tags:["water bottle"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9311274729780",tags:["water bottle"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9311299993908",tags:["water bottle"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9311306055988",tags:["water bottle"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9311308087604",tags:["water bottle"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9311310283060",tags:["water bottle"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9311310545204",tags:["water bottle"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9311310741812",tags:["water bottle"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9311326404916",tags:["water bottle"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9311327289652",tags:["water bottle"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9311330042164",tags:[]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9311330238772",tags:["sippy cup"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9311347605812",tags:["water bottle"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9311348064564",tags:["water bottle"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9311348097332",tags:["water bottle"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9311988842804",tags:["Outdoor Fun"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9311992709428",tags:[]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9312036061492",tags:["Outdoor Fun"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9312055886132",tags:["Easter"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9312063652148",tags:[]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9312068927796",tags:["fidget toy"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9312085442868",tags:[]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9312101400884",tags:["Arts & Crafts", "stickers"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9312101794100",tags:["Arts & Crafts", "stickers"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9312101925172",tags:["Arts & Crafts", "stickers"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9312102187316",tags:["Arts & Crafts", "barbie"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9312102318388",tags:["Arts & Crafts", "stickers"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9312102613300",tags:["Arts & Crafts", "stickers"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9314260681012",tags:["sensory toy"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9314260877620",tags:["building toy", "puzzles", "sensory toy"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9314295775540",tags:["building toy", "puzzles", "sensory toy"]}){userErrors{message}}
+}

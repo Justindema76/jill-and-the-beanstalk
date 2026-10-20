@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9292542837044",tags:["Canadian Company"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9292568625460",tags:["fidget toy", "sensory toy"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9292570100020",tags:[]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9292571312436",tags:[]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9292571967796",tags:[]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9292572492084",tags:["Christmas", "Christmas Gift"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9292572524852",tags:["Christmas", "Christmas Gift"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9292572655924",tags:["Christmas", "Christmas Gift"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9292572721460",tags:["Christmas", "Christmas Gift"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9292572754228",tags:["Christmas", "Christmas Gift"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9292572819764",tags:["Christmas", "Christmas Gift"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9292572852532",tags:["Christmas", "Christmas Gift"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9292573933876",tags:["Christmas", "Christmas Gift"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9292573966644",tags:["Christmas", "Christmas Gift"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9292644516148",tags:[]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9292644548916",tags:["Kids Makeup"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9292644614452",tags:["purses"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9292723355956",tags:["sensory toy"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9292746752308",tags:["Christmas", "Christmas Gift"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9292746785076",tags:["Christmas", "Christmas Gift"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9292746817844",tags:["Christmas", "Christmas Gift"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9292746850612",tags:["Christmas", "Christmas Gift"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9292746883380",tags:["Christmas", "Christmas Gift"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9292746916148",tags:["Christmas", "Christmas Gift"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9293065486644",tags:["Pretend Play"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9293066109236",tags:["Pretend Play"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9293161496884",tags:["Pretend Play"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9293161890100",tags:["Action Figures", "Pretend Play"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9293220413748",tags:[]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9293530595636",tags:["building toy", "Magnetic Toy"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9293537870132",tags:["building toy", "Magnetic Toy"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9293541867828",tags:["building toy", "Magnetic Toy"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9296066904372",tags:[]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9296070377780",tags:["building toy", "Magnetic Toy"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9296201810228",tags:["Lunch Gear"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9296204890420",tags:[]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9296205513012",tags:[]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9296206463284",tags:[]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9296559276340",tags:["Christmas"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9296562487604",tags:[]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9296566419764",tags:["Halloween", "Halloween Accessories"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9296581624116",tags:["Toy Vehicles"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9296584900916",tags:["building toy"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9296591749428",tags:[]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9296594862388",tags:["sensory toy"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9301625831732",tags:["card game"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9301634449716",tags:["card game"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9301634842932",tags:["card game"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9304015765812",tags:[]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9304031232308",tags:["Lunch Gear"]}){userErrors{message}}
+}

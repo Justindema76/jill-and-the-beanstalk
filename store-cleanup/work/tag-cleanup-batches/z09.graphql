@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/8361653436724",tags:["feeding accessories"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/8361671491892",tags:[]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/8368992649524",tags:[]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/8369067852084",tags:["Pretend Play", "sensory toy", "STEM Toy"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/8369347526964",tags:[]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/8369354670388",tags:[]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/8374005367092",tags:["feeding accessories"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/8374013722932",tags:["feeding accessories"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/8374072148276",tags:[]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/8382951686452",tags:["_TX", "sensory toy"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/8382987600180",tags:["Arts & Crafts", "creative toys", "fidget toy", "sensory toy"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/8383473287476",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/8387064365364",tags:["baby health", "Baby Health Essentials"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/8427656839476",tags:[]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/8428103696692",tags:[]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/8428115951924",tags:[]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/8428119720244",tags:[]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/8428123652404",tags:[]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/8428128633140",tags:[]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/8444287156532",tags:[]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/8444362916148",tags:[]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/8450829484340",tags:[]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/8450829648180",tags:[]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/8450843935028",tags:["hair products"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/8450858484020",tags:[]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/8450894430516",tags:["hair products"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/8450909765940",tags:["Easter", "Made in Canada"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/8450926903604",tags:["hair products"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/8450933326132",tags:["hair products"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/8451012165940",tags:["Made in Canada"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/8451063218484",tags:["Made in Canada"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/8451080782132",tags:["Made in Canada"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/8451125150004",tags:[]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/8451184099636",tags:["Made in Canada", "Valentine"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/8451199729972",tags:["Made in Canada"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/8451952083252",tags:["Costume Accessory", "Hair Accessory", "Made in Canada"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/8451965944116",tags:["Made in Canada"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/8451969777972",tags:["Costume Accessory", "Hair Accessory", "Made in Canada"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/8452019454260",tags:["Costume Accessory", "Hair Accessory", "hair bands", "Made in Canada"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/8452023484724",tags:["Made in Canada"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/8452077781300",tags:["Made in Canada"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/8454949863732",tags:["hair products", "Made in Canada"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/8454980436276",tags:["hair products", "Made in Canada"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/8455007404340",tags:["hair products"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/8455014646068",tags:["hair products", "Made in Canada"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/8455022477620",tags:["Made in Canada"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/8455023067444",tags:["hair products"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/8455034208564",tags:["hair products"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/8455054786868",tags:["Made in Canada"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/8455076348212",tags:["Costume Accessory", "Made in Canada"]}){userErrors{message}}
+}

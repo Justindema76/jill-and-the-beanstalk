@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9250643247412",tags:["Canadian Company", "Designed in Canada", "Made in Canada", "swaddle"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9250667856180",tags:["Canadian Company", "Designed in Canada", "swaddle"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9250667888948",tags:["Canadian Company", "Designed in Canada", "Made in Canada", "swaddle"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9250667987252",tags:["Canadian Company", "Designed in Canada", "Made in Canada", "swaddle"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9250668020020",tags:["Canadian Company", "Designed in Canada", "Made in Canada", "swaddle"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9250806137140",tags:["Canadian Company", "Designed in Canada", "swaddle"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9250806169908",tags:["Canadian Company", "Designed in Canada", "swaddle"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9250928099636",tags:["stickers"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9250928263476",tags:["stickers"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9250928361780",tags:["stickers"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9250974826804",tags:[]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9250977218868",tags:[]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9250978103604",tags:[]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9250978955572",tags:["children's sunglasses", "kids sunglasses"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9250980266292",tags:["children's sunglasses", "kids sunglasses"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9250984984884",tags:[]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9250986754356",tags:["Lunch Gear"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9250987278644",tags:[]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9250991538484",tags:["Lunch Accessories", "school lunch accessories"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9251575955764",tags:[]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9251589456180",tags:[]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9251590603060",tags:["hair products"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9251590799668",tags:[]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9251591553332",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9251619864884",tags:[]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9251623010612",tags:["Plush Toy"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9251655582004",tags:["Canadian Company"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9251673571636",tags:["bibs"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9251830530356",tags:[]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9251831021876",tags:[]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9251831415092",tags:[]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9251831775540",tags:[]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9251832201524",tags:[]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9251847078196",tags:["Stonz Cruiser"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9251859366196",tags:[]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9252260282676",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9252260970804",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9252261462324",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9252261658932",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9253039407412",tags:["greeting card"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9253048222004",tags:["greeting card"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9253049008436",tags:["greeting card"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9253059887412",tags:["greeting card"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9253061787956",tags:["greeting card", "Made in Canada"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9253062639924",tags:["greeting card", "Made in Canada"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9253062902068",tags:["greeting card", "Made in Canada"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9253063262516",tags:["greeting card", "Made in Canada"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9253065687348",tags:["greeting card", "Made in Canada"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9254076350772",tags:[]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9254899876148",tags:[]}){userErrors{message}}
+}

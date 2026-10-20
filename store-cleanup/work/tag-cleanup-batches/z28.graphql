@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9247192875316",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9247205425460",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9247205753140",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9247205851444",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9247205916980",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9247206015284",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9247206080820",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9247206244660",tags:["Canadian Brand", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9247206342964",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9247206408500",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9247206670644",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9247206801716",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9247206932788",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9247206965556",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9247207031092",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9247207063860",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9247207162164",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9247207293236",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9247207358772",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9247207424308",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9247207522612",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9247207588148",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9247207686452",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9247207751988",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9247207817524",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9247207915828",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9247207981364",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9247208145204",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9247208243508",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9247208407348",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9247208603956",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9247413174580",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9247413272884",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9247414190388",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9247415435572",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9247415632180",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9247415664948",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9247415730484",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9247415763252",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9247415861556",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9247415927092",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9247416058164",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9247416287540",tags:["Canadian Brand", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9247416516916",tags:["Canadian Brand", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9247686000948",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9247838994740",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9247840600372",tags:[]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9247840665908",tags:[]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9247840698676",tags:[]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9247840731444",tags:[]}){userErrors{message}}
+}

@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9236169556276",tags:["stuffed animal"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9236169621812",tags:["stuffed animal"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9236176666932",tags:["stuffed animal"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9236185219380",tags:["Plush Rattle"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9236186169652",tags:["Plush Rattle"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9236186857780",tags:["Plush Rattle"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9236189020468",tags:["Easter", "easter stuffed animals", "Plush Rattle"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9236189282612",tags:["Plush Rattle"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9236204060980",tags:["stuffed animal"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9236214907188",tags:["stuffed animal"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9236216250676",tags:["Plush Toy", "stuffed animal"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9236227752244",tags:["purses", "stuffed animal"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9236230897972",tags:[]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9236231127348",tags:["Plush Toy", "stuffed animal"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9236231618868",tags:[]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9236232012084",tags:[]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9236232503604",tags:[]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9236232700212",tags:[]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9236232864052",tags:[]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9236232995124",tags:[]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9236233093428",tags:[]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9236234338612",tags:[]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9236234567988",tags:[]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9236234895668",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9236235092276",tags:["Plush Toy", "stuffed animal"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9236235387188",tags:["Easter", "easter stuffed animals"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9236235747636",tags:[]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9236235780404",tags:[]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9236236042548",tags:[]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9236236108084",tags:[]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9236236173620",tags:["Plush Toy", "stuffed animal"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9236236402996",tags:["Plush Toy", "stuffed animal"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9236238696756",tags:[]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9236238795060",tags:["Plush Toy", "stuffed animal"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9236238958900",tags:[]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9236239221044",tags:[]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9236239515956",tags:["Plush Toy", "stuffed animal"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9236240073012",tags:[]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9236240597300",tags:[]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9236242202932",tags:[]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9236245905716",tags:["Plush Toy", "stuffed animal"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9236251541812",tags:[]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9236252852532",tags:[]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9236255375668",tags:[]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9236255998260",tags:["Plush Toy", "stuffed animal"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9236258095412",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9236258128180",tags:[]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9236259864884",tags:[]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9236260749620",tags:["Easter", "easter stuffed animals"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9236261011764",tags:[]}){userErrors{message}}
+}

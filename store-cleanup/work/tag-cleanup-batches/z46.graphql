@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9308541944116",tags:["stuffed animal"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9308542173492",tags:["stuffed animal"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9308542861620",tags:["Easter", "easter stuffed animals", "stuffed animal"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9308543975732",tags:["stuffed animal"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9308544139572",tags:["stuffed animal"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9308545384756",tags:["stuffed animal"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9308545843508",tags:["stuffed animal"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9308546335028",tags:["Easter", "easter stuffed animals", "stuffed animal"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9308548301108",tags:["stuffed animal"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9308548399412",tags:["Easter", "easter stuffed animals", "stuffed animal"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9308973695284",tags:["stuffed animal"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9308973760820",tags:["stuffed animal"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9308978970932",tags:["stuffed animal"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9308979167540",tags:["stuffed animal"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9308979527988",tags:["stuffed animal"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9308989063476",tags:["Easter", "easter stuffed animals", "Plush Rattle", "Plush Toy", "stuffed animal"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9308992405812",tags:["stuffed animal"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9308993585460",tags:["stuffed animal"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9308993749300",tags:["stuffed animal"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9308993880372",tags:["stuffed animal"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9310086463796",tags:["Teether"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9310086922548",tags:["Teether"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9310144921908",tags:["Valentine"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9310144987444",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9310145052980",tags:[]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9310159274292",tags:[]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9310163730740",tags:[]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9310199578932",tags:["sunscreen"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9310879940916",tags:["Baby Swimwear", "Swim Diaper", "Swimwear"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9310890623284",tags:[]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9310891770164",tags:[]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9310902190388",tags:[]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9310903501108",tags:[]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9310905467188",tags:[]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9310907760948",tags:["Teether"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9310910644532",tags:[]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9310947246388",tags:["Canadian Brand", "Canadian Company", "greeting card", "Made in Canada"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9310947574068",tags:["Canadian Brand", "Canadian Company", "greeting card", "Made in Canada"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9310947639604",tags:["Canadian Brand", "Canadian Company", "greeting card", "Made in Canada"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9310947705140",tags:["Canadian Brand", "Canadian Company", "greeting card", "Made in Canada"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9310947737908",tags:["Canadian Brand", "Canadian Company", "greeting card", "Made in Canada"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9310947770676",tags:["Canadian Brand", "Canadian Company", "greeting card", "Made in Canada"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9310947803444",tags:["Canadian Brand", "Canadian Company", "greeting card", "Made in Canada"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9310948950324",tags:["Canadian Brand", "Canadian Company", "greeting card", "Made in Canada"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9310951440692",tags:[]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9311052071220",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9311070585140",tags:[]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9311073075508",tags:[]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9311080251700",tags:["Made in Canada"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9311081136436",tags:["Canadian Company", "Made in Canada"]}){userErrors{message}}
+}

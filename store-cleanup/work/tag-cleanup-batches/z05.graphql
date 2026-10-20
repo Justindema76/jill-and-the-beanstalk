@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/8002882797876",tags:[]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/8002885386548",tags:[]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/8002917400884",tags:["Valentine"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/8002922381620",tags:["hair products"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/8002923102516",tags:["hair products"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/8002925068596",tags:["hair products"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/8002928673076",tags:["hair products", "Made in Canada"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/8002933260596",tags:["hair products"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/8002934440244",tags:["hair products"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/8003217916212",tags:["hair products", "Made in Canada"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/8003223781684",tags:["hair products"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/8003234398516",tags:[]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/8003255370036",tags:[]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/8003263594804",tags:[]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/8003321299252",tags:[]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/8003322413364",tags:["Valentine"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/8003323429172",tags:[]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/8003325428020",tags:[]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/8005215322420",tags:[]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/8006992068916",tags:["Board Game", "sensory toy"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/8007022706996",tags:["puzzles"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/8010059645236",tags:[]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/8023612588340",tags:["Made in Canada"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/8023692116276",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/8025182470452",tags:[]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/8025184108852",tags:["Made in Canada"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/8025254691124",tags:["Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/8026454884660",tags:[]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/8026459111732",tags:[]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/8026482409780",tags:[]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/8026560495924",tags:["Pretend Play"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/8026640023860",tags:[]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/8026678853940",tags:[]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/8027407581492",tags:[]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/8027508801844",tags:[]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/8027515945268",tags:[]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/8028281733428",tags:[]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/8028311912756",tags:["_TX"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/8031359598900",tags:["Fun Tattoos"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/8031443681588",tags:[]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/8034713108788",tags:[]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/8034722939188",tags:["feeding", "feeding accessories"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/8034748039476",tags:[]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/8034759770420",tags:[]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/8034762195252",tags:[]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/8034763964724",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/8034766881076",tags:["Valentine"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/8034771435828",tags:["Made in Canada"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/8034789851444",tags:[]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/8034830582068",tags:[]}){userErrors{message}}
+}

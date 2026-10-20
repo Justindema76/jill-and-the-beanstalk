@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9326304985396",tags:["umbrella"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9326444904756",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9326444937524",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9326446739764",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9326447755572",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9326453096756",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9326483996980",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9326484750644",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9327472247092",tags:[]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9327472771380",tags:[]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9327473459508",tags:[]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9327474475316",tags:[]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9327474639156",tags:[]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9327476179252",tags:["Outdoor Fun"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9327476539700",tags:["Pretend Play"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9327476605236",tags:["Arts & Crafts"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9327530705204",tags:["Baby Sun Hat", "sun hat"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9327530869044",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9327531032884",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9327531098420",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9327533359412",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "sun hat"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9327533982004",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "sun hat"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9327534145844",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9327536275764",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9327536636212",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9327729934644",tags:["card game"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9327730000180",tags:["Board Game"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9327731212596",tags:["card game"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9327731376436",tags:["card game"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9327731704116",tags:["card game"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9327732097332",tags:["card game"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9328624402740",tags:[]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9328633577780",tags:[]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9328633938228",tags:["Arts & Crafts"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9328754983220",tags:["Arts & Crafts"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9328755114292",tags:["sensory toy"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9328755245364",tags:[]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9328755409204",tags:["sensory toy"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9328814948660",tags:[]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9328815374644",tags:[]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9328820781364",tags:[]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9328821076276",tags:[]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9328821698868",tags:[]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9328822812980",tags:[]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9328824254772",tags:[]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9328825368884",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9328826384692",tags:[]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9329035378996",tags:[]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9329036132660",tags:[]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9329036886324",tags:[]}){userErrors{message}}
+}

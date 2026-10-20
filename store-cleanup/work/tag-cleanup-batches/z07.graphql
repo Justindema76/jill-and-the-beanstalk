@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/8102790234420",tags:[]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/8102791872820",tags:[]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/8102807863604",tags:["bibs", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/8102818775348",tags:[]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/8108386025780",tags:["bibs", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/8109767033140",tags:[]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/8109803897140",tags:["bug spray", "Made in Canada", "Non-Toxic Bug Spray"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/8109808288052",tags:["bug spray", "kids skincare", "Made in Canada", "Non-Toxic Bug Spray"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/8112907485492",tags:["ball"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/8119583015220",tags:["building toy", "Retro Toy", "STEM Toy"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/8119709860148",tags:[]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/8119780573492",tags:["_TX"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/8122793984308",tags:["baby safety", "Safety"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/8122921582900",tags:[]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/8122937934132",tags:["baby safety", "Safety"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/8132632543540",tags:["baby safety", "Safety"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/8132903469364",tags:["feeding accessories"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/8132938760500",tags:["feeding accessories"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/8132948820276",tags:["feeding accessories"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/8132985848116",tags:[]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/8132993089844",tags:[]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/8140915540276",tags:["Made in Canada"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/8152539365684",tags:[]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/8154027721012",tags:["Easter"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/8155142357300",tags:[]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/8155164148020",tags:[]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/8155166245172",tags:[]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/8161085194548",tags:[]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/8161097679156",tags:[]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/8161102594356",tags:["Baby Bath Toy"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/8161156333876",tags:[]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/8161165181236",tags:[]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/8161181401396",tags:[]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/8161201914164",tags:[]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/8161211416884",tags:[]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/8161224130868",tags:[]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/8161243136308",tags:[]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/8161249034548",tags:[]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/8161253654836",tags:[]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/8161261748532",tags:[]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/8161274396980",tags:[]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/8163312468276",tags:["Arts & Crafts"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/8163351494964",tags:["Arts & Crafts", "paint", "stickers"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/8163379249460",tags:["Arts & Crafts", "stocking stuffer"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/8163389473076",tags:["Arts & Crafts", "pencils"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/8163404087604",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/8172618678580",tags:[]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/8172640698676",tags:[]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/8172651643188",tags:[]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/8172684017972",tags:[]}){userErrors{message}}
+}

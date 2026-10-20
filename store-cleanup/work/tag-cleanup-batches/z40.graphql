@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9285932024116",tags:["Teether"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9286557401396",tags:["pen", "Pretend Play"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9287219839284",tags:["holidays", "stickers", "stocking stuffer"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9287220101428",tags:[]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9287672561972",tags:[]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9287674233140",tags:[]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9287679541556",tags:[]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9287681638708",tags:[]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9287683342644",tags:[]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9287690518836",tags:[]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9287695008052",tags:[]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9287698678068",tags:[]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9287703429428",tags:["Socks"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9287705428276",tags:["Socks"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9287845445940",tags:["Board Game"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9287846199604",tags:["play doh"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9287863730484",tags:["Arts & Crafts"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9287872020788",tags:["Christmas", "Christmas book"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9287872839988",tags:["Musical Instruments", "musical toy"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9287905444148",tags:["puzzles"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9287977173300",tags:[]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9287981203764",tags:["Plush Rattle"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9287986086196",tags:[]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9287986544948",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9287997849908",tags:[]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9288002470196",tags:["Room Decor"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9288002928948",tags:["Plush Rattle"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9288002994484",tags:[]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9288003387700",tags:["Pretend Play"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9288006631732",tags:[]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9288007450932",tags:[]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9288011219252",tags:[]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9288023769396",tags:["Easter", "easter stuffed animals", "stuffed animal"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9288025243956",tags:["stuffed animal"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9288025375028",tags:[]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9288025604404",tags:[]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9288048738612",tags:["Plush Rattle"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9288048869684",tags:[]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9288050999604",tags:["Easter", "easter stuffed animals", "Plush Rattle"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9288053162292",tags:[]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9288053391668",tags:["stuffed animal"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9288059846964",tags:["Plush Rattle"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9288060436788",tags:["Easter", "easter stuffed animals"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9288208613684",tags:["card game"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9288212611380",tags:["Room Decor"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9288312586548",tags:["boy stocking stuffer", "Toy Vehicles"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9288321171764",tags:["Musical Instruments", "musical toy", "stocking stuffer"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9288325693748",tags:["stress ball"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9288325792052",tags:["fidget toy", "sensory toy", "stress ball"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9288326709556",tags:["puzzles"]}){userErrors{message}}
+}

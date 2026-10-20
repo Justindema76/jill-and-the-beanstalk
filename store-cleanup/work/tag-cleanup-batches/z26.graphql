@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9243086192948",tags:["Lunch bag"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9243378385204",tags:["Herschel backpack"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9243383529780",tags:["Lunch bag"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9243385299252",tags:["Lunch bag"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9243385332020",tags:["Canadian Company", "Designed in Canada", "water bottle"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9243386741044",tags:["Lunch bag"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9243386839348",tags:["Lunch bag"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9243386872116",tags:["Lunch bag"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9243396505908",tags:["Lunch Gear", "water bottle"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9243414528308",tags:["Canadian Brand", "greeting card", "Made in Canada"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9243433337140",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9243433533748",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9243433664820",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9243433730356",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9243433763124",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9243718811956",tags:["sensory toy"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9244098625844",tags:["Baby Sun Hat", "Jan and Jul", "sun hat"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9244424175924",tags:[]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9244439413044",tags:["water bottle"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9244444229940",tags:["water bottle"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9244448489780",tags:["water bottle"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9245064364340",tags:[]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9245831921972",tags:[]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9245832577332",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9245832642868",tags:[]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9247026381108",tags:[]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9247041028404",tags:[]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9247119343924",tags:[]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9247119474996",tags:[]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9247119507764",tags:[]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9247119573300",tags:["Easter"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9247119671604",tags:[]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9247119835444",tags:[]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9247120326964",tags:[]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9247120523572",tags:[]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9247120589108",tags:[]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9247120621876",tags:[]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9247120785716",tags:[]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9247120818484",tags:[]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9247122915636",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9247122981172",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9247123046708",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9247123374388",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9247123570996",tags:["Canadian Company"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9247123603764",tags:["Canadian Company"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9247123931444",tags:["Canadian Company"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9247123964212",tags:["Canadian Company"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9247124259124",tags:["Canadian Company"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9247124488500",tags:["Canadian Company"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9247124521268",tags:["Canadian Company"]}){userErrors{message}}
+}

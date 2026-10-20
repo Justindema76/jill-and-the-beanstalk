@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9317359911220",tags:["Baby Swimwear", "Swimwear"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9317360369972",tags:["Baby Swimwear", "Swimwear"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9317366169908",tags:[]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9317367185716",tags:["Easter"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9317622153524",tags:["puzzles"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9317623234868",tags:["puzzles"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9317625954612",tags:["play doh", "putty"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9317672878388",tags:["Arts & Crafts"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9317674058036",tags:["Arts & Crafts"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9317675860276",tags:["Arts & Crafts"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9317676613940",tags:["Arts & Crafts"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9317677138228",tags:["Arts & Crafts"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9317678154036",tags:["Arts & Crafts"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9317679464756",tags:["activity book", "Arts & Crafts"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9317835669812",tags:["b.box", "water bottle"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9318033293620",tags:["Arts & Crafts"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9318048530740",tags:["stickers"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9318048596276",tags:["stickers"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9318049055028",tags:["Arts & Crafts"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9318052888884",tags:["Arts & Crafts"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9318058721588",tags:["Arts & Crafts"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9318059770164",tags:["Arts & Crafts"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9318683148596",tags:["swim goggles"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9318684197172",tags:["swim goggles"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9318818939188",tags:["Easter", "Easter Toy", "LEGO"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9318819889460",tags:["LEGO"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9318820282676",tags:["LEGO"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9318820741428",tags:["LEGO"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9318821036340",tags:["LEGO"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9318821200180",tags:["LEGO"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9318821921076",tags:["LEGO"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9318822248756",tags:[]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9318822936884",tags:["Easter", "LEGO"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9318823133492",tags:["card game"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9318823592244",tags:["LEGO"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9318824050996",tags:["LEGO"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9318828441908",tags:["LEGO"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9318828867892",tags:["LEGO"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9318829654324",tags:["LEGO"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9318830211380",tags:["LEGO"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9319054016820",tags:["building blocks"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9319054737716",tags:["puzzles"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9319056998708",tags:["puzzles"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9319057391924",tags:["puzzles"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9319059390772",tags:["puzzles"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9319207797044",tags:["stuffed animal"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9319208059188",tags:["plush teether", "Teether"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9319208419636",tags:["Easter", "Teether"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9319210516788",tags:["Easter"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9319223492916",tags:[]}){userErrors{message}}
+}

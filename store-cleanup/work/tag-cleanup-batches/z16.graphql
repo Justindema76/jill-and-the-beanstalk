@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9171111182644",tags:[]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9171111838004",tags:["Arts & Crafts"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9171139461428",tags:[]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9171160138036",tags:[]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9171160367412",tags:[]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9171323912500",tags:[]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9171325780276",tags:[]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9171326566708",tags:["activity book", "stickers"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9171492176180",tags:["musical toy"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9171608600884",tags:["Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9171611484468",tags:["sensory toy"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9171612696884",tags:["sensory toy"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9171613024564",tags:["blocks", "building blocks"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9171615449396",tags:["Plush Toy", "stuffed animal"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9171618136372",tags:["Plush Toy", "stuffed animal"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9171618201908",tags:["Plush Rattle", "Plush Toy", "stuffed animal"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9171831193908",tags:[]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9171840696628",tags:[]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9171841253684",tags:[]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9171841351988",tags:[]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9171841712436",tags:[]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9171842335028",tags:[]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9171952927028",tags:["stuffed animal"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9171953451316",tags:["Easter", "easter stuffed animals", "stuffed animal"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9172949729588",tags:[]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9172952547636",tags:[]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9172959134004",tags:["Arts & Crafts", "Christmas book", "stickers"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9172961427764",tags:["Christmas book"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9172986757428",tags:["Christmas book"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9172987052340",tags:["Christmas book"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9172987609396",tags:["sensory toy"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9172992393524",tags:["Arts & Crafts", "stickers"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9173023555892",tags:["Arts & Crafts", "stickers"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9173186117940",tags:["baby cream", "Made in Canada"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9173187232052",tags:["Made in Canada"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9173193752884",tags:["Made in Canada", "mom"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9173194375476",tags:["Made in Canada"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9173201092916",tags:["Made in Canada"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9173201191220",tags:["Made in Canada"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9173204664628",tags:["Made in Canada"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9173204861236",tags:["Made in Canada"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9173644771636",tags:["sippy cup"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9173824930100",tags:["winter wear"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9173844590900",tags:["Socks"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9174190588212",tags:[]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9174229680436",tags:["science"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9174234267956",tags:["Christmas book"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9178330399028",tags:["Christmas book"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9178377126196",tags:["Board Game", "card game"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9178556006708",tags:["Action Figures", "Local Pickup Toronto"]}){userErrors{message}}
+}

@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9231342534964",tags:["Retro Toy", "Toy Vehicles"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9231343976756",tags:["Arts & Crafts"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9232083386676",tags:["consignment"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9232085680436",tags:["consignment"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9232086532404",tags:["consignment"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9232086925620",tags:["consignment"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9232087712052",tags:["consignment"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9232090038580",tags:["consignment"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9232092332340",tags:["consignment", "Designed in Canada"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9232092791092",tags:["consignment", "Designed in Canada"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9232094527796",tags:["consignment"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9232110584116",tags:["consignment"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9232119365940",tags:["consignment"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9232120250676",tags:["consignment"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9232123167028",tags:["consignment"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9232124477748",tags:["consignment", "Designed in Canada"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9232132931892",tags:["consignment"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9232139714868",tags:["consignment", "Designed in Canada"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9232139878708",tags:["consignment"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9232141222196",tags:["consignment"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9232142041396",tags:[]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9232185131316",tags:["consignment"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9232232874292",tags:["consignment"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9232462086452",tags:["consignment"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9232462479668",tags:["consignment"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9232462741812",tags:["consignment"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9232463266100",tags:["consignment"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9232463986996",tags:[]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9232464347444",tags:[]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9232464937268",tags:["consignment"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9232465428788",tags:[]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9232465789236",tags:["consignment"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9232467329332",tags:["Consignment"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9232564453684",tags:["Arts & Crafts"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9232565207348",tags:[]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9232739926324",tags:["card game"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9233617223988",tags:[]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9233680597300",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9233967776052",tags:["kids skincare", "sunscreen"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9234039898420",tags:["kids skincare"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9234042913076",tags:[]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9234622841140",tags:[]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9235772277044",tags:["Arts & Crafts"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9235775226164",tags:["activity book"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9235775553844",tags:["activity book", "Valentine"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9235776241972",tags:["activity book"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9235776766260",tags:["activity book"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9235794002228",tags:[]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9235795083572",tags:[]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9236169031988",tags:["stuffed animal"]}){userErrors{message}}
+}

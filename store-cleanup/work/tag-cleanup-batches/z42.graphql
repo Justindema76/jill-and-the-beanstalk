@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9290027532596",tags:["puzzles", "Retro Game"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9290041524532",tags:[]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9290206150964",tags:["building blocks"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9290206970164",tags:["sensory toy"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9290207854900",tags:["sensory toy"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9290208051508",tags:["sensory toy"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9290208149812",tags:["sensory toy"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9290208674100",tags:["putty", "sensory toy"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9290210509108",tags:["boy stocking stuffer", "Toy Vehicles"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9290888970548",tags:["LEGO"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9290889756980",tags:["LEGO"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9290890051892",tags:["LEGO"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9290890477876",tags:["LEGO"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9290892345652",tags:["play doh"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9290893558068",tags:["play doh"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9290895032628",tags:[]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9290895458612",tags:[]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9291015323956",tags:[]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9291015455028",tags:["education book"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9291015913780",tags:[]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9291017322804",tags:["purses"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9291019878708",tags:["Headbands"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9291042718004",tags:[]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9291044880692",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9291047502132",tags:[]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9291050058036",tags:[]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9291052450100",tags:["Designed in Canada"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9291054383412",tags:[]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9291060805940",tags:[]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9291281924404",tags:[]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9291731763508",tags:["Arts & Crafts", "pen"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9291731861812",tags:["Arts & Crafts", "pen"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9291732025652",tags:["Headbands"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9291825152308",tags:["LEGO"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9291900158260",tags:["LEGO"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9291901501748",tags:["LEGO"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9291903795508",tags:["LEGO"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9292313166132",tags:[]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9292340527412",tags:["Designed in Canada"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9292364874036",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9292401738036",tags:[]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9292427985204",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9292458197300",tags:["Designed in Canada"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9292485329204",tags:[]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9292507611444",tags:[]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9292523995444",tags:["Costume Accessory"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9292525076788",tags:[]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9292525470004",tags:["Valentine"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9292525732148",tags:[]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9292526027060",tags:[]}){userErrors{message}}
+}

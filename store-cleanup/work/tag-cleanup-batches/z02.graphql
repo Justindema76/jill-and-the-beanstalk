@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/7604617904184",tags:["greeting card"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/7604633174072",tags:[]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/7604635238456",tags:[]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/7604639694904",tags:["mom"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/7604683472952",tags:[]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/7604698873912",tags:["Baby Swimwear", "Swim Diaper", "Swimwear"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/7604700119096",tags:["baby safety"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/7604700479544",tags:["baby safety", "Safety"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/7604738850872",tags:["activity book", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/7604738883640",tags:["Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/7604738949176",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/7604997226552",tags:[]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/7605001846840",tags:[]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/7605006139448",tags:["Educational Toy", "science"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/7605419475000",tags:["Costume Accessory"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/7605419671608",tags:[]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/7605420195896",tags:["_TX"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/7605420261432",tags:["sensory toy"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/7605420392504",tags:[]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/7605420490808",tags:[]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/7605420621880",tags:[]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/7605420654648",tags:[]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/7605420752952",tags:[]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/7605421211704",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/7605422194744",tags:[]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/7605422391352",tags:[]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/7605422587960",tags:["stuffed animal"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/7605426454584",tags:[]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/7605426683960",tags:[]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/7605426880568",tags:[]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/7605426913336",tags:[]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/7605427208248",tags:[]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/7605900410936",tags:[]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/7605938946104",tags:["Canadian Company", "card game", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/7606080110648",tags:["science"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/7606089252920",tags:[]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/7606090301496",tags:["ball"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/7606104391736",tags:[]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/7606117761080",tags:[]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/7606133981240",tags:[]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/7606134538296",tags:[]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/7606134865976",tags:["science"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/7606134898744",tags:[]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/7606134931512",tags:["Educational Toy", "science"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/7606255517752",tags:[]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/7606257909816",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/7606277799992",tags:[]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/7606560030776",tags:["_TX"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/7606565732408",tags:[]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/7606565830712",tags:["feeding", "feeding accessories"]}){userErrors{message}}
+}

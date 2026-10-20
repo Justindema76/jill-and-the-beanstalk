@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9199300935988",tags:["Canadian Company"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9201086988596",tags:[]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9202449973556",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Made in Canada", "sun hat"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9202468290868",tags:["Canadian Company", "Designed in Canada", "Made in Canada", "water bottle"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9202469830964",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9202768642356",tags:[]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9202776375604",tags:["activity book"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9202778964276",tags:[]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9202782306612",tags:[]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9202784534836",tags:[]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9202792038708",tags:["sensory toy"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9202794430772",tags:[]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9202814976308",tags:["Arts & Crafts", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9203677757748",tags:[]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9203677888820",tags:[]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9203677987124",tags:[]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9205561262388",tags:[]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9205568274740",tags:[]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9205577056564",tags:[]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9205579907380",tags:[]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9205894676788",tags:[]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9205898576180",tags:["kids skincare"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9205907390772",tags:["Room Decor"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9206068871476",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9206071689524",tags:[]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9206072082740",tags:["kids skincare"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9206105112884",tags:["Made in Canada"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9206108291380",tags:[]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9206113796404",tags:["kids skincare", "Made in Canada", "sunscreen"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9208083743028",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9208084103476",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9208088199476",tags:["Canadian Company", "Designed in Canada", "Easter", "feeding", "feeding accessories"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9208088461620",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9208093933876",tags:["Canadian Company", "Designed in Canada", "diaper bag"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9208537940276",tags:[]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9208672321844",tags:["Board Game"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9208674976052",tags:["LEGO"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9208726520116",tags:["barbie", "doll"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9208758042932",tags:["barbie", "doll"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9208808079668",tags:["card game", "Classic Game"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9208814633268",tags:["Educational Toy"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9208852316468",tags:["barbie", "doll"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9208994791732",tags:["Arts & Crafts"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9213057958196",tags:["Christmas", "Christmas puzzle", "puzzles"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9213087416628",tags:[]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9213217341748",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9213233791284",tags:["Plush Rattle", "Plush Toy", "stuffed animal"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9213717840180",tags:[]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9213728096564",tags:["baby cream"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9213737992500",tags:[]}){userErrors{message}}
+}

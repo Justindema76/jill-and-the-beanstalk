@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9315500065076",tags:["Teether", "Teething Toy"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9315500261684",tags:["Teether", "Teething Toy"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9315500982580",tags:["thermometer"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9315677798708",tags:["Arts & Crafts"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9315677831476",tags:["Arts & Crafts"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9315677864244",tags:["Arts & Crafts"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9315685695796",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9315687137588",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9315695264052",tags:["bibs", "Canadian Brand", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9315695362356",tags:["bibs", "Canadian Brand", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9315695755572",tags:["bibs", "bibs with arms", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9315696574772",tags:["bibs", "bibs with arms", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9315700998452",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9315708797236",tags:["bibs", "bibs with arms", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9315708895540",tags:["bibs", "bibs with arms", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9315713450292",tags:["Easter", "Teething Toy"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9315713483060",tags:["Teething Toy"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9315713810740",tags:["Teething Toy"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9315714302260",tags:["Canadian Company", "Designed in Canada", "diaper bag"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9315714367796",tags:["Canadian Company", "Designed in Canada", "diaper bag"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9315818537268",tags:["20% Off", "Socks"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9315827515700",tags:["Socks"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9315831775540",tags:["Socks"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9315838656820",tags:["20% Off", "Socks"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9315841278260",tags:["Socks"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9315843342644",tags:["20% Off", "Socks"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9315845701940",tags:["Socks"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9317070962996",tags:["feeding", "feeding accessories"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9317076500788",tags:["feeding accessories"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9317077418292",tags:[]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9317077975348",tags:["bibs"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9317082267956",tags:["bibs"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9317202362676",tags:["Teether"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9317212258612",tags:["Teether"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9317226447156",tags:[]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9317233164596",tags:[]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9317251547444",tags:["Baby Swimwear", "Swimwear"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9317252104500",tags:["Baby Swimwear", "Swimwear"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9317252989236",tags:[]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9317253218612",tags:[]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9317253447988",tags:["Teether"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9317254365492",tags:[]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9317255151924",tags:["sensory toy"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9317255381300",tags:[]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9317256266036",tags:["Easter", "Teether"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9317257052468",tags:["Plush Rattle", "sensory toy", "Teether"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9317257347380",tags:[]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9317257511220",tags:[]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9317358731572",tags:[]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9317359681844",tags:[]}){userErrors{message}}
+}

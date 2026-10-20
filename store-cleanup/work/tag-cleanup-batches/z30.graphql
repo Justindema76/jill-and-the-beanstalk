@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9248436519220",tags:["Fun Tattoos"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9248436781364",tags:["Fun Tattoos"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9248440025396",tags:["Costume Earrings", "Pretend Play", "Sticker Earrings", "Valentine"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9248440058164",tags:["Costume Earrings", "Pretend Play", "Sticker Earrings"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9248440090932",tags:["Fun Tattoos"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9248445104436",tags:["Fun Tattoos"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9248445137204",tags:["Fun Tattoos"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9248445202740",tags:["Fun Tattoos"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9248445268276",tags:["Fun Tattoos"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9248445333812",tags:["Fun Tattoos"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9248445432116",tags:["Fun Tattoos"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9248445530420",tags:["Fun Tattoos"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9248448086324",tags:[]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9248448184628",tags:[]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9248448315700",tags:[]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9248506118452",tags:["Lunch Gear", "Made in Canada"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9248526303540",tags:["Made in Canada"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9248552452404",tags:["Canadian Brand", "Canadian Company"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9248559366452",tags:["Canadian Brand", "Canadian Company"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9248559563060",tags:["Canadian Brand", "Canadian Company"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9249018118452",tags:[]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9249151811892",tags:["Costume Accessory"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9249153483060",tags:[]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9249159250228",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9249162330420",tags:[]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9249167049012",tags:[]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9249171898676",tags:[]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9249176224052",tags:["Costume Accessory"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9249183465780",tags:[]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9249184416052",tags:[]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9249185235252",tags:["Costume Earrings", "Halloween", "Halloween Accessories"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9249187135796",tags:["Canadian Company"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9249188905268",tags:["hair bands", "Made in Canada"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9249189757236",tags:["Made in Canada", "Necklace and Earrings Set"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9249195950388",tags:["Stonz Cruiser"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9249196278068",tags:["Stonz Cruiser"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9249196343604",tags:["Stonz Cruiser"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9249198342452",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9249199259956",tags:["Made in Canada"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9249199653172",tags:["Made in Canada"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9249200734516",tags:["Made in Canada"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9249200865588",tags:["Made in Canada"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9249204076852",tags:["Pacifier"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9249204994356",tags:[]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9249205944628",tags:["b.box", "water bottle"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9249546240308",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9249547419956",tags:["Canadian Company", "Made in Canada"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9249554596148",tags:["Costume Accessory", "Hair Accessory", "Made in Canada"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9249575076148",tags:["Costume Accessory", "Hair Accessory"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9249600733492",tags:["Canadian Company", "Made in Canada"]}){userErrors{message}}
+}

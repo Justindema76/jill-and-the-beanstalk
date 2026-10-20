@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9236261142836",tags:[]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9236263829812",tags:[]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9236265009460",tags:["Easter", "easter stuffed animals"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9236266221876",tags:[]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9236266484020",tags:[]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9236266713396",tags:[]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9236266942772",tags:[]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9236267073844",tags:[]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9236267991348",tags:[]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9236272251188",tags:["Action Figures"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9236273430836",tags:[]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9236346110260",tags:["MiYoni", "Plush Toy", "stuffed animal"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9236346175796",tags:["MiYoni", "Plush Toy", "stuffed animal"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9236346503476",tags:["miyoni by aurora", "stuffed animal"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9236346667316",tags:["miyoni by aurora", "stuffed animal"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9236346962228",tags:["miyoni by aurora", "stuffed animal"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9236346994996",tags:["miyoni by aurora", "stuffed animal"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9236347060532",tags:["miyoni by aurora", "stuffed animal"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9236347158836",tags:["Easter", "easter stuffed animals", "miyoni by aurora", "stuffed animal"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9236347388212",tags:["miyoni by aurora", "stuffed animal"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9236347420980",tags:["MiYoni", "Plush Toy", "stuffed animal"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9236347584820",tags:["miyoni by aurora", "stuffed animal"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9236347617588",tags:["Easter", "easter stuffed animals", "miyoni by aurora", "stuffed animal"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9236347715892",tags:["Easter", "easter stuffed animals", "miyoni by aurora", "stuffed animal"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9236347846964",tags:["doll"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9236348043572",tags:[]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9236348076340",tags:["doll"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9236348371252",tags:["Baby Doll", "doll"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9236348535092",tags:["doll"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9236348862772",tags:["Plush Toy", "stuffed animal"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9236349452596",tags:["Plush Rattle"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9236349485364",tags:["Plush Rattle"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9236349518132",tags:["Plush Rattle"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9236349714740",tags:["Plush Toy", "stuffed animal"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9236349780276",tags:["stuffed animal"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9236349813044",tags:["Plush Rattle"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9236349845812",tags:["Plush Rattle"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9236349878580",tags:["stuffed animal"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9236350075188",tags:["Plush Rattle"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9236350107956",tags:["Plush Rattle"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9236350370100",tags:["ball"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9236350402868",tags:["ball"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9236350435636",tags:["ball"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9236350501172",tags:["ball", "Outdoor Fun"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9236351058228",tags:["ball", "Outdoor Fun"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9236379337012",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9236383334708",tags:[]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9236389757236",tags:[]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9236398113076",tags:[]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9236400439604",tags:[]}){userErrors{message}}
+}

@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9288406139188",tags:["Pretend Play"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9288573387060",tags:["Board Game", "card game"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9288574140724",tags:["Board Game", "card game"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9288574730548",tags:["Board Game"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9288578367796",tags:["Board Game"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9288626241844",tags:[]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9288627355956",tags:["puzzles"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9288627519796",tags:["puzzles"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9288627716404",tags:["puzzles"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9288627978548",tags:["Christmas", "Christmas puzzle", "puzzles"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9288628175156",tags:["Christmas", "Christmas puzzle", "puzzles"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9288628601140",tags:["puzzles"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9288629125428",tags:["puzzles"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9288629387572",tags:["puzzles"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9288629453108",tags:["Christmas", "Christmas puzzle", "puzzles", "stocking stuffer"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9288629748020",tags:["puzzles"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9288629813556",tags:["puzzles"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9288629911860",tags:["puzzles"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9288630075700",tags:["puzzles"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9288630239540",tags:["puzzles"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9288630370612",tags:["puzzles"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9288630599988",tags:["Christmas", "Christmas puzzle", "puzzles"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9288798339380",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "rainwear"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9288798798132",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "rainwear", "Waterproof"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9288799617332",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "rainwear", "Waterproof"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9288800174388",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "rainwear", "Waterproof"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9289039610164",tags:["Action Figures"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9289160851764",tags:["puzzles"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9289161244980",tags:["puzzles"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9289163735348",tags:["puzzles"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9289459826996",tags:["puzzles"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9289459990836",tags:["puzzles"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9289460351284",tags:["Arts & Crafts"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9289460547892",tags:["puzzles"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9289460810036",tags:["stuffed animal"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9289692479796",tags:["Socks"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9289692610868",tags:["20% Off", "Socks"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9289699885364",tags:["card game"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9289716400436",tags:["card game", "Christmas", "Christmas game"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9289716662580",tags:["Board Game"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9289716728116",tags:["Musical Instruments", "musical toy"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9289717940532",tags:["puzzles"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9289718300980",tags:["Board Game"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9289718366516",tags:["Arts & Crafts"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9289718464820",tags:["Arts & Crafts"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9289718792500",tags:["Retro Toy", "Toy Vehicles"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9289774825780",tags:[]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9289774956852",tags:["Arts & Crafts"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9289775218996",tags:[]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9290016129332",tags:["putty", "sensory toy"]}){userErrors{message}}
+}

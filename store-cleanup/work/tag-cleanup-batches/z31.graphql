@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9249633861940",tags:[]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9249640284468",tags:[]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9249653424436",tags:[]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9249653588276",tags:[]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9249677738292",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9249678033204",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9249678491956",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9249678721332",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9249679540532",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9249679802676",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9249710506292",tags:["Canadian Company", "Designed in Canada", "Teether", "Teething Clip", "Teething Toy"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9249710539060",tags:["Canadian Company", "Designed in Canada", "Made in Canada", "Teether", "Teething Clip", "Teething Toy"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9249710866740",tags:["Teether"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9249710899508",tags:["Teether"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9249710932276",tags:["Teether"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9249711030580",tags:["Teether"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9249711063348",tags:["Teether"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9249711587636",tags:["Pacifier"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9249711620404",tags:["Pacifier"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9249711948084",tags:["Baby Bath Toy", "sensory toy", "Teether", "Teething Toy"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9249711980852",tags:["Baby Bath Toy", "sensory toy", "Teether", "Teething Toy"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9249712013620",tags:["Baby Bath Toy", "sensory toy", "Teether", "Teething Toy"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9249712242996",tags:["Teether"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9249713422644",tags:["Baby Bath Toy", "sensory toy"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9249713455412",tags:["Baby Bath Toy", "sensory toy"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9249713520948",tags:["Baby Bath Toy", "sensory toy"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9249713553716",tags:["Baby Bath Toy", "sensory toy"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9249713619252",tags:["Baby Bath Toy", "sensory toy"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9249713652020",tags:["Baby Bath Toy", "sensory toy"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9249798258996",tags:[]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9250046869812",tags:["children's sunglasses", "kids sunglasses"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9250046902580",tags:["children's sunglasses", "kids sunglasses"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9250046935348",tags:["children's sunglasses", "kids sunglasses"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9250046968116",tags:["children's sunglasses", "kids sunglasses"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9250047033652",tags:["children's sunglasses", "kids sunglasses"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9250047066420",tags:["children's sunglasses", "kids sunglasses"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9250047099188",tags:["children's sunglasses", "kids sunglasses"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9250047426868",tags:[]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9250047492404",tags:[]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9250047525172",tags:[]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9250047557940",tags:[]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9250047689012",tags:[]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9250047721780",tags:[]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9250047754548",tags:[]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9250047820084",tags:[]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9250047852852",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9250056241460",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9250056405300",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9250056601908",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9250060435764",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "rainwear"]}){userErrors{message}}
+}

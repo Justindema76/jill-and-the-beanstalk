@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9247124554036",tags:["Canadian Company"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9247124619572",tags:["Canadian Company"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9247124816180",tags:["Canadian Company"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9247125012788",tags:["Canadian Company"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9247125963060",tags:["Canadian Company"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9247126028596",tags:["Canadian Company"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9247126061364",tags:["Canadian Company"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9247126126900",tags:["Canadian Company"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9247126290740",tags:["Canadian Company"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9247126585652",tags:["Canadian Company"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9247135072564",tags:[]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9247141626164",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9247149031732",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9247149097268",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9247149195572",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9247149359412",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9247149392180",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9247149490484",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9247149523252",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9247154176308",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "sun hat"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9247154241844",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9247154307380",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9247154372916",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9247154438452",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9247155585332",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9247156142388",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9247157027124",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9247157584180",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9247158763828",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9247159386420",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9247173607732",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9247173673268",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9247173804340",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9247173935412",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9247174132020",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9247174164788",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9247174230324",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9247174558004",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9247174656308",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9247174852916",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9247174885684",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "sun hat"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9247175016756",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9247175082292",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9247176261940",tags:[]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9247178096948",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9247189762356",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9247189795124",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9247191597364",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9247192711476",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9247192809780",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+}

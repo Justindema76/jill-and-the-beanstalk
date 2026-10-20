@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9363983860020",tags:[]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9364367933748",tags:["greeting card"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9364827341108",tags:["greeting card"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9364827603252",tags:["greeting card"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9364828225844",tags:["greeting card"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9364830716212",tags:["greeting card"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9364831043892",tags:["greeting card"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9364831502644",tags:["greeting card"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9364831633716",tags:["greeting card"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9364831961396",tags:["greeting card"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9364832387380",tags:["greeting card"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9364833534260",tags:["greeting card"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9364833960244",tags:["greeting card"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9364834255156",tags:["greeting card"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9365388493108",tags:["Classic Game"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9365493678388",tags:["stickers"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9365499248948",tags:["stickers"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9365499543860",tags:["stickers"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9365500231988",tags:["stickers"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9365501772084",tags:["stickers"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9365502361908",tags:["stickers"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9365502689588",tags:["stickers"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9365503279412",tags:["stickers"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9367439835444",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9367441178932",tags:[]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9367441998132",tags:[]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9367782949172",tags:[]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9367783244084",tags:[]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9367892885812",tags:[]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9367893246260",tags:[]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9367893999924",tags:[]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9367900029236",tags:[]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9367902191924",tags:["activity book"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9367902683444",tags:["Sticker Book", "stickers"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9367990862132",tags:[]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9367990927668",tags:[]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9367991091508",tags:["activity book", "Sticker Book", "stickers"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9367991320884",tags:["activity book", "Sticker Book", "stickers"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9367992566068",tags:["Sticker Book", "stickers"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9367992729908",tags:[]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9367992860980",tags:[]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9367993024820",tags:[]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9367993778484",tags:["Fun Tattoos"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9367993811252",tags:[]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9367993975092",tags:["Sticker Book", "stickers"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9367994859828",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9367995285812",tags:[]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9367995351348",tags:["stuffed animal"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9367995482420",tags:[]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9367996662068",tags:[]}){userErrors{message}}
+}

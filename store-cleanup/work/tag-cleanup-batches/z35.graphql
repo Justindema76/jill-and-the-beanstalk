@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9269081309492",tags:[]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9269081342260",tags:[]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9269081375028",tags:[]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9269081997620",tags:["20% Off", "Socks"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9269082063156",tags:["Socks"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9269082095924",tags:["20% Off", "Socks"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9269082161460",tags:["Socks"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9269082194228",tags:["Socks"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9269082226996",tags:["Socks"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9269084193076",tags:["Socks"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9269084258612",tags:["Socks"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9269084651828",tags:["Socks"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9269084750132",tags:["20% Off", "Socks"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9269756559668",tags:["card game"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9269756723508",tags:[]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9269991735604",tags:["feeding", "feeding accessories"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9270094102836",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9270094627124",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9270096429364",tags:["Canadian Brand", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9270097445172",tags:["Canadian Brand", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9270097674548",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9270097903924",tags:["Canadian Brand", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9270099411252",tags:["Canadian Brand", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9270106456372",tags:["Pretend Play"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9270107144500",tags:["Hair Accessory", "Hairclips"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9270150463796",tags:["Hairclips"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9270150562100",tags:["Hair Accessory", "Hairclips", "Halloween"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9270588768564",tags:["Baby Doll", "doll", "Doll Accessories", "doll clothing", "Doll Playset"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9270589915444",tags:["Baby Doll", "doll", "Doll Accessories", "doll clothing", "Doll Playset"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9270590275892",tags:["Baby Doll", "doll", "Doll Accessories", "doll clothing", "Doll Playset"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9271414128948",tags:["Hair Accessory", "Hairclips", "Headbands"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9271420715316",tags:["Baby Doll", "doll"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9271421108532",tags:["Baby Doll", "doll"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9271421993268",tags:["Baby Doll", "doll"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9271422812468",tags:["Baby Doll", "doll"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9271423598900",tags:["Baby Doll", "doll"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9271424450868",tags:["Baby Doll", "doll"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9271425761588",tags:["Baby Doll", "doll"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9271589667124",tags:["Baby Doll", "doll"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9271591928116",tags:["Baby Doll", "doll"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9271592681780",tags:["Baby Doll", "doll"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9271593599284",tags:["Baby Doll", "doll"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9271595041076",tags:["Baby Doll", "doll"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9271749968180",tags:[]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9271751475508",tags:[]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9271753310516",tags:["purses"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9272800870708",tags:["doll"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9273133039924",tags:[]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9273133498676",tags:[]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9273133662516",tags:[]}){userErrors{message}}
+}

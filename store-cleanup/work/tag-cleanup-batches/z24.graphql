@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9238744203572",tags:[]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9238744334644",tags:[]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9238744662324",tags:["LEGO"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9238744858932",tags:["building blocks", "building toy", "creative toys", "Educational Toy", "LEGO", "STEM Toy"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9238745186612",tags:["LEGO"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9238745284916",tags:["LEGO"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9238745514292",tags:["LEGO"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9238819537204",tags:[]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9239343759668",tags:[]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9239343825204",tags:["activity book"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9239343857972",tags:[]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9239343956276",tags:[]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9239344742708",tags:["puzzles"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9239344906548",tags:["card game"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9239344972084",tags:["card game"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9239346184500",tags:["Sticker Book", "stickers"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9239509467444",tags:[]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9239515922740",tags:["Toy Vehicles"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9239532634420",tags:["Made in Canada", "sensory toy"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9239532732724",tags:["Made in Canada", "sensory toy"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9239537484084",tags:[]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9239538204980",tags:[]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9239538860340",tags:[]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9239538925876",tags:["hair products"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9239539024180",tags:["hair products"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9239557636404",tags:[]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9239559110964",tags:["hair products"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9239564058932",tags:[]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9239565467956",tags:["Baby Pacifier Clip", "Made in Canada"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9239567401268",tags:["Baby Pacifier Clip"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9239568318772",tags:["Pacifier", "teether clip"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9239568679220",tags:["bibs", "bibs with arms", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9239569367348",tags:["bibs", "bibs with arms", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9239570284852",tags:["bibs", "bibs with arms", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9239570874676",tags:["bibs", "bibs with arms", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9239571497268",tags:["bibs", "bibs with arms", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9239571824948",tags:["bibs", "bibs with arms", "Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9239574118708",tags:["Pacifier", "Teething Clip", "Teething Toy"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9239575265588",tags:["Canadian Company"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9239575429428",tags:[]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9239575494964",tags:[]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9239815389492",tags:[]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9239819714868",tags:[]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9239825875252",tags:["Board Game"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9239959732532",tags:[]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9240339644724",tags:["LEGO"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9240586322228",tags:["activity book", "Baby Bath Toy", "sensory toy"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9240596054324",tags:[]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9241211633972",tags:["card game"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9241211732276",tags:["card game"]}){userErrors{message}}
+}

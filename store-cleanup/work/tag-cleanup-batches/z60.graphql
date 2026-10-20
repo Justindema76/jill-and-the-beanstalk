@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9352666939700",tags:[]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9352688566580",tags:[]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9352694825268",tags:[]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9352712749364",tags:["Board Game"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9352722940212",tags:["Board Game"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9352737521972",tags:["Board Game"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9352737685812",tags:["Board Game"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9352738210100",tags:["card game"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9352739127604",tags:["card game"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9352740307252",tags:[]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9352740667700",tags:[]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9353776693556",tags:["Teether"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9353777086772",tags:[]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9353784426804",tags:[]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9353791996212",tags:["sensory toy"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9353799565620",tags:[]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9353911042356",tags:["Consignment"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9354016555316",tags:["Baby Doll", "doll"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9354038313268",tags:["Baby Doll"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9354039394612",tags:["Baby Doll"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9354129899828",tags:["LEGO"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9354130817332",tags:["LEGO"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9354132521268",tags:["LEGO"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9354144186676",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9354146840884",tags:["bubbles"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9354152411444",tags:["LEGO"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9354432905524",tags:[]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9355529945396",tags:[]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9355530076468",tags:[]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9355530895668",tags:["Kids Makeup"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9355532009780",tags:["Hair Accessory"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9359279784244",tags:[]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9359284863284",tags:["kids skincare"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9359287157044",tags:["kids skincare"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9359288533300",tags:["kids skincare"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9359555625268",tags:[]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9360425746740",tags:[]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9360652337460",tags:[]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9360790716724",tags:["Musical Instruments"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9363470778676",tags:["fidget toy"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9363472974132",tags:["fidget toy", "sensory toy"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9363481231668",tags:["fidget toy", "sensory toy"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9363494175028",tags:["Toy Vehicles"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9363773849908",tags:["Magnetic Toy"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9363775750452",tags:[]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9363907772724",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9363925303604",tags:[]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9363930710324",tags:["Christmas"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9363935232308",tags:["Board Game"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9363946504500",tags:["Stonz Cruiser"]}){userErrors{message}}
+}

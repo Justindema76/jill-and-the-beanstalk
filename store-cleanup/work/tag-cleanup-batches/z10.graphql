@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/8458404233524",tags:[]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/8458459021620",tags:["Arts & Crafts"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/8458666377524",tags:["Made in Canada"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/8498469601588",tags:["Herschel backpack"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/8498474025268",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/8498496536884",tags:["Canadian Company", "Designed in Canada", "diaper bag"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/8498519638324",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/8498566168884",tags:["Canadian Company", "Designed in Canada", "water bottle"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/8498666537268",tags:[]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/8498679120180",tags:["Pacifier", "Teether"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/8521313255732",tags:[]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/8521347039540",tags:[]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/8521347399988",tags:[]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/8535274848564",tags:["Action Figures"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/8535432757556",tags:["Classic Toy", "Educational Toy", "Pretend Play", "sensory toy"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/8538177634612",tags:["barbie", "doll"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/8538476642612",tags:["Action Figures"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/8547578904884",tags:["mom"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/8549365154100",tags:[]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/8549395202356",tags:[]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/8565788344628",tags:["Socks"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/8565844181300",tags:[]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/8565860761908",tags:[]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/8565868495156",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/8565940650292",tags:[]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/8565948285236",tags:[]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/8565972566324",tags:["Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/8623508619572",tags:[]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/8672187842868",tags:["kids skincare"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/8675836625204",tags:["putty", "stocking stuffer"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/8675866050868",tags:[]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/8697697337652",tags:["Baby Health Essentials"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/8702205559092",tags:["baby health", "Baby Health Essentials"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/8702279024948",tags:[]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/8716702515508",tags:["Easter"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/8716711264564",tags:["Pacifier"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/8720111206708",tags:["boy stocking stuffer", "Toy Vehicles"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/8720132473140",tags:["_TX", "sensory toy"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/8720237363508",tags:["Action Figures"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/8751836430644",tags:["Arts & Crafts"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/8755134398772",tags:["Socks"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/8758503702836",tags:["Socks"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/8761182191924",tags:["Plush Rattle"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/8768318865716",tags:["Arts & Crafts"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/8768412582196",tags:[]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/8776289976628",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/8776295055668",tags:[]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/8776298398004",tags:[]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/8776318812468",tags:["Made in Canada"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/8776320024884",tags:["Made in Canada"]}){userErrors{message}}
+}

@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9236404076852",tags:[]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9236407058740",tags:["Magnetic Toy"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9236407255348",tags:["Magnetic Toy"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9236407484724",tags:["Magnetic Toy"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9236408041780",tags:["Magnetic Toy"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9236408992052",tags:["Magnetic Toy"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9236414136628",tags:["Magnetic Toy"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9236416626996",tags:["Magnetic Toy", "puzzles"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9236418494772",tags:["puzzles"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9236452671796",tags:["card game", "sensory toy"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9236453032244",tags:["card game"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9236453130548",tags:["card game", "stocking stuffer"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9236453196084",tags:["card game", "stocking stuffer"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9236513063220",tags:["umbrella"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9236513128756",tags:["umbrella"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9236514799924",tags:["umbrella"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9236514996532",tags:["umbrella"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9236515225908",tags:["umbrella"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9236515356980",tags:["umbrella"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9236515619124",tags:["umbrella"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9236515750196",tags:["umbrella"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9236515815732",tags:["umbrella"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9236515946804",tags:["umbrella"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9236550320436",tags:["ball"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9236550680884",tags:["ball", "Outdoor Fun"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9236550713652",tags:["ball"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9236550811956",tags:["ball"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9236551794996",tags:["ball", "Outdoor Fun"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9236551827764",tags:["ball", "Outdoor Fun"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9236552057140",tags:["ball", "Outdoor Fun"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9236552778036",tags:["ball", "Outdoor Fun"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9236552974644",tags:["ball", "Outdoor Fun"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9236598096180",tags:[]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9236610023732",tags:["Educational Toy", "Magnetic Toy", "Pretend Play"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9236610089268",tags:["sensory toy"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9236611072308",tags:[]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9237449376052",tags:["Pacifier"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9237611118900",tags:["stuffed animal"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9237620064564",tags:["consignment"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9237680652596",tags:["Easter", "easter stuffed animals", "Plush Rattle", "Plush Toy", "stuffed animal"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9237682454836",tags:["doll clothing"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9237682520372",tags:["doll clothing"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9238620995892",tags:["Action Figures", "Retro Toy", "sensory toy", "STEM Toy"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9238631022900",tags:[]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9238631252276",tags:[]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9238631285044",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9238631350580",tags:[]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9238631383348",tags:[]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9238690169140",tags:["building blocks", "building toy", "creative toys", "LEGO"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9238743974196",tags:["LEGO"]}){userErrors{message}}
+}

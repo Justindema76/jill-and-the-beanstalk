@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9321150972212",tags:[]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9321153528116",tags:[]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9321154740532",tags:[]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9321157001524",tags:[]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9321157787956",tags:["Easter"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9321645900084",tags:["candy", "Easter"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9321662939444",tags:["candy", "Easter"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9321664020788",tags:["Easter", "Easter Toy", "Room Decor"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9322104783156",tags:["Lunch bag"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9322108322100",tags:[]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9322235363636",tags:["LEGO"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9322268066100",tags:[]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9322378887476",tags:["Lunch bag", "Lunch Gear"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9322379411764",tags:["Lunch bag", "Lunch Gear"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9322381476148",tags:[]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9322382524724",tags:["Lunch bag", "Lunch Gear"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9322384130356",tags:[]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9322537091380",tags:["purses"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9322538631476",tags:["Lunch bag"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9322539614516",tags:["Lunch bag"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9322541252916",tags:["Lunch bag"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9322649583924",tags:[]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9322649747764",tags:["puzzles"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9322650009908",tags:["puzzles"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9322650730804",tags:["puzzles"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9322651910452",tags:["puzzles"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9322652565812",tags:["puzzles"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9322652893492",tags:["puzzles"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9322653548852",tags:["Board Game"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9322654073140",tags:[]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9322654269748",tags:["Arts & Crafts"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9322656104756",tags:["Pretend Play"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9322679533876",tags:["Baby Doll", "doll"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9322679697716",tags:[]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9323204870452",tags:["Arts & Crafts"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9323205296436",tags:["Arts & Crafts"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9323205787956",tags:["Arts & Crafts"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9323206672692",tags:["Arts & Crafts"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9323207721268",tags:["Arts & Crafts"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9323209883956",tags:["Arts & Crafts"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9323211653428",tags:["Hair Accessory", "hair products", "Kids Makeup"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9323345117492",tags:["Board Game"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9323350884660",tags:["Arts & Crafts"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9323605197108",tags:["building toy"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9323605262644",tags:["building toy"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9323605295412",tags:["building toy"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9323605492020",tags:["building toy"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9323605918004",tags:["puzzles"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9323606180148",tags:["Retro Game"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9323606442292",tags:[]}){userErrors{message}}
+}

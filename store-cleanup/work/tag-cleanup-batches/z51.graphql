@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9319223918900",tags:[]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9319790051636",tags:[]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9319790444852",tags:[]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9319856701748",tags:["candy"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9319883145524",tags:[]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9320026833204",tags:["LEGO"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9320031158580",tags:["LEGO"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9320134312244",tags:["Stonz Cruiser"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9320134377780",tags:["Stonz Cruiser"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9320135196980",tags:["Teether"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9320135262516",tags:["Teether"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9320135524660",tags:["Teether"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9320135688500",tags:["Teether"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9320199192884",tags:["Board Game"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9320199258420",tags:["Board Game"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9320200929588",tags:["Board Game"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9320201453876",tags:["Board Game"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9320210268468",tags:["puzzles"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9320234582324",tags:["Arts & Crafts", "Christmas"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9320509473076",tags:["sensory toy"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9320626848052",tags:["Easter", "easter stuffed animals", "Easter Toy", "stuffed animal"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9320642707764",tags:["Easter", "easter stuffed animals", "stuffed animal"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9320651489588",tags:["stuffed animal"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9320652276020",tags:["Easter", "easter stuffed animals", "stuffed animal"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9320652865844",tags:["stuffed animal"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9320653324596",tags:["Easter", "easter stuffed animals", "stuffed animal"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9320653717812",tags:["Easter", "easter stuffed animals", "stuffed animal"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9320653979956",tags:["Easter", "easter stuffed animals", "stuffed animal"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9320654078260",tags:["Easter", "easter stuffed animals", "sensory toy"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9320656306484",tags:["Easter", "easter stuffed animals", "stuffed animal"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9320656470324",tags:["Easter", "easter stuffed animals", "stuffed animal"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9320656830772",tags:["Easter", "easter stuffed animals", "stuffed animal"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9320659517748",tags:["Magnetic Toy"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9320769159476",tags:["ball", "Sports Balls"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9320770339124",tags:["ball", "Sports Balls"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9320771551540",tags:["Easter", "puzzles"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9320775024948",tags:["Easter", "puzzles"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9320777056564",tags:["puzzles"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9320777548084",tags:["Outdoor Fun"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9320810086708",tags:[]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9320812380468",tags:[]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9320813166900",tags:["activity book", "Interactive Book"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9320813625652",tags:["Christmas book"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9320814117172",tags:["activity book", "Interactive Book"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9320814969140",tags:["activity book", "Easter", "puzzles"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9320816116020",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9320816673076",tags:["activity book"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9320817230132",tags:[]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9320817426740",tags:[]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9321147302196",tags:[]}){userErrors{message}}
+}

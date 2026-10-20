@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9283109290292",tags:["Canadian Company", "Made in Canada", "winter wear"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9283109355828",tags:["Canadian Company", "Made in Canada", "winter wear"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9283109519668",tags:["Canadian Company", "Made in Canada", "winter wear"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9283109617972",tags:["Canadian Company", "Made in Canada", "winter wear"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9283110502708",tags:["Canadian Company", "Made in Canada", "winter wear"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9283110764852",tags:["Canadian Company", "Made in Canada", "winter wear"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9283110928692",tags:["Canadian Company", "Made in Canada", "winter wear"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9283111223604",tags:["Canadian Company", "Made in Canada", "winter wear"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9283263856948",tags:["putty"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9283285221684",tags:["play doh", "putty"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9283306389812",tags:["putty", "Valentine"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9283500802356",tags:[]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9283501457716",tags:[]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9283501785396",tags:[]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9283560505652",tags:[]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9283561226548",tags:[]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9283661267252",tags:["Valentine"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9283661300020",tags:[]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9283661660468",tags:["Valentine"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9283662840116",tags:[]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9283733487924",tags:["Arts & Crafts", "pencils"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9283733815604",tags:["Arts & Crafts"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9283734765876",tags:["Arts & Crafts"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9283736273204",tags:["Valentine"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9283736928564",tags:["Arts & Crafts", "pen"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9283737682228",tags:["Arts & Crafts", "pen"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9283754328372",tags:[]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9284024303924",tags:["Canadian Company", "Made in Canada"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9284068573492",tags:["Canadian Company", "Made in Canada"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9284092068148",tags:["Canadian Company", "Made in Canada"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9284109828404",tags:["Canadian Company", "Made in Canada"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9284136632628",tags:["Made in Canada"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9284152787252",tags:["Made in Canada"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9284183228724",tags:["Made in Canada"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9284200497460",tags:["Made in Canada"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9284204134708",tags:["Canadian Company", "Made in Canada", "winter wear"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9284685201716",tags:["Teether"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9284686119220",tags:[]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9284688281908",tags:[]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9284689002804",tags:["Teether"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9284691820852",tags:["Teether"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9284694540596",tags:["Teether"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9284698243380",tags:[]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9284699914548",tags:[]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9284703355188",tags:["Valentine"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9284704403764",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9285452857652",tags:["Sticker Book", "stickers"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9285467668788",tags:["Arts & Crafts"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9285469405492",tags:["Arts & Crafts", "paint"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9285469569332",tags:["Arts & Crafts"]}){userErrors{message}}
+}

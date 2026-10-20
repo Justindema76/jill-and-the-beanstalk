@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9072270344500",tags:[]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9072303505716",tags:[]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9073453465908",tags:["water bottle"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9073530208564",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9073843110196",tags:["Made in Canada"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9074383651124",tags:[]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9076656505140",tags:["card game"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9078895149364",tags:[]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9089566474548",tags:[]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9089566736692",tags:[]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9090156658996",tags:["sippy cup"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9091602645300",tags:["bubbles", "Outdoor Fun"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9092175266100",tags:["card game"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9092176412980",tags:[]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9092233036084",tags:["_TX", "sensory toy"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9092254236980",tags:[]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9092258201908",tags:[]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9092259250484",tags:[]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9092372332852",tags:["Teether"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9092375445812",tags:[]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9096959787316",tags:[]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9100451676468",tags:["sensory toy"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9100453577012",tags:["card game"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9100455903540",tags:["card game"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9101098811700",tags:["sippy cup"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9101101105460",tags:["feeding", "feeding accessories"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9101110804788",tags:["bibs", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9102404256052",tags:["Canadian Company"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9102429716788",tags:["Canadian Company"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9102485422388",tags:["Outdoor Fun"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9106961039668",tags:["Canadian Brand", "greeting card", "Made in Canada"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9106962153780",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9107656769844",tags:["Lunch bag"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9110853943604",tags:[]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9110865740084",tags:[]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9111056122164",tags:["Herschel backpack"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9116060713268",tags:[]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9116420047156",tags:["Outdoor Fun"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9116429451572",tags:["Arts & Crafts"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9116775383348",tags:[]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9116874441012",tags:[]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9117507780916",tags:["Non-Toxic Bug Spray"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9118900781364",tags:["Costume Accessory", "Pretend Play"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9120367051060",tags:[]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9120369541428",tags:[]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9120370458932",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9122382872884",tags:["Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9122443591988",tags:["Pacifier"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9123476046132",tags:["Made in Canada"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9125394841908",tags:[]}){userErrors{message}}
+}

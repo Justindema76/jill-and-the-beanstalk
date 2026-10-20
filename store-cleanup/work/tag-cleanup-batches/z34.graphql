@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9254907019572",tags:["Board Game"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9254988775732",tags:[]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9255006208308",tags:["Christmas book"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9255016792372",tags:[]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9255030128948",tags:[]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9256419164468",tags:["card game"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9256456618292",tags:[]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9256457732404",tags:[]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9256485585204",tags:[]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9256494465332",tags:["boy stocking stuffer", "Toy Vehicles"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9256983232820",tags:[]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9256985755956",tags:[]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9258017980724",tags:["stocking stuffer"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9258022011188",tags:[]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9258905370932",tags:["Plush Toy"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9258906157364",tags:["Jewelry Boxes"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9259296227636",tags:["hard rattle", "STEM Toy"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9259526684980",tags:[]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9259532583220",tags:["oral care"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9259532714292",tags:[]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9259552506164",tags:["oral care"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9259554013492",tags:["baby health", "Baby Health Essentials"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9265113268532",tags:["baby health", "Baby Health Essentials"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9265282875700",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9265285005620",tags:[]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9265286021428",tags:[]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9265286873396",tags:["Kids Makeup"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9265288839476",tags:[]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9265630085428",tags:["Easter", "Socks"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9265650368820",tags:["Baby Doll", "doll"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9265651515700",tags:[]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9268225147188",tags:["Plush Toy"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9268227866932",tags:["Plush Toy"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9268228620596",tags:["Easter", "easter stuffed animals", "Plush Toy"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9268229865780",tags:["Plush Toy"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9268852785460",tags:[]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9268897939764",tags:[]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9269079703860",tags:["Socks"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9269079736628",tags:["20% Off", "Socks"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9269079769396",tags:["Socks"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9269079802164",tags:["Socks"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9269079834932",tags:["Socks"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9269079900468",tags:["Socks"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9269079933236",tags:["Socks"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9269079966004",tags:["Socks"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9269080621364",tags:["Socks"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9269080654132",tags:["Socks"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9269080686900",tags:["Socks"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9269081243956",tags:[]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9269081276724",tags:[]}){userErrors{message}}
+}

@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9277986734388",tags:["Arts & Crafts"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9277990273332",tags:[]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9277990895924",tags:[]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9278040801588",tags:[]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9278042669364",tags:[]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9278042767668",tags:[]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9278043259188",tags:["Easter"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9278046142772",tags:[]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9278048043316",tags:[]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9278673027380",tags:[]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9278682366260",tags:[]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9278687576372",tags:["puzzles", "sensory toy"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9278689280308",tags:["building toy"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9278697668916",tags:["building toy", "Magnetic Toy"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9278707237172",tags:["Valentine"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9278707925300",tags:[]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9278709563700",tags:["Christmas book"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9278710120756",tags:[]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9278710972724",tags:["activity book"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9278713102644",tags:["Interactive Book"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9278713692468",tags:["Arts & Crafts"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9278718312756",tags:["Interactive Book"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9278718476596",tags:["Interactive Book"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9278718837044",tags:["Interactive Book"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9278719394100",tags:["Interactive Book"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9278719754548",tags:["Interactive Book"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9278720737588",tags:["Interactive Book"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9278721098036",tags:["Interactive Book"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9278721294644",tags:["Interactive Book"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9278721491252",tags:["Interactive Book"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9278721851700",tags:["Interactive Book"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9278722244916",tags:["Interactive Book"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9278722539828",tags:["Interactive Book"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9278722998580",tags:["Interactive Book"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9278727749940",tags:["Interactive Book"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9278727913780",tags:["Interactive Book"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9278728208692",tags:["Interactive Book"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9278728864052",tags:["Interactive Book"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9278729060660",tags:["Interactive Book"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9278729290036",tags:["Interactive Book"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9278763761972",tags:["Interactive Book"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9278763893044",tags:["Interactive Book"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9278763958580",tags:["Interactive Book"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9278775820596",tags:["Musical Instruments", "musical toy"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9278776181044",tags:["Plush Rattle", "Teething Toy"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9278781161780",tags:["Plush Toy"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9278782669108",tags:["Plush Toy", "stuffed animal"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9278784405812",tags:["Plush Toy", "stuffed animal"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9278855807284",tags:[]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9278866456884",tags:[]}){userErrors{message}}
+}

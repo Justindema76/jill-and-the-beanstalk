@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/7607820091448",tags:["Canadian Company", "Made in Canada"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/7607844405304",tags:[]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/7607844601912",tags:[]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/7607846666296",tags:[]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/7607846731832",tags:[]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/7607906402360",tags:[]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/7607906435128",tags:[]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/7607906533432",tags:[]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/7607906893880",tags:["Sticker Book"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/7607910170680",tags:[]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/7607912726584",tags:[]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/7607915610168",tags:["Valentine"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/7607917838392",tags:[]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/7607917871160",tags:[]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/7607926292536",tags:[]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/7607926685752",tags:[]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/7607927406648",tags:[]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/7607927504952",tags:[]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/7607940415544",tags:[]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/7607974395960",tags:["Christmas", "Christmas book"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/7607974428728",tags:[]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/7607974527032",tags:[]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/7607974559800",tags:["Sticker Book"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/7607992156216",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/7608016470072",tags:["Christmas", "Christmas Gift"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/7608016535608",tags:["Christmas", "Christmas Gift"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/7608016601144",tags:["Christmas", "Christmas Gift"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/7608016666680",tags:["Christmas", "Christmas Gift"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/7608016797752",tags:["Christmas", "Christmas Gift"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/7608016896056",tags:["Christmas", "Christmas Gift"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/7608016961592",tags:["Christmas", "Christmas Gift"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/7608387829816",tags:["stuffed animal"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/7608388157496",tags:["stuffed animal"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/7608388255800",tags:["Easter Toy"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/7608491638840",tags:[]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/7992942723380",tags:["water bottle"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/7992980537652",tags:[]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/7995274854708",tags:["Pacifier"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/7995288125748",tags:[]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/7995316273460",tags:["Pacifier"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/7995684684084",tags:["Pacifier"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/7997678321972",tags:["feeding accessories"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/7997682352436",tags:["feeding", "feeding accessories"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/7997693428020",tags:[]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/8001027047732",tags:[]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/8001031078196",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/8001034223924",tags:[]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/8001420362036",tags:["Arts & Crafts"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/8002859729204",tags:[]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/8002861105460",tags:[]}){userErrors{message}}
+}

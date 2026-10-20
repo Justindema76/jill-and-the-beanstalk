@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9213746053428",tags:["kids skincare"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9213747691828",tags:["kids skincare"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9214039392564",tags:[]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9214400037172",tags:["kids skincare"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9214776639796",tags:["Teething Toy"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9217958674740",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9217958740276",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9217959067956",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9223181599028",tags:[]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9223293894964",tags:["Outdoor Fun"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9223300088116",tags:["Canadian Brand", "greeting card", "Made in Canada"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9223302316340",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9223302840628",tags:["Canadian Brand", "greeting card", "Made in Canada"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9223303397684",tags:["greeting card", "Made in Canada"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9223303823668",tags:["greeting card", "Made in Canada"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9224430944564",tags:[]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9224432124212",tags:[]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9224432419124",tags:[]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9224433664308",tags:["activity book"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9224434909492",tags:["activity book"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9224436449588",tags:[]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9224445854004",tags:["Arts & Crafts", "Canadian Company"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9224461779252",tags:["Canadian Company"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9224464662836",tags:["Canadian Company", "hair products"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9224464990516",tags:["Canadian Company"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9224465350964",tags:["Canadian Company", "hair products"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9224466137396",tags:["Canadian Company", "hair products"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9224471675188",tags:["Canadian Company", "Costume Accessory", "Hair Accessory"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9224472035636",tags:["Canadian Company"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9224473248052",tags:["Canadian Company", "Costume Accessory"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9224476786996",tags:["Canadian Company", "Kids Makeup"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9224477933876",tags:["Canadian Company"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9224478785844",tags:["Canadian Company"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9224543600948",tags:["Made in Canada"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9224545665332",tags:["Made in Canada"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9224546648372",tags:["Made in Canada"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9226585506100",tags:["bibs", "bibs with arms", "Canadian Company", "Made in Canada"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9226585571636",tags:["bibs", "bibs with arms", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9226586980660",tags:["bibs", "bibs with arms", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9226587210036",tags:["bibs", "bibs with arms", "Canadian Company"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9227059527988",tags:[]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9228703727924",tags:["Outdoor Fun"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9228704383284",tags:["Pretend Play"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9228708839732",tags:[]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9228733284660",tags:["b.box"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9228734890292",tags:["b.box", "sippy cup"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9228737249588",tags:["b.box", "sippy cup"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9231338537268",tags:["feeding"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9231340306740",tags:["thermometer"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9231340929332",tags:[]}){userErrors{message}}
+}

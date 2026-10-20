@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9147507835188",tags:["Valentine"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9147514290484",tags:[]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9147520975156",tags:["Valentine"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9147525267764",tags:["Valentine"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9147528347956",tags:[]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9148986818868",tags:["Canadian Company", "hair products", "Made in Canada"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9148987506996",tags:["hair products"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9148990161204",tags:["Canadian Company", "hair products"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9149008150836",tags:["Canadian Company", "hair products", "Made in Canada"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9149657383220",tags:["Costume Accessory", "Hair Accessory"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9149657710900",tags:["Costume Accessory"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9149658038580",tags:["Costume Accessory"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9149659185460",tags:["Canadian Company"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9149663904052",tags:["Canadian Company", "hair products", "Hairclips"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9149668819252",tags:["Canadian Company", "hair products"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9149671866676",tags:["Costume Accessory"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9149672292660",tags:["Canadian Company", "Costume Accessory", "Hair Accessory"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9149672522036",tags:["Costume Accessory"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9149673242932",tags:["Canadian Company"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9149690446132",tags:[]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9149715939636",tags:["Doll Playset", "Pretend Play"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9149723607348",tags:[]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9155189440820",tags:["Socks"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9160630141236",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9160636727604",tags:[]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9160637382964",tags:["activity book"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9160639611188",tags:[]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9160885600564",tags:[]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9160961392948",tags:[]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9160979120436",tags:["card game"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9160993046836",tags:[]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9161853108532",tags:["Easter", "easter stuffed animals", "Plush Rattle", "plush teether"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9161854288180",tags:[]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9161875226932",tags:[]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9161880404276",tags:["_TX", "sensory toy"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9161884959028",tags:["Board Game"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9163304665396",tags:["Made in Canada"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9163873026356",tags:["sensory toy"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9164831818036",tags:["_TX", "baby blanket", "Easter", "easter stuffed animals", "stuffed animal"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9167828615476",tags:[]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9167829827892",tags:[]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9168353034548",tags:["Pretend Play"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9168373252404",tags:[]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9168482894132",tags:[]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9168952262964",tags:[]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9168953377076",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9169260839220",tags:[]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9169266639156",tags:["science"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9169401348404",tags:["building blocks", "building toy", "creative toys", "LEGO"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9169765105972",tags:["_TX", "sensory toy"]}){userErrors{message}}
+}

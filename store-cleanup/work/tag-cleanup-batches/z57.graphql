@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9334726689076",tags:[]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9334729900340",tags:[]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9334731014452",tags:[]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9334739697972",tags:["Designed in Canada"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9334740549940",tags:["Designed in Canada"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9334741270836",tags:["Designed in Canada"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9334750282036",tags:["Designed in Canada"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9334751723828",tags:[]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9334866018612",tags:[]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9334869229876",tags:["fidget toy"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9335373365556",tags:["stuffed animal"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9335385915700",tags:["stuffed animal"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9335388930356",tags:["stuffed animal"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9335406330164",tags:["stuffed animal"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9335416979764",tags:["stuffed animal"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9335423107380",tags:["stuffed animal"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9335423402292",tags:["stuffed animal"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9335425925428",tags:["stuffed animal"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9335428874548",tags:["stuffed animal"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9335434314036",tags:["stuffed animal"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9335436181812",tags:["stuffed animal"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9336018993460",tags:[]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9336023417140",tags:["fidget toy"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9336025186612",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9336251973940",tags:["Baby Sun Hat", "sun hat"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9336300994868",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "sun hat"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9336304206132",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "sun hat"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9336705810740",tags:[]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9336707088692",tags:[]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9336707776820",tags:[]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9336708006196",tags:[]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9336709906740",tags:["Arts & Crafts"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9336710299956",tags:["Arts & Crafts"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9336713216308",tags:[]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9336715149620",tags:[]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9336725012788",tags:[]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9336733958452",tags:[]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9336737956148",tags:["Plush Rattle"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9336756535604",tags:[]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9336756699444",tags:[]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9336797888820",tags:[]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9336801427764",tags:["Educational Toy"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9336816828724",tags:[]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9336816927028",tags:[]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9336817320244",tags:[]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9336817516852",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9336855527732",tags:[]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9336858313012",tags:[]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9336858509620",tags:[]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9336858575156",tags:[]}){userErrors{message}}
+}

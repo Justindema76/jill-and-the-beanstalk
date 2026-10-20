@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/8172692275508",tags:[]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/8172706890036",tags:[]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/8177335468340",tags:[]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/8189627269428",tags:[]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/8191520670004",tags:["Easter Toy"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/8191535251764",tags:["Easter", "easter stuffed animals", "stuffed animal"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/8191541707060",tags:["Plush Toy", "stuffed animal"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/8201405432116",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/8203646370100",tags:["Plush Toy"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/8205225558324",tags:[]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/8205258195252",tags:["_TX"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/8207720874292",tags:[]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/8207728476468",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/8207729819956",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/8207730508084",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/8207731228980",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/8207732801844",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/8214254715188",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/8214389588276",tags:["greeting card"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/8214395552052",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/8215690838324",tags:[]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/8215691493684",tags:[]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/8215692837172",tags:["Board Game", "card game", "Classic Game"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/8215738810676",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/8215748051252",tags:["card game"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/8215750508852",tags:[]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/8229197480244",tags:[]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/8247072457012",tags:[]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/8247165878580",tags:[]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/8257535443252",tags:["Designed in Canada", "feeding", "feeding accessories"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/8259766452532",tags:["Kids Makeup"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/8261234524468",tags:[]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/8262483280180",tags:[]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/8262486851892",tags:[]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/8273088643380",tags:[]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/8278139896116",tags:["Made in Canada"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/8291797631284",tags:[]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/8291808739636",tags:[]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/8291810836788",tags:[]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/8318273487156",tags:["Lunch Accessories"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/8321723367732",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "Jan and Jul", "sun hat"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/8337910038836",tags:["Pretend Play"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/8337918984500",tags:["Costume Accessory", "Pretend Play", "Retro Toy"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/8338055233844",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/8342818750772",tags:["ball"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/8346258932020",tags:["Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/8346703331636",tags:["Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/8361579086132",tags:["sippy cup"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/8361630040372",tags:["baby bottle", "feeding accessories"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/8361642328372",tags:["feeding accessories"]}){userErrors{message}}
+}

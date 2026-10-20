@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9278866948404",tags:[]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9278870749492",tags:[]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9278879367476",tags:[]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9278882480436",tags:[]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9278882873652",tags:[]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9278885593396",tags:[]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9278886281524",tags:[]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9278887461172",tags:[]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9278888018228",tags:[]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9278889886004",tags:[]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9278890705204",tags:[]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9278890869044",tags:[]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9278893359412",tags:[]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9278894276916",tags:[]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9278895194420",tags:[]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9278896668980",tags:[]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9278985273652",tags:["Plush Toy"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9278991925556",tags:["Plush Toy", "stuffed animal"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9278997332276",tags:["activity book", "Sticker Book", "stickers"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9279008997684",tags:["Christmas book"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9279010275636",tags:[]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9279011127604",tags:[]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9279097667892",tags:[]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9279100354868",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9279134695732",tags:["Christmas book"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9279135318324",tags:["Halloween"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9279136334132",tags:["Christmas book"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9280590381364",tags:[]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9281906082100",tags:[]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9281926496564",tags:["Socks"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9282122350900",tags:["Baby Doll"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9282122940724",tags:["Baby Doll"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9282127888692",tags:[]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9282128609588",tags:[]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9282128970036",tags:[]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9282129789236",tags:["Stonz Cruiser"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9282647294260",tags:[]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9282647785780",tags:["blocks", "building blocks", "LEGO"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9282648965428",tags:["play doh", "putty"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9282678260020",tags:["purses"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9282678587700",tags:["Designed in Canada"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9282678849844",tags:["Designed in Canada"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9282679800116",tags:[]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9282810347828",tags:["Stonz Cruiser"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9283005284660",tags:["greeting card"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9283006071092",tags:["greeting card"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9283107225908",tags:["Canadian Company", "Made in Canada", "winter wear"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9283108995380",tags:["Canadian Company", "Made in Canada", "winter wear"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9283109093684",tags:["Canadian Company", "Made in Canada", "winter wear"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9283109191988",tags:["Canadian Company", "Made in Canada", "winter wear"]}){userErrors{message}}
+}

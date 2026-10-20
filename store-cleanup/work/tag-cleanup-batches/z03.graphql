@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/7606603448376",tags:[]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/7606629662776",tags:["Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/7606629761080",tags:["building blocks", "building toy", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/7606654795832",tags:["_TX"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/7606654926904",tags:[]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/7606655549496",tags:["baby health", "Baby Health Essentials"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/7606735798328",tags:["_TX", "Board Game"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/7606736388152",tags:["Board Game"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/7607105454136",tags:[]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/7607105486904",tags:["_TX"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/7607105749048",tags:[]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/7607105880120",tags:[]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/7607106076728",tags:["sensory toy"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/7607106109496",tags:["_TX", "ball"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/7607106207800",tags:[]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/7607106273336",tags:["Teether"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/7607130325048",tags:["musical toy"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/7607130456120",tags:["_TX"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/7607131045944",tags:[]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/7607131537464",tags:[]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/7607131570232",tags:[]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/7607132454968",tags:["Action Figures"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/7607132553272",tags:["Action Figures"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/7607132684344",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/7607133896760",tags:[]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/7607223255096",tags:["play doh"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/7607223353400",tags:["_TX", "play doh", "sensory toy"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/7607225745464",tags:["puzzles"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/7607225942072",tags:["Board Game"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/7607226007608",tags:[]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/7607421173816",tags:["Action Figures", "Retro Toy", "sensory toy", "STEM Toy"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/7607433822264",tags:["puzzles"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/7607771660344",tags:[]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/7607782211640",tags:[]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/7607782375480",tags:[]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/7607782441016",tags:[]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/7607782506552",tags:[]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/7607782539320",tags:[]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/7607782572088",tags:[]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/7607782670392",tags:[]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/7607786930232",tags:[]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/7607786963000",tags:[]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/7607786995768",tags:["Canadian Company", "Made in Canada"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/7607817502776",tags:["Board Game"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/7607819403320",tags:["_TX"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/7607819436088",tags:["Canadian Company", "Made in Canada"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/7607819829304",tags:[]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/7607819862072",tags:[]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/7607819927608",tags:[]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/7607820025912",tags:["Canadian Company", "Made in Canada"]}){userErrors{message}}
+}

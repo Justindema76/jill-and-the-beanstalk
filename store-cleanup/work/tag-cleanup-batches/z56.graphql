@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9330693407028",tags:[]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9330693767476",tags:[]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9330994610484",tags:["Canadian Brand", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9330998444340",tags:["Canadian Brand", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9331417252148",tags:["children's sunglasses", "kids sunglasses"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9331418136884",tags:["children's sunglasses", "kids sunglasses"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9331452903732",tags:["children's sunglasses", "kids sunglasses"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9331482165556",tags:["children's sunglasses", "kids sunglasses"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9331488555316",tags:[]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9331488915764",tags:["doll", "Doll Accessories", "Doll Playset", "Dolls for Toddlers"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9331491406132",tags:["Baby Doll", "Dolls for Toddlers"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9331492553012",tags:["Baby Doll", "doll", "Dolls for Toddlers"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9331645186356",tags:[]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9331809386804",tags:[]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9331809714484",tags:[]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9331809878324",tags:[]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9331810140468",tags:[]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9331845136692",tags:[]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9331848806708",tags:["fidget toy", "sensory toy", "stress ball"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9331849036084",tags:["fidget toy", "sensory toy", "stress ball"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9331849756980",tags:[]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9331852214580",tags:[]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9331856769332",tags:[]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9331945668916",tags:["card game", "Classic Game"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9332684325172",tags:["Pretend Play"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9332685406516",tags:[]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9332685635892",tags:[]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9332795048244",tags:["Stonz Cruiser"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9332795081012",tags:["Stonz Cruiser"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9333037531444",tags:["sensory toy"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9333047099700",tags:["Socks"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9333057814836",tags:["20% Off", "Socks"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9333080686900",tags:[]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9333406171444",tags:["Arts & Crafts"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9333407711540",tags:["Arts & Crafts"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9333409808692",tags:["stickers"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9333410431284",tags:["stickers"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9333412102452",tags:["stickers"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9333413970228",tags:[]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9333587542324",tags:["Kids Makeup"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9333587607860",tags:[]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9333589147956",tags:[]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9333589279028",tags:["Toy Vehicles"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9333732901172",tags:["Pretend Play"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9334233235764",tags:["puzzles"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9334535291188",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9334535815476",tags:[]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9334536470836",tags:["Lunch bag"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9334699622708",tags:["baby bottle"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9334723838260",tags:["Costume Accessory", "purses"]}){userErrors{message}}
+}

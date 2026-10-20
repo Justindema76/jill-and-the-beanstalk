@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/7217475780664",tags:[]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/7217536794680",tags:[]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/7217553932344",tags:[]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/7217595777080",tags:["Pacifier"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/7217595908152",tags:["Pacifier"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/7217786978360",tags:[]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/7217787306040",tags:[]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/7217801953336",tags:[]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/7601699520568",tags:[]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/7601731502136",tags:["Made in Canada", "mom"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/7601731600440",tags:["Made in Canada", "mom"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/7601809129528",tags:["sippy cup"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/7601809227832",tags:["_TX"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/7601809621048",tags:[]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/7601849761848",tags:["Plush Toy", "stuffed animal"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/7602010488888",tags:[]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/7602025168952",tags:[]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/7602028445752",tags:["sensory toy", "STEM Toy"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/7602028544056",tags:[]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/7602028675128",tags:[]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/7602085331000",tags:[]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/7602085363768",tags:["STEM Toy", "Toy Vehicles"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/7602114658360",tags:["STEM Toy"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/7602146672696",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/7602146869304",tags:[]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/7602146902072",tags:[]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/7602147262520",tags:[]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/7602703925304",tags:[]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/7602706153528",tags:[]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/7603653378104",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/7603657408568",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/7603657506872",tags:["greeting card"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/7603657637944",tags:[]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/7603657703480",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/7603671072824",tags:[]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/7603671105592",tags:["Canadian Company", "mom", "mom help"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/7603684704312",tags:[]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/7603684868152",tags:[]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/7603728678968",tags:[]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/7604151451704",tags:["Baby Doll"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/7604151713848",tags:[]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/7604517896248",tags:[]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/7604531101752",tags:[]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/7604531462200",tags:[]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/7604531527736",tags:[]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/7604532052024",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/7604532805688",tags:["doll clothing"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/7604551057464",tags:[]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/7604617642040",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/7604617773112",tags:["Canadian Brand", "greeting card", "Made in Canada"]}){userErrors{message}}
+}

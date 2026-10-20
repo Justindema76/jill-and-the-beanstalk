@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9125723636020",tags:["Pacifier"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9127111786804",tags:["Lunch Gear"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9128390689076",tags:[]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9128398225716",tags:[]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9128439808308",tags:[]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9128443380020",tags:[]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9128452489524",tags:[]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9128460910900",tags:[]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9128475853108",tags:[]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9128590278964",tags:[]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9134016463156",tags:["building blocks", "building toy", "creative toys", "LEGO"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9134030553396",tags:["_TX", "building blocks", "building toy", "creative toys", "LEGO"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9134087831860",tags:[]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9135679373620",tags:[]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9135685894452",tags:["baby health", "Baby Health Essentials"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9135694905652",tags:["Made in Canada"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9135696380212",tags:["Made in Canada"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9135727214900",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9135730688308",tags:["sensory toy"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9135768404276",tags:["mom", "mom help"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9135773712692",tags:["Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9135775220020",tags:["Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9136220930356",tags:["Easter", "easter stuffed animals"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9138271224116",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9138272829748",tags:["boy stocking stuffer", "Toy Vehicles"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9138275189044",tags:["play doh", "sensory toy"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9138284888372",tags:["_TX", "sensory toy"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9138293670196",tags:["hair products"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9138397348148",tags:["Baby Bath Toy", "sensory toy"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9138401083700",tags:[]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9138402197812",tags:["puzzles"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9138651693364",tags:["Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9143978754356",tags:[]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9144008966452",tags:["Arts & Crafts", "pen"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9144264622388",tags:["Toy Vehicles"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9144656003380",tags:["Made in Canada"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9145661620532",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9145701728564",tags:["Board Game", "card game"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9145702056244",tags:["card game", "sensory toy"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9145703235892",tags:["card game"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9145704481076",tags:[]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9145726173492",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9145726206260",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9145726337332",tags:["Made in Canada"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9145726533940",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9145726632244",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9147464220980",tags:["Costume Accessory", "purses"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9147476738356",tags:[]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9147479884084",tags:["Valentine"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9147496825140",tags:[]}){userErrors{message}}
+}

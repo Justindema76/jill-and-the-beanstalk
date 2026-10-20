@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9250060468532",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9250060534068",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9250060599604",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9250062205236",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9250062893364",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9250063253812",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9250063286580",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9250063384884",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9250075803956",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9250075902260",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9250075935028",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9250077376820",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9250077409588",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9250077442356",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9250077573428",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9250142978356",tags:[]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9250169913652",tags:["umbrella"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9250171453748",tags:["umbrella"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9250172174644",tags:["umbrella"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9250172731700",tags:["Easter", "Pretend Play"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9250294399284",tags:[]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9250294497588",tags:[]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9250296168756",tags:[]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9250355347764",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9250355380532",tags:[]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9250369372468",tags:["Board Game"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9250376188212",tags:["LEGO"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9250377433396",tags:["LEGO"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9250386116916",tags:[]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9250386149684",tags:[]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9250386182452",tags:[]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9250386215220",tags:[]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9250386280756",tags:[]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9250395849012",tags:[]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9250400207156",tags:[]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9250401157428",tags:[]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9250401681716",tags:[]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9250404991284",tags:[]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9250407711028",tags:[]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9250462597428",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear", "Waterproof"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9250463646004",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9250463678772",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9250463711540",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9250463744308",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9250476425524",tags:["baby blanket", "swaddle"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9250476491060",tags:["baby blanket", "swaddle"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9250476523828",tags:["baby blanket", "swaddle"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9250539569460",tags:["Canadian Company", "Designed in Canada", "Made in Canada", "swaddle"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9250552742196",tags:["Canadian Company", "Designed in Canada", "swaddle"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9250556674356",tags:["Canadian Company", "Designed in Canada", "swaddle"]}){userErrors{message}}
+}

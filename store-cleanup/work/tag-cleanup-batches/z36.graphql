@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9273134088500",tags:["Costume Earrings", "Designed in Canada"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9273134219572",tags:[]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9273134416180",tags:["Designed in Canada", "Sticker Earrings"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9273134514484",tags:[]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9273568035124",tags:["Outdoor Fun", "Pretend Play"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9273568297268",tags:["Pretend Play", "Retro Toy"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9273710903604",tags:["Made in Canada"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9274125386036",tags:[]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9274127352116",tags:[]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9274127417652",tags:[]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9274129383732",tags:[]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9274129678644",tags:[]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9274130563380",tags:["purses"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9274130989364",tags:[]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9274261995828",tags:["umbrella"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9274262126900",tags:["umbrella"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9274262356276",tags:["umbrella"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9274262651188",tags:["umbrella"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9274266747188",tags:["umbrella"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9274450346292",tags:[]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9275444887860",tags:["Designed in Canada"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9275445150004",tags:["STEM Toy"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9275445674292",tags:["building toy", "creative toys"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9275450982708",tags:["building toy"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9275451146548",tags:["Educational Toy", "science"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9275882537268",tags:["science"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9275913273652",tags:["science"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9275920580916",tags:["Arts & Crafts"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9275925561652",tags:["science"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9276012396852",tags:[]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9276035399988",tags:["Room Decor"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9276090941748",tags:["bibs"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9276091203892",tags:["Pacifier"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9276092645684",tags:["bibs"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9276100444468",tags:["Baby Pacifier Clip"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9276298461492",tags:[]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9276301803828",tags:["Lunch bag"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9276302164276",tags:["Lunch bag"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9276306948404",tags:["Lunch bag"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9276307865908",tags:[]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9276309242164",tags:[]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9276313403700",tags:[]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9276315566388",tags:[]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9276349120820",tags:["purses"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9276349219124",tags:["purses"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9276349350196",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9276349415732",tags:[]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9276349514036",tags:[]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9277844455732",tags:["hair brush", "hair products"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9277952852276",tags:["Christmas book"]}){userErrors{message}}
+}

@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9241218515252",tags:["Board Game"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9241218679092",tags:["Board Game"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9242152796468",tags:[]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9242166296884",tags:["Outdoor Fun"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9242166329652",tags:["Outdoor Fun"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9242167869748",tags:["Arts & Crafts"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9242168623412",tags:["Easter", "easter stuffed animals", "Plush Rattle"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9242168656180",tags:["Easter", "easter stuffed animals", "Plush Rattle"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9242169835828",tags:["Plush Rattle", "Plush Toy", "stuffed animal"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9242169901364",tags:["Plush Rattle", "Plush Toy", "stuffed animal"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9242177470772",tags:["Arts & Crafts"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9242184417588",tags:[]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9242897875252",tags:["kids skincare", "Sunscreen for Babies"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9242898366772",tags:["kids skincare", "Sunscreen for Babies"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9242898825524",tags:["kids skincare", "Made in Canada", "sunscreen"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9242918748468",tags:[]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9242920517940",tags:["Baby Bath Toy", "Educational Toy", "Interactive Book", "sensory toy"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9242920550708",tags:["Baby Bath Toy", "Educational Toy", "Interactive Book", "sensory toy"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9242921271604",tags:["sensory toy"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9242926842164",tags:["sensory toy"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9242940866868",tags:["Herschel backpack"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9242941391156",tags:["Herschel backpack"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9242952433972",tags:["Herschel backpack"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9242952827188",tags:["Herschel backpack"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9242952859956",tags:["Herschel backpack"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9242954858804",tags:["Herschel backpack"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9242955055412",tags:["Herschel backpack"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9242985333044",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9242985365812",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9242985431348",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9242986873140",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9242986905908",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9242986971444",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9242987036980",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9242987069748",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9242987102516",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9242987168052",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9242987200820",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9242987233588",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9242987364660",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9242987462964",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9242990477620",tags:["Herschel backpack"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9243083014452",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9243083047220",tags:["Canadian Company", "Designed in Canada", "water bottle"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9243085865268",tags:["Canadian Company", "Designed in Canada", "water bottle"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9243085930804",tags:["Canadian Company", "Designed in Canada", "water bottle"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9243085963572",tags:["Lunch bag"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9243085996340",tags:["Lunch bag"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9243086029108",tags:["Lunch bag"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9243086094644",tags:["Lunch bag"]}){userErrors{message}}
+}

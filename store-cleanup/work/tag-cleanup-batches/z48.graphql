@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9314295972148",tags:[]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9314323693876",tags:["Toy Vehicles"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9314324021556",tags:["Toy Vehicles"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9314338373940",tags:["Toy Vehicles"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9314338603316",tags:["Toy Vehicles"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9314340405556",tags:[]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9314539077940",tags:["Retro Game"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9314644361524",tags:["Board Game"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9314645082420",tags:["Board Game"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9314645541172",tags:["LEGO"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9314647507252",tags:["LEGO"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9314648850740",tags:["LEGO"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9314654159156",tags:["LEGO"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9314854764852",tags:[]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9314887106868",tags:["Canadian Brand", "Canadian Company"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9314896150836",tags:["Lunch Gear", "water bottle"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9314896183604",tags:["Lunch Gear", "water bottle"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9314896281908",tags:["Lunch Gear", "water bottle"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9314896347444",tags:["Lunch Gear", "water bottle"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9314896445748",tags:["Lunch Gear", "water bottle"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9314896511284",tags:["Lunch Gear", "water bottle"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9314897985844",tags:["sippy cup"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9314898051380",tags:["sippy cup"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9314898116916",tags:["sippy cup"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9314898215220",tags:["sippy cup"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9314902212916",tags:["sippy cup"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9314904342836",tags:[]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9314904408372",tags:[]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9314904441140",tags:[]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9314904473908",tags:[]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9314904539444",tags:[]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9314904604980",tags:[]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9314904637748",tags:[]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9314911748404",tags:["Lunch Gear"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9314911781172",tags:["Lunch Gear"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9314911813940",tags:["Lunch Gear"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9314911879476",tags:["Lunch Gear"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9314911945012",tags:["Lunch Gear"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9314912076084",tags:["Lunch Gear"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9314912108852",tags:["Lunch Gear"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9314912141620",tags:["Lunch Gear"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9315003629876",tags:[]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9315003957556",tags:[]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9315003990324",tags:[]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9315008774452",tags:["sippy cup"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9315386491188",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9315399336244",tags:["Action Figures"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9315498066228",tags:["baby wipes"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9315499213108",tags:[]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9315499934004",tags:["Teether", "Teething Toy"]}){userErrors{message}}
+}

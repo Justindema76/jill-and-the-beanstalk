@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9178562167092",tags:["Action Figures", "Local Pickup Toronto"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9178569703732",tags:["Board Game"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9178581762356",tags:[]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9182155702580",tags:["Canadian Company", "Easter"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9189978767668",tags:["sensory toy"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9189981520180",tags:["Baby Doll", "doll"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9189983093044",tags:["doll"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9189983879476",tags:["doll"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9189987877172",tags:[]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9190039093556",tags:[]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9190043386164",tags:["Canadian Company", "cleaner", "Made in Canada"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9190610043188",tags:["activity book"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9191110246708",tags:[]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9191117685044",tags:["activity book", "Arts & Crafts", "Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9192600895796",tags:["Baby Pacifier Clip", "Canadian Company", "Designed in Canada", "Teething Clip"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9192605221172",tags:["Made in Canada", "sippy cup"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9192608170292",tags:["Plush Rattle"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9192728690996",tags:[]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9192820638004",tags:["Socks"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9193401516340",tags:["Canadian Brand", "greeting card", "Made in Canada"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9193403646260",tags:["kids skincare"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9193408561460",tags:["Canadian Brand", "Made in Canada"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9195124785460",tags:[]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9195512824116",tags:["kids skincare"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9195513217332",tags:[]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9196823576884",tags:["hair products"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9196825477428",tags:["detangler"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9197057114420",tags:["Made in Canada"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9197059146036",tags:["Made in Canada"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9197061505332",tags:["oral care"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9197063897396",tags:["Lunch Gear", "Made in Canada"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9197064847668",tags:["Canadian Company", "Designed in Canada", "feeding", "feeding accessories"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9197065437492",tags:[]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9197340295476",tags:["Canadian Brand", "greeting card", "Made in Canada"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9197341933876",tags:["Canadian Brand", "greeting card", "Made in Canada"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9197346849076",tags:["Canadian Brand", "greeting card", "Made in Canada"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9197602210100",tags:["Made in Canada"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9197642645812",tags:["Board Game"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9197643039028",tags:[]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9197643268404",tags:[]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9198373503284",tags:["Pacifier"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9198493925684",tags:[]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9199013921076",tags:["Made in Canada"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9199014084916",tags:["Made in Canada"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9199014248756",tags:["Made in Canada"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9199271772468",tags:["Canadian Company"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9199272657204",tags:["Canadian Company", "Made in Canada", "Valentine"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9199277736244",tags:["Canadian Company", "hair products"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9199289172276",tags:["Canadian Company", "Costume Accessory"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9199300706612",tags:["Canadian Company"]}){userErrors{message}}
+}

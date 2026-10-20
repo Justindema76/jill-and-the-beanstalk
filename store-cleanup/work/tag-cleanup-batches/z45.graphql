@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9307531575604",tags:["Canadian Company", "greeting card", "Made in Canada"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9307531706676",tags:["Canadian Company", "greeting card", "Made in Canada"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9307532984628",tags:["Canadian Company", "greeting card", "Made in Canada"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9307533050164",tags:["Canadian Company", "greeting card", "Made in Canada"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9307533115700",tags:["Canadian Company", "greeting card", "Made in Canada"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9307539177780",tags:["Canadian Company", "greeting card", "Made in Canada"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9307542683956",tags:["Canadian Company", "greeting card", "Made in Canada"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9307542880564",tags:["Canadian Company", "greeting card", "Made in Canada"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9307544813876",tags:["Canadian Company", "greeting card", "Made in Canada"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9307805188404",tags:["puzzles"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9307977482548",tags:["baby blanket"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9307978924340",tags:["hair brush"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9307980398900",tags:["Teether"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9307982659892",tags:[]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9307983708468",tags:["baby safety", "Safety"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9307983970612",tags:["baby safety", "Safety"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9307987935540",tags:[]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9307991671092",tags:[]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9307993473332",tags:[]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9308006678836",tags:[]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9308013592884",tags:["Teether"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9308023750964",tags:["Baby Bath Toy"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9308026143028",tags:["Baby Bath Toy"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9308032729396",tags:["Teether"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9308033777972",tags:["Teether"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9308040593716",tags:["Teether"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9308043936052",tags:[]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9308052652340",tags:[]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9308069134644",tags:["sensory toy"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9308071067956",tags:["sensory toy"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9308072247604",tags:["sensory toy"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9308166717748",tags:["stuffed animal"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9308175728948",tags:["stuffed animal"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9308198830388",tags:["Easter", "easter stuffed animals", "plush teether", "Teether"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9308206596404",tags:["stuffed animal"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9308208464180",tags:["stuffed animal"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9308465332532",tags:["stuffed animal"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9308499968308",tags:["Easter", "easter stuffed animals", "stuffed animal"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9308529492276",tags:["Easter", "easter stuffed animals", "stuffed animal"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9308529590580",tags:["Easter", "easter stuffed animals", "stuffed animal"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9308530245940",tags:["Easter", "easter stuffed animals", "stuffed animal"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9308531360052",tags:["stuffed animal"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9308532146484",tags:["Easter", "easter stuffed animals", "stuffed animal"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9308533653812",tags:["stuffed animal"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9308533719348",tags:["stuffed animal"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9308536406324",tags:["stuffed animal"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9308536799540",tags:["stuffed animal"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9308538667316",tags:["stuffed animal"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9308538700084",tags:["stuffed animal"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9308540764468",tags:["stuffed animal"]}){userErrors{message}}
+}

@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9304053842228",tags:["Arts & Crafts"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9304053874996",tags:["Arts & Crafts"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9304053907764",tags:["Arts & Crafts"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9304053940532",tags:["activity book", "Arts & Crafts"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9304060395828",tags:[]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9304358355252",tags:[]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9304704647476",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Socks"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9304704713012",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Socks"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9304704778548",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Socks"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9304704811316",tags:["Canadian Brand", "Canadian Company", "Designed in Canada", "Socks"]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9304714379572",tags:["Socks"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9304714445108",tags:["Socks"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9304714477876",tags:["Socks"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9304714510644",tags:["Socks"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9304714543412",tags:["Socks"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9304714674484",tags:["Socks"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9304714707252",tags:["Socks"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9304714740020",tags:["Socks"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9304714772788",tags:["Socks"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9304714805556",tags:["Socks"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9304714871092",tags:["Socks"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9304714903860",tags:["Socks"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9304714969396",tags:["Socks"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9304721228084",tags:["Socks"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9305215009076",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "sun hat"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9305215041844",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "sun hat"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9305225691444",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "sun hat"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9305225724212",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "sun hat"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9305225756980",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "sun hat"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9305225789748",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "sun hat"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9305225822516",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "sun hat"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9305225888052",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "sun hat"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9305225953588",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "sun hat"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9305226084660",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "sun hat"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9305226150196",tags:["Baby Sun Hat", "Canadian Company", "Designed in Canada", "sun hat"]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9305237422388",tags:["Pacifier"]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9305343164724",tags:["winter wear"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9305343230260",tags:["winter wear"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9305343394100",tags:[]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9305343459636",tags:[]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9305344082228",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9305344114996",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9305344147764",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9305344180532",tags:["Canadian Company", "Designed in Canada"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9307487338804",tags:["Easter"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9307487764788",tags:["Easter"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9307492450612",tags:["Toy Vehicles"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9307499495732",tags:["musical toy"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9307529838900",tags:["Canadian Company", "greeting card", "Made in Canada"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9307530035508",tags:["Canadian Company", "greeting card", "Made in Canada"]}){userErrors{message}}
+}

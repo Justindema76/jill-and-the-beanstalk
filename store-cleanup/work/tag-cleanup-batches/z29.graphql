@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9247841288500",tags:["baby blanket"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9247841321268",tags:["baby blanket"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9247841485108",tags:["baby blanket"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9247841517876",tags:["baby blanket"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9247841583412",tags:["baby blanket"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9247841648948",tags:["baby blanket"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9247841681716",tags:["baby blanket"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9247841714484",tags:["baby blanket"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9247842140468",tags:["baby blanket"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9247858819380",tags:[]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9247858917684",tags:[]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9247858983220",tags:[]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9247859081524",tags:[]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9247859179828",tags:[]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9247859278132",tags:[]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9247862423860",tags:[]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9247862489396",tags:[]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9247862522164",tags:[]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9247862587700",tags:[]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9247862653236",tags:[]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9247862718772",tags:[]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9247862817076",tags:[]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9247864914228",tags:[]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9247865012532",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9248346243380",tags:[]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9248354926900",tags:["hair bands"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9248355057972",tags:["hair bands"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9248358072628",tags:["hair bands"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9248358170932",tags:["hair bands"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9248358269236",tags:["hair bands"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9248358334772",tags:["hair bands"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9248368099636",tags:[]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9248368329012",tags:[]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9248368394548",tags:["Costume Accessory", "creative toys", "sensory toy"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9248368918836",tags:[]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9248370786612",tags:[]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9248371278132",tags:[]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9248371310900",tags:[]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9248372818228",tags:["Canadian Company", "Costume Accessory"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9248373145908",tags:[]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9248377602356",tags:["Arts & Crafts"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9248377700660",tags:["Arts & Crafts"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9248378814772",tags:["Pretend Play", "stickers"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9248379863348",tags:["Baby Doll", "Doll Accessories", "Doll Playset", "doll", "Pretend Play"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9248380289332",tags:["Baby Doll", "Doll Accessories", "Doll Playset", "doll", "Pretend Play"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9248380354868",tags:["doll", "Made in Canada"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9248380617012",tags:["Baby Doll", "doll", "Made in Canada"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9248422986036",tags:["Costume Accessory"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9248426262836",tags:["Costume Accessory"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9248426590516",tags:["Costume Accessory", "Pretend Play"]}){userErrors{message}}
+}

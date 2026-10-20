@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/8035979723060",tags:["card game", "sensory toy"]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/8036002824500",tags:[]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/8036010295604",tags:["Valentine"]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/8036042277172",tags:[]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/8036138516788",tags:["activity book"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/8036178723124",tags:[]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/8036187111732",tags:[]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/8036396400948",tags:["doll"]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/8036404920628",tags:[]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/8038762643764",tags:[]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/8038883590452",tags:["card game", "Classic Game"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/8040816640308",tags:[]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/8046686994740",tags:[]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/8049477157172",tags:[]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/8050533073204",tags:[]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/8058211860788",tags:[]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/8058232996148",tags:["Valentine"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/8058236272948",tags:[]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/8058239287604",tags:[]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/8058240500020",tags:["_TX"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/8058241745204",tags:[]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/8058242564404",tags:["building toy", "sensory toy", "STEM Toy"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/8058250101044",tags:[]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/8065600684340",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/8065604944180",tags:[]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/8070087442740",tags:["Canadian Company"]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/8070098616628",tags:[]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/8070101827892",tags:[]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/8070106186036",tags:[]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/8070127681844",tags:[]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/8070147146036",tags:[]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/8070164873524",tags:["_TX"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/8071186121012",tags:[]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/8071720304948",tags:["Canadian Company", "Designed in Canada", "Made in Canada"]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/8076793741620",tags:[]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/8076801933620",tags:[]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/8082286281012",tags:["greeting card"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/8082323145012",tags:["greeting card"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/8086370681140",tags:["Baby Swimwear", "Swim Diaper", "Swimwear"]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/8086394372404",tags:["Baby Swimwear", "Swim Diaper", "Swimwear"]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/8090169213236",tags:[]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/8090261782836",tags:[]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/8090305003828",tags:[]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/8090315948340",tags:["mom"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/8090333511988",tags:[]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/8090351010100",tags:["Made in Canada"]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/8101357027636",tags:["mom"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/8101414306100",tags:["baby cream"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/8101440061748",tags:[]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/8102789677364",tags:[]}){userErrors{message}}
+}

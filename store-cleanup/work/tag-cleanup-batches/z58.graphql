@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9336858771764",tags:[]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9336858870068",tags:["fidget toy"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9336859951412",tags:[]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9336860148020",tags:[]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9336860672308",tags:[]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9336860836148",tags:[]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9336861294900",tags:[]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9336861458740",tags:[]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9336862146868",tags:["kite"]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9336862474548",tags:[]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9336862834996",tags:[]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9336868995380",tags:["Lunch bag"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9336869093684",tags:["Lunch bag"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9336869126452",tags:["Lunch bag"]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9336869454132",tags:["Lunch bag"]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9336869945652",tags:["Lunch bag"]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9336870043956",tags:["Lunch bag"]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9336871289140",tags:[]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9336871518516",tags:[]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9339639988532",tags:["Bracelet Making Kit"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9339641659700",tags:[]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9339647230260",tags:["Arts & Crafts"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9339654242612",tags:["Toy Vehicles"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9339655192884",tags:[]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9339667284276",tags:["card game"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9339669053748",tags:[]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9339882012980",tags:["Herschel backpack"]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9339882078516",tags:["Herschel backpack"]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9339882373428",tags:["Herschel backpack"]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9339882635572",tags:["Lunch bag"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9339883192628",tags:["Canadian Company"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9339883585844",tags:["Canadian Company"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9339883913524",tags:[]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9339884241204",tags:[]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9339884306740",tags:[]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9339885125940",tags:[]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9339885584692",tags:[]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9339885617460",tags:[]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9339886633268",tags:[]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9339887092020",tags:[]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9339887518004",tags:["Lunch bag"]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9339887714612",tags:["Lunch bag"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9339888828724",tags:["Herschel backpack"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9339888861492",tags:["Herschel backpack"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9339888894260",tags:["Herschel backpack"]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9341190897972",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9341277241652",tags:["fidget toy"]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9341277405492",tags:["fidget toy"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9341278290228",tags:["fidget toy"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9341659742516",tags:["Arts & Crafts"]}){userErrors{message}}
+}

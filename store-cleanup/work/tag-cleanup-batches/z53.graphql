@@ -1,0 +1,52 @@
+mutation{
+p0:productUpdate(product:{id:"gid://shopify/Product/9323606475060",tags:[]}){userErrors{message}}
+p1:productUpdate(product:{id:"gid://shopify/Product/9323606606132",tags:["puzzles"]}){userErrors{message}}
+p2:productUpdate(product:{id:"gid://shopify/Product/9323606999348",tags:[]}){userErrors{message}}
+p3:productUpdate(product:{id:"gid://shopify/Product/9323607359796",tags:["Musical Instruments", "musical toy"]}){userErrors{message}}
+p4:productUpdate(product:{id:"gid://shopify/Product/9323608473908",tags:["Toy Vehicles"]}){userErrors{message}}
+p5:productUpdate(product:{id:"gid://shopify/Product/9323609751860",tags:["puzzles"]}){userErrors{message}}
+p6:productUpdate(product:{id:"gid://shopify/Product/9323610767668",tags:["puzzles"]}){userErrors{message}}
+p7:productUpdate(product:{id:"gid://shopify/Product/9323611259188",tags:[]}){userErrors{message}}
+p8:productUpdate(product:{id:"gid://shopify/Product/9323611717940",tags:[]}){userErrors{message}}
+p9:productUpdate(product:{id:"gid://shopify/Product/9323611947316",tags:[]}){userErrors{message}}
+p10:productUpdate(product:{id:"gid://shopify/Product/9323614503220",tags:["Board Game"]}){userErrors{message}}
+p11:productUpdate(product:{id:"gid://shopify/Product/9323614929204",tags:["LEGO"]}){userErrors{message}}
+p12:productUpdate(product:{id:"gid://shopify/Product/9323615289652",tags:["LEGO"]}){userErrors{message}}
+p13:productUpdate(product:{id:"gid://shopify/Product/9323616043316",tags:[]}){userErrors{message}}
+p14:productUpdate(product:{id:"gid://shopify/Product/9323616207156",tags:[]}){userErrors{message}}
+p15:productUpdate(product:{id:"gid://shopify/Product/9323616862516",tags:[]}){userErrors{message}}
+p16:productUpdate(product:{id:"gid://shopify/Product/9323617452340",tags:[]}){userErrors{message}}
+p17:productUpdate(product:{id:"gid://shopify/Product/9323743183156",tags:["Arts & Crafts"]}){userErrors{message}}
+p18:productUpdate(product:{id:"gid://shopify/Product/9323743314228",tags:["Sticker Book", "stickers"]}){userErrors{message}}
+p19:productUpdate(product:{id:"gid://shopify/Product/9323743609140",tags:["Sticker Book", "stickers"]}){userErrors{message}}
+p20:productUpdate(product:{id:"gid://shopify/Product/9323743805748",tags:["Sticker Book", "stickers"]}){userErrors{message}}
+p21:productUpdate(product:{id:"gid://shopify/Product/9323744559412",tags:["Sticker Book", "stickers"]}){userErrors{message}}
+p22:productUpdate(product:{id:"gid://shopify/Product/9323744788788",tags:["Sticker Book", "stickers"]}){userErrors{message}}
+p23:productUpdate(product:{id:"gid://shopify/Product/9323745280308",tags:["Sticker Book", "stickers"]}){userErrors{message}}
+p24:productUpdate(product:{id:"gid://shopify/Product/9323748327732",tags:["Sticker Book", "stickers"]}){userErrors{message}}
+p25:productUpdate(product:{id:"gid://shopify/Product/9323906990388",tags:[]}){userErrors{message}}
+p26:productUpdate(product:{id:"gid://shopify/Product/9323909972276",tags:[]}){userErrors{message}}
+p27:productUpdate(product:{id:"gid://shopify/Product/9323911250228",tags:[]}){userErrors{message}}
+p28:productUpdate(product:{id:"gid://shopify/Product/9324049498420",tags:[]}){userErrors{message}}
+p29:productUpdate(product:{id:"gid://shopify/Product/9324051202356",tags:["sensory toy"]}){userErrors{message}}
+p30:productUpdate(product:{id:"gid://shopify/Product/9324205572404",tags:["Designed in Canada"]}){userErrors{message}}
+p31:productUpdate(product:{id:"gid://shopify/Product/9324227756340",tags:["puzzles"]}){userErrors{message}}
+p32:productUpdate(product:{id:"gid://shopify/Product/9324232933684",tags:["puzzles"]}){userErrors{message}}
+p33:productUpdate(product:{id:"gid://shopify/Product/9324234080564",tags:[]}){userErrors{message}}
+p34:productUpdate(product:{id:"gid://shopify/Product/9324664357172",tags:[]}){userErrors{message}}
+p35:productUpdate(product:{id:"gid://shopify/Product/9324665471284",tags:[]}){userErrors{message}}
+p36:productUpdate(product:{id:"gid://shopify/Product/9324667011380",tags:["card game"]}){userErrors{message}}
+p37:productUpdate(product:{id:"gid://shopify/Product/9324671336756",tags:["Board Game"]}){userErrors{message}}
+p38:productUpdate(product:{id:"gid://shopify/Product/9324674154804",tags:[]}){userErrors{message}}
+p39:productUpdate(product:{id:"gid://shopify/Product/9324687163700",tags:[]}){userErrors{message}}
+p40:productUpdate(product:{id:"gid://shopify/Product/9324688081204",tags:[]}){userErrors{message}}
+p41:productUpdate(product:{id:"gid://shopify/Product/9324692046132",tags:["puzzles"]}){userErrors{message}}
+p42:productUpdate(product:{id:"gid://shopify/Product/9324697551156",tags:["Sticker Book", "stickers"]}){userErrors{message}}
+p43:productUpdate(product:{id:"gid://shopify/Product/9324784091444",tags:["Canadian Company", "Designed in Canada", "Jan and Jul", "Made in Canada", "rainwear"]}){userErrors{message}}
+p44:productUpdate(product:{id:"gid://shopify/Product/9324956025140",tags:[]}){userErrors{message}}
+p45:productUpdate(product:{id:"gid://shopify/Product/9324957139252",tags:[]}){userErrors{message}}
+p46:productUpdate(product:{id:"gid://shopify/Product/9324957925684",tags:[]}){userErrors{message}}
+p47:productUpdate(product:{id:"gid://shopify/Product/9325965148468",tags:["Jewelry Boxes"]}){userErrors{message}}
+p48:productUpdate(product:{id:"gid://shopify/Product/9326291910964",tags:["umbrella"]}){userErrors{message}}
+p49:productUpdate(product:{id:"gid://shopify/Product/9326295744820",tags:["umbrella"]}){userErrors{message}}
+}
