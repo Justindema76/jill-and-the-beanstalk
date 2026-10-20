@@ -297,7 +297,7 @@ categories, tags, Types or brands shown on that row. Click a collection to open 
 prod_rows, n_active, n_other = [], 0, 0
 for pid, p in sorted(products.items(), key=lambda kv: (((kv[1].get('category') or {}).get('fullName') or ''), kv[1]['title'].lower())):
     titles = in_cols[pid]
-    if any(t not in NOT_REAL for t in titles):
+    if any(t not in NOT_REAL for t in titles) or p['status'] != 'ACTIVE':
         continue
     active = p['status'] == 'ACTIVE'
     n_active += active
@@ -313,11 +313,11 @@ for pid, p in sorted(products.items(), key=lambda kv: (((kv[1].get('category') o
         f'<td>{esc(p.get("productType") or "")}</td><td>{esc(p.get("vendor") or "")}</td>'
         f'<td class=small>{esc(", ".join(tags))}</td><td class=small>{esc(", ".join(titles)) or "Nothing"}</td></tr>')
 page('products.html', 'Products to Fix', f"""<h1>Products to Fix</h1>
-<p class="lead">Products shoppers can't find by browsing, because they aren't in any real collection
+<p class="lead">Active products shoppers can't find by browsing, because they aren't in any real collection
 (being only in New Arrivals, Sale, 5% HST, Made in Canada, Designed in Canada, Compared Prices or Orderly Emails doesn't count).
 Fix one by giving it a category that a collection uses (see <a href="collections.html">Collections</a>). Needoh products always stay Uncategorized.</p>
-{stats([('active products to fix', n_active), ('draft or archived', n_other)])}
-<div data-list>{tools('Search product, category, brand, tag…', [('active', 'Active'), ('other', 'Draft & archived'), ('nocat', 'No category'), ('', 'All')])}
+{stats([('active products to fix', n_active)])}
+<div data-list>{tools('Search product, category, brand, tag…', [('', 'All'), ('nocat', 'No category')])}
 <div class="tbl"><table><thead><tr><th>Product</th><th>Category</th><th>Type</th><th>Brand</th><th>Tags</th><th>Only in</th></tr></thead><tbody>{''.join(prod_rows)}</tbody></table></div></div>""")
 
 # ---------- Keep list ----------
