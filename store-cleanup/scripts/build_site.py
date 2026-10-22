@@ -57,6 +57,10 @@ for line in open(os.path.join(WORK, 'products-collections-export.jsonl')):
         products[row['id']] = row
 cols = json.load(open(os.path.join(WORK, 'collection-rules-now.json')))['data']['collections']['nodes']
 cat_names = {n['id']: n['fullName'] for n in json.load(open(os.path.join(WORK, 'category-names.json')))['data']['nodes'] if n}
+# Fill in names for any category a product uses but the lookup file lacks.
+for p in products.values():
+    if p.get('category') and p['category'].get('id'):
+        cat_names.setdefault(p['category']['id'], p['category']['fullName'])
 cols.sort(key=lambda c: c['title'].lower())
 
 # ---------- which collections use each tag / type ----------
