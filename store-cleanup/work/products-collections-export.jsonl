@@ -675,6 +675,7 @@
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/110292631556"}
 {"id":"gid:\/\/shopify\/Product\/111219867652","title":"Hape Eye Spy","status":"ACTIVE","vendor":"Hape","productType":"","tags":[],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-27-1","name":"Kaleidoscopes","fullName":"Toys \u0026 Games \u003e Toys \u003e Visual Toys \u003e Kaleidoscopes"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/111219867652"}
+{"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/111219867652"}
 {"id":"gid:\/\/shopify\/Product\/119698849796","title":"Green Sprouts Baby Brush and Comb Set","status":"DRAFT","vendor":"green sprouts","productType":"","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-10-12-2-2","name":"Hairbrushes \u0026 Combs","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Hair Care \u003e Hair Styling Tools \u003e Combs \u0026 Brushes \u003e Hairbrushes \u0026 Combs"}}
 {"title":"Hair Accessories \u0026 Grooming Essentials","__parentId":"gid:\/\/shopify\/Product\/119698849796"}
 {"id":"gid:\/\/shopify\/Product\/120123457540","title":"SALE: Green Sprouts Feeding Spoons NOW $8.99","status":"DRAFT","vendor":"Green Sprouts","productType":"","tags":["feeding"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/na","name":"Uncategorized","fullName":"Uncategorized"}}
@@ -975,6 +976,7 @@
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/1334138142776"}
 {"id":"gid:\/\/shopify\/Product\/1336107368504","title":"Green Beaver Kids Shampoo Boreal Berries","status":"DRAFT","vendor":"Green Beaver","productType":"","tags":["Made in Canada"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-10-13-3","name":"Shampoo","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Hair Care \u003e Shampoo \u0026 Conditioner \u003e Shampoo"}}
 {"title":"Made in Canada","__parentId":"gid:\/\/shopify\/Product\/1336107368504"}
+{"title":"Shampoo - Bubble Bath \u0026 Body Wash","__parentId":"gid:\/\/shopify\/Product\/1336107368504"}
 {"id":"gid:\/\/shopify\/Product\/1336121720888","title":"Unscented Baby Boo Bamboo all Natural Baby Wash \u0026 Shampoo","status":"DRAFT","vendor":"Baby Boo Bamboo","productType":"","tags":[],"totalInventory":0,"category":null}
 {"id":"gid:\/\/shopify\/Product\/1336127815736","title":"Green Beaver Jr. Foaming Body Wash","status":"DRAFT","vendor":"Green Beaver","productType":"","tags":["Made in Canada"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/na","name":"Uncategorized","fullName":"Uncategorized"}}
 {"title":"Made in Canada","__parentId":"gid:\/\/shopify\/Product\/1336127815736"}
@@ -1335,8 +1337,7 @@
 {"title":"Food for Babies, Children and Adults","__parentId":"gid:\/\/shopify\/Product\/1922691301432"}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/1922691301432"}
 {"title":"Sweets \u0026 Treats","__parentId":"gid:\/\/shopify\/Product\/1922691301432"}
-{"id":"gid:\/\/shopify\/Product\/1924157341752","title":"Manhattan Toy | Baby Whoozit","status":"ACTIVE","vendor":"Manhattan Company","productType":"","tags":["Plush Rattle","Room Decor","Teether"],"totalInventory":8,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/bt-5-6","name":"Baby Mobiles","fullName":"Baby \u0026 Toddler \u003e Baby Toys \u0026 Activity Equipment \u003e Baby Mobiles"}}
-{"title":"Room Decor","__parentId":"gid:\/\/shopify\/Product\/1924157341752"}
+{"id":"gid:\/\/shopify\/Product\/1924157341752","title":"Manhattan Toy | Baby Whoozit","status":"ACTIVE","vendor":"Manhattan Company","productType":"","tags":["Plush Rattle","Teether"],"totalInventory":8,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/bt-5-2-3","name":"Rattles","fullName":"Baby \u0026 Toddler \u003e Baby Toys \u0026 Activity Equipment \u003e Baby Activity Toys \u003e Rattles"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/1924157341752"}
 {"title":"Teethers \u0026 Soothers","__parentId":"gid:\/\/shopify\/Product\/1924157341752"}
 {"title":"Dolls \u0026 Stuffed Animals","__parentId":"gid:\/\/shopify\/Product\/1924157341752"}
@@ -1348,6 +1349,7 @@
 {"id":"gid:\/\/shopify\/Product\/1927116881976","title":"Mommy’s Helper Cushie Traveler Folding potty seat","status":"DRAFT","vendor":"mommy's helper","productType":"","tags":[],"totalInventory":0,"category":null}
 {"id":"gid:\/\/shopify\/Product\/1927116914744","title":"Aleva Naturals Bamboo Baby Pacifier \u0026 Toy Wipes (30 count)","status":"ACTIVE","vendor":"Aleva Naturals","productType":"","tags":[],"totalInventory":12,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/bt-3-4","name":"Pacifier Wipes","fullName":"Baby \u0026 Toddler \u003e Baby Health \u003e Pacifier Wipes"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/1927116914744"}
+{"title":"Teethers \u0026 Soothers","__parentId":"gid:\/\/shopify\/Product\/1927116914744"}
 {"id":"gid:\/\/shopify\/Product\/1927117439032","title":"Dreambaby Soft Touch Corner Cushions","status":"DRAFT","vendor":"DreamBaby","productType":"","tags":[],"totalInventory":0,"category":null}
 {"id":"gid:\/\/shopify\/Product\/1927161118776","title":"Substance | Cooling Spray for Mom | Postpartum \u0026 Multi-Use Relief","status":"ACTIVE","vendor":"Substance","productType":"","tags":["Made in Canada","mom"],"totalInventory":1,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-1","name":"Health Care","fullName":"Health \u0026 Beauty \u003e Health Care"}}
 {"title":"Just for Moms","__parentId":"gid:\/\/shopify\/Product\/1927161118776"}
@@ -1769,6 +1771,7 @@
 {"title":"Pretend Play","__parentId":"gid:\/\/shopify\/Product\/1976147312696"}
 {"title":"Role Play \u0026 Fun","__parentId":"gid:\/\/shopify\/Product\/1976147312696"}
 {"id":"gid:\/\/shopify\/Product\/1976147509304","title":"Medical Kit with Carry Case","status":"DRAFT","vendor":"Jr.Doctors's Kit","productType":"","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-8-12","name":"Toy Playsets","fullName":"Toys \u0026 Games \u003e Toys \u003e Dolls, Playsets \u0026 Toy Figures \u003e Toy Playsets"}}
+{"title":"Doll Playsets \u0026 Accessories","__parentId":"gid:\/\/shopify\/Product\/1976147509304"}
 {"id":"gid:\/\/shopify\/Product\/1976147574840","title":"Hape Jungle Journey Train","status":"DRAFT","vendor":"Hape","productType":"","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/bt-5-11","name":"Push \u0026 Pull Toys","fullName":"Baby \u0026 Toddler \u003e Baby Toys \u0026 Activity Equipment \u003e Push \u0026 Pull Toys"}}
 {"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/1976147574840"}
 {"id":"gid:\/\/shopify\/Product\/1976147705912","title":"Welly Diecast School Bus | Durable Metal Toy Vehicle","status":"ACTIVE","vendor":"Welly","productType":"","tags":["boy stocking stuffer","Retro Toy","Toy Vehicles"],"totalInventory":11,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-15-3","name":"Toy Cars","fullName":"Toys \u0026 Games \u003e Toys \u003e Play Vehicles \u003e Toy Cars"}}
@@ -2470,6 +2473,7 @@
 {"title":"Educational Fun!","__parentId":"gid:\/\/shopify\/Product\/4350614700088"}
 {"title":"Books","__parentId":"gid:\/\/shopify\/Product\/4350614700088"}
 {"id":"gid:\/\/shopify\/Product\/4350629412920","title":"Gowi Watering Can","status":"DRAFT","vendor":"playwell","productType":"","tags":["_TX"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hg-12-6-7","name":"Watering Cans","fullName":"Home \u0026 Garden \u003e Lawn \u0026 Garden \u003e Watering \u0026 Irrigation \u003e Watering Cans"}}
+{"title":"Outdoor Play","__parentId":"gid:\/\/shopify\/Product\/4350629412920"}
 {"id":"gid:\/\/shopify\/Product\/4350629478456","title":"Scoop Shovel","status":"ACTIVE","vendor":"playwell","productType":"","tags":["Outdoor Fun"],"totalInventory":1,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-6","name":"Beach \u0026 Sand Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Beach \u0026 Sand Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/4350629478456"}
 {"title":"Outdoor Play","__parentId":"gid:\/\/shopify\/Product\/4350629478456"}
@@ -6139,6 +6143,7 @@
 {"id":"gid:\/\/shopify\/Product\/7215413592120","title":"Attitude Little Leaves Foaming Hand Soap | 295 mL","status":"ACTIVE","vendor":"Attitude","productType":"Liquid Hand Soap","tags":["Made in Canada"],"totalInventory":7,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-2-1-8","name":"Liquid Hand Soap","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Cosmetics \u003e Bath \u0026 Body \u003e Liquid Hand Soap"}}
 {"title":"Made in Canada","__parentId":"gid:\/\/shopify\/Product\/7215413592120"}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/7215413592120"}
+{"title":"Shampoo - Bubble Bath \u0026 Body Wash","__parentId":"gid:\/\/shopify\/Product\/7215413592120"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/7215413592120"}
 {"id":"gid:\/\/shopify\/Product\/7215418638392","title":"Crayola Art Smock with Sleeves","status":"DRAFT","vendor":"Crayola","productType":"Arts \u0026 Crafts","tags":["Arts \u0026 Crafts"],"totalInventory":1,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/ae-2-1-2-3-1","name":"Art \u0026 Craft Paint","fullName":"Arts \u0026 Entertainment \u003e Hobbies \u0026 Creative Arts \u003e Arts \u0026 Crafts \u003e Art \u0026 Crafting Materials \u003e Craft Paint, Ink \u0026 Glaze \u003e Art \u0026 Craft Paint"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/7215418638392"}
@@ -6445,6 +6450,7 @@
 {"title":"Pretend Play","__parentId":"gid:\/\/shopify\/Product\/7216834740280"}
 {"title":"Fidget \u0026 Stress Toys","__parentId":"gid:\/\/shopify\/Product\/7216834740280"}
 {"title":"Role Play \u0026 Fun","__parentId":"gid:\/\/shopify\/Product\/7216834740280"}
+{"title":"Drawing Writing \u0026 Painting","__parentId":"gid:\/\/shopify\/Product\/7216834740280"}
 {"title":"Classic \u0026 Retro Toys in Toronto | 80s Vintage","__parentId":"gid:\/\/shopify\/Product\/7216834740280"}
 {"title":"Stocking Stuffers","__parentId":"gid:\/\/shopify\/Product\/7216834740280"}
 {"id":"gid:\/\/shopify\/Product\/7216835264568","title":"TIGER TRIBE MAGICAL CREATURES  COLORING SET","status":"DRAFT","vendor":"Schylling","productType":"Activity","tags":[],"totalInventory":0,"category":null}
@@ -6791,6 +6797,7 @@
 {"title":"Back to School","__parentId":"gid:\/\/shopify\/Product\/7602025136184"}
 {"id":"gid:\/\/shopify\/Product\/7602025168952","title":"Original Little Chef Wooden Rolling Pin","status":"ACTIVE","vendor":"Original Toy Company","productType":"Toys \u0026 Games","tags":[],"totalInventory":1,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-16-7-3","name":"Toy Kitchens","fullName":"Toys \u0026 Games \u003e Toys \u003e Pretend Play \u003e Toy Kitchens \u0026 Play Food \u003e Toy Kitchens"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/7602025168952"}
+{"title":"Pretend Play","__parentId":"gid:\/\/shopify\/Product\/7602025168952"}
 {"id":"gid:\/\/shopify\/Product\/7602028445752","title":"Yookidoo Shape n' Spin Gear Sorter","status":"DRAFT","vendor":"Yookidoo","productType":"Toddler Toys","tags":["sensory toy","STEM Toy"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/bt-5-12","name":"Sorting \u0026 Stacking Toys","fullName":"Baby \u0026 Toddler \u003e Baby Toys \u0026 Activity Equipment \u003e Sorting \u0026 Stacking Toys"}}
 {"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/7602028445752"}
 {"title":"Building \u0026 Constructing Toys","__parentId":"gid:\/\/shopify\/Product\/7602028445752"}
@@ -7406,6 +7413,7 @@
 {"id":"gid:\/\/shopify\/Product\/7606736584760","title":"Clementoni Magnetic Drawing Board","status":"DRAFT","vendor":"Clementoni","productType":"Magnet Toys","tags":["sensory toy"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-2-11","name":"Toy Drawing Tablets","fullName":"Toys \u0026 Games \u003e Toys \u003e Art \u0026 Drawing Toys \u003e Toy Drawing Tablets"}}
 {"title":"Educational Fun!","__parentId":"gid:\/\/shopify\/Product\/7606736584760"}
 {"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/7606736584760"}
+{"title":"Drawing Writing \u0026 Painting","__parentId":"gid:\/\/shopify\/Product\/7606736584760"}
 {"id":"gid:\/\/shopify\/Product\/7606736879672","title":"Quercetti Magnet Tablet and Whiteboard","status":"ACTIVE","vendor":"Quercetti","productType":"Magnet Toys","tags":["Magnetic Toy","STEM Toy"],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/bt-5-1-4","name":"Alphabet Electric Toys","fullName":"Baby \u0026 Toddler \u003e Baby Toys \u0026 Activity Equipment \u003e Alphabet Toys \u003e Alphabet Electric Toys"}}
 {"title":"Sale","__parentId":"gid:\/\/shopify\/Product\/7606736879672"}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/7606736879672"}
@@ -7538,6 +7546,7 @@
 {"title":"Books Games \u0026 Puzzles","__parentId":"gid:\/\/shopify\/Product\/7607225942072"}
 {"id":"gid:\/\/shopify\/Product\/7607225974840","title":"Dog Dominoes Game","status":"DRAFT","vendor":"Ginger Fox","productType":"Activity","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2","name":"Games","fullName":"Toys \u0026 Games \u003e Games"}}
 {"title":"Educational Fun!","__parentId":"gid:\/\/shopify\/Product\/7607225974840"}
+{"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/7607225974840"}
 {"id":"gid:\/\/shopify\/Product\/7607226007608","title":"Dealing Dinos Card Game","status":"ACTIVE","vendor":"Ginger Fox","productType":"Arts \u0026 Entertainment","tags":[],"totalInventory":1,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2-7","name":"Card Games","fullName":"Toys \u0026 Games \u003e Games \u003e Card Games"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/7607226007608"}
 {"title":"Card Games","__parentId":"gid:\/\/shopify\/Product\/7607226007608"}
@@ -8056,6 +8065,7 @@
 {"title":"Books Games \u0026 Puzzles","__parentId":"gid:\/\/shopify\/Product\/8006992068916"}
 {"title":"Memory \u0026 Flash Cards","__parentId":"gid:\/\/shopify\/Product\/8006992068916"}
 {"id":"gid:\/\/shopify\/Product\/8007003734324","title":"Learning Resources Big Feelings Pineapple Deluxe Set","status":"DRAFT","vendor":"Learning resources","productType":"","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2","name":"Games","fullName":"Toys \u0026 Games \u003e Games"}}
+{"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/8007003734324"}
 {"id":"gid:\/\/shopify\/Product\/8007010877748","title":"Learning Resources Sorting Cupcakes","status":"DRAFT","vendor":"Learning Resource","productType":"","tags":[],"totalInventory":0,"category":null}
 {"id":"gid:\/\/shopify\/Product\/8007022706996","title":"Educational Insights | Kanoodle Junior","status":"ACTIVE","vendor":"Educational Insights","productType":"","tags":["puzzles"],"totalInventory":4,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-4-9","name":"Mechanical Puzzles","fullName":"Toys \u0026 Games \u003e Puzzles \u003e Mechanical Puzzles"}}
 {"title":"Educational Fun!","__parentId":"gid:\/\/shopify\/Product\/8007022706996"}
@@ -8096,6 +8106,7 @@
 {"id":"gid:\/\/shopify\/Product\/8023612588340","title":"Anointment Peppermint Lip Balm","status":"DRAFT","vendor":"anointment","productType":"Lip Balm","tags":["Made in Canada"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-2-9-9-1","name":"Lip Balms","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Cosmetics \u003e Skin Care \u003e Lip Balms \u0026 Treatments \u003e Lip Balms"}}
 {"title":"Just for Moms","__parentId":"gid:\/\/shopify\/Product\/8023612588340"}
 {"title":"Made in Canada","__parentId":"gid:\/\/shopify\/Product\/8023612588340"}
+{"title":"Body \u0026 Skin Care","__parentId":"gid:\/\/shopify\/Product\/8023612588340"}
 {"id":"gid:\/\/shopify\/Product\/8023692116276","title":"Piggy Paint Make It Last Gift Set","status":"DRAFT","vendor":"Hip Mommies","productType":"Nail Polish","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-2-7-11","name":"Nail Polishes","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Cosmetics \u003e Nail Care \u003e Nail Polishes"}}
 {"title":"Kids Makeup, Perfume \u0026 Nail Accessories","__parentId":"gid:\/\/shopify\/Product\/8023692116276"}
 {"id":"gid:\/\/shopify\/Product\/8025182470452","title":"Green Beaver Conditioner","status":"DRAFT","vendor":"Green Beaver","productType":"","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-10","name":"Hair Care","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Hair Care"}}
@@ -8748,6 +8759,7 @@
 {"title":"Crafts \u0026 Activities","__parentId":"gid:\/\/shopify\/Product\/8152493228340"}
 {"id":"gid:\/\/shopify\/Product\/8152539365684","title":"Avocado Hot\/Cold Pack","status":"DRAFT","vendor":"kikkerland","productType":"Food Storage","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hg-11-7-19","name":"Food Warmers","fullName":"Home \u0026 Garden \u003e Kitchen \u0026 Dining \u003e Kitchen Appliances \u003e Food Warmers"}}
 {"id":"gid:\/\/shopify\/Product\/8152598184244","title":"Kidoki Too Many Cooks","status":"DRAFT","vendor":"kikkerland","productType":"Card Games","tags":["_TX","card game"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2","name":"Games","fullName":"Toys \u0026 Games \u003e Games"}}
+{"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/8152598184244"}
 {"title":"Card Games","__parentId":"gid:\/\/shopify\/Product\/8152598184244"}
 {"id":"gid:\/\/shopify\/Product\/8152712708404","title":"Beeswax Candle Kit - Multicolor","status":"DRAFT","vendor":"kikkerland","productType":"","tags":["Arts \u0026 Crafts"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/ae-2-1","name":"Arts \u0026 Crafts","fullName":"Arts \u0026 Entertainment \u003e Hobbies \u0026 Creative Arts \u003e Arts \u0026 Crafts"}}
 {"title":"Crafts \u0026 Activities","__parentId":"gid:\/\/shopify\/Product\/8152712708404"}
@@ -8761,6 +8773,7 @@
 {"title":"Books Games \u0026 Puzzles","__parentId":"gid:\/\/shopify\/Product\/8154027721012"}
 {"title":"Easter Gifts, Toys \u0026 Basket Fillers for Babies \u0026 Kids","__parentId":"gid:\/\/shopify\/Product\/8154027721012"}
 {"id":"gid:\/\/shopify\/Product\/8154043318580","title":"I Saw it First! Jungle: A Family Spotting Game","status":"DRAFT","vendor":"Orion Publishing","productType":"Board Game","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2","name":"Games","fullName":"Toys \u0026 Games \u003e Games"}}
+{"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/8154043318580"}
 {"id":"gid:\/\/shopify\/Product\/8154152796468","title":"Who's Hiding in the Ocean: A Spot and Match Game","status":"DRAFT","vendor":"Laurence King","productType":"Memory Game","tags":[],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2-7","name":"Card Games","fullName":"Toys \u0026 Games \u003e Games \u003e Card Games"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/8154152796468"}
 {"title":"Card Games","__parentId":"gid:\/\/shopify\/Product\/8154152796468"}
@@ -8817,6 +8830,7 @@
 {"title":"Books Games \u0026 Puzzles","__parentId":"gid:\/\/shopify\/Product\/8161201914164"}
 {"id":"gid:\/\/shopify\/Product\/8161211416884","title":"Little People, Big Dreams Hardcover Book | Shakira","status":"ACTIVE","vendor":"Frances Lincoln Children's Books","productType":"","tags":[],"totalInventory":1,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-13-7","name":"Musical Books","fullName":"Toys \u0026 Games \u003e Toys \u003e Musical Toys \u003e Musical Books"}}
 {"title":"5% HST","__parentId":"gid:\/\/shopify\/Product\/8161211416884"}
+{"title":"Books","__parentId":"gid:\/\/shopify\/Product\/8161211416884"}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/8161211416884"}
 {"id":"gid:\/\/shopify\/Product\/8161224130868","title":"Baby Elvis: A Book about Opposites (Illustrated by Pintachan)","status":"DRAFT","vendor":"Hachette","productType":"","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/me-1","name":"Books","fullName":"Media \u003e Books"}}
 {"title":"Books","__parentId":"gid:\/\/shopify\/Product\/8161224130868"}
@@ -8975,6 +8989,7 @@
 {"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/8201409757492"}
 {"id":"gid:\/\/shopify\/Product\/8201411100980","title":"Bubbles of Steel : Touchable and heroic bubbles","status":"DRAFT","vendor":"Copernicus Toys","productType":"Bubbles","tags":["bubbles"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-1-3","name":"Bubble Blowing Solutions","fullName":"Toys \u0026 Games \u003e Toys \u003e Activity Toys \u003e Bubble Blowing Solutions"}}
 {"title":"Outdoor Play","__parentId":"gid:\/\/shopify\/Product\/8201411100980"}
+{"title":"Bubble Blowing","__parentId":"gid:\/\/shopify\/Product\/8201411100980"}
 {"id":"gid:\/\/shopify\/Product\/8203644862772","title":"Moulin Roty Les Bébés Baby Girl Doll","status":"DRAFT","vendor":"Moulin Roty","productType":"","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-8-6","name":"Dolls","fullName":"Toys \u0026 Games \u003e Toys \u003e Dolls, Playsets \u0026 Toy Figures \u003e Dolls"}}
 {"title":"Dolls \u0026 Stuffed Animals","__parentId":"gid:\/\/shopify\/Product\/8203644862772"}
 {"title":"Doll Collection","__parentId":"gid:\/\/shopify\/Product\/8203644862772"}
@@ -8995,8 +9010,10 @@
 {"title":"Plush Rattles \u0026 Teethers","__parentId":"gid:\/\/shopify\/Product\/8203652694324"}
 {"id":"gid:\/\/shopify\/Product\/8203653677364","title":"Milaniwood Chop the Carrot Wooden Toy","status":"DRAFT","vendor":"Milaniwood","productType":"","tags":["_TX"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2","name":"Games","fullName":"Toys \u0026 Games \u003e Games"}}
 {"title":"Wooden Toys","__parentId":"gid:\/\/shopify\/Product\/8203653677364"}
+{"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/8203653677364"}
 {"id":"gid:\/\/shopify\/Product\/8203656626484","title":"Milaniwood BBQ Party Faster Skewer Around Game","status":"DRAFT","vendor":"Milaniwood","productType":"Activity","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2","name":"Games","fullName":"Toys \u0026 Games \u003e Games"}}
 {"title":"Educational Fun!","__parentId":"gid:\/\/shopify\/Product\/8203656626484"}
+{"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/8203656626484"}
 {"id":"gid:\/\/shopify\/Product\/8203657871668","title":"Milaniwood Domino Tulips Game","status":"DRAFT","vendor":"Milaniwood","productType":"","tags":["Board Game"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2-8","name":"Dexterity Games","fullName":"Toys \u0026 Games \u003e Games \u003e Dexterity Games"}}
 {"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/8203657871668"}
 {"title":"Books Games \u0026 Puzzles","__parentId":"gid:\/\/shopify\/Product\/8203657871668"}
@@ -9068,6 +9085,7 @@
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/8214395552052"}
 {"id":"gid:\/\/shopify\/Product\/8214469083444","title":"Crocdile Creek Watering Can","status":"ACTIVE","vendor":"Crocodile Creek","productType":"Watering Cans","tags":[],"totalInventory":3,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hg-12-6-7","name":"Watering Cans","fullName":"Home \u0026 Garden \u003e Lawn \u0026 Garden \u003e Watering \u0026 Irrigation \u003e Watering Cans"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/8214469083444"}
+{"title":"Outdoor Play","__parentId":"gid:\/\/shopify\/Product\/8214469083444"}
 {"id":"gid:\/\/shopify\/Product\/8214507159860","title":"Crocdile Creek Day at the Farm Puzzle","status":"DRAFT","vendor":"Crocodile Creek","productType":"Jigsaw Puzzles","tags":["_TX"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-4-7","name":"Jigsaw Puzzles","fullName":"Toys \u0026 Games \u003e Puzzles \u003e Jigsaw Puzzles"}}
 {"title":"Puzzles","__parentId":"gid:\/\/shopify\/Product\/8214507159860"}
 {"id":"gid:\/\/shopify\/Product\/8214507749684","title":"Crocodile Creek 1000 Buildings of the World Puzzle","status":"DRAFT","vendor":"Crocodile Creek","productType":"","tags":["puzzles"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-4","name":"Puzzles","fullName":"Toys \u0026 Games \u003e Puzzles"}}
@@ -9098,6 +9116,7 @@
 {"id":"gid:\/\/shopify\/Product\/8215690838324","title":"Cat Large Steel Dump Truck 16\"","status":"DRAFT","vendor":"cat","productType":"Dump Truck","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/na","name":"Uncategorized","fullName":"Uncategorized"}}
 {"id":"gid:\/\/shopify\/Product\/8215691493684","title":"Bop It! The Classic Game (English Language)","status":"DRAFT","vendor":"Hasbro","productType":"Bop It","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2","name":"Games","fullName":"Toys \u0026 Games \u003e Games"}}
 {"title":"Educational Fun!","__parentId":"gid:\/\/shopify\/Product\/8215691493684"}
+{"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/8215691493684"}
 {"id":"gid:\/\/shopify\/Product\/8215692837172","title":"Hasbro | Monopoly Deal Card Game","status":"ACTIVE","vendor":"Hasbro","productType":"Card Games","tags":["Board Game","card game","Classic Game"],"totalInventory":6,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2-7","name":"Card Games","fullName":"Toys \u0026 Games \u003e Games \u003e Card Games"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/8215692837172"}
 {"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/8215692837172"}
@@ -9265,6 +9284,7 @@
 {"title":"Building \u0026 Constructing Toys","__parentId":"gid:\/\/shopify\/Product\/8318342234420"}
 {"title":"Puzzles","__parentId":"gid:\/\/shopify\/Product\/8318342234420"}
 {"id":"gid:\/\/shopify\/Product\/8318379491636","title":"Toysmith Rearview Specs","status":"DRAFT","vendor":"Toysmith","productType":"Toy Glasses","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-8-12","name":"Toy Playsets","fullName":"Toys \u0026 Games \u003e Toys \u003e Dolls, Playsets \u0026 Toy Figures \u003e Toy Playsets"}}
+{"title":"Doll Playsets \u0026 Accessories","__parentId":"gid:\/\/shopify\/Product\/8318379491636"}
 {"id":"gid:\/\/shopify\/Product\/8318384177460","title":"Pigpen Slime","status":"ACTIVE","vendor":"toysmith","productType":"Slime","tags":["Arts \u0026 Crafts"],"totalInventory":3,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-2-6-6","name":"Slime \u0026 Putty Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Art \u0026 Drawing Toys \u003e Play Dough \u0026 Putty \u003e Slime \u0026 Putty Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/8318384177460"}
 {"title":"Crafts \u0026 Activities","__parentId":"gid:\/\/shopify\/Product\/8318384177460"}
@@ -9323,6 +9343,7 @@
 {"title":"Card Games","__parentId":"gid:\/\/shopify\/Product\/8332961906996"}
 {"title":"Books Games \u0026 Puzzles","__parentId":"gid:\/\/shopify\/Product\/8332961906996"}
 {"id":"gid:\/\/shopify\/Product\/8332968395060","title":"Mudpuppy Puzzle to Go Mix \u0026 Match Ice Cream Cats","status":"DRAFT","vendor":"Mudpuppy","productType":"","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2","name":"Games","fullName":"Toys \u0026 Games \u003e Games"}}
+{"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/8332968395060"}
 {"id":"gid:\/\/shopify\/Product\/8337847615796","title":"Lava Lamp 14.5\" | Colourmax Northern Lights Glitter","status":"ACTIVE","vendor":"Schylling","productType":"Lava Lamp","tags":[],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hg-13-10","name":"Night Lights \u0026 Ambient Lighting","fullName":"Home \u0026 Garden \u003e Lighting \u003e Night Lights \u0026 Ambient Lighting"}}
 {"title":"Room Decor","__parentId":"gid:\/\/shopify\/Product\/8337847615796"}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/8337847615796"}
@@ -9859,6 +9880,7 @@
 {"title":"Pretend Play","__parentId":"gid:\/\/shopify\/Product\/8535271014708"}
 {"title":"Fidget \u0026 Stress Toys","__parentId":"gid:\/\/shopify\/Product\/8535271014708"}
 {"title":"Role Play \u0026 Fun","__parentId":"gid:\/\/shopify\/Product\/8535271014708"}
+{"title":"Drawing Writing \u0026 Painting","__parentId":"gid:\/\/shopify\/Product\/8535271014708"}
 {"title":"Classic \u0026 Retro Toys in Toronto | 80s Vintage","__parentId":"gid:\/\/shopify\/Product\/8535271014708"}
 {"title":"Stocking Stuffers","__parentId":"gid:\/\/shopify\/Product\/8535271014708"}
 {"id":"gid:\/\/shopify\/Product\/8535274848564","title":"Minecraft Large Fusion Figure","status":"DRAFT","vendor":"Mattel","productType":"Activity","tags":["Action Figures"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-1","name":"Activity Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Activity Toys"}}
@@ -9886,6 +9908,7 @@
 {"title":"Pretend Play","__parentId":"gid:\/\/shopify\/Product\/8535492821300"}
 {"title":"Fidget \u0026 Stress Toys","__parentId":"gid:\/\/shopify\/Product\/8535492821300"}
 {"title":"Role Play \u0026 Fun","__parentId":"gid:\/\/shopify\/Product\/8535492821300"}
+{"title":"Drawing Writing \u0026 Painting","__parentId":"gid:\/\/shopify\/Product\/8535492821300"}
 {"title":"Classic \u0026 Retro Toys in Toronto | 80s Vintage","__parentId":"gid:\/\/shopify\/Product\/8535492821300"}
 {"title":"Stocking Stuffers","__parentId":"gid:\/\/shopify\/Product\/8535492821300"}
 {"id":"gid:\/\/shopify\/Product\/8535592698164","title":"Transformers","status":"DRAFT","vendor":"Hasbro","productType":"Toys \u0026 Games","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5","name":"Toys","fullName":"Toys \u0026 Games \u003e Toys"}}
@@ -9917,7 +9940,9 @@
 {"id":"gid:\/\/shopify\/Product\/8549338087732","title":"Multi-Mam Compresses","status":"DRAFT","vendor":"Multi-Mam","productType":"Compress","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/ha-15-9","name":"Compressors","fullName":"Hardware \u003e Tools \u003e Compressors"}}
 {"title":"Just for Moms","__parentId":"gid:\/\/shopify\/Product\/8549338087732"}
 {"id":"gid:\/\/shopify\/Product\/8549365154100","title":"Hello Bello Premium Baby Shampoo and Wash (494 mL)","status":"DRAFT","vendor":"Hello Bello","productType":"Shampoo \u0026 Body Wash","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-10-13-3","name":"Shampoo","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Hair Care \u003e Shampoo \u0026 Conditioner \u003e Shampoo"}}
+{"title":"Shampoo - Bubble Bath \u0026 Body Wash","__parentId":"gid:\/\/shopify\/Product\/8549365154100"}
 {"id":"gid:\/\/shopify\/Product\/8549395202356","title":"Hello Bello Kid's Shampoo and Body Wash Watermelon","status":"DRAFT","vendor":"Hello Bello","productType":"Shampoo \u0026 Body Wash","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-10-13-3","name":"Shampoo","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Hair Care \u003e Shampoo \u0026 Conditioner \u003e Shampoo"}}
+{"title":"Shampoo - Bubble Bath \u0026 Body Wash","__parentId":"gid:\/\/shopify\/Product\/8549395202356"}
 {"id":"gid:\/\/shopify\/Product\/8565788344628","title":"Waddle Hippo Baby Rattle Socks (0-12 months) | Set of 2 pairs","status":"DRAFT","vendor":"Waddle Baby","productType":"Socks","tags":["Socks"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/aa-1-18-5","name":"Footie Socks","fullName":"Apparel \u0026 Accessories \u003e Clothing \u003e Socks \u003e Footie Socks"}}
 {"title":"New Clothing for Babies and Kids","__parentId":"gid:\/\/shopify\/Product\/8565788344628"}
 {"title":"Footwear","__parentId":"gid:\/\/shopify\/Product\/8565788344628"}
@@ -10011,6 +10036,7 @@
 {"id":"gid:\/\/shopify\/Product\/8711868383540","title":"Peas in a Pod Luscious Bum Diapering Kit","status":"ACTIVE","vendor":"All Things Jill","productType":"","tags":["Made in Canada"],"totalInventory":1,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/bt-9-5","name":"Diaper Kits","fullName":"Baby \u0026 Toddler \u003e Diapering \u003e Diaper Kits"}}
 {"title":"Made in Canada","__parentId":"gid:\/\/shopify\/Product\/8711868383540"}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/8711868383540"}
+{"title":"Diapering \u0026 Potty Training Essentials","__parentId":"gid:\/\/shopify\/Product\/8711868383540"}
 {"id":"gid:\/\/shopify\/Product\/8716251463988","title":"Clemontoni Make Up Pochette","status":"DRAFT","vendor":"Clemontoni","productType":"Makeup","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-2-6","name":"Makeup","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Cosmetics \u003e Makeup"}}
 {"title":"Kids Makeup, Perfume \u0026 Nail Accessories","__parentId":"gid:\/\/shopify\/Product\/8716251463988"}
 {"title":"Halloween Accessories","__parentId":"gid:\/\/shopify\/Product\/8716251463988"}
@@ -10341,12 +10367,14 @@
 {"title":"Aurora Stuffed Toys","__parentId":"gid:\/\/shopify\/Product\/8801323090228"}
 {"title":"Compared Prices | Everyday Value","__parentId":"gid:\/\/shopify\/Product\/8801323090228"}
 {"id":"gid:\/\/shopify\/Product\/8805041963316","title":"Mini Lite Brite","status":"DRAFT","vendor":"Schylllng","productType":"","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2","name":"Games","fullName":"Toys \u0026 Games \u003e Games"}}
+{"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/8805041963316"}
 {"id":"gid:\/\/shopify\/Product\/8805043732788","title":"Tiger Tribe Neon Colouring Set | Outer Space","status":"DRAFT","vendor":"Tiger Tribe","productType":"Craft Set","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/na","name":"Uncategorized","fullName":"Uncategorized"}}
 {"id":"gid:\/\/shopify\/Product\/8811713102132","title":"Rainbow Loom | Loomi-Pals Collectible Charms","status":"ACTIVE","vendor":"Rainbow Loom","productType":"","tags":["Bracelet Making Kit"],"totalInventory":15,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/ae-2-1-1-5","name":"Jewelry Making Kits","fullName":"Arts \u0026 Entertainment \u003e Hobbies \u0026 Creative Arts \u003e Arts \u0026 Crafts \u003e Art \u0026 Craft Kits \u003e Jewelry Making Kits"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/8811713102132"}
 {"title":"Jewellery \u0026 Accessories","__parentId":"gid:\/\/shopify\/Product\/8811713102132"}
 {"id":"gid:\/\/shopify\/Product\/8811718312244","title":"Learning Resources Mental Blox Go!","status":"DRAFT","vendor":"learning resources","productType":"","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2","name":"Games","fullName":"Toys \u0026 Games \u003e Games"}}
 {"title":"Educational Fun!","__parentId":"gid:\/\/shopify\/Product\/8811718312244"}
+{"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/8811718312244"}
 {"id":"gid:\/\/shopify\/Product\/8811736760628","title":"4M Kidz| Labs Cosmic Rocket","status":"DRAFT","vendor":"4M","productType":"Science Kit","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/bi-23","name":"Science \u0026 Laboratory","fullName":"Business \u0026 Industrial \u003e Science \u0026 Laboratory"}}
 {"title":"Science Kits \u0026 Activities","__parentId":"gid:\/\/shopify\/Product\/8811736760628"}
 {"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/8811736760628"}
@@ -10426,6 +10454,7 @@
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/8861694755124"}
 {"id":"gid:\/\/shopify\/Product\/8862774198580","title":"Anomia Party Edition","status":"DRAFT","vendor":"Everest","productType":"","tags":[],"totalInventory":0,"category":null}
 {"id":"gid:\/\/shopify\/Product\/8862777147700","title":"Twister Junior","status":"DRAFT","vendor":"Jill and the Beanstalk","productType":"","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2","name":"Games","fullName":"Toys \u0026 Games \u003e Games"}}
+{"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/8862777147700"}
 {"id":"gid:\/\/shopify\/Product\/8862782718260","title":"My Little Pony | Pony Friends Assorted","status":"DRAFT","vendor":"Hasbro","productType":"","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/na","name":"Uncategorized","fullName":"Uncategorized"}}
 {"id":"gid:\/\/shopify\/Product\/8862803591476","title":"PlayDoh | Peppa Pig Ice Cream Play Set","status":"DRAFT","vendor":"Play-Doh","productType":"","tags":["Arts \u0026 Crafts"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-2-6-4","name":"Play Dough Sets","fullName":"Toys \u0026 Games \u003e Toys \u003e Art \u0026 Drawing Toys \u003e Play Dough \u0026 Putty \u003e Play Dough Sets"}}
 {"title":"Crafts \u0026 Activities","__parentId":"gid:\/\/shopify\/Product\/8862803591476"}
@@ -10465,7 +10494,9 @@
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/8871470170420"}
 {"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/8871470170420"}
 {"id":"gid:\/\/shopify\/Product\/8873331556660","title":"Spot it! Harry Potter","status":"DRAFT","vendor":"asmodee","productType":"Game","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-27","name":"Visual Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Visual Toys"}}
+{"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/8873331556660"}
 {"id":"gid:\/\/shopify\/Product\/8873333489972","title":"Spot It! Frozen II","status":"DRAFT","vendor":"asmodee","productType":"Game","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2","name":"Games","fullName":"Toys \u0026 Games \u003e Games"}}
+{"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/8873333489972"}
 {"id":"gid:\/\/shopify\/Product\/8873335128372","title":"Spot It! | Fishing","status":"ACTIVE","vendor":"asmodee","productType":"Card Games","tags":[],"totalInventory":4,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2-7","name":"Card Games","fullName":"Toys \u0026 Games \u003e Games \u003e Card Games"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/8873335128372"}
 {"title":"Card Games","__parentId":"gid:\/\/shopify\/Product\/8873335128372"}
@@ -10720,8 +10751,10 @@
 {"title":"Card Games","__parentId":"gid:\/\/shopify\/Product\/8948131135796"}
 {"title":"Books Games \u0026 Puzzles","__parentId":"gid:\/\/shopify\/Product\/8948131135796"}
 {"id":"gid:\/\/shopify\/Product\/8948139163956","title":"Catan Junior","status":"DRAFT","vendor":"asmodee","productType":"Game","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2","name":"Games","fullName":"Toys \u0026 Games \u003e Games"}}
+{"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/8948139163956"}
 {"id":"gid:\/\/shopify\/Product\/8948146012468","title":"Pokémon Trainer Challenge | Pikachu and Pals Edition","status":"ACTIVE","vendor":"asmodee","productType":"Game","tags":["_TX"],"totalInventory":1,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2","name":"Games","fullName":"Toys \u0026 Games \u003e Games"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/8948146012468"}
+{"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/8948146012468"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/8948146012468"}
 {"id":"gid:\/\/shopify\/Product\/8948558004532","title":"thinksport Stainless Insulated Water Bottle | 500mL","status":"ACTIVE","vendor":"Thinksport","productType":"","tags":[],"totalInventory":18,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hg-11-3-11","name":"Water Bottles","fullName":"Home \u0026 Garden \u003e Kitchen \u0026 Dining \u003e Food \u0026 Beverage Carriers \u003e Water Bottles"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/8948558004532"}
@@ -10731,6 +10764,7 @@
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/8948604928308"}
 {"title":"Shampoo - Bubble Bath \u0026 Body Wash","__parentId":"gid:\/\/shopify\/Product\/8948604928308"}
 {"id":"gid:\/\/shopify\/Product\/8948619378996","title":"Théra Wise Baby Massage Oil | 4-pack","status":"DRAFT","vendor":"Théra Wise","productType":"Massage Oil","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-11-4","name":"Massage Oil","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Massage \u0026 Relaxation \u003e Massage Oil"}}
+{"title":"Mommy \u0026 Me Essentials","__parentId":"gid:\/\/shopify\/Product\/8948619378996"}
 {"id":"gid:\/\/shopify\/Product\/8948624851252","title":"Tom's of Maine Toddler Training Toothpaste","status":"DRAFT","vendor":"Tom's of Maine","productType":"Toothpaste","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-12-19","name":"Toothpaste","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Oral Care \u003e Toothpaste"}}
 {"title":"Oral Health","__parentId":"gid:\/\/shopify\/Product\/8948624851252"}
 {"id":"gid:\/\/shopify\/Product\/8989488677172","title":"Gummy Chic Silicone Teether | Boom Box","status":"ACTIVE","vendor":"Gummy Chic","productType":"Teether","tags":[],"totalInventory":1,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/bt-5-2-4","name":"Teething Toys","fullName":"Baby \u0026 Toddler \u003e Baby Toys \u0026 Activity Equipment \u003e Baby Activity Toys \u003e Teething Toys"}}
@@ -10867,6 +10901,7 @@
 {"id":"gid:\/\/shopify\/Product\/9007726854452","title":"Compound Kings Do It Yourself Squishy Fidget Kit","status":"DRAFT","vendor":"WeCool","productType":"Fidget Toy","tags":["sensory toy"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/ae-2-1-1","name":"Art \u0026 Craft Kits","fullName":"Arts \u0026 Entertainment \u003e Hobbies \u0026 Creative Arts \u003e Arts \u0026 Crafts \u003e Art \u0026 Craft Kits"}}
 {"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9007726854452"}
 {"id":"gid:\/\/shopify\/Product\/9007731573044","title":"Disney Princess Treats \u0026 Sweets Party Game","status":"DRAFT","vendor":"Spin Master","productType":"","tags":["_TX"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2","name":"Games","fullName":"Toys \u0026 Games \u003e Games"}}
+{"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/9007731573044"}
 {"id":"gid:\/\/shopify\/Product\/9007734653236","title":"Do-It-Yourself 3D Sticker Maker","status":"DRAFT","vendor":"WeCool","productType":"","tags":["stickers"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/ae-2-1-1-9","name":"Toy Craft Kits","fullName":"Arts \u0026 Entertainment \u003e Hobbies \u0026 Creative Arts \u003e Arts \u0026 Crafts \u003e Art \u0026 Craft Kits \u003e Toy Craft Kits"}}
 {"title":"Crafts \u0026 Activities","__parentId":"gid:\/\/shopify\/Product\/9007734653236"}
 {"title":"Stickers \u0026 Tattoos","__parentId":"gid:\/\/shopify\/Product\/9007734653236"}
@@ -10961,6 +10996,7 @@
 {"title":"Dolls \u0026 Stuffed Animals","__parentId":"gid:\/\/shopify\/Product\/9016772165940"}
 {"title":"Plush Rattles \u0026 Teethers","__parentId":"gid:\/\/shopify\/Product\/9016772165940"}
 {"id":"gid:\/\/shopify\/Product\/9016777769268","title":"Moulin Roty Dans la Jungle Coco Bead Rattle","status":"DRAFT","vendor":"Moulin Roty","productType":"Rattle","tags":["Plush Rattle","Teether"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/bt-5-6","name":"Baby Mobiles","fullName":"Baby \u0026 Toddler \u003e Baby Toys \u0026 Activity Equipment \u003e Baby Mobiles"}}
+{"title":"Room Decor","__parentId":"gid:\/\/shopify\/Product\/9016777769268"}
 {"title":"Teethers \u0026 Soothers","__parentId":"gid:\/\/shopify\/Product\/9016777769268"}
 {"title":"Dolls \u0026 Stuffed Animals","__parentId":"gid:\/\/shopify\/Product\/9016777769268"}
 {"title":"Plush Rattles \u0026 Teethers","__parentId":"gid:\/\/shopify\/Product\/9016777769268"}
@@ -11034,8 +11070,10 @@
 {"id":"gid:\/\/shopify\/Product\/9046041788724","title":"Owala FreeSip Insulated Stainless Steel Water Bottle 24oz","status":"DRAFT","vendor":"Owala","productType":"Water Bottle","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/bi-23-6-8","name":"Wash Bottles","fullName":"Business \u0026 Industrial \u003e Science \u0026 Laboratory \u003e Laboratory Supplies \u003e Wash Bottles"}}
 {"id":"gid:\/\/shopify\/Product\/9047777247540","title":"Buzzy Seeds Holiday Herbs Rosemary \u0026 Sage Windowsill Grow Kit","status":"ACTIVE","vendor":"Buzzy Seeds","productType":"Herb Garden","tags":[],"totalInventory":3,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hg-12-1-16","name":"Pots \u0026 Planters","fullName":"Home \u0026 Garden \u003e Lawn \u0026 Garden \u003e Gardening \u003e Pots \u0026 Planters"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9047777247540"}
+{"title":"Outdoor Play","__parentId":"gid:\/\/shopify\/Product\/9047777247540"}
 {"id":"gid:\/\/shopify\/Product\/9047795073332","title":"Buzzy Seeds My First Garden Windowsill Grow Kit | Marigold and Tomato","status":"DRAFT","vendor":"Buzzy Seeds","productType":"Windowsill Garden","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/na","name":"Uncategorized","fullName":"Uncategorized"}}
 {"id":"gid:\/\/shopify\/Product\/9047802642740","title":"Buzzy Seeds Terra Cotta Grow Kit","status":"DRAFT","vendor":"Buzzy Seeds","productType":"","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hg-12-1-16","name":"Pots \u0026 Planters","fullName":"Home \u0026 Garden \u003e Lawn \u0026 Garden \u003e Gardening \u003e Pots \u0026 Planters"}}
+{"title":"Outdoor Play","__parentId":"gid:\/\/shopify\/Product\/9047802642740"}
 {"id":"gid:\/\/shopify\/Product\/9047816044852","title":"Buzzy Seeds Pop-Up Fairy Forest of Chia","status":"ACTIVE","vendor":"Buzzy Seeds","productType":"","tags":[],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hg","name":"Home \u0026 Garden","fullName":"Home \u0026 Garden"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9047816044852"}
 {"id":"gid:\/\/shopify\/Product\/9047818961204","title":"Buzzy Seeds Pollinator Windowsill Planter | Coneflower \u0026 Black-Eyed Susan","status":"DRAFT","vendor":"Buzzy Seeds","productType":"","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hg-17-4","name":"Plant \u0026 Herb Growing Kits","fullName":"Home \u0026 Garden \u003e Plants \u003e Plant \u0026 Herb Growing Kits"}}
@@ -11088,6 +11126,7 @@
 {"title":"Hair Accessories \u0026 Grooming Essentials","__parentId":"gid:\/\/shopify\/Product\/9051463844148"}
 {"id":"gid:\/\/shopify\/Product\/9051466662196","title":"Sun Bum 3-in-1 Leave-in Conditioner","status":"ACTIVE","vendor":"Sun Bum","productType":"Hair Conditioner","tags":[],"totalInventory":6,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-10-13-1","name":"Conditioners","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Hair Care \u003e Shampoo \u0026 Conditioner \u003e Conditioners"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9051466662196"}
+{"title":"Shampoo - Bubble Bath \u0026 Body Wash","__parentId":"gid:\/\/shopify\/Product\/9051466662196"}
 {"id":"gid:\/\/shopify\/Product\/9051469054260","title":"Sun Bum SPF 30 Lip Balm","status":"ACTIVE","vendor":"Sun Bum","productType":"","tags":["kids skincare"],"totalInventory":28,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-2-9-15","name":"Sunscreen","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Cosmetics \u003e Skin Care \u003e Sunscreen"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9051469054260"}
 {"title":"Summer Essentials","__parentId":"gid:\/\/shopify\/Product\/9051469054260"}
@@ -11199,7 +11238,9 @@
 {"title":"Role Play \u0026 Fun","__parentId":"gid:\/\/shopify\/Product\/9067976098100"}
 {"id":"gid:\/\/shopify\/Product\/9067977998644","title":"Legends of Akēdo Beast Strike Series 5 | 1 Player Pack | Assorted","status":"DRAFT","vendor":"Mosse","productType":"","tags":["_TX"],"totalInventory":1,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2","name":"Games","fullName":"Toys \u0026 Games \u003e Games"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9067977998644"}
+{"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/9067977998644"}
 {"id":"gid:\/\/shopify\/Product\/9067978260788","title":"Legends of Akēdo Teenage Mutant Ninja Turtles Mini Battling Action Warriors","status":"DRAFT","vendor":"Moose","productType":"","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2","name":"Games","fullName":"Toys \u0026 Games \u003e Games"}}
+{"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/9067978260788"}
 {"id":"gid:\/\/shopify\/Product\/9068990136628","title":"Schylling | Silly Circus Jack in the Box","status":"ACTIVE","vendor":"Schylling","productType":"","tags":["musical toy"],"totalInventory":3,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/na","name":"Uncategorized","fullName":"Uncategorized"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9068990136628"}
 {"title":"Musical Toys \u0026 Instruments","__parentId":"gid:\/\/shopify\/Product\/9068990136628"}
@@ -11358,6 +11399,7 @@
 {"id":"gid:\/\/shopify\/Product\/9092233036084","title":"Butter Blizzy Slime","status":"DRAFT","vendor":"Compound Kings","productType":"Slime","tags":["_TX","sensory toy"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/na","name":"Uncategorized","fullName":"Uncategorized"}}
 {"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9092233036084"}
 {"id":"gid:\/\/shopify\/Product\/9092243325236","title":"Gazillion 1 Litre Boxed Bubbles","status":"DRAFT","vendor":"gazillion","productType":"Bubbles","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-1-3","name":"Bubble Blowing Solutions","fullName":"Toys \u0026 Games \u003e Toys \u003e Activity Toys \u003e Bubble Blowing Solutions"}}
+{"title":"Bubble Blowing","__parentId":"gid:\/\/shopify\/Product\/9092243325236"}
 {"id":"gid:\/\/shopify\/Product\/9092254236980","title":"Simon Micro Series Game","status":"ACTIVE","vendor":"Hasbro","productType":"Game","tags":[],"totalInventory":4,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2-8","name":"Dexterity Games","fullName":"Toys \u0026 Games \u003e Games \u003e Dexterity Games"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9092254236980"}
 {"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/9092254236980"}
@@ -11437,6 +11479,7 @@
 {"title":"Memory \u0026 Flash Cards","__parentId":"gid:\/\/shopify\/Product\/9100453577012"}
 {"id":"gid:\/\/shopify\/Product\/9100455903540","title":"The World of Eric Carle Animal Flash Cards","status":"DRAFT","vendor":"Chronicle Books","productType":"Game","tags":["card game"],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2","name":"Games","fullName":"Toys \u0026 Games \u003e Games"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9100455903540"}
+{"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/9100455903540"}
 {"title":"Card Games","__parentId":"gid:\/\/shopify\/Product\/9100455903540"}
 {"id":"gid:\/\/shopify\/Product\/9101098811700","title":"Sprout Ware Straw Bottle | 10oz","status":"ACTIVE","vendor":"Green Sprouts","productType":"Cups","tags":["sippy cup"],"totalInventory":39,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/bt-10-15","name":"Sippy Cups","fullName":"Baby \u0026 Toddler \u003e Nursing \u0026 Feeding \u003e Sippy Cups"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9101098811700"}
@@ -11493,6 +11536,7 @@
 {"title":"Crafts \u0026 Activities","__parentId":"gid:\/\/shopify\/Product\/9102486896948"}
 {"id":"gid:\/\/shopify\/Product\/9103659761972","title":"Beetle \u0026 Bee Garden | Build a Bird Buffet","status":"ACTIVE","vendor":"Toysmith","productType":"Bird Feeder","tags":[],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hg-3-7","name":"Bird \u0026 Wildlife Feeder Accessories","fullName":"Home \u0026 Garden \u003e Decor \u003e Bird \u0026 Wildlife Feeder Accessories"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9103659761972"}
+{"title":"Outdoor Play","__parentId":"gid:\/\/shopify\/Product\/9103659761972"}
 {"id":"gid:\/\/shopify\/Product\/9103666643252","title":"Rainbow Stunt Streamer","status":"ACTIVE","vendor":"Play Ground Classics","productType":"","tags":[],"totalInventory":3,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-2-3","name":"Craft Kits","fullName":"Toys \u0026 Games \u003e Toys \u003e Art \u0026 Drawing Toys \u003e Craft Kits"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9103666643252"}
 {"title":"Crafts \u0026 Activities","__parentId":"gid:\/\/shopify\/Product\/9103666643252"}
@@ -11533,6 +11577,7 @@
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9116060713268"}
 {"title":"Memory \u0026 Flash Cards","__parentId":"gid:\/\/shopify\/Product\/9116060713268"}
 {"id":"gid:\/\/shopify\/Product\/9116092301620","title":"Akēdo Beast Strike Starter Pack","status":"DRAFT","vendor":"Moose","productType":"","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2-1","name":"Battle Top Accessories","fullName":"Toys \u0026 Games \u003e Games \u003e Battle Top Accessories"}}
+{"title":"Role Play \u0026 Fun","__parentId":"gid:\/\/shopify\/Product\/9116092301620"}
 {"id":"gid:\/\/shopify\/Product\/9116310274356","title":"Glo Pals Sesame Street Light-Up Cubes","status":"ACTIVE","vendor":"Glo Pals","productType":"Bath Toy","tags":[],"totalInventory":12,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/bt-5-12","name":"Sorting \u0026 Stacking Toys","fullName":"Baby \u0026 Toddler \u003e Baby Toys \u0026 Activity Equipment \u003e Sorting \u0026 Stacking Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9116310274356"}
 {"title":"Building \u0026 Constructing Toys","__parentId":"gid:\/\/shopify\/Product\/9116310274356"}
@@ -11594,6 +11639,7 @@
 {"title":"Halloween Accessories","__parentId":"gid:\/\/shopify\/Product\/9118900781364"}
 {"id":"gid:\/\/shopify\/Product\/9118904844596","title":"Schylling Large Pin Print","status":"ACTIVE","vendor":"Schylling","productType":"Puzzle","tags":[],"totalInventory":5,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-27","name":"Visual Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Visual Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9118904844596"}
+{"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9118904844596"}
 {"id":"gid:\/\/shopify\/Product\/9118905041204","title":"Lite Brite | Touch","status":"DRAFT","vendor":"Schylling","productType":"Arts \u0026 Crafts","tags":["Pretend Play","sensory toy","STEM Toy"],"totalInventory":4,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-9","name":"Educational Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Educational Toys"}}
 {"title":"Science Kits \u0026 Activities","__parentId":"gid:\/\/shopify\/Product\/9118905041204"}
 {"title":"Sale","__parentId":"gid:\/\/shopify\/Product\/9118905041204"}
@@ -11837,8 +11883,11 @@
 {"title":"Post-delivery Care","__parentId":"gid:\/\/shopify\/Product\/9135768404276"}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9135768404276"}
 {"title":"Mommy \u0026 Me Essentials","__parentId":"gid:\/\/shopify\/Product\/9135768404276"}
-{"id":"gid:\/\/shopify\/Product\/9135769649460","title":"Frida baby 2-in-1 Portable Sound Machine + Nightlight","status":"ACTIVE","vendor":"Frida Baby","productType":"Sound Machine","tags":[],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/bt-4-3-3","name":"Video Baby Monitors","fullName":"Baby \u0026 Toddler \u003e Baby Safety \u003e Baby Monitors \u003e Video Baby Monitors"}}
+{"id":"gid:\/\/shopify\/Product\/9135769649460","title":"Frida baby 2-in-1 Portable Sound Machine + Nightlight","status":"ACTIVE","vendor":"Frida Baby","productType":"","tags":["baby safety"],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/bt-4-3-3","name":"Video Baby Monitors","fullName":"Baby \u0026 Toddler \u003e Baby Safety \u003e Baby Monitors \u003e Video Baby Monitors"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9135769649460"}
+{"title":"Baby Sleep Accessories","__parentId":"gid:\/\/shopify\/Product\/9135769649460"}
+{"title":"Baby Safety \u0026 Care","__parentId":"gid:\/\/shopify\/Product\/9135769649460"}
+{"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9135769649460"}
 {"id":"gid:\/\/shopify\/Product\/9135773712692","title":"Juddlies Waffle Newborn Baby Hat | 0-4 months","status":"ACTIVE","vendor":"Juddlies","productType":"Baby Hat","tags":["Canadian Company","Designed in Canada","Made in Canada"],"totalInventory":8,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/aa-2-17-2","name":"Beanies","fullName":"Apparel \u0026 Accessories \u003e Clothing Accessories \u003e Hats \u003e Beanies"}}
 {"title":"New Clothing for Babies and Kids","__parentId":"gid:\/\/shopify\/Product\/9135773712692"}
 {"title":"Designed in Canada by Canadian Companies","__parentId":"gid:\/\/shopify\/Product\/9135773712692"}
@@ -11973,6 +12022,7 @@
 {"title":"Stickers \u0026 Tattoos","__parentId":"gid:\/\/shopify\/Product\/9144440946996"}
 {"id":"gid:\/\/shopify\/Product\/9144443011380","title":"Hardcover Notebooks","status":"ACTIVE","vendor":"Pyramid America","productType":"Notebook","tags":[],"totalInventory":4,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/os-4-9-9-5","name":"Notepads","fullName":"Office Supplies \u003e General Office Supplies \u003e Paper Products \u003e Notebooks \u0026 Notepads \u003e Notepads"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9144443011380"}
+{"title":"Drawing Writing \u0026 Painting","__parentId":"gid:\/\/shopify\/Product\/9144443011380"}
 {"id":"gid:\/\/shopify\/Product\/9144646762804","title":"Transformers Optimus Prime and Chainclaw","status":"DRAFT","vendor":"Jill and the Beanstalk","productType":"","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-8-1-1","name":"Action Figures","fullName":"Toys \u0026 Games \u003e Toys \u003e Dolls, Playsets \u0026 Toy Figures \u003e Action \u0026 Toy Figures \u003e Action Figures"}}
 {"title":"Action Figures","__parentId":"gid:\/\/shopify\/Product\/9144646762804"}
 {"title":"Role Play \u0026 Fun","__parentId":"gid:\/\/shopify\/Product\/9144646762804"}
@@ -12034,6 +12084,7 @@
 {"title":"Card Games","__parentId":"gid:\/\/shopify\/Product\/9145702056244"}
 {"title":"Memory \u0026 Flash Cards","__parentId":"gid:\/\/shopify\/Product\/9145702056244"}
 {"id":"gid:\/\/shopify\/Product\/9145702646068","title":"Brain Box Game | The World","status":"DRAFT","vendor":"asmodee","productType":"Game","tags":["_TX"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2","name":"Games","fullName":"Toys \u0026 Games \u003e Games"}}
+{"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/9145702646068"}
 {"id":"gid:\/\/shopify\/Product\/9145703235892","title":"Spot it! | Disney | Box","status":"ACTIVE","vendor":"Spot it","productType":"Game","tags":["card game"],"totalInventory":4,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2-7","name":"Card Games","fullName":"Toys \u0026 Games \u003e Games \u003e Card Games"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9145703235892"}
 {"title":"Card Games","__parentId":"gid:\/\/shopify\/Product\/9145703235892"}
@@ -12054,6 +12105,7 @@
 {"title":"Books Games \u0026 Puzzles","__parentId":"gid:\/\/shopify\/Product\/9145711952180"}
 {"title":"Memory \u0026 Flash Cards","__parentId":"gid:\/\/shopify\/Product\/9145711952180"}
 {"id":"gid:\/\/shopify\/Product\/9145726107956","title":"Flower Field Badger and Burke Card","status":"DRAFT","vendor":"Badger \u0026 Burke","productType":"Greeting Card","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/os-3-14","name":"Greeting Card Organizers","fullName":"Office Supplies \u003e Filing \u0026 Organization \u003e Greeting Card Organizers"}}
+{"title":"Greeting Cards","__parentId":"gid:\/\/shopify\/Product\/9145726107956"}
 {"id":"gid:\/\/shopify\/Product\/9145726173492","title":"You Did It! Badger and Burke Card","status":"ACTIVE","vendor":"Badger \u0026 Burke","productType":"Greeting Card","tags":["Canadian Brand","Made in Canada"],"totalInventory":3,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/ae-3-1-6","name":"Greeting \u0026 Note Cards","fullName":"Arts \u0026 Entertainment \u003e Party \u0026 Celebration \u003e Gift Giving \u003e Greeting \u0026 Note Cards"}}
 {"title":"Greeting Cards","__parentId":"gid:\/\/shopify\/Product\/9145726173492"}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9145726173492"}
@@ -12247,6 +12299,7 @@
 {"title":"Costume \u0026 Dress-Up","__parentId":"gid:\/\/shopify\/Product\/9149673931060"}
 {"id":"gid:\/\/shopify\/Product\/9149690446132","title":"Schleich | Smurf with I Love You Sign","status":"ACTIVE","vendor":"Schleich","productType":"Figurine","tags":[],"totalInventory":8,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-8","name":"Dolls, Playsets \u0026 Toy Figures","fullName":"Toys \u0026 Games \u003e Toys \u003e Dolls, Playsets \u0026 Toy Figures"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9149690446132"}
+{"title":"Action Figures","__parentId":"gid:\/\/shopify\/Product\/9149690446132"}
 {"id":"gid:\/\/shopify\/Product\/9149715939636","title":"Schleich Bayala | Marween's Animal Nursery | 42520","status":"DRAFT","vendor":"Schleich","productType":"Figurine","tags":["Doll Playset","Pretend Play"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-8-12-6","name":"Doll House Playsets","fullName":"Toys \u0026 Games \u003e Toys \u003e Dolls, Playsets \u0026 Toy Figures \u003e Toy Playsets \u003e Doll House Playsets"}}
 {"title":"Dolls \u0026 Stuffed Animals","__parentId":"gid:\/\/shopify\/Product\/9149715939636"}
 {"title":"Pretend Play","__parentId":"gid:\/\/shopify\/Product\/9149715939636"}
@@ -12254,6 +12307,7 @@
 {"title":"Role Play \u0026 Fun","__parentId":"gid:\/\/shopify\/Product\/9149715939636"}
 {"id":"gid:\/\/shopify\/Product\/9149723607348","title":"Schleich Tyrannosaurus Attack | 41465","status":"ACTIVE","vendor":"Schleich","productType":"Dinosaur","tags":[],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-8-12-4","name":"Dinosaur Playsets","fullName":"Toys \u0026 Games \u003e Toys \u003e Dolls, Playsets \u0026 Toy Figures \u003e Toy Playsets \u003e Dinosaur Playsets"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9149723607348"}
+{"title":"Action Figures","__parentId":"gid:\/\/shopify\/Product\/9149723607348"}
 {"id":"gid:\/\/shopify\/Product\/9155189440820","title":"Còndor Barcelona Fancy Socks | Assorted varieties and sizes | See in Store","status":"ACTIVE","vendor":"Còndor","productType":"Socks","tags":["Socks"],"totalInventory":124,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/aa-1-2-7","name":"Baby \u0026 Toddler Socks \u0026 Tights","fullName":"Apparel \u0026 Accessories \u003e Clothing \u003e Baby \u0026 Toddler Clothing \u003e Baby \u0026 Toddler Socks \u0026 Tights"}}
 {"title":"5% HST","__parentId":"gid:\/\/shopify\/Product\/9155189440820"}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9155189440820"}
@@ -12598,6 +12652,7 @@
 {"title":"Stocking Stuffers","__parentId":"gid:\/\/shopify\/Product\/9170149212468"}
 {"id":"gid:\/\/shopify\/Product\/9170150916404","title":"Milky Way Marble Game","status":"DRAFT","vendor":"Incredible","productType":"Marbles","tags":["fidget toy","stress ball"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-1-6","name":"Marbles","fullName":"Toys \u0026 Games \u003e Toys \u003e Activity Toys \u003e Marbles"}}
 {"title":"Fidget \u0026 Stress Toys","__parentId":"gid:\/\/shopify\/Product\/9170150916404"}
+{"title":"Classic \u0026 Retro Toys in Toronto | 80s Vintage","__parentId":"gid:\/\/shopify\/Product\/9170150916404"}
 {"title":"Stocking Stuffers","__parentId":"gid:\/\/shopify\/Product\/9170150916404"}
 {"id":"gid:\/\/shopify\/Product\/9170661146932","title":"Aurora Gelato 9\" Bear | Lavender","status":"ACTIVE","vendor":"Aurora","productType":"Stuffed Animal","tags":["stuffed animal"],"totalInventory":3,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-8-11","name":"Stuffed Animals","fullName":"Toys \u0026 Games \u003e Toys \u003e Dolls, Playsets \u0026 Toy Figures \u003e Stuffed Animals"}}
 {"title":"Sale","__parentId":"gid:\/\/shopify\/Product\/9170661146932"}
@@ -12622,6 +12677,7 @@
 {"title":"Back to School","__parentId":"gid:\/\/shopify\/Product\/9171111838004"}
 {"id":"gid:\/\/shopify\/Product\/9171133333812","title":"Smencils- Coloured Scented Pencils","status":"ACTIVE","vendor":"stencils","productType":"Pencil Crayons","tags":[],"totalInventory":1,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/os-11-11-7-2-2-2","name":"Wooden Pencils","fullName":"Office Supplies \u003e Office Instruments \u003e Writing \u0026 Drawing Instruments \u003e Pens \u0026 Pencils \u003e Pencils \u003e Writing Pencils \u003e Wooden Pencils"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9171133333812"}
+{"title":"Drawing Writing \u0026 Painting","__parentId":"gid:\/\/shopify\/Product\/9171133333812"}
 {"id":"gid:\/\/shopify\/Product\/9171139461428","title":"Piggy Paint- 4 Mini Nail Polish","status":"DRAFT","vendor":"Piggy Paint","productType":"Nail Polish","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-2-7-11","name":"Nail Polishes","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Cosmetics \u003e Nail Care \u003e Nail Polishes"}}
 {"title":"Kids Makeup, Perfume \u0026 Nail Accessories","__parentId":"gid:\/\/shopify\/Product\/9171139461428"}
 {"id":"gid:\/\/shopify\/Product\/9171159482676","title":"Ooly Color Together Markers | Set of 18","status":"DRAFT","vendor":"Ooly","productType":"Markers","tags":["Arts \u0026 Crafts"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/os-11-11-4-2","name":"Markers","fullName":"Office Supplies \u003e Office Instruments \u003e Writing \u0026 Drawing Instruments \u003e Markers \u0026 Highlighters \u003e Markers"}}
@@ -12650,7 +12706,9 @@
 {"id":"gid:\/\/shopify\/Product\/9171322896692","title":"My Busy Book- Winnie the Pooh","status":"DRAFT","vendor":"phial","productType":"Activity Book","tags":["_TX","activity book"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-8-12","name":"Toy Playsets","fullName":"Toys \u0026 Games \u003e Toys \u003e Dolls, Playsets \u0026 Toy Figures \u003e Toy Playsets"}}
 {"title":"Educational Fun!","__parentId":"gid:\/\/shopify\/Product\/9171322896692"}
 {"title":"Crafts \u0026 Activities","__parentId":"gid:\/\/shopify\/Product\/9171322896692"}
+{"title":"Doll Playsets \u0026 Accessories","__parentId":"gid:\/\/shopify\/Product\/9171322896692"}
 {"id":"gid:\/\/shopify\/Product\/9171323912500","title":"The Little Golden Book- Taylor Swift","status":"ACTIVE","vendor":"golden books","productType":"Activity Book","tags":[],"totalInventory":1,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-13-7","name":"Musical Books","fullName":"Toys \u0026 Games \u003e Toys \u003e Musical Toys \u003e Musical Books"}}
+{"title":"Books","__parentId":"gid:\/\/shopify\/Product\/9171323912500"}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9171323912500"}
 {"id":"gid:\/\/shopify\/Product\/9171325780276","title":"Santa's Workshop Board Book","status":"DRAFT","vendor":"Priddy Books","productType":"Board Book","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/me-1","name":"Books","fullName":"Media \u003e Books"}}
 {"title":"Books","__parentId":"gid:\/\/shopify\/Product\/9171325780276"}
@@ -12731,6 +12789,7 @@
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9171842335028"}
 {"title":"Books Games \u0026 Puzzles","__parentId":"gid:\/\/shopify\/Product\/9171842335028"}
 {"id":"gid:\/\/shopify\/Product\/9171901579572","title":"Unofficial Taylor Swift Christmas Colouring Book","status":"DRAFT","vendor":"Chartwell","productType":"Colouring Book","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-13-7","name":"Musical Books","fullName":"Toys \u0026 Games \u003e Toys \u003e Musical Toys \u003e Musical Books"}}
+{"title":"Books","__parentId":"gid:\/\/shopify\/Product\/9171901579572"}
 {"id":"gid:\/\/shopify\/Product\/9171942211892","title":"Moulin Roty Apres la Pluie Rabbit Wood Ring Rattle","status":"ACTIVE","vendor":"Moulin Roty","productType":"Rattle","tags":["Easter","easter stuffed animals","Plush Rattle","plush teether"],"totalInventory":3,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/bt-5-2-4","name":"Teething Toys","fullName":"Baby \u0026 Toddler \u003e Baby Toys \u0026 Activity Equipment \u003e Baby Activity Toys \u003e Teething Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9171942211892"}
 {"title":"Teethers \u0026 Soothers","__parentId":"gid:\/\/shopify\/Product\/9171942211892"}
@@ -12889,6 +12948,7 @@
 {"id":"gid:\/\/shopify\/Product\/9173032567092","title":"Moulin Roty | Trois Petits Lapins Activity Hedgehog","status":"ACTIVE","vendor":"Moulin Roty","productType":"Stuffed Animal","tags":["_TX","stuffed animal"],"totalInventory":1,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-8","name":"Dolls, Playsets \u0026 Toy Figures","fullName":"Toys \u0026 Games \u003e Toys \u003e Dolls, Playsets \u0026 Toy Figures"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9173032567092"}
 {"title":"Dolls \u0026 Stuffed Animals","__parentId":"gid:\/\/shopify\/Product\/9173032567092"}
+{"title":"Action Figures","__parentId":"gid:\/\/shopify\/Product\/9173032567092"}
 {"title":"Stuffed Animal Collection","__parentId":"gid:\/\/shopify\/Product\/9173032567092"}
 {"id":"gid:\/\/shopify\/Product\/9173037089076","title":"Moulin Roty La Petite Ecole de Danse Activity Swan","status":"ACTIVE","vendor":"Moulin Roty","productType":"Stuffed Animal","tags":["stuffed animal"],"totalInventory":1,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-8-11","name":"Stuffed Animals","fullName":"Toys \u0026 Games \u003e Toys \u003e Dolls, Playsets \u0026 Toy Figures \u003e Stuffed Animals"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9173037089076"}
@@ -12926,6 +12986,7 @@
 {"title":"Body \u0026 Skin Care","__parentId":"gid:\/\/shopify\/Product\/9173201092916"}
 {"id":"gid:\/\/shopify\/Product\/9173201191220","title":"Shoosha Smoocha Lip Balm","status":"DRAFT","vendor":"Shoosha","productType":"Lip Balm","tags":["Made in Canada"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-2-9-9-1","name":"Lip Balms","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Cosmetics \u003e Skin Care \u003e Lip Balms \u0026 Treatments \u003e Lip Balms"}}
 {"title":"Made in Canada","__parentId":"gid:\/\/shopify\/Product\/9173201191220"}
+{"title":"Body \u0026 Skin Care","__parentId":"gid:\/\/shopify\/Product\/9173201191220"}
 {"id":"gid:\/\/shopify\/Product\/9173204664628","title":"Shoosha Baby Calm Baby Calendula Oil","status":"DRAFT","vendor":"Shoosha","productType":"Bath And Body","tags":["Made in Canada"],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-2-9-10","name":"Lotions \u0026 Moisturizers","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Cosmetics \u003e Skin Care \u003e Lotions \u0026 Moisturizers"}}
 {"title":"Made in Canada","__parentId":"gid:\/\/shopify\/Product\/9173204664628"}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9173204664628"}
@@ -13006,6 +13067,7 @@
 {"title":"Christmas Gifts \u0026 Toys for Kids","__parentId":"gid:\/\/shopify\/Product\/9174234267956"}
 {"title":"Holiday Books","__parentId":"gid:\/\/shopify\/Product\/9174234267956"}
 {"id":"gid:\/\/shopify\/Product\/9175176610100","title":"The Unofficial Taylor Swift Sticker and Activity Book","status":"DRAFT","vendor":"Quarto","productType":"Activity Book","tags":["stickers"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-13-7","name":"Musical Books","fullName":"Toys \u0026 Games \u003e Toys \u003e Musical Toys \u003e Musical Books"}}
+{"title":"Books","__parentId":"gid:\/\/shopify\/Product\/9175176610100"}
 {"title":"Crafts \u0026 Activities","__parentId":"gid:\/\/shopify\/Product\/9175176610100"}
 {"title":"Stickers \u0026 Tattoos","__parentId":"gid:\/\/shopify\/Product\/9175176610100"}
 {"id":"gid:\/\/shopify\/Product\/9175182377268","title":"LEGO Duplo - Disney | Mickey \u0026 Minnie Birthday Train | 10941","status":"DRAFT","vendor":"LEGO","productType":"LEGO","tags":["_TX","building toy","LEGO"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-7-8","name":"Construction Set Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Building Toys \u003e Construction Set Toys"}}
@@ -13278,6 +13340,7 @@
 {"title":"Shampoo - Bubble Bath \u0026 Body Wash","__parentId":"gid:\/\/shopify\/Product\/9192605810996"}
 {"id":"gid:\/\/shopify\/Product\/9192606433588","title":"Pearhead First \u0026 Last Day Chalk Sign","status":"ACTIVE","vendor":"Pearhead","productType":"Chalk Board","tags":[],"totalInventory":1,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/os-13-1","name":"Chalkboards","fullName":"Office Supplies \u003e Presentation Supplies \u003e Chalkboards"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9192606433588"}
+{"title":"Back to School","__parentId":"gid:\/\/shopify\/Product\/9192606433588"}
 {"id":"gid:\/\/shopify\/Product\/9192608170292","title":"Weegoamigo Crocheted Rattles | Seahorse","status":"DRAFT","vendor":"Weegoamigo","productType":"Rattle","tags":["Plush Rattle"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/bt-5-2-3","name":"Rattles","fullName":"Baby \u0026 Toddler \u003e Baby Toys \u0026 Activity Equipment \u003e Baby Activity Toys \u003e Rattles"}}
 {"title":"Teethers \u0026 Soothers","__parentId":"gid:\/\/shopify\/Product\/9192608170292"}
 {"title":"Dolls \u0026 Stuffed Animals","__parentId":"gid:\/\/shopify\/Product\/9192608170292"}
@@ -13305,6 +13368,7 @@
 {"title":"Greeting Cards","__parentId":"gid:\/\/shopify\/Product\/9193401516340"}
 {"title":"Made in Canada","__parentId":"gid:\/\/shopify\/Product\/9193401516340"}
 {"id":"gid:\/\/shopify\/Product\/9193401647412","title":"You are Amazing Greeting Card","status":"ACTIVE","vendor":"The Penny Paper Co.","productType":"Greeting Card","tags":[],"totalInventory":6,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/os-3-14","name":"Greeting Card Organizers","fullName":"Office Supplies \u003e Filing \u0026 Organization \u003e Greeting Card Organizers"}}
+{"title":"Greeting Cards","__parentId":"gid:\/\/shopify\/Product\/9193401647412"}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9193401647412"}
 {"id":"gid:\/\/shopify\/Product\/9193401844020","title":"You had a Baby Greeting Card","status":"ACTIVE","vendor":"The Penny Paper Co.","productType":"Greeting Card","tags":[],"totalInventory":5,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/ae-3-1-6-2","name":"Greeting Cards","fullName":"Arts \u0026 Entertainment \u003e Party \u0026 Celebration \u003e Gift Giving \u003e Greeting \u0026 Note Cards \u003e Greeting Cards"}}
 {"title":"Greeting Cards","__parentId":"gid:\/\/shopify\/Product\/9193401844020"}
@@ -13402,6 +13466,7 @@
 {"id":"gid:\/\/shopify\/Product\/9197602210100","title":"Outset| Picture Charades Game","status":"ACTIVE","vendor":"Outset","productType":"Game","tags":["Made in Canada"],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2","name":"Games","fullName":"Toys \u0026 Games \u003e Games"}}
 {"title":"Made in Canada","__parentId":"gid:\/\/shopify\/Product\/9197602210100"}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9197602210100"}
+{"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/9197602210100"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9197602210100"}
 {"id":"gid:\/\/shopify\/Product\/9197602472244","title":"Sense and Grow | Set of Four Sensory Stress Balls for Kids","status":"DRAFT","vendor":"Be Amazing Toys","productType":"Balls","tags":["fidget toy"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-1","name":"Activity Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Activity Toys"}}
 {"title":"Fidget \u0026 Stress Toys","__parentId":"gid:\/\/shopify\/Product\/9197602472244"}
@@ -14293,6 +14358,7 @@
 {"id":"gid:\/\/shopify\/Product\/9224544289076","title":"My Petite Coco Baby Oil","status":"ACTIVE","vendor":"My Petite Coco","productType":"Baby Oil","tags":["Made in Canada"],"totalInventory":1,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-2-9-3","name":"Body Oil","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Cosmetics \u003e Skin Care \u003e Body Oil"}}
 {"title":"Designed in Canada by Canadian Companies","__parentId":"gid:\/\/shopify\/Product\/9224544289076"}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9224544289076"}
+{"title":"Body \u0026 Skin Care","__parentId":"gid:\/\/shopify\/Product\/9224544289076"}
 {"id":"gid:\/\/shopify\/Product\/9224545665332","title":"My Petite Coco Baby Wash and Shampoo","status":"DRAFT","vendor":"My Petite Coco","productType":"Baby Shampoo","tags":["Made in Canada"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-2-1","name":"Bath \u0026 Body","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Cosmetics \u003e Bath \u0026 Body"}}
 {"title":"Made in Canada","__parentId":"gid:\/\/shopify\/Product\/9224545665332"}
 {"title":"Shampoo - Bubble Bath \u0026 Body Wash","__parentId":"gid:\/\/shopify\/Product\/9224545665332"}
@@ -14360,6 +14426,7 @@
 {"title":"Role Play \u0026 Fun","__parentId":"gid:\/\/shopify\/Product\/9228704383284"}
 {"id":"gid:\/\/shopify\/Product\/9228708839732","title":"Frida Baby Fold-and-Go Potty Seat","status":"ACTIVE","vendor":"Frida Baby","productType":"Potty Seat","tags":[],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/bt-11-2","name":"Potty Training Kits","fullName":"Baby \u0026 Toddler \u003e Potty Training \u003e Potty Training Kits"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9228708839732"}
+{"title":"Diapering \u0026 Potty Training Essentials","__parentId":"gid:\/\/shopify\/Product\/9228708839732"}
 {"id":"gid:\/\/shopify\/Product\/9228710314292","title":"Mary Meyer Recycled Again Friends Lovey Eco-Friendly Baby Comfort Toy | Dinosaur","status":"DRAFT","vendor":"Mary Meyer","productType":"Stuffed Toys","tags":["Easter","easter stuffed animals","Plush Toy"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/bt-5-7-2","name":"Plush Toys","fullName":"Baby \u0026 Toddler \u003e Baby Toys \u0026 Activity Equipment \u003e Baby Soothers \u003e Plush Toys"}}
 {"title":"Sale","__parentId":"gid:\/\/shopify\/Product\/9228710314292"}
 {"title":"Mary Meyer - Toronto","__parentId":"gid:\/\/shopify\/Product\/9228710314292"}
@@ -16023,6 +16090,7 @@
 {"id":"gid:\/\/shopify\/Product\/9236453032244","title":"Mudpuppy Mini Memory Match Game | Dog Portraits","status":"ACTIVE","vendor":"Mudpuppy","productType":"Memory Game","tags":["card game"],"totalInventory":6,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2","name":"Games","fullName":"Toys \u0026 Games \u003e Games"}}
 {"title":"Loot Bag Ideas","__parentId":"gid:\/\/shopify\/Product\/9236453032244"}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9236453032244"}
+{"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/9236453032244"}
 {"title":"Card Games","__parentId":"gid:\/\/shopify\/Product\/9236453032244"}
 {"id":"gid:\/\/shopify\/Product\/9236453065012","title":"Mudpuppy Mini Memory Match Game | Unicorn Magic","status":"ACTIVE","vendor":"Mudpuppy","productType":"Memory Game","tags":["sensory toy"],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/el-7-12-2-1","name":"Flash Memory Cards","fullName":"Electronics \u003e Electronics Accessories \u003e Memory \u003e Flash Memory \u003e Flash Memory Cards"}}
 {"title":"Loot Bag Ideas","__parentId":"gid:\/\/shopify\/Product\/9236453065012"}
@@ -16031,10 +16099,12 @@
 {"title":"Memory \u0026 Flash Cards","__parentId":"gid:\/\/shopify\/Product\/9236453065012"}
 {"id":"gid:\/\/shopify\/Product\/9236453130548","title":"Mudpuppy Mini Memory Match Game | Enchanting Princesses","status":"DRAFT","vendor":"Mudpuppy","productType":"Memory Game","tags":["card game","stocking stuffer"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2","name":"Games","fullName":"Toys \u0026 Games \u003e Games"}}
 {"title":"Loot Bag Ideas","__parentId":"gid:\/\/shopify\/Product\/9236453130548"}
+{"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/9236453130548"}
 {"title":"Card Games","__parentId":"gid:\/\/shopify\/Product\/9236453130548"}
 {"title":"Stocking Stuffers","__parentId":"gid:\/\/shopify\/Product\/9236453130548"}
 {"id":"gid:\/\/shopify\/Product\/9236453196084","title":"Mudpuppy Mini Memory Match Game | Animal Friends","status":"DRAFT","vendor":"Mudpuppy","productType":"Memory Game","tags":["card game","stocking stuffer"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2","name":"Games","fullName":"Toys \u0026 Games \u003e Games"}}
 {"title":"Loot Bag Ideas","__parentId":"gid:\/\/shopify\/Product\/9236453196084"}
+{"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/9236453196084"}
 {"title":"Card Games","__parentId":"gid:\/\/shopify\/Product\/9236453196084"}
 {"title":"Stocking Stuffers","__parentId":"gid:\/\/shopify\/Product\/9236453196084"}
 {"id":"gid:\/\/shopify\/Product\/9236513063220","title":"Floss and Rock | Colour-Changing Umbrellas (Age 3+) | Dinosaur","status":"ACTIVE","vendor":"Floss \u0026 Rock","productType":"Umbrella","tags":["umbrella"],"totalInventory":15,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hg-16-2","name":"Rain Umbrellas","fullName":"Home \u0026 Garden \u003e Parasols \u0026 Rain Umbrellas \u003e Rain Umbrellas"}}
@@ -16204,6 +16274,7 @@
 {"title":"Puzzles","__parentId":"gid:\/\/shopify\/Product\/9236580335924"}
 {"title":"Easter Gifts, Toys \u0026 Basket Fillers for Babies \u0026 Kids","__parentId":"gid:\/\/shopify\/Product\/9236580335924"}
 {"id":"gid:\/\/shopify\/Product\/9236598096180","title":"The Story Orchestra Musical Puzzle | The Nutcracker","status":"DRAFT","vendor":"Quarto","productType":"Puzzle","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-13-7","name":"Musical Books","fullName":"Toys \u0026 Games \u003e Toys \u003e Musical Toys \u003e Musical Books"}}
+{"title":"Books","__parentId":"gid:\/\/shopify\/Product\/9236598096180"}
 {"id":"gid:\/\/shopify\/Product\/9236598128948","title":"The Story Orchestra Musical Puzzle | Carnival of the Animals","status":"ACTIVE","vendor":"Quarto","productType":"Puzzle","tags":["puzzles"],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-4-7","name":"Jigsaw Puzzles","fullName":"Toys \u0026 Games \u003e Puzzles \u003e Jigsaw Puzzles"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9236598128948"}
 {"title":"Puzzles","__parentId":"gid:\/\/shopify\/Product\/9236598128948"}
@@ -19881,6 +19952,7 @@
 {"title":"Shampoo - Bubble Bath \u0026 Body Wash","__parentId":"gid:\/\/shopify\/Product\/9251590799668"}
 {"id":"gid:\/\/shopify\/Product\/9251591553332","title":"T is for Tame Powder Puff Dry Shampoo – Natural Baby Hair Care","status":"ACTIVE","vendor":"T is for Tame","productType":"Shampoo","tags":[],"totalInventory":6,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-10-13-3","name":"Shampoo","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Hair Care \u003e Shampoo \u0026 Conditioner \u003e Shampoo"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9251591553332"}
+{"title":"Shampoo - Bubble Bath \u0026 Body Wash","__parentId":"gid:\/\/shopify\/Product\/9251591553332"}
 {"id":"gid:\/\/shopify\/Product\/9251617669428","title":"Outdoor Discovery Solar Print Kit – Nature-Based Art for Kids","status":"ACTIVE","vendor":"Toysmith","productType":"Craft Kit","tags":["science"],"totalInventory":18,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-9-6","name":"Science \u0026 Exploration Sets","fullName":"Toys \u0026 Games \u003e Toys \u003e Educational Toys \u003e Science \u0026 Exploration Sets"}}
 {"title":"Science Kits \u0026 Activities","__parentId":"gid:\/\/shopify\/Product\/9251617669428"}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9251617669428"}
@@ -20116,6 +20188,7 @@
 {"title":"Oral Health","__parentId":"gid:\/\/shopify\/Product\/9259532583220"}
 {"id":"gid:\/\/shopify\/Product\/9259532714292","title":"Frida Baby Diaper Cream Booty Brush","status":"ACTIVE","vendor":"Frida Baby","productType":"Booty Spatula","tags":[],"totalInventory":3,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/bt-9","name":"Diapering","fullName":"Baby \u0026 Toddler \u003e Diapering"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9259532714292"}
+{"title":"Diapering \u0026 Potty Training Essentials","__parentId":"gid:\/\/shopify\/Product\/9259532714292"}
 {"id":"gid:\/\/shopify\/Product\/9259552506164","title":"Frida Baby | SmileFrida Finger Toothbrush","status":"ACTIVE","vendor":"Fridababy","productType":"Toothbrush","tags":["oral care"],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-12-17","name":"Toothbrushes","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Oral Care \u003e Toothbrushes"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9259552506164"}
 {"title":"Oral Health","__parentId":"gid:\/\/shopify\/Product\/9259552506164"}
@@ -21297,6 +21370,7 @@
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9278697668916"}
 {"title":"Building \u0026 Constructing Toys","__parentId":"gid:\/\/shopify\/Product\/9278697668916"}
 {"title":"Magnets \u0026 Magnetic Toys","__parentId":"gid:\/\/shopify\/Product\/9278697668916"}
+{"title":"Classic \u0026 Retro Toys in Toronto | 80s Vintage","__parentId":"gid:\/\/shopify\/Product\/9278697668916"}
 {"id":"gid:\/\/shopify\/Product\/9278707237172","title":"I Love my Sister with The Very Hungry Caterpillar","status":"ACTIVE","vendor":"The World of Eric Carle","productType":"","tags":["Valentine"],"totalInventory":1,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/me-1","name":"Books","fullName":"Media \u003e Books"}}
 {"title":"5% HST","__parentId":"gid:\/\/shopify\/Product\/9278707237172"}
 {"title":"Books","__parentId":"gid:\/\/shopify\/Product\/9278707237172"}
@@ -21649,6 +21723,7 @@
 {"title":"Hair Accessories \u0026 Grooming Essentials","__parentId":"gid:\/\/shopify\/Product\/9280235897140"}
 {"id":"gid:\/\/shopify\/Product\/9280590381364","title":"Sugar Rush Scented Gel Pens (5-pack)","status":"ACTIVE","vendor":"Schylling","productType":"","tags":[],"totalInventory":8,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/os-11-11-7-3-4","name":"Gel Pens","fullName":"Office Supplies \u003e Office Instruments \u003e Writing \u0026 Drawing Instruments \u003e Pens \u0026 Pencils \u003e Pens \u003e Gel Pens"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9280590381364"}
+{"title":"Drawing Writing \u0026 Painting","__parentId":"gid:\/\/shopify\/Product\/9280590381364"}
 {"id":"gid:\/\/shopify\/Product\/9280650969396","title":"Super Needoh | Cool Cats","status":"DRAFT","vendor":"Jill and the Beanstalk","productType":"","tags":["nofun10"],"totalInventory":12,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/na","name":"Uncategorized","fullName":"Uncategorized"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9280650969396"}
 {"title":"Needoh \u0026 Squishy Toys","__parentId":"gid:\/\/shopify\/Product\/9280650969396"}
@@ -21716,6 +21791,7 @@
 {"title":"Gloves \u0026 Mittens","__parentId":"gid:\/\/shopify\/Product\/9282153578804"}
 {"id":"gid:\/\/shopify\/Product\/9282647294260","title":"Glass Marballz | 25 Pack With Shooter","status":"ACTIVE","vendor":"Hasbro","productType":"","tags":[],"totalInventory":21,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-1-6","name":"Marbles","fullName":"Toys \u0026 Games \u003e Toys \u003e Activity Toys \u003e Marbles"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9282647294260"}
+{"title":"Classic \u0026 Retro Toys in Toronto | 80s Vintage","__parentId":"gid:\/\/shopify\/Product\/9282647294260"}
 {"id":"gid:\/\/shopify\/Product\/9282647785780","title":"LEGO Duplo | Bluey's Family House with Memory Game | 10459","status":"DRAFT","vendor":"LEGO","productType":"","tags":["blocks","building blocks","LEGO"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-7-8","name":"Construction Set Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Building Toys \u003e Construction Set Toys"}}
 {"title":"Building \u0026 Constructing Toys","__parentId":"gid:\/\/shopify\/Product\/9282647785780"}
 {"title":"Lego","__parentId":"gid:\/\/shopify\/Product\/9282647785780"}
@@ -22346,6 +22422,7 @@
 {"title":"Crafts \u0026 Activities","__parentId":"gid:\/\/shopify\/Product\/9287976223028"}
 {"title":"Stickers \u0026 Tattoos","__parentId":"gid:\/\/shopify\/Product\/9287976223028"}
 {"id":"gid:\/\/shopify\/Product\/9287977173300","title":"Moulin Roty | Trois Petits Lapins Activity Leaf","status":"ACTIVE","vendor":"Jill and the Beanstalk","productType":"","tags":[],"totalInventory":1,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/bt-5-6","name":"Baby Mobiles","fullName":"Baby \u0026 Toddler \u003e Baby Toys \u0026 Activity Equipment \u003e Baby Mobiles"}}
+{"title":"Room Decor","__parentId":"gid:\/\/shopify\/Product\/9287977173300"}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9287977173300"}
 {"id":"gid:\/\/shopify\/Product\/9287981203764","title":"Moulin Roty | Sous Mon Baobab Wood Elephant Ring Rattle","status":"ACTIVE","vendor":"Moulin Roty","productType":"","tags":["Plush Rattle"],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/bt-5-2-3","name":"Rattles","fullName":"Baby \u0026 Toddler \u003e Baby Toys \u0026 Activity Equipment \u003e Baby Activity Toys \u003e Rattles"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9287981203764"}
@@ -23094,6 +23171,7 @@
 {"id":"gid:\/\/shopify\/Product\/9293066109236","title":"Playmobil| Starter Pack Vegetable Garden","status":"ACTIVE","vendor":"playmobil","productType":"","tags":["Pretend Play"],"totalInventory":1,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-8-12","name":"Toy Playsets","fullName":"Toys \u0026 Games \u003e Toys \u003e Dolls, Playsets \u0026 Toy Figures \u003e Toy Playsets"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9293066109236"}
 {"title":"Pretend Play","__parentId":"gid:\/\/shopify\/Product\/9293066109236"}
+{"title":"Doll Playsets \u0026 Accessories","__parentId":"gid:\/\/shopify\/Product\/9293066109236"}
 {"title":"Role Play \u0026 Fun","__parentId":"gid:\/\/shopify\/Product\/9293066109236"}
 {"id":"gid:\/\/shopify\/Product\/9293108478260","title":"Playmobil| Pirate Ship 71418","status":"ACTIVE","vendor":"playmobil","productType":"","tags":["Pretend Play"],"totalInventory":1,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-8-12-1","name":"Action Figure Playsets","fullName":"Toys \u0026 Games \u003e Toys \u003e Dolls, Playsets \u0026 Toy Figures \u003e Toy Playsets \u003e Action Figure Playsets"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9293108478260"}
@@ -23123,6 +23201,7 @@
 {"title":"Role Play \u0026 Fun","__parentId":"gid:\/\/shopify\/Product\/9293161890100"}
 {"id":"gid:\/\/shopify\/Product\/9293196230964","title":"Playmobil| Campfire with Marshmallows| 71513","status":"DRAFT","vendor":"playmobil","productType":"","tags":["Pretend Play"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-8-12","name":"Toy Playsets","fullName":"Toys \u0026 Games \u003e Toys \u003e Dolls, Playsets \u0026 Toy Figures \u003e Toy Playsets"}}
 {"title":"Pretend Play","__parentId":"gid:\/\/shopify\/Product\/9293196230964"}
+{"title":"Doll Playsets \u0026 Accessories","__parentId":"gid:\/\/shopify\/Product\/9293196230964"}
 {"title":"Role Play \u0026 Fun","__parentId":"gid:\/\/shopify\/Product\/9293196230964"}
 {"id":"gid:\/\/shopify\/Product\/9293200130356","title":"Playmobil | Food Court 71538","status":"ACTIVE","vendor":"playmobil","productType":"","tags":["Pretend Play"],"totalInventory":1,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-8-12-8","name":"Kitchen Playsets","fullName":"Toys \u0026 Games \u003e Toys \u003e Dolls, Playsets \u0026 Toy Figures \u003e Toy Playsets \u003e Kitchen Playsets"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9293200130356"}
@@ -23150,6 +23229,7 @@
 {"id":"gid:\/\/shopify\/Product\/9293206159668","title":"Playmobil |  Manager with Dalmatian | 71736","status":"ACTIVE","vendor":"playmobil","productType":"","tags":["Pretend Play"],"totalInventory":1,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-8-12","name":"Toy Playsets","fullName":"Toys \u0026 Games \u003e Toys \u003e Dolls, Playsets \u0026 Toy Figures \u003e Toy Playsets"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9293206159668"}
 {"title":"Pretend Play","__parentId":"gid:\/\/shopify\/Product\/9293206159668"}
+{"title":"Doll Playsets \u0026 Accessories","__parentId":"gid:\/\/shopify\/Product\/9293206159668"}
 {"title":"Role Play \u0026 Fun","__parentId":"gid:\/\/shopify\/Product\/9293206159668"}
 {"id":"gid:\/\/shopify\/Product\/9293220413748","title":"Pokemon Mega Evolution Perfect Order","status":"ACTIVE","vendor":"the pokemon company international","productType":"","tags":["card game"],"totalInventory":34,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/ae-2-2-3-2","name":"Gaming Cards","fullName":"Arts \u0026 Entertainment \u003e Hobbies \u0026 Creative Arts \u003e Collectibles \u003e Collectible Trading Cards \u003e Gaming Cards"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9293220413748"}
@@ -23762,6 +23842,7 @@
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9307980398900"}
 {"id":"gid:\/\/shopify\/Product\/9307982659892","title":"Noüka Non-Spill Weighted Straw Cup | 9 oz","status":"ACTIVE","vendor":"Noüka","productType":"","tags":[],"totalInventory":7,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hg-11-10-5-8","name":"Tumblers","fullName":"Home \u0026 Garden \u003e Kitchen \u0026 Dining \u003e Tableware \u003e Drinkware \u003e Tumblers"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9307982659892"}
+{"title":"Baby Drinking Essentials","__parentId":"gid:\/\/shopify\/Product\/9307982659892"}
 {"id":"gid:\/\/shopify\/Product\/9307983708468","title":"Play\u0026Go Noomad |Organic Babymat | Moon","status":"ACTIVE","vendor":"Play \u0026 Go","productType":"","tags":["baby safety","Safety"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/bt-5-9-2","name":"Play Mats","fullName":"Baby \u0026 Toddler \u003e Baby Toys \u0026 Activity Equipment \u003e Play Mats \u0026 Gyms \u003e Play Mats"}}
 {"title":"Baby Safety \u0026 Care","__parentId":"gid:\/\/shopify\/Product\/9307983708468"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9307983708468"}
@@ -23771,6 +23852,7 @@
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9307983970612"}
 {"id":"gid:\/\/shopify\/Product\/9307987935540","title":"RePlay 8-Piece Utensil Set | Multi-Coloured","status":"ACTIVE","vendor":"Re-Play","productType":"","tags":[],"totalInventory":4,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hg-11-10-6-4","name":"Flatware Sets","fullName":"Home \u0026 Garden \u003e Kitchen \u0026 Dining \u003e Tableware \u003e Flatware \u003e Flatware Sets"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9307987935540"}
+{"title":"Feeding Dishes \u0026 Utensils","__parentId":"gid:\/\/shopify\/Product\/9307987935540"}
 {"id":"gid:\/\/shopify\/Product\/9307991671092","title":"RePlay Snack Pod\/ Containers Base","status":"ACTIVE","vendor":"Re-Play","productType":"","tags":[],"totalInventory":3,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/fb-2-17","name":"Snack Foods","fullName":"Food, Beverages \u0026 Tobacco \u003e Food Items \u003e Snack Foods"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9307991671092"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9307991671092"}
@@ -24139,6 +24221,7 @@
 {"title":"Back to School","__parentId":"gid:\/\/shopify\/Product\/9310145052980"}
 {"id":"gid:\/\/shopify\/Product\/9310159274292","title":"Sun Bum CocoBalm Lip Balm | Groove Cherry","status":"ACTIVE","vendor":"Sun Bum","productType":"","tags":[],"totalInventory":16,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-2-9-9-1","name":"Lip Balms","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Cosmetics \u003e Skin Care \u003e Lip Balms \u0026 Treatments \u003e Lip Balms"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9310159274292"}
+{"title":"Body \u0026 Skin Care","__parentId":"gid:\/\/shopify\/Product\/9310159274292"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9310159274292"}
 {"id":"gid:\/\/shopify\/Product\/9310163730740","title":"Sun Bum Kids Curls Detangler (118 mL)","status":"ACTIVE","vendor":"Sun Bum","productType":"","tags":[],"totalInventory":3,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-10-10","name":"Hair Styling Products","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Hair Care \u003e Hair Styling Products"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9310163730740"}
@@ -24364,6 +24447,7 @@
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9311236063540"}
 {"id":"gid:\/\/shopify\/Product\/9311237767476","title":"No Nasties Natural Kids Makeup Set | Mermaid Dreams","status":"ACTIVE","vendor":"Jill and the Beanstalk","productType":"","tags":[],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-2-3","name":"Cosmetic Sets","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Cosmetics \u003e Cosmetic Sets"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9311237767476"}
+{"title":"Kids Makeup, Perfume \u0026 Nail Accessories","__parentId":"gid:\/\/shopify\/Product\/9311237767476"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9311237767476"}
 {"id":"gid:\/\/shopify\/Product\/9311241339188","title":"No Nasties Knot a Chance Strawberry Hair Detangler (250 mL)","status":"ACTIVE","vendor":"No Nasties","productType":"","tags":[],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-10-10","name":"Hair Styling Products","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Hair Care \u003e Hair Styling Products"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9311241339188"}
@@ -24496,6 +24580,7 @@
 {"title":"Back to School","__parentId":"gid:\/\/shopify\/Product\/9311734563124"}
 {"id":"gid:\/\/shopify\/Product\/9311835947316","title":"Kikkerland Rainbow Flower Pen","status":"ACTIVE","vendor":"Kikkerland","productType":"","tags":[],"totalInventory":17,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/os-11-11-5","name":"Multifunction Writing Instruments","fullName":"Office Supplies \u003e Office Instruments \u003e Writing \u0026 Drawing Instruments \u003e Multifunction Writing Instruments"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9311835947316"}
+{"title":"Drawing Writing \u0026 Painting","__parentId":"gid:\/\/shopify\/Product\/9311835947316"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9311835947316"}
 {"id":"gid:\/\/shopify\/Product\/9311988842804","title":"Kikkerland | Fish Flashlight","status":"ACTIVE","vendor":"kikkerland","productType":"","tags":["Outdoor Fun"],"totalInventory":4,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/sg-4-2-3","name":"Camping Lights \u0026 Lanterns","fullName":"Sporting Goods \u003e Outdoor Recreation \u003e Camping \u0026 Hiking \u003e Camping Lights \u0026 Lanterns"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9311988842804"}
@@ -24523,10 +24608,12 @@
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9312045203764"}
 {"id":"gid:\/\/shopify\/Product\/9312055886132","title":"Kikkerland | Rabbit Toothbrush Holder","status":"ACTIVE","vendor":"Kikkerland","productType":"","tags":["Easter"],"totalInventory":4,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hg-1-20","name":"Toothbrush Holders","fullName":"Home \u0026 Garden \u003e Bathroom Accessories \u003e Toothbrush Holders"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9312055886132"}
+{"title":"Oral Health","__parentId":"gid:\/\/shopify\/Product\/9312055886132"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9312055886132"}
 {"title":"Easter Gifts, Toys \u0026 Basket Fillers for Babies \u0026 Kids","__parentId":"gid:\/\/shopify\/Product\/9312055886132"}
 {"id":"gid:\/\/shopify\/Product\/9312063652148","title":"Kikkerland | Frog Toothbrush Holder","status":"ACTIVE","vendor":"Kikkerland","productType":"","tags":[],"totalInventory":5,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hg-1-20","name":"Toothbrush Holders","fullName":"Home \u0026 Garden \u003e Bathroom Accessories \u003e Toothbrush Holders"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9312063652148"}
+{"title":"Oral Health","__parentId":"gid:\/\/shopify\/Product\/9312063652148"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9312063652148"}
 {"id":"gid:\/\/shopify\/Product\/9312068927796","title":"Kikkerland Kidoki Cat's Cradle","status":"DRAFT","vendor":"Kikkerland","productType":"","tags":["fidget toy"],"totalInventory":12,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-1-5","name":"Coiled Spring Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Activity Toys \u003e Coiled Spring Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9312068927796"}
@@ -24624,6 +24711,7 @@
 {"title":"Bubble Blowing","__parentId":"gid:\/\/shopify\/Product\/9314538357044"}
 {"id":"gid:\/\/shopify\/Product\/9314539077940","title":"Simon Classic Game","status":"ACTIVE","vendor":"Jill and the Beanstalk","productType":"","tags":["Retro Game"],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2","name":"Games","fullName":"Toys \u0026 Games \u003e Games"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9314539077940"}
+{"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/9314539077940"}
 {"title":"Classic Games","__parentId":"gid:\/\/shopify\/Product\/9314539077940"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9314539077940"}
 {"id":"gid:\/\/shopify\/Product\/9314644361524","title":"Hasbro | Guess Who 2.0 Refresh (Bilingual)","status":"ACTIVE","vendor":"Hasbro","productType":"","tags":["Board Game"],"totalInventory":4,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2-5","name":"Board Games","fullName":"Toys \u0026 Games \u003e Games \u003e Board Games"}}
@@ -25291,6 +25379,7 @@
 {"id":"gid:\/\/shopify\/Product\/9317672878388","title":"Crayola | Light-Up Activity Board","status":"ACTIVE","vendor":"Crayola","productType":"","tags":["Arts \u0026 Crafts"],"totalInventory":5,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-2-11","name":"Toy Drawing Tablets","fullName":"Toys \u0026 Games \u003e Toys \u003e Art \u0026 Drawing Toys \u003e Toy Drawing Tablets"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9317672878388"}
 {"title":"Crafts \u0026 Activities","__parentId":"gid:\/\/shopify\/Product\/9317672878388"}
+{"title":"Drawing Writing \u0026 Painting","__parentId":"gid:\/\/shopify\/Product\/9317672878388"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9317672878388"}
 {"id":"gid:\/\/shopify\/Product\/9317674058036","title":"Crayola | Colours of Kindness Fine Line Markers 10pk","status":"DRAFT","vendor":"Crayola","productType":"","tags":["Arts \u0026 Crafts"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/os-11-11-4-2","name":"Markers","fullName":"Office Supplies \u003e Office Instruments \u003e Writing \u0026 Drawing Instruments \u003e Markers \u0026 Highlighters \u003e Markers"}}
 {"title":"Crafts \u0026 Activities","__parentId":"gid:\/\/shopify\/Product\/9317674058036"}
@@ -25338,6 +25427,7 @@
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9318033293620"}
 {"id":"gid:\/\/shopify\/Product\/9318033981748","title":"Crayola | Double Doodle Board","status":"ACTIVE","vendor":"Crayola","productType":"","tags":[],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-2-11","name":"Toy Drawing Tablets","fullName":"Toys \u0026 Games \u003e Toys \u003e Art \u0026 Drawing Toys \u003e Toy Drawing Tablets"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9318033981748"}
+{"title":"Drawing Writing \u0026 Painting","__parentId":"gid:\/\/shopify\/Product\/9318033981748"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9318033981748"}
 {"id":"gid:\/\/shopify\/Product\/9318035816756","title":"Crayola| Silly Putty Egg","status":"ACTIVE","vendor":"Crayola","productType":"","tags":["Arts \u0026 Crafts","sensory toy"],"totalInventory":5,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-2-6-6","name":"Slime \u0026 Putty Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Art \u0026 Drawing Toys \u003e Play Dough \u0026 Putty \u003e Slime \u0026 Putty Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9318035816756"}
@@ -25348,6 +25438,7 @@
 {"id":"gid:\/\/shopify\/Product\/9318048039220","title":"Crayola | Magic Light Brush","status":"ACTIVE","vendor":"Crayola","productType":"","tags":["Arts \u0026 Crafts"],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-2-11","name":"Toy Drawing Tablets","fullName":"Toys \u0026 Games \u003e Toys \u003e Art \u0026 Drawing Toys \u003e Toy Drawing Tablets"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9318048039220"}
 {"title":"Crafts \u0026 Activities","__parentId":"gid:\/\/shopify\/Product\/9318048039220"}
+{"title":"Drawing Writing \u0026 Painting","__parentId":"gid:\/\/shopify\/Product\/9318048039220"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9318048039220"}
 {"id":"gid:\/\/shopify\/Product\/9318048530740","title":"Crayola Colour \u0026 Sticker | Peppa Pig","status":"ACTIVE","vendor":"Crayola","productType":"","tags":["stickers"],"totalInventory":4,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-2-2","name":"Coloring Books \u0026 Pads","fullName":"Toys \u0026 Games \u003e Toys \u003e Art \u0026 Drawing Toys \u003e Coloring Books \u0026 Pads"}}
 {"title":"Books","__parentId":"gid:\/\/shopify\/Product\/9318048530740"}
@@ -26905,12 +26996,15 @@
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9328820781364"}
 {"id":"gid:\/\/shopify\/Product\/9328821076276","title":"Jack N' Jill  | Tooth Buddy Pack Toothpaste and Toothbrush | Strawberry \u0026 Bunny","status":"DRAFT","vendor":"Jack N' Jill","productType":"","tags":[],"totalInventory":12,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-12-17-3","name":"Toothbrush Sets","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Oral Care \u003e Toothbrushes \u003e Toothbrush Sets"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9328821076276"}
+{"title":"Oral Health","__parentId":"gid:\/\/shopify\/Product\/9328821076276"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9328821076276"}
 {"id":"gid:\/\/shopify\/Product\/9328821698868","title":"Jack N' Jill  | Tooth Buddy Pack Toothpaste and Toothbrush | Raspberry \u0026 Monkey","status":"ACTIVE","vendor":"Jack N' Jill","productType":"","tags":[],"totalInventory":8,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-12-17-3","name":"Toothbrush Sets","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Oral Care \u003e Toothbrushes \u003e Toothbrush Sets"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9328821698868"}
+{"title":"Oral Health","__parentId":"gid:\/\/shopify\/Product\/9328821698868"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9328821698868"}
 {"id":"gid:\/\/shopify\/Product\/9328822812980","title":"Jack N' Jill | Baby Gum and Teething Gel","status":"DRAFT","vendor":"Jack N' Jill","productType":"","tags":[],"totalInventory":8,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-12-24","name":"Oral Gels","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Oral Care \u003e Oral Gels"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9328822812980"}
+{"title":"Oral Health","__parentId":"gid:\/\/shopify\/Product\/9328822812980"}
 {"id":"gid:\/\/shopify\/Product\/9328824254772","title":"Jack N Jill | Silicone Toothbrush","status":"ACTIVE","vendor":"Jill and the Beanstalk","productType":"","tags":[],"totalInventory":7,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-12-17-2","name":"Manual Toothbrushes","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Oral Care \u003e Toothbrushes \u003e Manual Toothbrushes"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9328824254772"}
 {"title":"Oral Health","__parentId":"gid:\/\/shopify\/Product\/9328824254772"}
@@ -26987,10 +27081,13 @@
 {"title":"Role Play \u0026 Fun","__parentId":"gid:\/\/shopify\/Product\/9329045111092"}
 {"id":"gid:\/\/shopify\/Product\/9329045209396","title":"Schleich Set | Fairy Eyela with Princess Unicorn | 70569","status":"ACTIVE","vendor":"Schleich","productType":"","tags":[],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-8","name":"Dolls, Playsets \u0026 Toy Figures","fullName":"Toys \u0026 Games \u003e Toys \u003e Dolls, Playsets \u0026 Toy Figures"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9329045209396"}
+{"title":"Action Figures","__parentId":"gid:\/\/shopify\/Product\/9329045209396"}
 {"id":"gid:\/\/shopify\/Product\/9329045733684","title":"Schleich Set | Mermaid Eyela on Underwater Horse | 70594","status":"ACTIVE","vendor":"Schleich","productType":"","tags":[],"totalInventory":3,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-8-12","name":"Toy Playsets","fullName":"Toys \u0026 Games \u003e Toys \u003e Dolls, Playsets \u0026 Toy Figures \u003e Toy Playsets"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9329045733684"}
+{"title":"Doll Playsets \u0026 Accessories","__parentId":"gid:\/\/shopify\/Product\/9329045733684"}
 {"id":"gid:\/\/shopify\/Product\/9329216782644","title":"Jack N Jill | Baby Gum \u0026 Tooth Gel for Teething","status":"ACTIVE","vendor":"Jack N' Jill","productType":"","tags":[],"totalInventory":6,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-12-24","name":"Oral Gels","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Oral Care \u003e Oral Gels"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9329216782644"}
+{"title":"Oral Health","__parentId":"gid:\/\/shopify\/Product\/9329216782644"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9329216782644"}
 {"id":"gid:\/\/shopify\/Product\/9329220616500","title":"Jack N' Jill | Silicone Tooth \u0026 Gum Brush | Stage 3, 2-5 years","status":"ACTIVE","vendor":"Jack N' Jill","productType":"","tags":[],"totalInventory":7,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-12-17-2","name":"Manual Toothbrushes","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Oral Care \u003e Toothbrushes \u003e Manual Toothbrushes"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9329220616500"}
@@ -27291,6 +27388,7 @@
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9331482165556"}
 {"id":"gid:\/\/shopify\/Product\/9331488555316","title":"B Box| Replacement Straws","status":"ACTIVE","vendor":"b box","productType":"","tags":[],"totalInventory":1,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/sg-4-10-8","name":"Hydration System Straws","fullName":"Sporting Goods \u003e Outdoor Recreation \u003e Hydration System Accessories \u003e Hydration System Straws"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9331488555316"}
+{"title":"Baby Drinking Essentials","__parentId":"gid:\/\/shopify\/Product\/9331488555316"}
 {"id":"gid:\/\/shopify\/Product\/9331488915764","title":"Manhattan Toy Company | Love, Stella Diaper Bag Set","status":"ACTIVE","vendor":"Manhattan Toy Company","productType":"","tags":["doll","Doll Accessories","Doll Playset","Dolls for Toddlers"],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-8-3","name":"Doll \u0026 Action Figure Accessories","fullName":"Toys \u0026 Games \u003e Toys \u003e Dolls, Playsets \u0026 Toy Figures \u003e Doll \u0026 Action Figure Accessories"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9331488915764"}
 {"title":"Dolls \u0026 Stuffed Animals","__parentId":"gid:\/\/shopify\/Product\/9331488915764"}
@@ -27373,11 +27471,14 @@
 {"title":"Stocking Stuffers","__parentId":"gid:\/\/shopify\/Product\/9331849036084"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9331849036084"}
 {"id":"gid:\/\/shopify\/Product\/9331849756980","title":"Jelleez Colourful Squish Ball | Flowers and Hearts","status":"DRAFT","vendor":"Jelleez","productType":"","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-29","name":"Sensory Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Sensory Toys"}}
+{"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9331849756980"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9331849756980"}
 {"id":"gid:\/\/shopify\/Product\/9331852214580","title":"The Toy Network | Suction Water Octopus 3.5\"","status":"DRAFT","vendor":"Jill and the Beanstalk","productType":"","tags":[],"totalInventory":1,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-29","name":"Sensory Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Sensory Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9331852214580"}
+{"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9331852214580"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9331852214580"}
 {"id":"gid:\/\/shopify\/Product\/9331856769332","title":"The Toy Network | Sugar Squeezy Shark 6\"","status":"DRAFT","vendor":"The Toy Network","productType":"","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-29","name":"Sensory Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Sensory Toys"}}
+{"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9331856769332"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9331856769332"}
 {"id":"gid:\/\/shopify\/Product\/9331945668916","title":"UNO Show 'Em No Mercy Game Expansion Pack","status":"DRAFT","vendor":"Mattel","productType":"Game","tags":["card game","Classic Game"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2-7","name":"Card Games","fullName":"Toys \u0026 Games \u003e Games \u003e Card Games"}}
 {"title":"Card Games","__parentId":"gid:\/\/shopify\/Product\/9331945668916"}
@@ -27616,9 +27717,11 @@
 {"id":"gid:\/\/shopify\/Product\/9334866018612","title":"Fat Brain Toys | PlayTab Modular Activity Board","status":"ACTIVE","vendor":"Fat Brain Toys","productType":"","tags":[],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/bt-5-2-1","name":"Activity Centers","fullName":"Baby \u0026 Toddler \u003e Baby Toys \u0026 Activity Equipment \u003e Baby Activity Toys \u003e Activity Centers"}}
 {"title":"Sale","__parentId":"gid:\/\/shopify\/Product\/9334866018612"}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9334866018612"}
+{"title":"Baby STEM Toys","__parentId":"gid:\/\/shopify\/Product\/9334866018612"}
 {"title":"Compared Prices | Everyday Value","__parentId":"gid:\/\/shopify\/Product\/9334866018612"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9334866018612"}
 {"id":"gid:\/\/shopify\/Product\/9334869229876","title":"Mystery Squishy Dumplings| DNA Filling","status":"DRAFT","vendor":"dumplings","productType":"","tags":["fidget toy"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-29","name":"Sensory Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Sensory Toys"}}
+{"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9334869229876"}
 {"title":"Fidget \u0026 Stress Toys","__parentId":"gid:\/\/shopify\/Product\/9334869229876"}
 {"title":"Stocking Stuffers","__parentId":"gid:\/\/shopify\/Product\/9334869229876"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9334869229876"}
@@ -27690,14 +27793,17 @@
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9335436181812"}
 {"id":"gid:\/\/shopify\/Product\/9336018993460","title":"Incredible PLay| Icee Squishi Toy","status":"ACTIVE","vendor":"incredible play","productType":"","tags":[],"totalInventory":16,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-29","name":"Sensory Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Sensory Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9336018993460"}
+{"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9336018993460"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9336018993460"}
 {"id":"gid:\/\/shopify\/Product\/9336023417140","title":"Incredible Candy Shop| Squishy Gummy Cherries","status":"ACTIVE","vendor":"incredible play","productType":"","tags":["fidget toy"],"totalInventory":6,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-29","name":"Sensory Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Sensory Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9336023417140"}
+{"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9336023417140"}
 {"title":"Fidget \u0026 Stress Toys","__parentId":"gid:\/\/shopify\/Product\/9336023417140"}
 {"title":"Stocking Stuffers","__parentId":"gid:\/\/shopify\/Product\/9336023417140"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9336023417140"}
 {"id":"gid:\/\/shopify\/Product\/9336025186612","title":"Squishi Toy | Ring Pop","status":"ACTIVE","vendor":"squishi toy","productType":"","tags":[],"totalInventory":13,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-29","name":"Sensory Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Sensory Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9336025186612"}
+{"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9336025186612"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9336025186612"}
 {"id":"gid:\/\/shopify\/Product\/9336251973940","title":"Jan \u0026 Jul Cotton Floppy Hat | Goose","status":"ACTIVE","vendor":"Jan and Jul","productType":"","tags":["Baby Sun Hat","sun hat"],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/aa-2-17-11","name":"Sun Hats","fullName":"Apparel \u0026 Accessories \u003e Clothing Accessories \u003e Hats \u003e Sun Hats"}}
 {"title":"5% HST","__parentId":"gid:\/\/shopify\/Product\/9336251973940"}
@@ -27846,6 +27952,7 @@
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9336858771764"}
 {"id":"gid:\/\/shopify\/Product\/9336858870068","title":"Moulin Roty | Petites Merveilles | Bouncy Stones","status":"ACTIVE","vendor":"Moulin Roty","productType":"","tags":["fidget toy"],"totalInventory":10,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-29","name":"Sensory Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Sensory Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9336858870068"}
+{"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9336858870068"}
 {"title":"Fidget \u0026 Stress Toys","__parentId":"gid:\/\/shopify\/Product\/9336858870068"}
 {"title":"Stocking Stuffers","__parentId":"gid:\/\/shopify\/Product\/9336858870068"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9336858870068"}
@@ -28272,16 +28379,19 @@
 {"title":"The Herschel Heritage Collection","__parentId":"gid:\/\/shopify\/Product\/9341190897972"}
 {"title":"Back to School","__parentId":"gid:\/\/shopify\/Product\/9341190897972"}
 {"id":"gid:\/\/shopify\/Product\/9341277241652","title":"Super Soft Slow Rise Butter Squishy (Scented) | 4oz","status":"DRAFT","vendor":"Jill and the Beanstalk","productType":"","tags":["fidget toy"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-29","name":"Sensory Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Sensory Toys"}}
+{"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9341277241652"}
 {"title":"Fidget \u0026 Stress Toys","__parentId":"gid:\/\/shopify\/Product\/9341277241652"}
 {"title":"Stocking Stuffers","__parentId":"gid:\/\/shopify\/Product\/9341277241652"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9341277241652"}
 {"id":"gid:\/\/shopify\/Product\/9341277405492","title":"Jumbo Super Soft Slow Rise Butter Squishy (Scented) | 14 oz","status":"ACTIVE","vendor":"Jill and the Beanstalk","productType":"","tags":["fidget toy"],"totalInventory":44,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-29","name":"Sensory Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Sensory Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9341277405492"}
+{"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9341277405492"}
 {"title":"Fidget \u0026 Stress Toys","__parentId":"gid:\/\/shopify\/Product\/9341277405492"}
 {"title":"Stocking Stuffers","__parentId":"gid:\/\/shopify\/Product\/9341277405492"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9341277405492"}
 {"id":"gid:\/\/shopify\/Product\/9341278290228","title":"Soft \u0026 Squishy Slo Rise Cheese | 6.5 cm","status":"ACTIVE","vendor":"Jill and the Beanstalk","productType":"","tags":["fidget toy"],"totalInventory":10,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-29","name":"Sensory Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Sensory Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9341278290228"}
+{"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9341278290228"}
 {"title":"Fidget \u0026 Stress Toys","__parentId":"gid:\/\/shopify\/Product\/9341278290228"}
 {"title":"Stocking Stuffers","__parentId":"gid:\/\/shopify\/Product\/9341278290228"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9341278290228"}
@@ -28442,6 +28552,7 @@
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9341944299828"}
 {"id":"gid:\/\/shopify\/Product\/9343462539572","title":"Mystery Squishy Dumplings | Glitter Taba Golden Surprise","status":"ACTIVE","vendor":"dumplings","productType":"","tags":[],"totalInventory":3,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-29","name":"Sensory Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Sensory Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9343462539572"}
+{"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9343462539572"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9343462539572"}
 {"id":"gid:\/\/shopify\/Product\/9343466570036","title":"Stonz Cruiser | Mary Jane Baby Sandals | Black","status":"ACTIVE","vendor":"stonz","productType":"","tags":["Stonz Cruiser"],"totalInventory":12,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/aa-8-11","name":"Baby \u0026 Children's Shoes","fullName":"Apparel \u0026 Accessories \u003e Shoes \u003e Baby \u0026 Children's Shoes"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9343466570036"}
@@ -28489,6 +28600,7 @@
 {"id":"gid:\/\/shopify\/Product\/9343514444084","title":"Gazillion | Bubble Solution | 8oz","status":"ACTIVE","vendor":"gazillion","productType":"","tags":[],"totalInventory":1,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-1-3","name":"Bubble Blowing Solutions","fullName":"Toys \u0026 Games \u003e Toys \u003e Activity Toys \u003e Bubble Blowing Solutions"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9343514444084"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9343514444084"}
+{"title":"Bubble Blowing","__parentId":"gid:\/\/shopify\/Product\/9343514444084"}
 {"id":"gid:\/\/shopify\/Product\/9343517163828","title":"Lamaze | Muffin the Moose Clip \u0026 Go Baby Toy","status":"ACTIVE","vendor":"Tomy","productType":"","tags":[],"totalInventory":5,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/bt-5-2","name":"Baby Activity Toys","fullName":"Baby \u0026 Toddler \u003e Baby Toys \u0026 Activity Equipment \u003e Baby Activity Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9343517163828"}
 {"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9343517163828"}
@@ -28538,6 +28650,7 @@
 {"title":"Back to School","__parentId":"gid:\/\/shopify\/Product\/9344423231796"}
 {"id":"gid:\/\/shopify\/Product\/9344424280372","title":"Crayola| Ultra Clean Washable Crayons | 8 Ct","status":"ACTIVE","vendor":"Crayola","productType":"","tags":[],"totalInventory":20,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/os-11-11-3-5","name":"Regular Crayons","fullName":"Office Supplies \u003e Office Instruments \u003e Writing \u0026 Drawing Instruments \u003e Crayons \u003e Regular Crayons"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9344424280372"}
+{"title":"Drawing Writing \u0026 Painting","__parentId":"gid:\/\/shopify\/Product\/9344424280372"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9344424280372"}
 {"id":"gid:\/\/shopify\/Product\/9344424706356","title":"Crayola | Glitter Markers | 8 Ct","status":"ACTIVE","vendor":"Crayola","productType":"","tags":[],"totalInventory":19,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/os-11-11-4-2","name":"Markers","fullName":"Office Supplies \u003e Office Instruments \u003e Writing \u0026 Drawing Instruments \u003e Markers \u0026 Highlighters \u003e Markers"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9344424706356"}
@@ -28557,6 +28670,7 @@
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9344428474676"}
 {"id":"gid:\/\/shopify\/Product\/9344440992052","title":"Mystery Squishy Dumplings | Glow in The Dark Shimmering Surprise","status":"ACTIVE","vendor":"dumplings","productType":"","tags":[],"totalInventory":19,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-29","name":"Sensory Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Sensory Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9344440992052"}
+{"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9344440992052"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9344440992052"}
 {"id":"gid:\/\/shopify\/Product\/9344693305652","title":"Think Kids Clear Mineral  (Zinc) Sunscreen Spray SPF 50","status":"ACTIVE","vendor":"Think Baby","productType":"","tags":[],"totalInventory":4,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-2-9-15","name":"Sunscreen","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Cosmetics \u003e Skin Care \u003e Sunscreen"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9344693305652"}
@@ -28892,9 +29006,11 @@
 {"title":"Stickers \u0026 Tattoos","__parentId":"gid:\/\/shopify\/Product\/9348573462836"}
 {"id":"gid:\/\/shopify\/Product\/9348573954356","title":"Mystery Squishy Dumplings | Slow Rise Rainbow Surprise","status":"ACTIVE","vendor":"dumplings","productType":"","tags":[],"totalInventory":23,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-29","name":"Sensory Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Sensory Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9348573954356"}
+{"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9348573954356"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9348573954356"}
 {"id":"gid:\/\/shopify\/Product\/9348574314804","title":"Mystery Squishy Dumpling Assorted Colours | Golden Surprise","status":"ACTIVE","vendor":"dumplings","productType":"","tags":["fidget toy"],"totalInventory":19,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-29","name":"Sensory Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Sensory Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9348574314804"}
+{"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9348574314804"}
 {"title":"Fidget \u0026 Stress Toys","__parentId":"gid:\/\/shopify\/Product\/9348574314804"}
 {"title":"Stocking Stuffers","__parentId":"gid:\/\/shopify\/Product\/9348574314804"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9348574314804"}
@@ -28993,6 +29109,7 @@
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9352740045108"}
 {"id":"gid:\/\/shopify\/Product\/9352740307252","title":"Blue Orange Games | Pocket Yamslam Roll to Win Game","status":"ACTIVE","vendor":"Blue Orange Games","productType":"","tags":[],"totalInventory":3,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2-9","name":"Dice Sets \u0026 Games","fullName":"Toys \u0026 Games \u003e Games \u003e Dice Sets \u0026 Games"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9352740307252"}
+{"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/9352740307252"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9352740307252"}
 {"id":"gid:\/\/shopify\/Product\/9352740667700","title":"Cobble Hill Map of the World Puzzle | 35-Piece Tray Puzzle","status":"ACTIVE","vendor":"Cobble Hill","productType":"","tags":[],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-4-7","name":"Jigsaw Puzzles","fullName":"Toys \u0026 Games \u003e Puzzles \u003e Jigsaw Puzzles"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9352740667700"}
@@ -29066,6 +29183,7 @@
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9353863102772"}
 {"id":"gid:\/\/shopify\/Product\/9353864511796","title":"Fisher Price | Laugh and Learn Flip Phone","status":"ACTIVE","vendor":"Fisher Price","productType":"","tags":[],"totalInventory":6,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-16-2","name":"Pretend Electronics","fullName":"Toys \u0026 Games \u003e Toys \u003e Pretend Play \u003e Pretend Electronics"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9353864511796"}
+{"title":"Pretend Play","__parentId":"gid:\/\/shopify\/Product\/9353864511796"}
 {"id":"gid:\/\/shopify\/Product\/9353865396532","title":"Hasbro | Monopoly Junior 2 Games In 1","status":"ACTIVE","vendor":"Hasbro","productType":"","tags":[],"totalInventory":8,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2-5","name":"Board Games","fullName":"Toys \u0026 Games \u003e Games \u003e Board Games"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9353865396532"}
 {"title":"Board Games","__parentId":"gid:\/\/shopify\/Product\/9353865396532"}
@@ -29163,6 +29281,7 @@
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9358966063412"}
 {"id":"gid:\/\/shopify\/Product\/9358966653236","title":"Weleda Stretch Mark Massage Oil (100 mL)","status":"ACTIVE","vendor":"Weleda","productType":"","tags":[],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-11-4","name":"Massage Oil","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Massage \u0026 Relaxation \u003e Massage Oil"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9358966653236"}
+{"title":"Mommy \u0026 Me Essentials","__parentId":"gid:\/\/shopify\/Product\/9358966653236"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9358966653236"}
 {"id":"gid:\/\/shopify\/Product\/9359279784244","title":"Live Clean Baby | Colloidal Oatmeal Eczema Cream 170ml","status":"DRAFT","vendor":"Live Clean","productType":"","tags":[],"totalInventory":3,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-2-9-10","name":"Lotions \u0026 Moisturizers","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Cosmetics \u003e Skin Care \u003e Lotions \u0026 Moisturizers"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9359279784244"}
@@ -29208,6 +29327,7 @@
 {"title":"Classic Games","__parentId":"gid:\/\/shopify\/Product\/9360669966644"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9360669966644"}
 {"id":"gid:\/\/shopify\/Product\/9360677601588","title":"Lava Lamp | 14.5\" | Erupting Crater Yellow\/Red","status":"ACTIVE","vendor":"Schylling","productType":"","tags":[],"totalInventory":3,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hg-13-10-1","name":"Lava Lamps","fullName":"Home \u0026 Garden \u003e Lighting \u003e Night Lights \u0026 Ambient Lighting \u003e Lava Lamps"}}
+{"title":"Room Decor","__parentId":"gid:\/\/shopify\/Product\/9360677601588"}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9360677601588"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9360677601588"}
 {"id":"gid:\/\/shopify\/Product\/9360677634356","title":"Lava Lamp | 14.5\" | Opalescent White and Pink","status":"ACTIVE","vendor":"Schylling","productType":"","tags":["Room Decor"],"totalInventory":4,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hg-13-10-1","name":"Lava Lamps","fullName":"Home \u0026 Garden \u003e Lighting \u003e Night Lights \u0026 Ambient Lighting \u003e Lava Lamps"}}
@@ -29327,6 +29447,7 @@
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9363954237748"}
 {"id":"gid:\/\/shopify\/Product\/9363983860020","title":"Aurora Smooshie Beasties Spider","status":"ACTIVE","vendor":"Aurora","productType":"","tags":[],"totalInventory":16,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-29","name":"Sensory Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Sensory Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9363983860020"}
+{"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9363983860020"}
 {"title":"Dolls \u0026 Stuffed Animals","__parentId":"gid:\/\/shopify\/Product\/9363983860020"}
 {"title":"Aurora Stuffed Toys","__parentId":"gid:\/\/shopify\/Product\/9363983860020"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9363983860020"}
@@ -29456,6 +29577,7 @@
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9364834255156"}
 {"id":"gid:\/\/shopify\/Product\/9365224325428","title":"The Incredible B-Ball Hoop","status":"ACTIVE","vendor":"incredible play","productType":"","tags":[],"totalInventory":12,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-23-3","name":"Basketball Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Sports Toys \u003e Basketball Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9365224325428"}
+{"title":"Outdoor Play","__parentId":"gid:\/\/shopify\/Product\/9365224325428"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9365224325428"}
 {"id":"gid:\/\/shopify\/Product\/9365224882484","title":"The Incredible B-Ball (Foam Basketball)","status":"ACTIVE","vendor":"incredible play","productType":"","tags":["ball"],"totalInventory":5,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/na","name":"Uncategorized","fullName":"Uncategorized"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9365224882484"}
@@ -29467,6 +29589,7 @@
 {"title":"Balls","__parentId":"gid:\/\/shopify\/Product\/9365225275700"}
 {"id":"gid:\/\/shopify\/Product\/9365388296500","title":"Oscar Mayer Squishi Toy","status":"ACTIVE","vendor":"incredible play","productType":"","tags":[],"totalInventory":16,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-29","name":"Sensory Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Sensory Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9365388296500"}
+{"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9365388296500"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9365388296500"}
 {"title":"Needoh \u0026 Squishy Toys","__parentId":"gid:\/\/shopify\/Product\/9365388296500"}
 {"id":"gid:\/\/shopify\/Product\/9365388493108","title":"Professor Puzzle | Wooden Games Workshop | Jacks in a Wooden Box","status":"ACTIVE","vendor":"Professor Puzzle","productType":"","tags":["Classic Game"],"totalInventory":4,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2-8","name":"Dexterity Games","fullName":"Toys \u0026 Games \u003e Games \u003e Dexterity Games"}}
@@ -29773,6 +29896,7 @@
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9367993975092"}
 {"id":"gid:\/\/shopify\/Product\/9367994859828","title":"Moulin Roty | Puce and Pilou | Activity Camera","status":"ACTIVE","vendor":"Moulin Roty","productType":"","tags":[],"totalInventory":3,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-16-2","name":"Pretend Electronics","fullName":"Toys \u0026 Games \u003e Toys \u003e Pretend Play \u003e Pretend Electronics"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9367994859828"}
+{"title":"Pretend Play","__parentId":"gid:\/\/shopify\/Product\/9367994859828"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9367994859828"}
 {"id":"gid:\/\/shopify\/Product\/9367995220276","title":"Moulin Roty | Puce and Pilou | Blue Sleeping Bag 90cm","status":"ACTIVE","vendor":"Moulin Roty","productType":"","tags":["baby sleep sack","sleep sack"],"totalInventory":1,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/aa-1-17-7","name":"Wearable Blankets \u0026 Sleep Sacks","fullName":"Apparel \u0026 Accessories \u003e Clothing \u003e Sleepwear \u0026 Loungewear \u003e Wearable Blankets \u0026 Sleep Sacks"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9367995220276"}
@@ -29825,10 +29949,12 @@
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9367997907252"}
 {"id":"gid:\/\/shopify\/Product\/9368154669364","title":"Super Soft Scented Slow Rise Chocolate Squishy Toy","status":"ACTIVE","vendor":"Zibber's","productType":"","tags":[],"totalInventory":18,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-29","name":"Sensory Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Sensory Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9368154669364"}
+{"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9368154669364"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9368154669364"}
 {"title":"Needoh \u0026 Squishy Toys","__parentId":"gid:\/\/shopify\/Product\/9368154669364"}
 {"id":"gid:\/\/shopify\/Product\/9368361828660","title":"Mystery Squishy | Jumbo Metallic Dumpling","status":"ACTIVE","vendor":"Zibber's","productType":"","tags":[],"totalInventory":10,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-29","name":"Sensory Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Sensory Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9368361828660"}
+{"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9368361828660"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9368361828660"}
 {"id":"gid:\/\/shopify\/Product\/9368448663860","title":"Folkmanis Hand Puppet | Litttle Turtle Puppet","status":"DRAFT","vendor":"Folkmanis","productType":"","tags":[],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-8-10","name":"Puppets \u0026 Marionettes","fullName":"Toys \u0026 Games \u003e Toys \u003e Dolls, Playsets \u0026 Toy Figures \u003e Puppets \u0026 Marionettes"}}
 {"title":"Dolls \u0026 Stuffed Animals","__parentId":"gid:\/\/shopify\/Product\/9368448663860"}
@@ -29847,9 +29973,11 @@
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9368607719732"}
 {"id":"gid:\/\/shopify\/Product\/9368816156980","title":"Sophi Acetone Free Nail Polish Remover Gel (by Piggy Paint) | 59 mL","status":"ACTIVE","vendor":"Piggy Paint","productType":"","tags":[],"totalInventory":4,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-2-7-9","name":"Nail Polish Removers","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Cosmetics \u003e Nail Care \u003e Nail Polish Removers"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9368816156980"}
+{"title":"Kids Makeup, Perfume \u0026 Nail Accessories","__parentId":"gid:\/\/shopify\/Product\/9368816156980"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9368816156980"}
 {"id":"gid:\/\/shopify\/Product\/9368816976180","title":"Piggy Paint Nail File (Pack of 2)","status":"ACTIVE","vendor":"Jill and the Beanstalk","productType":"","tags":[],"totalInventory":12,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hb-3-2-5-2-10","name":"Nail Files \u0026 Emery Boards","fullName":"Health \u0026 Beauty \u003e Personal Care \u003e Cosmetics \u003e Cosmetic Tools \u003e Nail Tools \u003e Nail Files \u0026 Emery Boards"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9368816976180"}
+{"title":"Kids Makeup, Perfume \u0026 Nail Accessories","__parentId":"gid:\/\/shopify\/Product\/9368816976180"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9368816976180"}
 {"id":"gid:\/\/shopify\/Product\/9368820842804","title":"The Toy Network| Squish Butter 4oz","status":"ACTIVE","vendor":"The Toy Network","productType":"","tags":[],"totalInventory":3,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/na","name":"Uncategorized","fullName":"Uncategorized"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9368820842804"}
@@ -29911,6 +30039,7 @@
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9369393463604"}
 {"id":"gid:\/\/shopify\/Product\/9369438880052","title":"Beyblade Generation 4 Stadium","status":"ACTIVE","vendor":"Hasbro","productType":"","tags":[],"totalInventory":3,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2-1","name":"Battle Top Accessories","fullName":"Toys \u0026 Games \u003e Games \u003e Battle Top Accessories"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9369438880052"}
+{"title":"Role Play \u0026 Fun","__parentId":"gid:\/\/shopify\/Product\/9369438880052"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9369438880052"}
 {"id":"gid:\/\/shopify\/Product\/9369440846132","title":"Ideal Wooden Class Chess Set","status":"ACTIVE","vendor":"Ideal","productType":"","tags":[],"totalInventory":3,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-2-5","name":"Board Games","fullName":"Toys \u0026 Games \u003e Games \u003e Board Games"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9369440846132"}
@@ -30083,11 +30212,13 @@
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9370457669940"}
 {"id":"gid:\/\/shopify\/Product\/9370523369780","title":"Mystery Squishy Dumpling Sugar Squish | Glitter Surprise","status":"ACTIVE","vendor":"Jill and the Beanstalk","productType":"","tags":["fidget toy"],"totalInventory":81,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-29","name":"Sensory Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Sensory Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9370523369780"}
+{"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9370523369780"}
 {"title":"Fidget \u0026 Stress Toys","__parentId":"gid:\/\/shopify\/Product\/9370523369780"}
 {"title":"Stocking Stuffers","__parentId":"gid:\/\/shopify\/Product\/9370523369780"}
 {"id":"gid:\/\/shopify\/Product\/9370523762996","title":"Mystery Squishy Dumpling | Holiday Surprise","status":"ACTIVE","vendor":"Jill and the Beanstalk","productType":"","tags":["fidget toy"],"totalInventory":53,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-29","name":"Sensory Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Sensory Toys"}}
 {"title":"Sale","__parentId":"gid:\/\/shopify\/Product\/9370523762996"}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9370523762996"}
+{"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9370523762996"}
 {"title":"Fidget \u0026 Stress Toys","__parentId":"gid:\/\/shopify\/Product\/9370523762996"}
 {"title":"Stocking Stuffers","__parentId":"gid:\/\/shopify\/Product\/9370523762996"}
 {"title":"Compared Prices | Everyday Value","__parentId":"gid:\/\/shopify\/Product\/9370523762996"}
@@ -30117,6 +30248,7 @@
 {"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9370753958196"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9370753958196"}
 {"id":"gid:\/\/shopify\/Product\/9371508932916","title":"Vilac | Andy Westface Rocking Fox","status":"ACTIVE","vendor":"Vilac","productType":"","tags":[],"totalInventory":1,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-20-4","name":"Rocking \u0026 Spring Riding Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Riding Toys \u003e Rocking \u0026 Spring Riding Toys"}}
+{"title":"Wooden Toys","__parentId":"gid:\/\/shopify\/Product\/9371508932916"}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9371508932916"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9371508932916"}
 {"id":"gid:\/\/shopify\/Product\/9371541766452","title":"Vilac | Andy Westface Animals Train","status":"ACTIVE","vendor":"Vilac","productType":"","tags":[],"totalInventory":4,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-15-8","name":"Toy Trains \u0026 Train Sets","fullName":"Toys \u0026 Games \u003e Toys \u003e Play Vehicles \u003e Toy Trains \u0026 Train Sets"}}
@@ -30290,11 +30422,13 @@
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9373763305780"}
 {"id":"gid:\/\/shopify\/Product\/9373930881332","title":"Slow Rise Squishy Strawberry (Scented)","status":"ACTIVE","vendor":"Jill and the Beanstalk","productType":"","tags":["fidget toy"],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-29","name":"Sensory Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Sensory Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9373930881332"}
+{"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9373930881332"}
 {"title":"Fidget \u0026 Stress Toys","__parentId":"gid:\/\/shopify\/Product\/9373930881332"}
 {"title":"Stocking Stuffers","__parentId":"gid:\/\/shopify\/Product\/9373930881332"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9373930881332"}
 {"id":"gid:\/\/shopify\/Product\/9373931110708","title":"Mystery Surprise Dumpling | Spooky Surprise","status":"ACTIVE","vendor":"Jill and the Beanstalk","productType":"","tags":[],"totalInventory":2,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-29","name":"Sensory Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Sensory Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9373931110708"}
+{"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9373931110708"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9373931110708"}
 {"id":"gid:\/\/shopify\/Product\/9373932978484","title":"Moulin Roty | La Foret Mawa | Snow Globe","status":"ACTIVE","vendor":"Moulin Roty","productType":"","tags":[],"totalInventory":3,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/hg-3-61","name":"Snow Globes","fullName":"Home \u0026 Garden \u003e Decor \u003e Snow Globes"}}
 {"title":"Room Decor","__parentId":"gid:\/\/shopify\/Product\/9373932978484"}
@@ -30319,6 +30453,7 @@
 {"id":"gid:\/\/shopify\/Product\/9375659753780","title":"Needoh Rainbow | 6 Squishy, Teenie, Groovy, Globs","status":"DRAFT","vendor":"Jill and the Beanstalk","productType":"","tags":["nofun10"],"totalInventory":0,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/na","name":"Uncategorized","fullName":"Uncategorized"}}
 {"title":"Needoh \u0026 Squishy Toys","__parentId":"gid:\/\/shopify\/Product\/9375659753780"}
 {"id":"gid:\/\/shopify\/Product\/9375756157236","title":"Substance | Baby Tummy Ease Digestive Tea | 3oz\/85g","status":"ACTIVE","vendor":"Substance","productType":"","tags":[],"totalInventory":3,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/fb-1-14-2-2","name":"Herbal \u0026 Fruit Tea","fullName":"Food, Beverages \u0026 Tobacco \u003e Beverages \u003e Tea \u0026 Infusions \u003e Tea \u003e Herbal \u0026 Fruit Tea"}}
+{"title":"Food for Babies, Children and Adults","__parentId":"gid:\/\/shopify\/Product\/9375756157236"}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9375756157236"}
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9375756157236"}
 {"id":"gid:\/\/shopify\/Product\/9375760941364","title":"Look Up with The Very Hungry Caterpillar A Tummy Time Book by Eric Carle","status":"ACTIVE","vendor":"The World of Eric Carle","productType":"","tags":[],"totalInventory":6,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/me-1-3","name":"Print Books","fullName":"Media \u003e Books \u003e Print Books"}}
@@ -30328,6 +30463,7 @@
 {"title":"New Arrivals | Baby \u0026 Kids Toys, Gifts \u0026 Essentials","__parentId":"gid:\/\/shopify\/Product\/9375760941364"}
 {"id":"gid:\/\/shopify\/Product\/9376202850612","title":"Schylling| Flower Power Fuzzball Needoh","status":"DRAFT","vendor":"Schylling","productType":"","tags":["nofun10"],"totalInventory":4,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-29","name":"Sensory Toys","fullName":"Toys \u0026 Games \u003e Toys \u003e Sensory Toys"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9376202850612"}
+{"title":"Sensory Toys \u0026 Learning","__parentId":"gid:\/\/shopify\/Product\/9376202850612"}
 {"title":"Needoh \u0026 Squishy Toys","__parentId":"gid:\/\/shopify\/Product\/9376202850612"}
 {"id":"gid:\/\/shopify\/Product\/9376591937844","title":"Smart Max | My First Vehicles","status":"ACTIVE","vendor":"Playwell","productType":"","tags":[],"totalInventory":3,"category":{"id":"gid:\/\/shopify\/TaxonomyCategory\/tg-5-15-3","name":"Toy Cars","fullName":"Toys \u0026 Games \u003e Toys \u003e Play Vehicles \u003e Toy Cars"}}
 {"title":"Orderly Emails - Recommended Products","__parentId":"gid:\/\/shopify\/Product\/9376591937844"}
