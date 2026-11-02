@@ -1,0 +1,28 @@
+query DeliveryInput($excludedCollectionIds: [ID!]) {
+  cart {
+    cost {
+      subtotalAmount {
+        amount
+      }
+    }
+    lines {
+      merchandise {
+        __typename
+        ... on ProductVariant {
+          product {
+            inAnyCollection(ids: $excludedCollectionIds)
+          }
+        }
+      }
+    }
+    deliveryGroups {
+      id
+      deliveryAddress {
+        countryCode
+      }
+    }
+  }
+  discount {
+    discountClasses
+  }
+}

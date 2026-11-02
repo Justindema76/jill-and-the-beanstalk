@@ -1,0 +1,7 @@
+node_modules/
+dist/
+generated/
+schema.graphql
+.shopify/
+manifest.json
+shopify.d.ts

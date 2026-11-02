@@ -1,0 +1,9 @@
+{
+  "name": "jill-free-shipping",
+  "private": true,
+  "workspaces": ["extensions/*"],
+  "scripts": {
+    "deploy": "shopify app deploy",
+    "test": "npm test --workspaces"
+  }
+}

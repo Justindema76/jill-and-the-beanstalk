@@ -1,0 +1,24 @@
+api_version = "2026-07"
+
+[[extensions]]
+name = "Free Shipping Over $150"
+handle = "free-shipping"
+uid = "3628ae32-dab8-b502-eef9-f798efb84d1a45f79e5f"
+type = "function"
+description = "Free shipping in Canada on $150+, except carts with products from the collections you pick"
+
+  [[extensions.targeting]]
+  target = "cart.delivery-options.discounts.generate.run"
+  input_query = "src/cart_delivery_options_discounts_generate_run.graphql"
+  export = "cart-delivery-options-discounts-generate-run"
+
+  [extensions.build]
+  command = ""
+  path = "dist/function.wasm"
+
+  [extensions.input.variables]
+  namespace = "$app"
+  key = "function-configuration"
+
+  [extensions.ui]
+  handle = "free-shipping-settings"

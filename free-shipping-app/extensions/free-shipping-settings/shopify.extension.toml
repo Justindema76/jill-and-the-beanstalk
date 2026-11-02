@@ -1,0 +1,20 @@
+api_version = "2026-01"
+
+[[extensions]]
+name = "Free Shipping Over $150"
+description = "Pick collections that never get free shipping"
+handle = "free-shipping-settings"
+uid = "4f8880c1-850e-d675-c710-67776f32fbe5fd8dbc8e"
+type = "ui_extension"
+
+  [[extensions.targeting]]
+  module = "./src/FreeShippingSettings.jsx"
+  target = "admin.discount-details.function-settings.render"
+
+  [[extensions.metafields]]
+  namespace = "$app"
+  key = "function-configuration"
+
+  [[extensions.metafields]]
+  namespace = "$app"
+  key = "excluded-collection-titles"

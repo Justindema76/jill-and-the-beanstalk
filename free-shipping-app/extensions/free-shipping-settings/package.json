@@ -1,0 +1,10 @@
+{
+  "name": "free-shipping-settings",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@preact/signals": "^2.11.4",
+    "@shopify/ui-extensions": "2026.1.x",
+    "preact": "^10.26.0"
+  }
+}
