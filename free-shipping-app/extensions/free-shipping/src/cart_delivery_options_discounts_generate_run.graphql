@@ -11,6 +11,8 @@ query DeliveryInput($excludedCollectionIds: [ID!]) {
         ... on ProductVariant {
           product {
             inAnyCollection(ids: $excludedCollectionIds)
+            hasAnyTag(tags: ["nofun10"])
+            title
           }
         }
       }

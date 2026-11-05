@@ -1,13 +1,13 @@
 import { describe, expect, it } from "vitest";
 import { cartDeliveryOptionsDiscountsGenerateRun as run } from "./cart_delivery_options_discounts_generate_run";
 
-function cart({ subtotal, excluded = false, country = "CA" }) {
+function cart({ subtotal, excluded = false, tagged = false, title = "Hape Walk Along Snail", country = "CA" }) {
   return {
     cart: {
       cost: { subtotalAmount: { amount: String(subtotal) } },
       lines: [
-        { merchandise: { __typename: "ProductVariant", product: { inAnyCollection: false } } },
-        { merchandise: { __typename: "ProductVariant", product: { inAnyCollection: excluded } } },
+        { merchandise: { __typename: "ProductVariant", product: { inAnyCollection: false, hasAnyTag: false, title: "Buff Baby Dumbbell Rattle" } } },
+        { merchandise: { __typename: "ProductVariant", product: { inAnyCollection: excluded, hasAnyTag: tagged, title } } },
       ],
       deliveryGroups: [
         { id: "gid://shopify/CartDeliveryGroup/1", deliveryAddress: { countryCode: country } },
@@ -47,5 +47,15 @@ describe("free shipping over $150", () => {
 
   it("gives nothing outside Canada", () => {
     expect(run(cart({ subtotal: "200.00", country: "US" }))).toEqual({ operations: [] });
+  });
+
+  it("gives nothing when a product is tagged nofun10, even outside the excluded collections", () => {
+    expect(run(cart({ subtotal: "200.00", tagged: true }))).toEqual({ operations: [] });
+  });
+
+  it("gives nothing when a product has Needoh in the title, even with no tag or collection", () => {
+    for (const title of ["Needoh | Gummy Bear", "NEEDHOH Cube", "Nee Doh Glob", "nee-doh stretch"]) {
+      expect(run(cart({ subtotal: "200.00", title }))).toEqual({ operations: [] });
+    }
   });
 });
