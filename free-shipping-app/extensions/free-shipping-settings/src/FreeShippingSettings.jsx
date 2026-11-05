@@ -11,7 +11,7 @@ export default async () => {
 };
 
 function Settings() {
-  const { applyMetafieldChange, data, discounts, resourcePicker } = shopify;
+  const { applyMetafieldChange, data, discounts, query, resourcePicker } = shopify;
   const savedIds = parseIds(data?.metafields?.find((m) => m.key === KEY)?.value);
   const savedTitles = parseJson(data?.metafields?.find((m) => m.key === TITLES_KEY)?.value);
   const [initialCollections, setInitialCollections] = useState([]);
@@ -25,9 +25,27 @@ function Settings() {
     }
 
     const saved = savedIds.map((id) => ({ id, title: savedTitles[id] ?? id }));
-    setInitialCollections(saved);
-    setCollections(saved);
-    setLoading(false);
+    const show = (list) => {
+      setInitialCollections(list);
+      setCollections(list);
+      setLoading(false);
+    };
+    if (saved.every((c) => c.title !== c.id)) {
+      show(saved);
+      return;
+    }
+    // Look up names that weren't saved with the pick.
+    query(
+      `query ($ids: [ID!]!) { nodes(ids: $ids) { ... on Collection { id title } } }`,
+      { variables: { ids: savedIds } },
+    )
+      .then((result) => {
+        const titles = Object.fromEntries(
+          (result?.data?.nodes ?? []).filter(Boolean).map((n) => [n.id, n.title]),
+        );
+        show(saved.map((c) => ({ ...c, title: titles[c.id] ?? c.title })));
+      })
+      .catch(() => show(saved));
   }, []);
 
   // Runs when the merchant clicks Save on the discount page.
@@ -65,13 +83,13 @@ function Settings() {
       onReset={() => setCollections(initialCollections)}
     >
       <s-section heading="No free shipping for these collections">
-        {/* Hidden field so picking collections marks the discount as changed and shows Save. */}
+        {/* Hidden field so picking collections (or a missing name) marks the discount as changed and shows Save. */}
         <s-box display="none">
           <s-text-field
             label=""
             name="excludedCollectionIds"
-            value={collections.map(({ id }) => id).join(",")}
-            defaultValue={initialCollections.map(({ id }) => id).join(",")}
+            value={collections.map(({ id, title }) => `${id}|${title}`).join(",")}
+            defaultValue={initialCollections.map(({ id, title }) => `${id}|${title}`).join(",")}
           />
         </s-box>
         <s-stack gap="base">
